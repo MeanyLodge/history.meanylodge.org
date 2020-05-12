@@ -64,12 +64,6 @@
 /reference/boot[[:space:]]dryers[[:space:]]inc.pdf filter=lfs diff=lfs merge=lfs -text
 /sources/1998[[:space:]]NPRHA[[:space:]]Mainstreeter,[[:space:]]Stampede[[:space:]]Switchbacks.pdf filter=lfs diff=lfs merge=lfs -text
 /sources/2013[[:space:]]Meany-[[:space:]]Skiing[[:space:]]Like[[:space:]]In[[:space:]]The[[:space:]]Days[[:space:]]of[[:space:]]Yore.pdf filter=lfs diff=lfs merge=lfs -text
-/sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
-/sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
-/sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
-/sources/olympian/514268b0a2391.image.jpg filter=lfs diff=lfs merge=lfs -text
-/sources/nelson-stampede.md filter=lfs diff=lfs merge=lfs -text
-/img/2007[[:space:]]Men's[[:space:]]Room/DSCN0332.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2007[[:space:]]Men's[[:space:]]Room/DSCN0942.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2007[[:space:]]Men's[[:space:]]Room/DSCN0954.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2007[[:space:]]Men's[[:space:]]Room/DSCN0956.jpeg filter=lfs diff=lfs merge=lfs -text
@@ -78,6 +72,12 @@
 /img/2007[[:space:]]Men's[[:space:]]Room/DSCN0964.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2020[[:space:]]Matt[[:space:]]Simerson.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2020[[:space:]]Meany[[:space:]]Map.jpeg filter=lfs diff=lfs merge=lfs -text
+/sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
+/sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
+/sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
+/sources/olympian/514268b0a2391.image.jpg filter=lfs diff=lfs merge=lfs -text
+/sources/nelson-stampede.md filter=lfs diff=lfs merge=lfs -text
+/img/2007[[:space:]]Men's[[:space:]]Room/DSCN0332.jpeg filter=lfs diff=lfs merge=lfs -text
 /reference/Zoo.pdf filter=lfs diff=lfs merge=lfs -text
 /img/1956[[:space:]]Walter[[:space:]]Little.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2020[[:space:]]Propane[[:space:]]Hut.jpeg filter=lfs diff=lfs merge=lfs -text
