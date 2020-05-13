@@ -124,6 +124,7 @@
 /docs/img/2020[[:space:]]Snowmobiles.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/2020[[:space:]]Walter's[[:space:]]Spring.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/walter-little.png filter=lfs diff=lfs merge=lfs -text
+/docs/Mountaineer-Annual.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -134,7 +135,6 @@
 /docs/History-Idona.md filter=lfs diff=lfs merge=lfs -text
 /docs/History-Reports.md filter=lfs diff=lfs merge=lfs -text
 /docs/History-Walt.md filter=lfs diff=lfs merge=lfs -text
-/docs/Mountaineer-Annual.md filter=lfs diff=lfs merge=lfs -text
 /docs/Names-Walt-1978.md filter=lfs diff=lfs merge=lfs -text
 /docs/Names-Walt.md filter=lfs diff=lfs merge=lfs -text
 /docs/Skiing-in-Retrospect.md filter=lfs diff=lfs merge=lfs -text
