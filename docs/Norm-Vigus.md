@@ -8,7 +8,6 @@
 * Mad carpentry skills
 * 1979 Bachelor of the Year Runner-up
 
-
 ### History
 
 #### 1979
@@ -17,11 +16,12 @@ Other skit characters were the minister ([Dave Claar](Dave-Claar)) and the victi
 
 #### 1987
 
-Remote Meany Ski Hut boasts a bountiful winter 1987. With a very active PR Committee led by Norm Vigus. [[History-Reports]] The lodge attracted an average of 75 per weekend. [Ski School](Ski-School) lessons kept the lodge filled on the weekends with poor snow conditions.
+Remote Meany Ski Hut boasts a bountiful winter 1987. With a very active PR Committee led by Norm Vigus.<sup>[hr][]</sup> The lodge attracted an average of 75 per weekend. [Ski School](Ski-School) lessons kept the lodge filled on the weekends with poor snow conditions.
 
 #### late 1990s
 
 I signed on as an instructor in I think the late 90's.
 
 
+[hr]: History-Reports
 [ma79]: Mountaineer-Annual#1979

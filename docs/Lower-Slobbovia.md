@@ -25,7 +25,7 @@ Contains the following areas / runs:
 * [Phogbound Gulch](Phogbound-Gulch)
 * [Brockman's Knob](Brockman's-Knob)
 * [Jacob's Ladder](Jacob's-Ladder)
-* [[9-G Pullout]]
+* [9-G Pullout](9-G-Pullout)
 * Defunct: [Lower Slobbovia National Park](Lower-Slobbovia-National-Park)
 
 ### History

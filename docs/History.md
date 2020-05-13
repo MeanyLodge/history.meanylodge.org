@@ -26,7 +26,7 @@ Mountaineer Skiers determined that another ski hut, additional to Snoqualmie Lod
 
 ## 1928
 
-[Ernest Harris](Ernest-Harris)'s committee selected the Martin site and Dr. [[Edmond S. Meany]] purchased it for $125 and donated it to the Mountaineers. In June 1928 plans for a 20x50 two-story frame building to accommodate 50 people were approved and $1,700 was appropriated for construction. <sup>[ma56][]</sup> Generous donations were made by the Everett and Tacoma branches. Lumber was purchased from the Cabin Creek Sawmill.<sup>[hw][]</sup> Materials were shipped by rail to Martin, unloaded by the enthusiastic volunteer workers and carried uphill 300 yards <sup>[ma78][]</sup> to the site by hand. Construction was started in September and dedicated on November 11.
+[Ernest Harris](Ernest-Harris)'s committee selected the Martin site and Dr. [Edmond S. Meany](Edmond-S.-Meany) purchased it for $125 and donated it to the Mountaineers. In June 1928 plans for a 20x50 two-story frame building to accommodate 50 people were approved and $1,700 was appropriated for construction. <sup>[ma56][]</sup> Generous donations were made by the Everett and Tacoma branches. Lumber was purchased from the Cabin Creek Sawmill.<sup>[hw][]</sup> Materials were shipped by rail to Martin, unloaded by the enthusiastic volunteer workers and carried uphill 300 yards <sup>[ma78][]</sup> to the site by hand. Construction was started in September and dedicated on November 11.
 
 <img src="img/1928%20Meany%20Ski%20Hut.png" width="250px" alt="Meany Lodge construction photo" align="right">
 

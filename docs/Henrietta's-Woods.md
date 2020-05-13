@@ -7,7 +7,7 @@ South of [Lower Slobbovia](Lower-Slobbovia), between [Phogbound Gulch](Phogbound
 
 #### 1978
 
-A very important change to the Meany vicinity was made in the summer of 1978 when the Forest Service logged Section 34 which included [Henrietta's Woods](Henrietta's-Woods) and [[No-Name-Woods]]. These areas are now known as "Henrietta's Meadow" and [Walter's Woods](Walter's-Woods). The gulley between the two has been christened [RBCSA Gulch](RBCSA-Gulch) and the cross-country ski trail labeled [Al's Fringe](Al's-Fringe). <sup>[nw][]</sup>
+A very important change to the Meany vicinity was made in the summer of 1978 when the Forest Service logged Section 34 which included [Henrietta's Woods](Henrietta's-Woods) and [No-Name-Woods](No-Name-Woods). These areas are now known as "Henrietta's Meadow" and [Walter's Woods](Walter's-Woods). The gulley between the two has been christened [RBCSA Gulch](RBCSA-Gulch) and the cross-country ski trail labeled [Al's Fringe](Al's-Fringe). <sup>[nw][]</sup>
 
 #### 1979
 

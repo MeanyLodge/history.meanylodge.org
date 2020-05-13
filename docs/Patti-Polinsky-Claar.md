@@ -41,7 +41,7 @@ The Annual Spring Carnival was again a superb event as masterminded by Patti Pol
 
 #### 1982
 
-Record crowds were drawn to Meany Ski Hut this season by plentiful snow, fantastic skiing, terrific ski lessons with capacity classes taught by [[Patti Polinsky-Claar]], Dave Claar and Kim Nelson. <sup>[ma82][]</sup>
+Record crowds were drawn to Meany Ski Hut this season by plentiful snow, fantastic skiing, terrific ski lessons with capacity classes taught by Patti Polinsky-Claar, Dave Claar and Kim Nelson. <sup>[ma82][]</sup>
 
 #### late 90s
 

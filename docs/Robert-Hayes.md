@@ -7,7 +7,7 @@
 ### Known For
 
 - [Patrol Race](Patrol-Race) contestant, 2nd place, 1930
-- Author of [[The-Development-of-Skiing-in-the-Mountaineers]]
+- Author of [The Development of Skiing in the Mountaineers](The-Development-of-Skiing-in-the-Mountaineers)
 - Author of [The Mountaineer Influence in Northwest Skiing](The-Mountaineer-Influence-in-Northwest-Skiing)
 
 ### History

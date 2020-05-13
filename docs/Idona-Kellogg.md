@@ -6,7 +6,7 @@
 ### Known For
 
 * Long time partner and wife of [Bob Bentler](Bob-Bentler)
-* Author of [[History-Idona]]
+* Author of [History-Idona](History-Idona)
 
 ### History
 

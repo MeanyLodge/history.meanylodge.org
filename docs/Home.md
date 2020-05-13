@@ -31,7 +31,7 @@
 
 ### [Areas](Areas) / Items / Points of Interest
 
-* [[9 G Pullout]]
+* [9 G Pullout](9-G-Pullout)
 * [Big Tree](Big-Tree)
 * [...full list](Areas)
 

@@ -3,7 +3,7 @@ The lower building that encloses the [Mach](Mach) rope tow and equipment.
 
 ### Known For
 
-* [Ox](Ox) lives in the basement.
+* [Ox][] lives in the basement.
 
 
 ### History
@@ -25,7 +25,7 @@ New Tow hut moved north about 250', and about 20' lower. Frame construction; bas
 
 - Realigned 4" X 4" steel track on front
 - Added 7' X 8' lean-to on North corner for gas pump and line hardwar
-- Construct wheelways in basement of for winter storage of [[Ox]
+- Construct wheelways in basement of for winter storage of [Ox][]
 
 #### 1983
 
@@ -40,4 +40,5 @@ revise interior
 
 [hw]: History-Walt "Meany History, by Walt Little"
 [ma75]: Mountaineer-Annual#1975
+[Ox]: Ox
 [hr]: History-Reports "Meany History Reports, by Idona Kellogg"

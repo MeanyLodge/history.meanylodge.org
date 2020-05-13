@@ -22,7 +22,7 @@
 * [Richard Botts](Richard-Botts)
 * [Bill Brockman](Bill-Brockman)
 * [Dave Claar](Dave-Claar)
-* [[Patti Polinsky-Claar]]
+* [Patti Polinsky-Claar](Patti-Polinsky-Claar)
 * [Phil Christy](Phil-Christy)
 * [Doug Damm](Doug-Damm)
 * [Jim Fahey](Jim-Fahey)
@@ -48,11 +48,10 @@
 * [Hope Maltz](Hope-Maltz)
 * [Emilio Marasco](Emilio-Marasco)
 * [Bill Maxwell](Bill-Maxwell)
-* [[Edmond S. Meany]]
+* [Edmond S. Meany](Edmond-S.-Meany)
 * [Art Nation](Art-Nation)
 * [Ray Nelson](Ray-Nelson)
 * [Dan Nord](Dan-Nord)
-* [[Patti Polinsky-Claar]]
 * [Matt Simerson](Matt-Simerson)
 * [Andy Smith](Andy-Smith)
 * [Jerry Thompson](Jerry-Thompson)

@@ -12,7 +12,7 @@
 
 #### 1979
 
-[[50th Birthday]]
+[50th Birthday](50th-Birthday)
 
 #### 1981
 

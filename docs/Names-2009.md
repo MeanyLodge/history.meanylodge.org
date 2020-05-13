@@ -142,7 +142,7 @@ It might be yellow rock before you chuck yourself off it, but it will be brown r
 
 Couples, family sleeping area (top of the lodge)
 
-## [[Pack-Rat]]
+## [Pack-Rat](Pack-Rat)
 
 A vintage Thiokol Sprite used for hauling children and other baggage.
 
@@ -182,6 +182,6 @@ The bank that had to be climbed down and back up when crossing the railroad trac
 
 The station at the eastern portal of the Stampede Tunnel. This was where people originally got on and off the train at Meany. It also was where signal crews and other railroad people were housed.
 
-## [[9-G pullout]]
+## [9-G pullout](9-G-Pullout)
 
 Also known as the 'Hot Tub Run' for its steepness and for the hole at the bottom.

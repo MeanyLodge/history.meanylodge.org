@@ -15,7 +15,7 @@ Drivers of Meany Animals
 
 * [Maude de Bel](Maude-de-Bel)
 * [Pat Boyle](Pat-Boyle)
-* [[Amy Deyerle-Smith]]
+* [Amy Deyerle-Smith](Amy-Deyerle-Smith)
 * [Alicia Fahey](Alicia-Fahey)
 * [Jim Fahey](Jim-Fahey)
 * [Rick Ingham](Rick-Ingham)

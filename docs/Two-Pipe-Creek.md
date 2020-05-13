@@ -1,7 +1,5 @@
 
-See [Mosquito Creek](Mosquito-Creek)
+See [Mosquito Creek](Mosquito-Creek)<sup>[nw][]</sup>
 
-
-### Sources
-
-- [[Names-Walt-1978]]
+---
+[nw]: Names-Walt-1978

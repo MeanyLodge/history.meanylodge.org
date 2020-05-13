@@ -1,7 +1,7 @@
 
 ### Known For
 
-* [[Railroad-Buffs]]
+* [Railroad-Buffs](Railroad-Buffs)
 * Upgraded campus telephone system
 
 ### History
@@ -12,4 +12,7 @@ The power permit was canceled, but BNRR continued to supply power during spring-
 
 #### 1986
 
-Under the direction of Carsten Lien, internal telephone exchange was upgraded. Now a direct dial system connects the lodge, tow hut, cat house and top of the ski hill. [[History-Reports]]
+Under the direction of Carsten Lien, internal telephone exchange was upgraded. Now a direct dial system connects the lodge, tow hut, cat house and top of the ski hill. <sup>[hr][]</sup>
+
+---
+[hr]: History-Reports

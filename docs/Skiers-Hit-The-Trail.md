@@ -2,7 +2,7 @@ SKIERS HIT TRAIL WITH SNOW TRACTOR
 
 BY DON PAGE, THE SEATTLE POST-INTELLIGENCER, 24 FEBRUARY 1961
 
-Fun Fact #1: The article refers to our transport as a "Snow Cat". Combined with the name of the driver, you arrive at the natural conclusion of calling our transport [[Tom-Cat]].
+Fun Fact #1: The article refers to our transport as a "Snow Cat". Combined with the name of the driver, you arrive at the natural conclusion of calling our transport [Tom Cat](Tom-Cat).
 
 Fun Fact #2: Notice the size of Tom, and the way the skis are stored. This is before it was expanded to the size it is now.
 

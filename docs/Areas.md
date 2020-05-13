@@ -38,7 +38,7 @@ Grouped by general locale, north to south
             - [Iggle's Nest](Iggle's-Nest)
         - [South Slobbovia](South-Slobbovia)
             - [Brockman's Knob](Brockman's-Knob)
-            - [[9 G Pullout]]
+            - [9 G Pullout](9-G-Pullout)
             - [Jacob's Ladder](Jacob's-Ladder)
             - [Phogbound Gulch](Phogbound-Gulch)
             - [RBCSA Gulch](RBCSA-Gulch)
@@ -46,6 +46,6 @@ Grouped by general locale, north to south
         + [RBCSA Gulch](RBCSA-Gulch)
         + [Walter's Woods](Walter's-Woods)
 * [Mosquito Creek](Mosquito-Creek)
-* [[Con-Rod Curve]]
+* [Con-Rod Curve](Con-Rod-Curve)
 * [Ice Fall](Ice-Fall)
 * [Weasel Creek](Weasel-Creek)

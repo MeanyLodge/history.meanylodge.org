@@ -17,7 +17,7 @@ See [Meany Hill](Meany-Hill) for a geographically ordered tour of the ski runs a
 * [Railroad Meadows](Railroad-Meadows)
 * [Side Track](Side-Track)
 * [Soffreenia Wood](Soffreenia-Wood)
-* [[South-Slobbovia]]
+* [South Slobbovia](South-Slobbovia)
 * [Walter's Woods](Walter's-Woods)
 * Defunct:
     * [Downhill Trail](Downhill-Trail)

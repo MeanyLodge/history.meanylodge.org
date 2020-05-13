@@ -1,7 +1,7 @@
 
 ### Organizers
 
-* [[Patti Polinsky-Claar]]
+* [Patti Polinsky-Claar](Patti-Polinsky-Claar)
 
 See: [Instructor](Instructor)
 
@@ -31,11 +31,11 @@ A ski school has been started at Meany and is proving to be popular. With the su
 
 #### 1977
 
-The very popular lessons taught by [[Patti Polinsky-Claar]] and [Dave Claar](Dave-Claar) improved the techniques of beginners and advanced skiers alike. Lessons and "Family Weekend" brought many future juniors.<sup>[ma77][]</sup>
+The very popular lessons taught by [Patti Polinsky-Claar](Patti-Polinsky-Claar) and [Dave Claar](Dave-Claar) improved the techniques of beginners and advanced skiers alike. Lessons and "Family Weekend" brought many future juniors.<sup>[ma77][]</sup>
 
 #### 1982
 
-Record crowds were drawn to Meany Ski Hut this season by plentiful snow, fantastic skiing, terrific ski lessons with capacity classes taught by [[Patti Polinsky-Claar]], Dave Claar and Kim Nelson.<sup>[ma77][]</sup>
+Record crowds were drawn to Meany Ski Hut this season by plentiful snow, fantastic skiing, terrific ski lessons with capacity classes taught by [Patti Polinsky-Claar](Patti-Polinsky-Claar), Dave Claar and Kim Nelson.<sup>[ma77][]</sup>
 
 #### 198?
 
