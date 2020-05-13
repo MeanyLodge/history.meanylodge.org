@@ -1,3 +1,6 @@
+---
+categories: Machine, Tractor
+---
 
 ## Name
 
