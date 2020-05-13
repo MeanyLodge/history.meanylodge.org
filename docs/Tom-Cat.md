@@ -1,5 +1,6 @@
 ---
 title: Tom Cat
+category: Machine
 categories: Machine, Tractor
 ---
 

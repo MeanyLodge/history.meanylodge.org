@@ -6,6 +6,11 @@
   </head>
   <body>
     <nav>
+    {% for doc in site.docs %}
+      {% if doc.category == "person" %}
+        <a href="{{ doc.url }}">{{ doc.title }}</a>
+      {% endif %}
+    {% endfor %}
       <a href="/History">Home</a>
       <a href="/History/Lodge">Lodge</a>
       <a href="/History/Areas">Areas</a>
