@@ -7,7 +7,7 @@
 * [Persons](Persons):-[Chair](Chair), [Cook](Cook),-[Driver](Driver), [Instructor](Instructor),-[Mechanic](Mechanic), Tow [Operator](Operator)
 * Research [Sources](Sources)
 * [Ski School](Ski-School)
-* [Special Events](Special-Events): [[50th-Birthday]], [Centennial](Centennial)
+* [Special Events](Special-Events): [50th-Birthday](50th-Birthday), [Centennial](Centennial)
 * [Work Parties](Work-Parties)
 
 ### Tows: [Mach](Mach), [Super Worm](Super-Worm), and [Turtle](Turtle)
@@ -31,7 +31,7 @@
 
 ### [Areas](Areas) / Items / Points of Interest
 
-* [[9 G Pullout]]
+* [9 G Pullout](9-G-Pullout)
 * [Big Tree](Big-Tree)
 * [...full list](Areas)
 
