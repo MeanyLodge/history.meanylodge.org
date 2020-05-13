@@ -1,4 +1,5 @@
 ---
+title: Beast
 categories: Machine, Tractor
 ---
 
