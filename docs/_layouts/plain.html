@@ -7,7 +7,7 @@
   <body>
     <nav>
     {% for doc in site.docs %}
-      {% if doc.category == "person" %}
+      {% if doc.category == "Person" %}
         <a href="{{ doc.url }}">{{ doc.title }}</a>
       {% endif %}
     {% endfor %}
