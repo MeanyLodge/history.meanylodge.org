@@ -1,10 +1,10 @@
 
 ### About Meany
 
-* [[History]], see also [[Lodge]]
-* [[Access]]
-* [[Energy]] and [[Water]]
-* [[Persons]]: [[Chair]], [[Cook]], [[Driver]], [[Instructor]], [[Mechanic]], Tow [[Operator]]
+* [History](History), see also [Lodge](Lodge)
+* [Access](Access)
+* [Energy](Energy) and [Water](Water)
+* [Persons](Persons): [Chair](Chair), [Cook](Cook), [[Driver]], [[Instructor]], [[Mechanic]], Tow [[Operator]]
 * Research [[Sources]]
 * [[Ski School]]
 * [[Special Events]]: [[50th-Birthday]], [[Centennial]]
