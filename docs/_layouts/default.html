@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/css/style.css">
+  </head>
+  <body>
+    <nav>
+      <a href="/History/Access">Home</a>
+      <a href="/History/Access/Runs">Runs</a>
+    </nav>
+    <h1>{{ page.title }}</h1>
+    <section align="right">
+      {% include sidebar.md %}
+    </section>
+    <section>
+      {{ content }}
+    </section>
+    <footer>
+      {% include footer.md %}
+    </footer>
+  </body>
+</html>
