@@ -6,13 +6,6 @@
   </head>
   <body>
     <nav>
-{% assign mydocs = site.docs | group_by: 'categories' %}
-{% for cat in mydocs %}
-      {% assign items = cat.items | sort: 'order' %}
-      {% for item in items %}
-        <a href="{{ item.url }}">{{ item.title }}</a>
-      {% endfor %}
-{% endfor %}
       <a href="/History">Home</a>
       <a href="/History/Lodge">Lodge</a>
       <a href="/History/Areas">Areas</a>
