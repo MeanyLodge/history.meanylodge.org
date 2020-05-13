@@ -1,3 +1,4 @@
+{% include sidebar.md %}
 
 ### Transportation to Meany
 
@@ -91,4 +92,4 @@ BNSF resumed regular train service across Stampede Pass.
 [ma78]: Mountaineer-Annual#1978
 [ts]: https://www.mountaineers.org/locations-lodges/meany-lodge/event-details/winter-weekends#tomcat-schedule
 
-{% include_relative _Footer.md %}
+{% include footer.md %}
