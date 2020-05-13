@@ -1,7 +1,7 @@
 
 ### Transportation to Meany
 
-<img src="https://github.com/MeanyLodge/History/blob/master/img/1949%20Meanyites%20at%20RR.png" align="right" width="300px">
+<img src="img/1949%20Meanyites%20at%20RR.png" align="right" width="300px">
 
 Winter access to Meany Lodge is 2.7 miles from the Crystal Springs Sno-Park via:
 

@@ -82,12 +82,6 @@
 /img/2020[[:space:]]Walter's[[:space:]]Spring.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2020[[:space:]]Pack[[:space:]]Rat[[:space:]]Roller.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2020[[:space:]]Snowmobiles.jpeg filter=lfs diff=lfs merge=lfs -text
-/sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
-/sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
-/sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
-/sources/olympian/514268b0a2391.image.jpg filter=lfs diff=lfs merge=lfs -text
-/sources/nelson-stampede.md filter=lfs diff=lfs merge=lfs -text
-/img/2007[[:space:]]Men's[[:space:]]Room/DSCN0332.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/1896[[:space:]]Stampede[[:space:]]Pass[[:space:]]tunnel.pdf filter=lfs diff=lfs merge=lfs -text
 /docs/img/1928[[:space:]]Meany[[:space:]]Ski[[:space:]]Hut.png filter=lfs diff=lfs merge=lfs -text
 /docs/img/1929[[:space:]]Meany[[:space:]]Ski[[:space:]]Hut.png filter=lfs diff=lfs merge=lfs -text
@@ -105,7 +99,6 @@
 /docs/img/1975[[:space:]]Meany[[:space:]]Ski[[:space:]]Lodge.png filter=lfs diff=lfs merge=lfs -text
 /docs/img/1975[[:space:]]Walt[[:space:]]Little.png filter=lfs diff=lfs merge=lfs -text
 /docs/img/1978[[:space:]]Meany[[:space:]]B-day.png filter=lfs diff=lfs merge=lfs -text
-/docs/img/2007[[:space:]]Men's[[:space:]]Room/DSCN0332.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/2007[[:space:]]Men's[[:space:]]Room/DSCN0942.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/2007[[:space:]]Men's[[:space:]]Room/DSCN0954.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/2007[[:space:]]Men's[[:space:]]Room/DSCN0956.jpeg filter=lfs diff=lfs merge=lfs -text
@@ -131,6 +124,13 @@
 /docs/img/2020[[:space:]]Snowmobiles.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/2020[[:space:]]Walter's[[:space:]]Spring.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/walter-little.png filter=lfs diff=lfs merge=lfs -text
+/sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
+/sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
+/sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
+/sources/olympian/514268b0a2391.image.jpg filter=lfs diff=lfs merge=lfs -text
+/sources/nelson-stampede.md filter=lfs diff=lfs merge=lfs -text
+/img/2007[[:space:]]Men's[[:space:]]Room/DSCN0332.jpeg filter=lfs diff=lfs merge=lfs -text
+/docs/img/2007[[:space:]]Men's[[:space:]]Room/DSCN0332.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/History-Idona.md filter=lfs diff=lfs merge=lfs -text
 /docs/History-Reports.md filter=lfs diff=lfs merge=lfs -text
 /docs/History-Walt.md filter=lfs diff=lfs merge=lfs -text
