@@ -10,14 +10,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   </head>
   <body>
-    {% include nav.html %}
-
     <div class="wrapper">
       <header>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
-        <ul>
-          <li><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li>
-        </ul>
         {% include nav.html %}
       </header>
 
