@@ -1,6 +1,9 @@
 ---
 title: Bill Kirkland
 category: Person
+categories: Person
+---
+
 ---
 
 ## Known For

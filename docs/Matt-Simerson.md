@@ -1,3 +1,6 @@
+---
+categories: Person Committee Driver Historian Mechanic Operator
+---
 
 <img src="img/2020%20Matt%20Simerson.jpeg" align="right" width="400px" alt="photo of Matt feeding a gray jay">
 

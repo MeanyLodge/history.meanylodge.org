@@ -1,4 +1,5 @@
 ---
+category: Person
 categories: Person
 ---
 
@@ -19,5 +20,5 @@ On the light side, Al Alleman and Kent Nelson, amid great applause, were awarded
 
 The proportion of cross-country skiers using Meany Lodge continues to increase. Al Alleman graciously donates the time and expertise to show people the fabulous ski trails in Meany vicinity. During work party season Al's crew labors to improve these trails. <sup>[hr][]</sup>
 
----
+
 [hr]: History-Reports "Meany History Reports, by Idona Kellogg"

@@ -1,6 +1,7 @@
 ---
 title: Bill Kirkland
 category: Person
+categories: Person
 ---
 
 ### Events

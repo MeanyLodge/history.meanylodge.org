@@ -1,12 +1,11 @@
 
 | Years | Person |
-| ---   | --- |
-| 1935-1965   | [Nashie](Annie-Iverson) |
-| 1967-1978+  | [Peggy Grass](Peggy-Grass)    |
-| YYYY-YYYY   | [Ray Hecox](Ray-Hecox)      |
-| -1990-2019+ | [Phil Christy](Phil-Christy)   |
-|             | [Emilio Marasco](Emilio-Marasco) |
-| YYYY-2020+  | [Richard Botts](Richard-Botts)  |
+| ----- | ------ |
+| 1935-1965   | [Nashie](Annie-Iverson)
+| 1967-1978+  | [Peggy Grass](Peggy-Grass)
+| YYYY-YYYY   | [Ray Hecox](Ray-Hecox)
+| -1990-2019+ | [Phil Christy](Phil-Christy)
+| YYYY-2020+  | [Richard Botts](Richard-Botts)
 
 
 ### Kitchen History

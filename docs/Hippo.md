@@ -1,3 +1,7 @@
+---
+category: Machine
+categories: Machine Groomer
+---
 
 ### Names
 

@@ -1,7 +1,7 @@
 ---
 title: Bill Maxwell
 category: Person
-categories: Person, Chair
+categories: Person Chair
 tags: founder
 ---
 

@@ -1,3 +1,8 @@
+---
+category: Person
+categories: Person
+tags: founder
+---
 
 ### Names
 

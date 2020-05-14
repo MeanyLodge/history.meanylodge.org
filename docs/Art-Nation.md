@@ -1,3 +1,7 @@
+---
+category: Person
+categories: Person
+---
 
 ### Known For
 
