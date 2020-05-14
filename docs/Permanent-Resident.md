@@ -1,4 +1,8 @@
-Those who will remain at Meany forever.
+---
+title: Permanent Resident
+category: List
+---
+Meany holds a special place in the hearts of many. For a few, there's a special place at Meany for their heart.
 
 * [Ray Hecox](Ray-Hecox)
 * [Peggy Lawton](Peggy-Lawton)

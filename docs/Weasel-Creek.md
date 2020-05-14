@@ -1,3 +1,7 @@
+---
+title: Weasel Creek
+category: Place
+---
 
 ### Location
 

@@ -1,3 +1,7 @@
+---
+title: Special Events
+category: List
+---
 
 * [Carnival](Carnival)
 * [Competitions](Competitions): [Patrol Race](Patrol-Race), ...

@@ -1,6 +1,6 @@
     <nav>
       <ul>
-        <li><a href="/History">Home</a></li>
+        <li><a href="/History/Home">Home</a></li>
         <li><a href="/History/Runs">Ski Runs</a></li>
         <li><a href="/History/Tows">Tows</a></li>
         <li><a href="/History/Areas">Areas</a></li>
@@ -17,16 +17,6 @@
       {% if doc.category == "Person" %}
         <li><a href="/History{{ doc.url }}">{{ doc.title }}</a></li>
       {% endif %}
-    {% endfor %}
-
-// next iterator
-
-    {% for doc in site.pages %}
-      {% for cat in doc.categories %}
-        {% if cat == "Person" %}
-          <li><a href="/History{{ doc.url }}">{{ doc.title }}</a></li>
-        {% endif %}
-      {% endfor %}
     {% endfor %}
 -->
     </ul>

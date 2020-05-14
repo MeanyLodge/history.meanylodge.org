@@ -1,1 +1,5 @@
-see [Cat Track](Cat-Track)
+---
+title: Rat Track
+category: Stub
+---
+See [Cat Track](Cat-Track)

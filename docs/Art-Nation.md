@@ -27,8 +27,6 @@ Many others contributed to the program. Art Nation fiddled as dancers spun out t
 
 Special thanks go to musicians Richard Swensson, [Art Nation](Art-Nation), Lyle Schaefer, Frank Gilbert, Jim Noyes, Roy Wagner, Olemara Peters, and the Speldosan Group. Also the Mountaineer Players presented three delightful performances: The Story Theatre, Who Murdered Who, and a musical review, F.M. at P.M. Thanks also to Jack Reid and Michael Clarke who did great jobs with their slide shows of recent trips. <sup>[ma79][]</sup>
 
----
-
 [ma52]: Mountaineer-Annual#1952
 [ma56]: Mountaineer-Annual#1956
 [ma78]: Mountaineer-Annual#1978

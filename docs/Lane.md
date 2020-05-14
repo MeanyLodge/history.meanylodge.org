@@ -1,4 +1,7 @@
-
+---
+title: Lane
+category: Place
+---
 ### Location
 
 The main run down beside the tow (a classic example of Meany understatement.) <sup>[n9][]</sup>
@@ -71,7 +74,6 @@ December 31, 2013 was not a good snow day.
 
 <img src="img/2013%20Bare%20Lane%20at%20New%20Year.jpeg" alt="A sad non-snowy Lane on Dec 31, 2013">
 
----
 
 [hr]: History-Reports "Meany History Reports, by Idona Kellogg"
 [hw]: History-Walt "Meany History, by Walt Little"

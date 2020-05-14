@@ -1,4 +1,7 @@
-
+---
+title: Meany Map
+category: Document
+---
 ### Location
 
 On the wall in the lodge, next to the stairwell.

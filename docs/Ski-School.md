@@ -1,4 +1,7 @@
-
+---
+title: Ski School
+category: Document
+---
 ### Organizers
 
 * [Patti Polinsky](Patty-Polinsky)

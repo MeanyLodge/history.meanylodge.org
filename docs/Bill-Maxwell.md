@@ -36,6 +36,7 @@ tags: founder
 
 #### 1998
 
-Slalom and downhill races for men began that same year, with trophies donated by [Bob Hayes](Robert-Hayes) and Bill Maxwell. Maxwell, with a nickname of "Wild Bill" earned in part by his skiing technique, competed in the first race for the trophy he sponsored-and came in dead last. <sup>[Life At Meany](Life-At-Meany-Ski-Hut)</sup>
+Slalom and downhill races for men began that same year, with trophies donated by [Bob Hayes](Robert-Hayes) and Bill Maxwell. Maxwell, with a nickname of "Wild Bill" earned in part by his skiing technique, competed in the first race for the trophy he sponsored-and came in dead last. <sup>[Life At Meany][life]</sup>
 
+[life]: Life-At-Meany-Ski-Hut
 [ma78]: Mountaineer-Annual#1978

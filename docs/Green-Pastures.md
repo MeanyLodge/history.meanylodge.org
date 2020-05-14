@@ -1,4 +1,7 @@
-
+---
+title: Green Pastures
+category: Place
+---
 ### Location
 
 Between [North Slobbovia](North-Slobbovia) and upper Tombstone. <sup>[nw][]</sup>

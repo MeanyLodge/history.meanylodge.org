@@ -1,6 +1,15 @@
+---
+title: Phogbound Gulch
+category: Place
+---
 
-Named in honor of Senator Jack S. Phogbound, Lower Slobbovia's representative to the Senate of the Hew Hess Hay. This is the long narrow gully on the south side of South Slobbovia.
+### Location
 
-## Sources
+The long narrow gully on the south side of South Slobbovia.<sup>[nw][]</sup>
 
-[Names 1984](Names-Walt)
+### Origin
+
+Named in honor of Senator Jack S. Phogbound, Lower Slobbovia's representative to the Senate of the Hew Hess Hay.<sup>[nw][]</sup>
+
+
+[n84]: Names-Walt

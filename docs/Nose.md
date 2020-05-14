@@ -1,4 +1,7 @@
-
+---
+title: Nose
+category: Place
+---
 ### Upper Nose
 
 This is the section of the old [Downhill Trail](Downhill-Trail) which runs from the head pole to [Railroad Curve](Railroad-Curve). <sup>[nw][]</sup>

@@ -1,5 +1,8 @@
-
-Areas, Items, and Points of Interest
+---
+title: Areas
+category: List
+---
+## Areas, Items, and Points of Interest
 
 Grouped by general locale, north to south
 

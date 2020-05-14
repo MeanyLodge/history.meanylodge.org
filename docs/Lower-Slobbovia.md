@@ -1,4 +1,7 @@
-
+---
+title: Lower Slobbovia
+category: Place
+---
 ### Names
 
 - Lower Slobbovia

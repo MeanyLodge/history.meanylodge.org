@@ -1,4 +1,7 @@
-
+---
+title: Kirkland Park
+category: Place
+---
 ### Location
 
 Large open area to the southeast (skier's right) of the [Lane](Lane), immediately below [Soffreenia Wood](Soffreenia-Wood).

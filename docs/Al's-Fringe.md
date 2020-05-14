@@ -1,4 +1,7 @@
-
+---
+title: Al's Fringe
+category: Place
+---
 A cross-country ski trail designed by [Al Alleman](Al-Alleman) that traverses the bottom of [Walter's Woods](Walter's-Woods) and resembles Al's hairline. <sup>[nw][]</sup>
 
 ### History

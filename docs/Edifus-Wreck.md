@@ -1,1 +1,5 @@
-See: [Edifice Wreck](Edifice-Wreck)
+---
+title: Edifus Wreck
+category: Stub
+---
+See [Edifice Wreck](Edifice-Wreck)

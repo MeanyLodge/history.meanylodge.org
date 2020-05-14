@@ -1,3 +1,7 @@
+---
+title: Meany Names 2009
+category: Document
+---
 From the file [names](http://www.meanylodge.org/archives/names.html) on the old Meany web site.
 
 by Brian Thompson and Emilio Marasco

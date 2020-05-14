@@ -1,4 +1,7 @@
-
+---
+title: Lower Slobbovia National Park
+category: Place
+---
 ### Location
 
 The center of [Lower Slobbovia](Lower-Slobbovia).

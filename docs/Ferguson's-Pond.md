@@ -1,1 +1,5 @@
-see [Ferguson Pool](Ferguson-Pool)
+---
+title: Ferguson's Pond
+category: Stub
+---
+See [Ferguson Pool](Ferguson-Pool)

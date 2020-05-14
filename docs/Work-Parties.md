@@ -1,3 +1,7 @@
+---
+title: Work Parties
+category: Event
+---
 
 ## Meany Work Parties
 

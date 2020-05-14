@@ -4,7 +4,7 @@ category: Person
 categories: Person
 ---
 
-## Known For
+### Known For
 
 * Owner of [Mouse](Mouse)
 * [Al's Fringe](Al's-Fringe)
@@ -19,7 +19,7 @@ On the light side, Al Alleman and Kent Nelson, amid great applause, were awarded
 
 #### 1982
 
-The proportion of cross-country skiers using Meany Lodge continues to increase. Al Alleman graciously donates the time and expertise to show people the fabulous ski trails in Meany vicinity. During work party season Al's crew labors to improve these trails. <sup>[hr][]</sup>
+The proportion of cross-country skiers using Meany Lodge continues to increase. Al Alleman graciously donates the time and expertise to show people the fabulous ski trails in Meany vicinity. During work party season Al's crew labors to improve these trails.<sup>[hr][]</sup>
 
 
 [hr]: History-Reports "Meany History Reports, by Idona Kellogg"

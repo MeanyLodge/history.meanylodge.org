@@ -1,4 +1,7 @@
-
+---
+title: Henrietta's Woods
+category: Place
+---
 ### Location
 
 South of [Lower Slobbovia](Lower-Slobbovia), between [Phogbound Gulch](Phogbound-Gulch) and [RBCSA Gulch](RBCSA-Gulch).
@@ -18,7 +21,6 @@ Meany work parties ... started the enormous task of clearing [Walter's Woods](Wa
 The trees have all grown back, it has long since been Henrietta's Woods.
 
 
----
 
 [ma78]: Mountaineer-Annual#1978
 [ma79]: Mountaineer-Annual#1979

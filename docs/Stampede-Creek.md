@@ -1,3 +1,7 @@
+---
+title: Stampede Creek
+category: Place
+---
 
 ### Names
 

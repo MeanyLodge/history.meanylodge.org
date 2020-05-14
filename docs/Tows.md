@@ -1,3 +1,7 @@
+---
+title: Tows
+category: List
+---
 
 Meany lodge has 3 rope tows.
 

@@ -18,5 +18,5 @@ Mike Lonergan ran the tows because Bill was ill.<sup>[hi][]</sup>
 
 Used to use the [Junior Trail](Junior-Trail) regularly to get to the [Tow Hut](Tow-Hut). --[Patti Polinsky](Patti-Polinsky)
 
----
+
 [hi]: History-Idona

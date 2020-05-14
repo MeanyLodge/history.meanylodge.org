@@ -1,3 +1,7 @@
+---
+title: Tombstone Canyon
+category: Place
+---
 
 ### Location
 

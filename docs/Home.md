@@ -1,4 +1,7 @@
-
+---
+title: Home
+category: List
+---
 ### About Meany
 
 * [History](History), see also [Lodge](Lodge)

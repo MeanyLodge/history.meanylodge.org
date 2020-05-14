@@ -1,3 +1,7 @@
+---
+title: Ski Excursions From Meany Hut
+category: Document
+---
 # Ski Excursions From Meany Hut
 
 by Rudolph Amsler

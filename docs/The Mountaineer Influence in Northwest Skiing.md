@@ -1,3 +1,7 @@
+---
+title: The Mountaineer Influence in Northwest Skiing
+category: Document
+---
 # The Mountaineer Influence in Northwest Skiing
 ## by [Robert H. Hayes](Robert-Hayes)
 

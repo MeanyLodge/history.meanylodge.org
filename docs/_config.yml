@@ -7,6 +7,9 @@ theme: jekyll-theme-leap-day
 
 #remote_theme: ronv/minimal
 
+livereload: true
+baseurl: /History
+
 defaults:
   - scope:
       path: "" # an empty string means all files
@@ -17,7 +20,3 @@ defaults:
       path: "img"
     values:
       image: true
-
-categories:
-  person:
-    sort_by: title

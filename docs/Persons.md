@@ -1,4 +1,7 @@
-
+---
+title: Persons
+category: List
+---
 ## Lists / Roles
 
 * [Chair](Chair)
@@ -22,7 +25,6 @@
 * [Richard Botts](Richard-Botts)
 * [Bill Brockman](Bill-Brockman)
 * [Dave Claar](Dave-Claar)
-* [Patti Polinsky](Patty-Polinsky)
 * [Phil Christy](Phil-Christy)
 * [Doug Damm](Doug-Damm)
 * [Jim Fahey](Jim-Fahey)
@@ -52,6 +54,7 @@
 * [Art Nation](Art-Nation)
 * [Ray Nelson](Ray-Nelson)
 * [Dan Nord](Dan-Nord)
+* [Patti Polinsky](Patty-Polinsky)
 * [Matt Simerson](Matt-Simerson)
 * [Andy Smith](Andy-Smith)
 * [Jerry Thompson](Jerry-Thompson)

@@ -1,3 +1,7 @@
+---
+title: Soffreenia Wood
+category: Place
+---
 
 ### Location
 

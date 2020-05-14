@@ -1,4 +1,7 @@
-
+---
+title: Mosquito Creek
+category: Place
+---
 ### Names
 
 - Mosquito Creek <sup>[nw][]</sup>

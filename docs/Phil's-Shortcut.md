@@ -1,4 +1,7 @@
-
+---
+title: Phil's Shortcut
+category: Place
+---
 ### History
 
 #### 1986

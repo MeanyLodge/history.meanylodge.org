@@ -1,3 +1,7 @@
+---
+title: Walter's Woods
+category: Place
+---
 
 ### Names
 

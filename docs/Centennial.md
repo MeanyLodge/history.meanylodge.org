@@ -1,3 +1,7 @@
+---
+title: Centennial
+category: Event
+---
 
 ### 100 Years of Meany
 

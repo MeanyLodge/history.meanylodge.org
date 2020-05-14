@@ -1,4 +1,7 @@
-
+---
+title: Junior Trail
+category: Place
+---
 The trail from the [Lodge](Lodge) to the [Tow Hut](Tow-Hut) without climbing.<sup>[n9][]</sup>
 
 ### Location

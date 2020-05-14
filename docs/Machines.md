@@ -1,4 +1,7 @@
-
+---
+title: Meany Machines
+category: List
+---
 It's a thing, Meany machines have animal names.
 
 😵 = defunct

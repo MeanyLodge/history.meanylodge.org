@@ -14,7 +14,6 @@ categories: Person
 
 * [Kirkland Park](Kirkland-Park)
 
----
 
 [mw]: Names-2009
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"

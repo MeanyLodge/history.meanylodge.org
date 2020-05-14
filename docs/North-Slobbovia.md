@@ -1,4 +1,7 @@
-
+---
+title: North Slobbovia
+category: Place
+---
 ### Names
 
 - North Slobbovia

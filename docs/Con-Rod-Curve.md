@@ -1,4 +1,7 @@
-
+---
+title: Con-Rod Curve
+category: Place
+---
 ### Location
 
 Forest Service Road 54 - just east of the Yakima River bridge.
@@ -28,7 +31,6 @@ Jan 20 On Sunday evening outward trip at Yakima River bridge, broke con-rod in e
 - Second crew started at 6 pm and completed the installation and
 - Tom-cat running by 10 pm
 
----
 
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"
 [hw]: History-Walt "Meany History, by Walt Little"

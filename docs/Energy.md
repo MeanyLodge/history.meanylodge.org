@@ -1,4 +1,7 @@
-
+---
+title: Energy
+category: Document
+---
 Meany currently has electricity service through Puget Sound Energy. We have gas, diesel, and propane tanks that are filled seasonally.
 
 ### History

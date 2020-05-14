@@ -1,4 +1,7 @@
-
+---
+title: Nikki's Trail
+category: Place
+---
 ### History
 
 #### 1986

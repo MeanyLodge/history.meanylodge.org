@@ -24,13 +24,13 @@ categories: Person Chair
 ### More Info
 
 * Navy vet in WW II
-* survivor of [Battle of Leyte Gulf](https://en.wikipedia.org/wiki/Battle_of_Leyte_Gulf)
+* survivor of [Battle of Leyte Gulf][blg]
 * Park Ranger
 * Biology teacher
 
 ### See Also
 
-* [Obituary](https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=william-e-brockman&pid=192988486)
+* [Obituary][obit]
 
 ### History
 
@@ -41,3 +41,6 @@ categories: Person Chair
 #### 1978
 
 [Bill Brockman](Bill-Brockman), 1953 Hut Chairman, told of some of the technical problems of getting highly-esteemed, over-weight "Nashie," the cook, up the hill each weekend.
+
+[blg]: https://en.wikipedia.org/wiki/Battle_of_Leyte_Gulf
+[obit]: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=william-e-brockman&pid=192988486

@@ -1,4 +1,7 @@
-
+---
+title: Competitions
+category: Document
+---
 ### 1929
 
 THE MEANY SKI HUT TROPHY. Presented by the University Book Store. The women's annual race. The cup is open to all Mountaineer women contestants. The race is to cross-country over a course of moderate length and time alone is to determine the winner.

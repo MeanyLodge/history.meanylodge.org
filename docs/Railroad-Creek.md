@@ -1,1 +1,5 @@
-see [Stampede Creek](Stampede-Creek)
+---
+title: Railroad Creek
+category: Stub
+---
+See [Stampede Creek](Stampede-Creek)

@@ -1,3 +1,8 @@
+---
+title: Chair
+category: List
+---
+
 | Year      | Person | Comments |
 | --------- | ------ | -------- |
 | 1928      | [Ernest Harris](Ernest-Harris) & [Bill Maxwell](Bill-Maxwell) | Summer Construction |

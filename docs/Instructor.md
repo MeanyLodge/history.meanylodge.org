@@ -1,6 +1,8 @@
-### Instructors
-
-Ski Instructors
+---
+title: Instructor
+category: List
+---
+### Ski Instructors
 
 | Years   | Name
 | ---     | ---

@@ -1,3 +1,7 @@
+---
+title: Meany Ski Hut - Early Impressions
+category: Document
+---
 # Early Impressions
 ## by Hermia Thomson
 

@@ -1,4 +1,7 @@
-
+---
+title: Meany Hill
+category: Place
+---
 Meany Hill is the big hill located south of the lodge. To find it, walk outside the lodge and look uphill. To ski Meany Hill, head up the trail past the [Pump House](Pump-House) to the [Coatrack](Coatrack) next to [Big Tree](Big-Tree). From there you can ski downhill to the tows [Super Worm](Super-Worm), [Mach](Mach), and [Turtle](Turtle).
 
 ## Regions

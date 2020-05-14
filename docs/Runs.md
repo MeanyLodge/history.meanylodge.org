@@ -1,3 +1,7 @@
+---
+title: Runs
+category: List
+---
 See [Meany Hill](Meany-Hill) for a geographically ordered tour of the ski runs and areas on Meany Hill.
 
 * [Al's Fringe](Al's-Fringe)
@@ -22,6 +26,7 @@ See [Meany Hill](Meany-Hill) for a geographically ordered tour of the ski runs a
 * Defunct:
     * [Downhill Trail](Downhill-Trail)
     * [Elevator Shaft](Elevator-Shaft)
+    * [Helser's Ess](Helser's-Ess)
     * [Kitchen Jump](Kitchen-Jump)
     * [Lefty](Lefty)
     * [Liberation Way](Liberation-Way)

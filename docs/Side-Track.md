@@ -1,4 +1,7 @@
-
+---
+title: Side Track
+category: Place
+---
 Ski traverse leading from [Mach](Mach) Tow along the top of [Railroad Meadows](Railroad-Meadows). <sup>[nw][]</sup>
 
 ---
