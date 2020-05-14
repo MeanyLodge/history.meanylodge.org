@@ -1,3 +1,8 @@
+---
+title: Lodge
+category: Building
+categories: Building
+---
 
 <img src="img/1928%20Meany%20Ski%20Hut.png" width="250px" alt="Meany Lodge construction photo" align="right">
 

@@ -1,3 +1,8 @@
+---
+title: Propane Hut
+category: Building
+categories: Building
+---
 
 ### Names
 

@@ -1,3 +1,8 @@
+---
+title: Generator Hut
+category: Building
+categories: Building
+---
 
 ### History
 

@@ -1,3 +1,8 @@
+---
+title: Cat House
+category: Building
+categories: Building
+---
 
 ### Location
 

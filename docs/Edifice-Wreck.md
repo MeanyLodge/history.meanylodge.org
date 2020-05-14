@@ -1,3 +1,8 @@
+---
+title: Edifice Wreck
+category: Building
+categories: Building
+---
 
 ### Names
 

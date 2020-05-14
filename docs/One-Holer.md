@@ -1,3 +1,8 @@
+---
+title: One Holer
+category: Building
+categories: Building Outhouse
+---
 
 An outhouse.
 

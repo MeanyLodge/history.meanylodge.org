@@ -1,3 +1,8 @@
+---
+title: Top Hut
+category: Building
+categories: Building Hut
+---
 
 A very small member of Meany [Buildings](Buildings) located atop the [Lane](Lane).
 

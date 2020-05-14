@@ -1,3 +1,8 @@
+---
+title: Two Holer
+category: Building
+categories: Building Outhouse
+---
 
 An outhouse.
 

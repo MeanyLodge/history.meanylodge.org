@@ -1,3 +1,8 @@
+---
+title: Tow Hut
+category: Building
+categories: Building Hut
+---
 
 The lower building that encloses the [Mach](Mach) rope tow and equipment.
 
