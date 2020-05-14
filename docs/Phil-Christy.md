@@ -1,3 +1,8 @@
+---
+title: Phil Christy
+category: Person
+categories: Person Chair Committee Cook
+---
 
 ### Roles
 

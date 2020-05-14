@@ -1,4 +1,5 @@
 ---
+title: Edmond S. Meany
 category: Person
 categories: Person
 tags: founder

@@ -1,3 +1,8 @@
+---
+title: Rick Ingham
+category: Person
+categories: Person Driver Mechanic
+---
 
 ### Roles
 

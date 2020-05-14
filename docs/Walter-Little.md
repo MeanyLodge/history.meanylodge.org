@@ -1,3 +1,8 @@
+---
+title: Walter Little
+category: Person
+categories: Person
+---
 
 ### Names
 

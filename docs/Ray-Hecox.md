@@ -1,3 +1,8 @@
+---
+title: Ray Hecox
+category: Person
+categories: Person Cook
+---
 
 ### Roles
 

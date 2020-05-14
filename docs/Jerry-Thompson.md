@@ -1,4 +1,5 @@
 ---
+title: Jerry Thompson
 category: Person
 categories: Person Committee
 ---

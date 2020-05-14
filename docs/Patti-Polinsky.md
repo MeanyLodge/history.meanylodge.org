@@ -1,3 +1,8 @@
+---
+title: Patti Polinsky
+category: Person
+categories: Person Instructor
+---
 
 ### Names
 

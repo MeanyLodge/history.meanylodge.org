@@ -1,4 +1,5 @@
 ---
+title: Ernest N. Harris
 category: Person
 categories: Person Chair
 ---

@@ -1,3 +1,8 @@
+---
+title: Shawn Bertagnole
+category: Person
+categories: Person Driver Mechanic
+---
 
 ### Role
 

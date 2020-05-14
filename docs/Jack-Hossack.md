@@ -1,4 +1,5 @@
 ---
+title: Jack Hossack
 category: Person
 categories: Person Chair
 ---

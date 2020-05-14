@@ -1,4 +1,5 @@
 ---
+title: Doug Damm
 category: Person
 categories: Person Chair
 ---

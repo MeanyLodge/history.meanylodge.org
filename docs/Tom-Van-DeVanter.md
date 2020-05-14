@@ -1,3 +1,8 @@
+---
+title: Tom Van Devanter
+category: Person
+categories: Person Chair Driver Mechanic
+---
 
 ### Roles
 

@@ -1,4 +1,5 @@
 ---
+title: Dan Nord
 category: Person
 categories: Person Committee Instructor
 ---

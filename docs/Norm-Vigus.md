@@ -1,3 +1,8 @@
+---
+title: Norm Vigus
+category: Person
+categories: Person Instructor
+---
 
 ### Roles
 

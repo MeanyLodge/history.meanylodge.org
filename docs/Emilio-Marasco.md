@@ -1,4 +1,5 @@
 ---
+title: Emilio Marasco
 category: Person
 categories: Person Committee
 ---

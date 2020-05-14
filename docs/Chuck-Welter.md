@@ -1,6 +1,7 @@
 ---
+title: Chuck Welter
 category: Person
-categories: Person Mechanic
+categories: Person Chair Mechanic Operator
 ---
 
 ### Roles

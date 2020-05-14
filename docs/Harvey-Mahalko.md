@@ -1,4 +1,5 @@
 ---
+title: Harvey Mahalko
 category: Person
 categories: Person Chair
 ---

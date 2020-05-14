@@ -1,7 +1,13 @@
+---
+title: Mike Lonergan
+category: Person
+categories: Person Chair Mechanic
+---
 
 ### Roles
 
 * [Chair](Chair)
+* [Mechanic](Mechanic)
 
 ### Known For
 

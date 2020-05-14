@@ -1,3 +1,8 @@
+---
+title: Ray Nelson
+category: Person
+categories: Person Chair
+---
 
 ### Names
 

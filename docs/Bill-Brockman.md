@@ -1,4 +1,5 @@
 ---
+title: Bill Brockman
 category: Person
 categories: Person Chair
 ---

@@ -1,4 +1,5 @@
 ---
+title: Idona Kellogg
 category: Person
 categories: Person Historian
 ---

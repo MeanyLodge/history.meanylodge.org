@@ -1,3 +1,9 @@
+---
+title: Nashie
+category: Person
+categories: Person Cook
+---
+
 ### Names
 
 - Nashie
