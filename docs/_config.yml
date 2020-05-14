@@ -1,4 +1,4 @@
-theme: jekyll-theme-sidey
+#theme: jekyll-theme-sidey
 remote_theme: ronv/sidey
 
 defaults:
