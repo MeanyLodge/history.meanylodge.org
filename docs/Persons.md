@@ -22,7 +22,7 @@
 * [Richard Botts](Richard-Botts)
 * [Bill Brockman](Bill-Brockman)
 * [Dave Claar](Dave-Claar)
-* [Patti Polinsky-Claar](Patti-Polinsky-Claar)
+* [Patti Polinsky-Claar](Patty-Polinsky)
 * [Phil Christy](Phil-Christy)
 * [Doug Damm](Doug-Damm)
 * [Jim Fahey](Jim-Fahey)
@@ -57,6 +57,7 @@
 * [Jerry Thompson](Jerry-Thompson)
 * [Tom Van DeVanter](Tom-Van-DeVanter)
 * [Norm Vigus](Norm-Vigus)
+* [Bill Weber](Bill-Weber)
 * [Chuck Welter](Chuck-Welter)
 
 ### Template
