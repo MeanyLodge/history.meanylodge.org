@@ -4,7 +4,7 @@ defaults:
   - scope:
       path: "" # an empty string means all files
     values:
-      layout: "default"
+      layout: "leap-day"
 
   - scope:
       path: "img"

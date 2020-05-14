@@ -1,9 +1,9 @@
 
 ## Meany Work Parties
 
-Meany is an all-volunteer lodge. Everything at Meany is the result of tens of thousands of hours donated by many hundreds of individuals.
+Meany is an all-volunteer lodge. Everything at Meany is the result of tens of thousands of hours donated by many hundreds of individuals. This document is maintained by [Matt Simerson](Matt-Simerson). Send him updates and more stuff will appear here.
 
-<img src="img/1948%20Meany%20Work%20Party.png" width="400px">
+<img src="img/1948%20Meany%20Work%20Party.png" alt="sketch of meanyites working" width="320px" align="right">
 
 
 ## 2020
@@ -13,7 +13,7 @@ Meany is an all-volunteer lodge. Everything at Meany is the result of tens of th
 
 [Google Doc](https://docs.google.com/spreadsheets/d/1nfzS1-X-nbi7EbtkVqKx9IZ4TflINx13XerAhoAwv4c/edit#gid=0)
 
-### Coronovirus Safety Ideas
+### Coronovirus Work Party Safety Ideas
 
 * Publicizing dates early gives us all something to look forward to and targets for our organizational planning - Hope
 * Nobody will be surprised if we need to call off an event - Hope

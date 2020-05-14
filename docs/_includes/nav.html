@@ -1,4 +1,4 @@
-    <nav class="menu">
+    <nav>
       <ul>
         <li><a href="/History">Home</a></li>
         <li><a href="/History/Runs">Ski Runs</a></li>
@@ -10,6 +10,7 @@
         <li><a href="/History/Machines">Machines</a></li>
         <li><a href="/History/Persons">Persons</a></li>
         <li><a href="/History/Sources">Sources</a></li>
+        <li><a href="/History/Work-Parties">Work Parties</a></li>
     {% for doc in site.pages %}
       {% if doc.category == "Person" %}
         <li><a href="/History{{ doc.url }}">{{ doc.title }}</a></li>
