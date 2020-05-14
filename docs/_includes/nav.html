@@ -9,10 +9,15 @@
         <li><a href="/History/Lodge">Lodge</a></li>
         <li><a href="/History/Machines">Machines</a></li>
         <li><a href="/History/Persons">Persons</a></li>
-    {% for doc in site.docs %}
+        <li><a href="/History/Sources">Sources</a></li>
+    {% for doc in site.pages %}
       {% if doc.category == "Person" %}
         <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
       {% endif %}
+    {% endfor %}
+
+    {% for cat in site.categories %}
+      <li><a href="{{ cat.url }}">{{ cat.title }}</a></li>
     {% endfor %}
     </ul>
   </nav>
