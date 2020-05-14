@@ -1,11 +1,13 @@
-#theme: jekyll-theme-sidey
-remote_theme: ronv/sidey
+#theme: jekyll-theme-minimal
+#theme: jekyll-theme-leap-day
+theme: jekyll-theme-dinky
+#remote_theme: ronv/minimal
 
 defaults:
   - scope:
       path: "" # an empty string means all files
     values:
-      layout: "sidey"
+      layout: "dinky"
 
   - scope:
       path: "img"
