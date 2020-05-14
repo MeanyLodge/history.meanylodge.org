@@ -1,10 +1,16 @@
-
+    <nav>
       <a href="/History">Home</a>
       <a href="/History/Runs">Ski Runs</a>
-      <a href="/History/Areas">Areas</a>
       <a href="/History/Tows">Tows</a>
+      <a href="/History/Areas">Areas</a>
+      <a href="/History/Meany-Hill">Meany Hill</a>
       <a href="/History/Buildings">Buildings</a>
       <a href="/History/Lodge">Lodge</a>
       <a href="/History/Machines">Machines</a>
       <a href="/History/Persons">Persons</a>
-
+    {% for doc in site.docs %}
+      {% if doc.category == "Person" %}
+        <a href="{{ doc.url }}">{{ doc.title }}</a>
+      {% endif %}
+    {% endfor %}
+    </nav>
