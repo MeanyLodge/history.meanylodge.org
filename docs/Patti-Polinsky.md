@@ -27,21 +27,21 @@
 
 #### 1977
 
-A highlight of the season was the Carnival weekend, which featured a "European Feast" complete with bratwurst, German hot potato salad, European pastries and homemade pretzels, in addition to the skiing events-all masterminded by Patti Polinsky-Claar. That was the weekend which saw record crowds. <sup>[ma77][]</sup>
+A highlight of the season was the Carnival weekend, which featured a "European Feast" complete with bratwurst, German hot potato salad, European pastries and homemade pretzels, in addition to the skiing events-all masterminded by Patti Polinsky. That was the weekend which saw record crowds. <sup>[ma77][]</sup>
 
 #### 1978
 
-**50th Birthday Party**: Patti Polinsky-Claar took charge of the elaborate, perfectly-prepared, and very efficiently served salmon dinner. <sup>[ma78][]</sup>
+**50th Birthday Party**: Patti Polinsky took charge of the elaborate, perfectly-prepared, and very efficiently served salmon dinner. <sup>[ma78][]</sup>
 
-A highlight of the ski season was the carnival weekend which featured many corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels, and breadsticks. Many fancy relish trays with elaborate flowered vegetable "nibblies" and apple swans served from an outdoor snow table is an example of how embellished and painstaking the carnival events were. This fantastic weekend was masterminded by Patti Polinsky-Claar. <sup>[ma78][]</sup>
+A highlight of the ski season was the carnival weekend which featured many corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels, and breadsticks. Many fancy relish trays with elaborate flowered vegetable "nibblies" and apple swans served from an outdoor snow table is an example of how embellished and painstaking the carnival events were. This fantastic weekend was masterminded by Patti Polinsky. <sup>[ma78][]</sup>
 
 #### 1979
 
-The Annual Spring Carnival was again a superb event as masterminded by Patti Polinsky-Claar. In addition to skiing events there were corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels, and breadsticks. <sup>[ma79][]</sup>
+The Annual Spring Carnival was again a superb event as masterminded by Patti Polinsky. In addition to skiing events there were corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels, and breadsticks. <sup>[ma79][]</sup>
 
 #### 1982
 
-Record crowds were drawn to Meany Ski Hut this season by plentiful snow, fantastic skiing, terrific ski lessons with capacity classes taught by Patti Polinsky-Claar, Dave Claar and Kim Nelson. <sup>[ma82][]</sup>
+Record crowds were drawn to Meany Ski Hut this season by plentiful snow, fantastic skiing, terrific ski lessons with capacity classes taught by Patti Polinsky, Dave Claar and Kim Nelson. <sup>[ma82][]</sup>
 
 #### late 90s
 

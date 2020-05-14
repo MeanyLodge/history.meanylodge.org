@@ -22,7 +22,7 @@
 * [Richard Botts](Richard-Botts)
 * [Bill Brockman](Bill-Brockman)
 * [Dave Claar](Dave-Claar)
-* [Patti Polinsky-Claar](Patty-Polinsky)
+* [Patti Polinsky](Patty-Polinsky)
 * [Phil Christy](Phil-Christy)
 * [Doug Damm](Doug-Damm)
 * [Jim Fahey](Jim-Fahey)

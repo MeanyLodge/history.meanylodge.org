@@ -11,7 +11,7 @@
 
 ### Known For
 
-* "Running the best work parties." - [Patti-Polinsky-Claar](Patti-Polinsky-Claar)
+* "Running the best work parties." - [Patti-Polinsky-Claar](Patty-Polinsky)
 * Power Management Director for Seattle City Light
 
 ### History

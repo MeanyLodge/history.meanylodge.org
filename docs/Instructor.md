@@ -5,7 +5,7 @@ Ski Instructors
 | Years   | Name
 | ---     | ---
 |         | [Maud de Bel](Maud-de-Bel)
-| -1982-2020+ | [Patti Polinsky-Claar](Patti-Polinsky-Claar)
+| 1969-2020+ | [Patti Polinsky](Patty-Polinsky)
 |         | [Lucy Corthell](Lucy-Corthell)
 | -1982-? | [Dave Claar](Dave-Claar)
 | ?-2020+ | [Jim Fahey](Jim-Fahey)
