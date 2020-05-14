@@ -1,16 +1,18 @@
-    <nav>
-      <a href="/History">Home</a>
-      <a href="/History/Runs">Ski Runs</a>
-      <a href="/History/Tows">Tows</a>
-      <a href="/History/Areas">Areas</a>
-      <a href="/History/Meany-Hill">Meany Hill</a>
-      <a href="/History/Buildings">Buildings</a>
-      <a href="/History/Lodge">Lodge</a>
-      <a href="/History/Machines">Machines</a>
-      <a href="/History/Persons">Persons</a>
+    <nav class="menu">
+      <ul>
+        <li><a href="/History">Home</a></li>
+        <li><a href="/History/Runs">Ski Runs</a></li>
+        <li><a href="/History/Tows">Tows</a></li>
+        <li><a href="/History/Areas">Areas</a></li>
+        <li><a href="/History/Meany-Hill">Meany Hill</a></li>
+        <li><a href="/History/Buildings">Buildings</a></li>
+        <li><a href="/History/Lodge">Lodge</a></li>
+        <li><a href="/History/Machines">Machines</a></li>
+        <li><a href="/History/Persons">Persons</a></li>
     {% for doc in site.docs %}
       {% if doc.category == "Person" %}
-        <a href="{{ doc.url }}">{{ doc.title }}</a>
+        <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
       {% endif %}
     {% endfor %}
-    </nav>
+    </ul>
+  </nav>
