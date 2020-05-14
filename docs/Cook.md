@@ -34,7 +34,6 @@ A major remodeling of the Meany kitchen was started at the July weeklong work pa
 
 Crews redid the plumbing for the new sinks and relocated the water heaters. Ray Nelson fabricated an extensive copper tubing utensil rack above the kitchen island and shaped the soap rack above the new sinks.
 
-### Sources
 
 [ma56]: Mountaineer-Annual#1956
 [ma78]: Mountaineer-Annual#1978

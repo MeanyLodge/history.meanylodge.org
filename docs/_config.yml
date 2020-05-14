@@ -17,3 +17,7 @@ defaults:
       path: "img"
     values:
       image: true
+
+categories:
+  person:
+    sort_by: title

@@ -9,7 +9,7 @@ Meany's Centennial is in 2028.
     - [ ] Railroad train ride to Meany. See [Railroad-Buffs](Railroad-Buffs)
     - [ ] Hike of old switchback route
 - [ ] Plan where to fit hundreds of people
-- [ ] Write a "100 Years of Meany" booklet
+- [ ] Write "100 Years of Meany"
 - [ ] Campus tour
     - [ ] signage for ski runs
 

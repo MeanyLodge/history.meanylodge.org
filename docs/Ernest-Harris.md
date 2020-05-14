@@ -12,7 +12,7 @@ categories: Person Chair
 
 * [Chair](Chair)
 
-### Sources
+### History
 
 #### 1929
 

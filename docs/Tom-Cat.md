@@ -15,7 +15,7 @@ When [Pack Rat](Pack-Rat) was acquired in 1977, there were two snow tractors. Th
 Used to haul people, gear, and supplies ~3 miles from the Crystal Springs Sno-Park to Meany. Bought in 1960 when the NPRR discontinued passenger train service to Martin.
 
 
-### Sources
+### History
 
 #### 1960
 

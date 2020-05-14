@@ -14,7 +14,7 @@ categories: Person Chair
 * Authored the Meany Hut map on the wall in the lodge.
 * [Damnation](Damnation)
 
-### Sources
+### History
 
 #### 1960
 

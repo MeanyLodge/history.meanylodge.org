@@ -9,7 +9,7 @@
 
 ### Description
 
-It's all the same creek; The one coming down over the RR tunnel entrance in a spectacular waterfall. The different names have appeared on different old maps. Meanyites often refer to it as "Railroad Creek." <sup>[nw][]</sup>
+It's all the same creek; The one coming down over the RR tunnel entrance in a spectacular waterfall. The different names have appeared on different old maps. <sup>[nw][]</sup>
 
 ### Sources
 
@@ -17,8 +17,11 @@ It's all the same creek; The one coming down over the RR tunnel entrance in a sp
 * The 1989 USGS map has it as “Stampede Creek.“
 * USGS maps from 1990-2020 have no name.
 
+### History
 
----
+#### 1984
+
+Meanyites often refer to it as "Railroad Creek." <sup>[nw][]</sup>
 
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"
 [n9]: Names-2009 "Meany Names, by Brian Thompson & Emilio Marasco"
