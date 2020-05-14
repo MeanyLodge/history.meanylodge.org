@@ -1,3 +1,10 @@
+---
+title: Dino
+category: Machine
+categories: Machine Groomer
+---
+
+
 A snow groomer.
 
 ### Purpose

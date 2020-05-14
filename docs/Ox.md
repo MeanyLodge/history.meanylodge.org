@@ -1,5 +1,14 @@
+---
+title: Ox
+category: Machine
+categories: Machine Tractor
+---
 
 A four-wheel drive Dodge truck used for summer work. Unlike most oxen, it hibernates all winter under the [Tow Hut](Tow-Hut).
+
+### Specifications
+- Model: Dodge Power Wagon
+- Engine: 
 
 ### History
 

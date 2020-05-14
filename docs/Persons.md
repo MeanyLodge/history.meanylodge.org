@@ -1,5 +1,5 @@
 
-## Lists
+## Lists / Roles
 
 * [Chair](Chair)
 * [Committee](Committee)
@@ -11,7 +11,7 @@
 * Ski [Instructor](Instructor)
 * Tow [Operator](Operator)
 
-## Peeps
+## Persons
 
 * [Al Alleman](Al-Alleman)
 * [Fred Ball](Fred-Ball)
@@ -60,9 +60,9 @@
 * [Bill Weber](Bill-Weber)
 * [Chuck Welter](Chuck-Welter)
 
-### Template
+##### Template
 
-For persons, follow this template for organizating a person page:
+Follow this template for organizating a person page:
 
 - Names
 - Events

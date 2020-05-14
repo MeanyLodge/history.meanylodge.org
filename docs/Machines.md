@@ -25,6 +25,6 @@ It's a thing, Meany machines have animal names.
 * [Ox](Ox)
 * [Beast](Beast)
 
-### Wagons
+### Wagons / Sleds
 
-* [Thing](Thing) 1, Thing 2, Thing 3
+* [Thing 1](Thing-1), Thing 2, Thing 3

@@ -1,3 +1,8 @@
+---
+title: Pack Rat
+category: Machine
+categories: Machine Groomer
+---
 
 A Thiokol snow tractor. It's the only known packrat that is equipped with a bulldozer blade.<sup>[nw][]</sup>
 

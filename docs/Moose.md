@@ -1,3 +1,8 @@
+---
+title: Moose
+category: Machine
+categories: Machine
+---
 
 A snow tractor with a custom 8' square bed.
 

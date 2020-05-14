@@ -1,4 +1,5 @@
 ---
+title: Hippo
 category: Machine
 categories: Machine Groomer
 ---

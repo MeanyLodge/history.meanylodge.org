@@ -1,4 +1,5 @@
 ---
+title: Fred Ball
 category: Person
 categories: Person Chair
 ---
