@@ -1,4 +1,5 @@
 ---
+title: Karen Bergman
 category: Person
 categories: Person
 ---

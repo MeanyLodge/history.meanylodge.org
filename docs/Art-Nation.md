@@ -1,4 +1,5 @@
 ---
+title: Art Nation
 category: Person
 categories: Person
 ---

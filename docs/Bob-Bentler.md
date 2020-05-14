@@ -1,5 +1,5 @@
 ---
-title: Bill Kirkland
+title: Bob Bentler
 category: Person
 categories: Person
 ---

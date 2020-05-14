@@ -1,4 +1,6 @@
 ---
+title: Matt Simerson
+category: Person
 categories: Person Committee Driver Historian Mechanic Operator
 ---
 

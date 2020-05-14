@@ -1,4 +1,5 @@
 ---
+title: Art Freeman
 category: Person
 categories: Person Instructor
 ---
