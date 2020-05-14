@@ -23,7 +23,7 @@ Grouped by general locale, north to south
     - [Coatrack](Coatrack)
     - [Junior Trail](Junior-Trail)
     - [Tow Hut](Tow-Hut)
-    - Tows: [Super Worm](Super-Worm), [Mach](Mach),-[Turtle](Turtle)
+    - Tows: [Super Worm](Super-Worm), [Mach](Mach), [Turtle](Turtle)
     - [Kirkland Park](Kirkland-Park)
         - [Ape Swing](Ape-Swing)
         - [Soffreenia Wood](Soffreenia-Wood)

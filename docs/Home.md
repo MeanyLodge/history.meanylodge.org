@@ -4,7 +4,7 @@
 * [History](History), see also [Lodge](Lodge)
 * [Access](Access)
 * [Energy](Energy) and [Water](Water)
-* [Persons](Persons):-[Chair](Chair), [Cook](Cook),-[Driver](Driver), [Instructor](Instructor),-[Mechanic](Mechanic), Tow [Operator](Operator)
+* [Persons](Persons): [Chair](Chair), [Cook](Cook), [Driver](Driver), [Instructor](Instructor), [Mechanic](Mechanic), Tow [Operator](Operator)
 * Research [Sources](Sources)
 * [Ski School](Ski-School)
 * [Special Events](Special-Events): [50th-Birthday](50th-Birthday), [Centennial](Centennial)
