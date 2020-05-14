@@ -75,4 +75,4 @@ For persons, follow this template for organizating a person page:
 - See Also
 - History
 
-If those sections are missing from a person please add it and cite the source. If the source is personal knowledge, tag it with your name.
+If those sections are missing from a person please add it and cite the source. If the source is personal knowledge, tag it with your name. Or send it to Matt-Simerson to post.
