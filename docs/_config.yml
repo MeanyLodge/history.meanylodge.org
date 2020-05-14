@@ -1,13 +1,17 @@
 #theme: jekyll-theme-minimal
-#theme: jekyll-theme-leap-day
-theme: jekyll-theme-dinky
+
+theme: jekyll-theme-leap-day
+
+#theme: jekyll-theme-dinky
+# okay, nice and clean, but superscript doesn't
+
 #remote_theme: ronv/minimal
 
 defaults:
   - scope:
       path: "" # an empty string means all files
     values:
-      layout: "dinky"
+      layout: "leap-day"
 
   - scope:
       path: "img"
