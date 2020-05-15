@@ -54,7 +54,7 @@ category: List
 * [Art Nation](Art-Nation)
 * [Ray Nelson](Ray-Nelson)
 * [Dan Nord](Dan-Nord)
-* [Patti Polinsky](Patty-Polinsky)
+* [Patti Polinsky](Patti-Polinsky)
 * [Matt Simerson](Matt-Simerson)
 * [Andy Smith](Andy-Smith)
 * [Jerry Thompson](Jerry-Thompson)

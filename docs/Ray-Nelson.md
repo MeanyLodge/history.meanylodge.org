@@ -16,7 +16,7 @@ categories: Person Chair
 
 ### Known For
 
-* "Running the best work parties." - [Patti-Polinsky-Claar](Patty-Polinsky)
+* "Running the best work parties." - [Patti-Polinsky-Claar](Patti-Polinsky)
 * Power Management Director for Seattle City Light
 
 ### History

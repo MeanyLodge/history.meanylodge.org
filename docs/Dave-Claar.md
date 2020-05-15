@@ -18,14 +18,14 @@ categories: Person Driver Historian Instructor Mechanic
 ### Known For
 
 * Driver of [Hippo](Hippo)
-* Husband of [Patti Polinsky](Patty-Polinsky)
+* Husband of [Patti Polinsky](Patti-Polinsky)
 * Men's Room Beautification Project
 
 ### History
 
 #### 1977
 
-The very popular lessons taught by [Patti Polinsky](Patty-Polinsky) and [Dave Claar](Dave-Claar) improved the techniques of beginners and advanced skiers alike. Lessons and "Family Weekend" brought many future juniors.<sup>[ma77][]</sup>
+The very popular lessons taught by [Patti Polinsky](Patti-Polinsky) and [Dave Claar](Dave-Claar) improved the techniques of beginners and advanced skiers alike. Lessons and "Family Weekend" brought many future juniors.<sup>[ma77][]</sup>
 
 #### 1979
 

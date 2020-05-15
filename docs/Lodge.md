@@ -21,7 +21,7 @@ categories: Building
     * Ping Pong Room
     * First Aid Room
 * First Floor
-    * Kitchen
+    * [Kitchen](Kitchen)
     * Dining Room
     * Commons
 * Second Floor

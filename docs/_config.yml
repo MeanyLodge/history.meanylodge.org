@@ -1,11 +1,15 @@
-#theme: jekyll-theme-minimal
-
-theme: jekyll-theme-leap-day
-
 #theme: jekyll-theme-dinky
 # okay, nice and clean, but superscript doesn't
 
+#theme: jekyll-theme-leap-day
+# decent, menus behavior a little odd
+
+#remote_theme: jekyll-theme-xixia
+
+#theme: jekyll-theme-minimal
 #remote_theme: ronv/minimal
+
+remote_theme: aksakalli/jekyll-doc-theme@gh-pages
 
 livereload: true
 baseurl: /History
@@ -14,9 +18,21 @@ defaults:
   - scope:
       path: "" # an empty string means all files
     values:
-      layout: "leap-day"
+      layout: "docs"
+    sectionid: docs
+    seo:
+      type: "WebPage"
 
   - scope:
       path: "img"
     values:
       image: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+collections:
+  docs:
+    permalink: /:collection/:path/
+    output: true
