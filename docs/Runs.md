@@ -2,7 +2,7 @@
 title: Runs
 category: List
 ---
-# Runs
+# Ski Runs
 
 See [Meany Hill](Meany-Hill) for a geographically ordered tour of the ski runs and areas on Meany Hill.
 
@@ -15,6 +15,7 @@ See [Meany Hill](Meany-Hill) for a geographically ordered tour of the ski runs a
 * [Henrietta's Woods](Henrietta's-Woods)
 * [Kitchen Run](Kitchen-Run)
 * [Lane](Lane)
+* [Lefty](Lefty)
 * [Liberation Way](Liberation-Way)
 * [Lower Slobbovia](Lower-Slobbovia)
 * [North Slobbovia](North-Slobbovia)
@@ -30,8 +31,6 @@ See [Meany Hill](Meany-Hill) for a geographically ordered tour of the ski runs a
     * [Elevator Shaft](Elevator-Shaft)
     * [Helser's Ess](Helser's-Ess)
     * [Kitchen Jump](Kitchen-Jump)
-    * [Lefty](Lefty)
-    * [Liberation Way](Liberation-Way)
 
 ### X-Country Runs
 

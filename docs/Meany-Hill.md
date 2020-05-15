@@ -19,7 +19,7 @@ To the west, behind you, as if we removed the safety gate, ran [Mach](Mach) in 4
 
 South and up the hill from Side Track is [Danny's Woods](Danny's-Woods). North and downhill of Side Track lies Railroad Meadows. From Side Track you can ski through RR Meadows or take Side Track past the [Couloir](Couloir) to [Lefty](Lefty). From Lefty you can catch glimpses of [Stampede Creek](Stampede-Creek) and pass near the old [Ferguson Pool](Ferguson-Pool) below [Harvey's Slot](Harvey's-Slot).
 
-All routes north or west from [Top Hut](Top-Hut) end at [Psychopath](Psychopath), which twists along the northwest boundary of Meany Hill. As you ski down Psychopath, pause to reflect upon the achievements of Meany legends. From [Railroad Curve](Railroad-Curve) you can see [Karen's Corridor](Karen's-Corridor). The lower section of Psychopath is [Liberation Way](Liberation-Way), home of [Richard's Ravine](Richard's-Ravine). Psychopath ends at the switchback of the [Cat Track](Cat-Track). From there you are uphill of [Hell's Half Acre](Hell's-Half-Acre). The Cat Track leads to the lower Lane. Turning left (north) will descend [Kitchen Run](Kitchen-Run), pass the [Industrial Park](Industrial-Park), and arrive at the, surprise, kitchen end of the [Lodge](Lodge).
+All routes north or west from [Top Hut](Top-Hut) end at [Psychopath](Psychopath), which twists along the northwest boundary of Meany Hill. As you ski down Psychopath, pause to reflect upon the achievements of Meany legends. From [Railroad Curve](Railroad-Curve) you can see [Karen's Corridor](Karen's-Corridor). The lower section of Psychopath is [Liberation Way](Liberation-Way), home of [Richard's Ravine](Richard's-Ravine). Psychopath ends at the switchback of the [Cat Track](Cat-Track). From there you are uphill of [Hell's Half Acre](Hell's-Half-Acre). The Cat Track leads to the lower Lane. Turning left (north) will descend [Kitchen Run](Kitchen-Run), pass the [Industrial Park](Industrial-Park), and arrive at, surprise, the kitchen end of the [Lodge](Lodge).
 
 ### Down the Middle
 
@@ -27,7 +27,7 @@ From anywhere on the [Lane](Lane), the trees on skier's right are [Soffreenia Wo
 
 ### The Southern Front
 
-From [Top Hut](Top-Hut), head south. A two-track leads gently uphill. After a short section the two-track turns up to the right and is covered with herringbones unless you're lucky enough to get first tracks. Another ski trail peels off on the left. Either leads you to [Green Pastures](Green-Pastures), the grassy area atop [Lower Slobbovia](Lower-Slobbovia).
+From [Top Hut](Top-Hut), head south. A two-track leads gently uphill. After a short section the two-track turns steeply up to the right and is covered with herringbones, unless you're lucky enough to get first tracks. Another ski trail peels off on the left. Either leads you to [Green Pastures](Green-Pastures), the grassy area atop [Lower Slobbovia](Lower-Slobbovia).
 
 Downhill (NE) from Green Pastures is [North Slobbovia](North-Slobbovia). About 1/3 of the way down is [Iggle's Nest](Iggle's-Nest) where non-winged creatures sometimes take flight. On skier's right is [Tombstone Canyon](Tombstone-Canyon), home of Tombstone Creek and our dam water. If there are big holes in the snow near the Dam, especially with brightly colored stuff sticking out, be a sport and help rescue the most recent attempt on the [9 G Pullout](9-G-Pullout).
 

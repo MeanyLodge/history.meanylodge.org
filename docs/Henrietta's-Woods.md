@@ -19,7 +19,7 @@ Meany work parties ... started the enormous task of clearing [Walter's Woods](Wa
 
 #### 2020
 
-The trees have all grown back, it has long since been Henrietta's Woods.
+The trees have all grown back, it has long since been Henrietta's Woods. --[Matt Simerson](Matt-Simerson)
 
 
 

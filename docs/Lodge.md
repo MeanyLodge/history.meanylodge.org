@@ -9,13 +9,13 @@ categories: Building
 ### Areas
 
 * Basement
-    * Men's Room
+    * [Men's Room](Men's-Room)
     * Women's Room
     * Washroom
     * Shower #1
     * Shower #2
     * Drying Room
-    * Wood Room
+    * [Wood Room](Wood-Room)
     * Tunnel
     * Jim's Closet Under the Stairs
     * Ping Pong Room
