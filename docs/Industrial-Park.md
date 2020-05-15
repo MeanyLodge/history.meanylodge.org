@@ -2,7 +2,13 @@
 title: Industrial Park
 category: Place
 ---
-Home of the [Cat House](Cat-House), [Zoo](Zoo), [Dozer Tipi](Dozer-Tipi) and [Two Holer](Two-Holer).
+### Industrial Park
+
+Home of the following [Buildings](Buildings):
+- [Cat House](Cat-House)
+- [Zoo](Zoo)
+- [Dozer Tipi](Dozer-Tipi)
+- [Two Holer](Two-Holer).
 
 ### Location
 

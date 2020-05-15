@@ -1,0 +1,21 @@
+
+theme: jekyll-theme-leap-day
+# decent, menus behavior a little odd
+
+livereload: true
+baseurl: /History
+
+defaults:
+  - scope:
+      path: "" # an empty string means all files
+    values:
+      layout: "leap-day"
+
+  - scope:
+      path: "img"
+    values:
+      image: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock

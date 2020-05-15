@@ -10,7 +10,7 @@ category: List
 * [Persons](Persons): [Chair](Chair), [Cook](Cook), [Driver](Driver), [Instructor](Instructor), [Mechanic](Mechanic), Tow [Operator](Operator)
 * Research [Sources](Sources)
 * [Ski School](Ski-School)
-* [Special Events](Special-Events): [50th-Birthday](50th-Birthday), [Centennial](Centennial)
+* [Events](Events): [50th-Birthday](50th-Birthday), [Centennial](Centennial)
 * [Work Parties](Work-Parties)
 
 ### Tows: [Mach](Mach), [Super Worm](Super-Worm), and [Turtle](Turtle)
