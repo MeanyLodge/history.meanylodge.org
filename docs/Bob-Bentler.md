@@ -3,7 +3,7 @@ title: Bob Bentler
 category: Person
 categories: Person
 ---
-
+# Bob Bentler
 ### Known For
 
 * Owns the bulldozer under the tipi in the [Industrial Park][ip]

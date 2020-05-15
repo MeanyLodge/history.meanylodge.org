@@ -68,7 +68,6 @@ After long negotiations with the railroad we gained final approval and installed
 
 The study area was moved from the end of the Third Person's Dorm to a small area taken off the Women's Dorm. Bunks were added to the former study room so that Meany's sleeping capacity remains the same. Concrete steps were poured near the kitchen door and a concrete sidewalk was put in from the front steps to the basement.<sup>[ma80][]</sup>
 
----
 
 [hut]: Skiing-and-the-Ski-Hut
 [hw]: History-Walt "Meany History, by Walt Little"

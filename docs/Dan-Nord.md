@@ -3,7 +3,7 @@ title: Dan Nord
 category: Person
 categories: Person Committee Instructor
 ---
-
+# Dan Nord
 ### Name
 
 - Dan Nord

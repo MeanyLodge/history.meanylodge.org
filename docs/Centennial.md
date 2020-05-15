@@ -2,7 +2,7 @@
 title: Centennial
 category: Event
 ---
-
+# Centennial
 ### 100 Years of Meany
 
 Meany's Centennial is in 2028.

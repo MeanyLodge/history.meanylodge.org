@@ -2,6 +2,7 @@
 title: Henrietta's Woods
 category: Place
 ---
+# Henrietta's Woods
 ### Location
 
 South of [Lower Slobbovia](Lower-Slobbovia), between [Phogbound Gulch](Phogbound-Gulch) and [RBCSA Gulch](RBCSA-Gulch).

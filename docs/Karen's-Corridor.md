@@ -2,6 +2,7 @@
 title: Karen's Corridor
 category: Place
 ---
+# Karen's Corridor
 ### Names
 
 - Karen's Corridor <sup>[nw][]</sup>

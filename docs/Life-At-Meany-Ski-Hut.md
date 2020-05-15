@@ -2,7 +2,7 @@
 title: Life At Meany Ski Hut
 category: Document
 ---
-Life At Meany Ski Hut
+# Life At Meany Ski Hut
 
 Excerped from "THE MOUNTAINEERS - A HISTORY", published 1998
 By [Jim Kjeldsen](Jim-Kjeldsen)

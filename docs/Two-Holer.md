@@ -3,7 +3,7 @@ title: Two Holer
 category: Building
 categories: Building Outhouse
 ---
-
+# Two Holer
 An outhouse.
 
 ### History

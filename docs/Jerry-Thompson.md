@@ -3,7 +3,7 @@ title: Jerry Thompson
 category: Person
 categories: Person Committee
 ---
-
+# Jerry Thompson
 ### Names
 
 - Jerry Thompson

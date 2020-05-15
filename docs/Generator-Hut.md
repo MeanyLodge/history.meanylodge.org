@@ -3,7 +3,7 @@ title: Generator Hut
 category: Building
 categories: Building
 ---
-
+# Generator Hut
 ### History
 
 #### 1948

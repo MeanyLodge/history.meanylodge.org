@@ -2,6 +2,7 @@
 title: Skiing and the Ski Hut
 category: Document
 ---
+# Skiing and the Ski Hut
 by Mrs. Stuart P. Walsh
 
 <img src="img/1928%20Meany%20Ski%20Hut.png" width="350px" alt="MEANY SKI HUT NEARS COMPLETION - PHOTO by C. A. Hultin" align="right">

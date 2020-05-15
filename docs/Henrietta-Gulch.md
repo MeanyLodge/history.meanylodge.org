@@ -2,6 +2,7 @@
 title: Henrietta Gulch
 category: Place
 ---
+# Henrietta Gulch
 Just to the south of [Henrietta's Meadow](Henrietta's-Meadow). <sup>[nw][]</sup>
 
 

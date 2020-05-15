@@ -2,6 +2,7 @@
 title: Kirkland Park
 category: Place
 ---
+# Kirkland Park
 ### Location
 
 Large open area to the southeast (skier's right) of the [Lane](Lane), immediately below [Soffreenia Wood](Soffreenia-Wood).
@@ -24,7 +25,6 @@ Work parties this fall have widened and smoothed _Kirkland Park_ until good skii
 
 The novice lane to the left of the tow begun last year has been lengthened and widened. <sup>[ma48][]</sup>
 
----
 
 [bk]: Bill-Kirkland
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"

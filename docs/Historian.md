@@ -1,10 +1,12 @@
 ---
-title: Historians
+title: Historian
 category: List
 ---
-### Historians
+# Historian
 
-* [Walter Little](Walter-Little)
+Custodians of Meany History
+
+* [Walter Little](Walter-Little) 1927-1989
 * [Idona Kellogg](Idona-Kellogg)
 * [Dave Claar](Dave-Claar)
 * [Emilio Marasco](Emilio-Marasco)

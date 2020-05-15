@@ -3,8 +3,9 @@ title: Kitchen
 category: Document
 categories: Document Place
 ---
+# Kitchen
 
-### Kitchen History
+### History
 
 #### 1928
 

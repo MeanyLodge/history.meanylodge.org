@@ -2,7 +2,7 @@
 title: Skiers Hit Trail with Snow Tractor
 category: Document
 ---
-SKIERS HIT TRAIL WITH SNOW TRACTOR
+# Skiers Hit Trail with Snow Tractor
 
 BY DON PAGE, THE SEATTLE POST-INTELLIGENCER, 24 FEBRUARY 1961
 

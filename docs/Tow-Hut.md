@@ -3,7 +3,7 @@ title: Tow Hut
 category: Building
 categories: Building Hut
 ---
-
+# Tow Hut
 The lower building that encloses the [Mach](Mach) rope tow and equipment.
 
 ### Known For
@@ -41,7 +41,6 @@ revise interior
 - remodeled inside of Tow Hut
 
 
----
 
 [hw]: History-Walt "Meany History, by Walt Little"
 [ma75]: Mountaineer-Annual#1975

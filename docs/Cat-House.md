@@ -3,7 +3,7 @@ title: Cat House
 category: Building
 categories: Building
 ---
-
+# Cat House
 ### Location
 
 In the [Industrial Park](Industrial-Park).
@@ -28,7 +28,6 @@ Constructed new shop building, 12' x 12', 1st floor, 2nd floor and attic. Move a
 
 The shed to house tractor parts was completed. <sup>[ma82][]</sup>
 
----
 
 [ma78]: Mountaineer-Annual#1978
 [ma80]: Mountaineer-Annual#1980

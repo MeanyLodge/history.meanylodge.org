@@ -2,6 +2,7 @@
 title: North Slobbovia
 category: Place
 ---
+# North Slobbovia
 ### Names
 
 - North Slobbovia
@@ -23,8 +24,6 @@ Puget Power constructed power line up [North Slobbovia](North-Slobbovia), under 
 
 All stumps have been removed from the transmission line right-of-way known as North and [South Slobbovia](South-Slobbovia). <sup>[ma67][]</sup>
 
-
----
 
 [hw]: History-Walt "Meany History, by Walt Little"
 [ma67]: Mountaineer-Annual#1967

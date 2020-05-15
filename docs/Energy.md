@@ -2,6 +2,7 @@
 title: Energy
 category: Document
 ---
+# Energy
 Meany currently has electricity service through Puget Sound Energy. We have gas, diesel, and propane tanks that are filled seasonally.
 
 ### History
@@ -124,7 +125,6 @@ Replaced all florescent (tubes and A19) bulbs in the Lodge, Tow Hut, Cat House, 
 - 2019-05-29: $1,224
 - 2019-09-30: $108
 
----
 
 [hr]: History-Reports "Meany History Reports, by Idona Kellogg"
 [hw]: History-Walt "Meany History, by Walt Little"

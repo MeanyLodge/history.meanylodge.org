@@ -2,6 +2,7 @@
 title: Harvey's Slot
 category: Place
 ---
+# Harvey's Slot
 ### Location
 
 South of the Nose in [Railroad Meadows](Railroad-Meadows), above [Ferguson Pool](Ferguson-Pool).<sup>[nw][]</sup>

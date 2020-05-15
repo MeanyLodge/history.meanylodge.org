@@ -3,7 +3,7 @@ title: Ox
 category: Machine
 categories: Machine Tractor
 ---
-
+# Ox
 A four-wheel drive Dodge truck used for summer work. Unlike most oxen, it hibernates all winter under the [Tow Hut](Tow-Hut).
 
 ### Specifications
@@ -30,8 +30,6 @@ An extension boom was built on Ox to lift machinery for all the tow work. <sup>[
 
 Replaced frame with frame from wrecked truck in Othello, plus much maintenance. <sup>[hw][]</sup>
 
-
----
 
 [ma78]: Mountaineer-Annual#1978
 [hr]: History-Reports "Meany History Reports, by Idona Kellogg"

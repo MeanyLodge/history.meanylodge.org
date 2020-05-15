@@ -3,11 +3,11 @@ title: Hippo
 category: Machine
 categories: Machine Groomer
 ---
-
+# Hippo
 ### Names
 
 - Hippo
-- Dave's baby
+- [Dave's](Dave-Claar) baby
 - the groomer
 
 ### Origin

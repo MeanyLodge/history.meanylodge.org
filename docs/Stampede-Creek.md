@@ -2,7 +2,7 @@
 title: Stampede Creek
 category: Place
 ---
-
+# Stampede Creek
 ### Names
 
 - Stampede Creek <sup>[nw][]</sup>

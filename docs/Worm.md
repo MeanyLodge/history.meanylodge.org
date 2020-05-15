@@ -3,7 +3,7 @@ title: Worm
 category: RopeTow
 categories: RopeTow Lift
 ---
-
+# Worm
 ### Location
 
 Short slow rope tow paralleling Mach Tow. Now exists as the [Super Worm](Super-Worm) tow.<sup>[nw][]</sup>
@@ -43,8 +43,6 @@ Some of the poles for the [Mach](Mach) and [Worm](Worm) tows were replaced. <sup
 #### 1987
 
 Revision to [Super Worm](Super-Worm) occurred in the summer of 1987. A new lower terminal was built 50' further down the hill. The speed increased to 800 feet per minute (9.1 MPH). Many of the parts for this tow donated by Crystal Mountain Inc. <sup>[dc87][]</sup>
-
----
 
 [dc87]: Dave-Claar#1987
 [hw]: History-Walt "Meany History, by Walt Little"

@@ -2,7 +2,7 @@
 title: Industrial Park
 category: Place
 ---
-### Industrial Park
+# Industrial Park
 
 Home of the following [Buildings](Buildings):
 - [Cat House](Cat-House)

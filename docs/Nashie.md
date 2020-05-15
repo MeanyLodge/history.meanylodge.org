@@ -3,7 +3,7 @@ title: Nashie
 category: Person
 categories: Person Cook
 ---
-
+# Nashie
 ### Names
 
 - Nashie
@@ -66,7 +66,6 @@ My greatest satisfaction has been to watch the growth of character that has come
 
 Also achieving legendary status at Meany was Nashie Iverson, wife of a Northern Pacific Railroad engineer. In the early years, it was difficult to find a cook for the weekend outings, but in 1935 the hut committee prevailed upon Nashie to take the job.<sup>[life][]</sup>
 
----
 
 [life]: Life-At-Meany-Ski-Hut
 [ma56]: Mountaineer-Annual#1956

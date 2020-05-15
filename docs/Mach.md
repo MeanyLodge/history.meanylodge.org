@@ -3,7 +3,7 @@ title: Mach
 category: RopeTow
 categories: RopeTow
 ---
-
+# Mach
 ### Description
 
 Mach is the largest tow rope at Meany and it pulls skiers up [Kirkland Park](Kirkland-Park) and the [Lane](Lane).
@@ -180,7 +180,6 @@ There was a fairly detailed maintenance log in the tow hut at one time as requir
 
 The current motor systems on the small and medium tows were installed several years earlier when tow operators were having trouble managing the rotary phase converter.
 
-----
 
 [dc87]: Dave-Claar#1987
 [hw]: History-Walt "Meany History, by Walt Little"

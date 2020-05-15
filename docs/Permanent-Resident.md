@@ -2,6 +2,8 @@
 title: Permanent Resident
 category: List
 ---
+# Permanent Resident
+
 Meany holds a special place in the hearts of many. For a few, there's a special place at Meany for their heart.
 
 * [Ray Hecox](Ray-Hecox)

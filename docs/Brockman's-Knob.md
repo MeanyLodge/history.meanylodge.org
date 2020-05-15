@@ -2,6 +2,7 @@
 title: Brockman's Knob
 category: Place
 ---
+# Brockman's Knob
 ### Location
 
 High point just above the water supply dam.<sup>[nw][]</sup>

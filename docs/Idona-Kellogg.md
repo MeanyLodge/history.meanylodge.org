@@ -3,7 +3,7 @@ title: Idona Kellogg
 category: Person
 categories: Person Historian
 ---
-
+# Idona Kellogg
 ### Roles
 
 * [Historian](Historian)

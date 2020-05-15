@@ -4,7 +4,7 @@ category: Person
 categories: Person
 tags: founder
 ---
-
+# Edmond S. Meany
 ### Names
 
 * Edmond Meany

@@ -2,6 +2,7 @@
 title: Elevator Shaft
 category: Place
 ---
+# Elevator Shaft
 ### Location
 
 Steep short pitch just before the [Kitchen Jump](Kitchen-Jump).<sup>[nw][]</sup>

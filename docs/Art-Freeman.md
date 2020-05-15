@@ -3,7 +3,7 @@ title: Art Freeman
 category: Person
 categories: Person Instructor
 ---
-
+# Art Freeman
 ### Roles
 
 - [Instructor](Instructor)

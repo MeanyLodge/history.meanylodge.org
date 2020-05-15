@@ -3,7 +3,7 @@ title: Norm Vigus
 category: Person
 categories: Person Instructor
 ---
-
+# Norm Vigus
 ### Roles
 
 * Ski [Instructor](Instructor)

@@ -2,6 +2,7 @@
 title: Iggle's Nest
 category: Place
 ---
+# Iggle's Nest
 ### Location
 
 A rocky lump on the side of [North Slobbovia](North-Slobbovia).

@@ -3,14 +3,14 @@ title: Tom Cat
 category: Machine
 categories: Machine, Tractor
 ---
-
-## Name
+# Tom Cat
+### Name
 
 In 1960 when this Bombardier Snow Tractor was acquired, this machine was referred to as the Snow Tractor.
 
 When [Pack Rat](Pack-Rat) was acquired in 1977, there were two snow tractors. This one was named "Tom Cat" after [Tom Van Devanter](Tom-Van-Devanter) who had driven it since the beginning.
 
-## Purpose
+### Purpose
 
 Used to haul people, gear, and supplies ~3 miles from the Crystal Springs Sno-Park to Meany. Bought in 1960 when the NPRR discontinued passenger train service to Martin.
 
@@ -120,7 +120,6 @@ When it arrives, two long ropes are tossed off the back of the covered tractor w
 
 In January, at a special mid-week work party, the following persons trekked up to Meany Lodge to put new tracks on Tom Cat: [Chuck Welter](Chuck-Welter), [Matt Simerson](Matt-Simerson), [Dan Nord](Dan-Nord), [James Kotlik](James-Kotlik), [Norm Vigus](Norm-Vigus), [Michael Froebe](Michael-Froebe), [Rick Ingham](Rick-Ingham)
 
----
 
 [oly]: https://www.theolympian.com/outdoors/article25316305.html
 [htt]: Skiers-Hit-The-Trail

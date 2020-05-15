@@ -2,9 +2,8 @@
 title: Meany Machines
 category: List
 ---
+# Machines
 It's a thing, Meany machines have animal names.
-
-😵 = defunct
 
 ### Snow Tractors
 
@@ -31,3 +30,5 @@ It's a thing, Meany machines have animal names.
 ### Wagons / Sleds
 
 * [Thing 1](Thing-1), Thing 2, Thing 3
+
+😵 = defunct

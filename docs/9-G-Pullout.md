@@ -2,6 +2,7 @@
 title: 9-G Pullout
 category: Place
 ---
+# 9-G Pullout
 ### Location
 
 A very steep slope from [Brockman's Knob](Brockman's-Knob) straight down to the [Water](Water) supply. <sup>[nw][]</sup>

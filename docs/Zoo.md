@@ -3,6 +3,7 @@ title: Zoo
 category: Building
 categories: Building
 ---
+# Zoo
 
 ### Location
 
@@ -28,8 +29,6 @@ Construction of the Zoo was led by [Mike Lonergan](Mike-Lonergan). The field wor
 
 Now that I dig through old notes, I believe the floor has welded wire mesh--I have no idea on gauge or spacing.  We did not have the money for rebar, we did not have the labor units to tie rebar, and we did not have a good way of transporting long loads. --[Mike Lonergan](Mike-Lonergan), May 2020
 
-
----
 
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"
 [wp93]: Work-Parties#1993

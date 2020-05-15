@@ -3,7 +3,7 @@ title: Edifice Wreck
 category: Building
 categories: Building
 ---
-
+# Edifice Wreck
 ### Names
 
 - Edifice Wreck <sup>[nw][]</sup>
@@ -17,7 +17,7 @@ Below the RR tracks, directly below the [Ice Fall](Ice-Fall), which is nearly st
 
 A small shack built below RR track to store gasoline for [Tom Cat](Tom-Cat). <sup>[nw][]</sup>
 
-<img src="img/2020%20Edifus%20Wrecks.jpeg" width="300px">
+<img src="img/2020%20Edifus%20Wreck.jpeg" width="300px">
 
 ### History
 
@@ -37,8 +37,6 @@ Soon we cross the bridge, up the slope to a peculiar little structure below the 
 
 Abandoned when it became possible to run [Tom Cat](Tom-Cat) over the BNRR to the [Lodge](Lodge).
 
-
----
 
 [hw]: History-Walt "Meany History, by Walt Little"
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"

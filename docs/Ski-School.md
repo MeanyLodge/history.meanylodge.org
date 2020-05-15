@@ -2,6 +2,7 @@
 title: Ski School
 category: Document
 ---
+# Ski School
 ### Organizers
 
 * [Patti Polinsky](Patti-Polinsky)
@@ -53,7 +54,6 @@ Meany Ski School enticed a record number of downhill skiers. Classes were filled
 Cross-country ski lessons were started. Telemark turn practice on the became popular as did use of Meany's six major cross-country loop trails. <sup>[hr][]</sup>
 
 
----
 [hr]: History-Reports "Meany History Reports, by Idona Kellogg"
 [ma41]: Mountaineer-Annual#1941)
 [ma47]: Mountaineer-Annual#1947)

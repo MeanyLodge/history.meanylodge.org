@@ -2,7 +2,6 @@
 title: The Development of Skiing in the Mountaineers
 category: Document
 ---
-
 # The Development of Skiing in the Mountaineers
 ## by [Robert H. Hayes](Robert-Hayes)
 

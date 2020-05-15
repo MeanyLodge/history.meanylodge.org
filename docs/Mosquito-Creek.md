@@ -2,6 +2,7 @@
 title: Mosquito Creek
 category: Place
 ---
+# Mosquito Creek
 ### Names
 
 - Mosquito Creek <sup>[nw][]</sup>
@@ -13,7 +14,5 @@ About 1/4 mile west of the point where the [Tom Cat](Tom-Cat) road crosses the M
 
 Location of frequent floodings.<sup>[nw][]</sup>
 
-
----
 
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"

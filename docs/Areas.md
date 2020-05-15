@@ -2,9 +2,9 @@
 title: Areas
 category: List
 ---
-## Areas, Items, and Points of Interest
+## Areas
 
-Grouped by general locale, north to south
+Areas, Items, and Points of Interest, grouped by general locale, north to south.
 
 * [Lodge](Lodge)
     * [Industrial Park](Industrial-Park)
@@ -15,6 +15,7 @@ Grouped by general locale, north to south
         - [Ferguson Pool](Ferguson-Pool)
         - [Stampede Creek](Stampede-Creek), aka Martin Creek
     - [Psychopath](Psychopath)
+        - [Nose](Nose)
         - [Karen's Corridor](Karen's-Corridor)
         - [Richard's Ravine](Richard's-Ravine)
         - [Railroad Curve](Railroad-Curve)

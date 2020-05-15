@@ -2,6 +2,7 @@
 title: Events
 category: List
 ---
+# Events
 
 * [Carnival](Carnival)
 * [Competitions](Competitions)

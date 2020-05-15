@@ -3,7 +3,7 @@ title: Ray Nelson
 category: Person
 categories: Person Chair
 ---
-
+# Ray Nelson
 ### Names
 
 * the "Boss"
@@ -33,7 +33,6 @@ Ray Nelson made two wooden couches and a bench for Meany's basement.<sup>[hr][]<
 
 Excellence in Engineering and Operations Award from [Northwest Public Power Assocation](https://nwppa.org)
 
----
 
 [hr]: History-Reports "Meany History Reports, by Idona Kellogg"
 [ma77]: Mountaineer-Annual#1977

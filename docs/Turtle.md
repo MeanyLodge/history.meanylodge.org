@@ -3,7 +3,7 @@ title: Turtle
 category: RopeTow
 categories: RopeTow
 ---
-
+# Turtle
 ### Location
 
 SE of [Mach](Mach).
@@ -36,8 +36,6 @@ For downhill skiers, a new Beginners Ski Area was developed with a grade of seve
 
 Meany Ski Lodge continues to operate their downhill rope tows, and in fact, has added a beginner tow. <sup>[ma83][]</sup>
 
-
----
 
 [dc87]: Dave-Claar#1987
 [hw]: History-Walt "Meany History, by Walt Little"

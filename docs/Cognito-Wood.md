@@ -2,6 +2,7 @@
 title: Cognito Wood
 category: Place
 ---
+# Cognito Wood
 ### Location
 
 Lies between the [Lane](Lane) and [Kitchen Run](Kitchen-Run).

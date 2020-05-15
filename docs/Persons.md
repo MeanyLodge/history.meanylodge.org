@@ -2,6 +2,7 @@
 title: Persons
 category: List
 ---
+# Persons
 ## Lists / Roles
 
 * [Chair](Chair)
@@ -81,9 +82,9 @@ Follow this template for organizating a person page:
 If those sections are missing from a person please add it and cite the source. If the source is personal knowledge, tag it with your name. Or send it to Matt-Simerson to post.
 
 <ul>
-    {% for doc in site.pages %}
-      {% if doc.category == "Person" %}
-        <li><a href="/History{{ doc.url }}">{{ doc.title }}</a></li>
-      {% endif %}
-    {% endfor %}
+  {% for doc in site.pages %}
+    {% if doc.category == "Person" %}
+      <li><a href="/History{{ doc.url }}">{{ doc.title }}</a></li>
+    {% endif %}
+  {% endfor %}
 </ul>

@@ -2,6 +2,8 @@
 title: Buildings
 category: List
 ---
+# Buildings
+
 Buildings and Structures on the Meany Campus.
 
 * [Lodge](Lodge)

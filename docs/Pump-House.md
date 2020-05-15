@@ -3,6 +3,10 @@ title: Pump House
 category: Building
 categories: Building
 ---
+# Pump House
+### Names
+- Pump House
+- Hoe House (ask Amy, I dare you)
 
 ### Description
 
@@ -14,7 +18,7 @@ South of the [Industrial Park](Industrial-Park).
 
 ### More Info
 
-Built in 2019 by Matt Simerson. Hauled to Meany by [Jim Fahey](Jim-Fahey) in a box truck and reassembled by a Meany work party.
+Designed and built in 2019, in Shoreline, by [Matt Simerson](Matt-Simerson). It was then disassembled, hauled to Meany by [Jim Fahey](Jim-Fahey) in a box truck and reassembled by a Meany work party.
 
 Cost: $1,689
 

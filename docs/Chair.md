@@ -2,6 +2,9 @@
 title: Chair
 category: List
 ---
+# Chair
+
+Holders of the Meany Chair position.
 
 | Year      | Person | Comments |
 | --------- | ------ | -------- |

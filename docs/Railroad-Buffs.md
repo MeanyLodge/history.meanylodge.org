@@ -3,7 +3,6 @@ title: Railroad Buffs
 category: Event
 ---
 # Railroad Buffs
-
 ### History
 
 #### 1986

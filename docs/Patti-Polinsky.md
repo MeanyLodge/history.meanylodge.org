@@ -3,7 +3,7 @@ title: Patti Polinsky
 category: Person
 categories: Person Instructor
 ---
-
+# Patti Polinsky
 ### Names
 
 * Patti Polinsky
@@ -56,7 +56,6 @@ Record crowds were drawn to Meany Ski Hut this season by plentiful snow, fantast
 
 I'm a ski INSTRUCTOR because of Patti.  Because Patti encouraged me to take responsibility for the pre-and-early teens, the mostly mindless adolescent boys after they graduated from her class, to actually imagine that I might have something to give them.  And then later, to connect me with the Olympic Ski School for my first experience with a "standard" ski program, and then with Ski Masters so I could get my Level 1 certification, and then with the bigger world of PSIA-NW that eventually lead me to the Summit Snowsport School, and that's how I became a ski instructor.  And by becoming an instructor, I became a skier, instead of the wannabe who could somehow get down the steep stuff without crashing and burning -- too much.  Because the best way to learn is to teach.  Which I learned from Patti. -- [Dan Nord](Dan-Nord)
 
----
 
 [ma77]: Mountaineer-Annual#1977
 [ma78]: Mountaineer-Annual#1978

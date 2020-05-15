@@ -2,6 +2,7 @@
 title: Helser's Ess
 category: Place
 ---
+# Helser's Ess
 ### Location
 
 From the top of the [Lane](Lane) to the bottom through the woods.<sup>[n9][]</sup>

@@ -2,6 +2,7 @@
 title: Nikki's Trail
 category: Place
 ---
+# Nikki's Trail
 ### History
 
 #### 1986

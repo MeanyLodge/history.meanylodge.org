@@ -2,6 +2,7 @@
 title: Railroad Meadows
 category: Place
 ---
+# Railroad Meadows
 ### Location
 
 An area lying west of the headpole of [Mach](Mach), about 600' above the stampede tunnel.
@@ -14,8 +15,6 @@ About 1974 the Meany troops completed the partial clearing and grading of an are
 
 Approximate completion date of clearing of Railroad Meadows and [Psychopath](Psychopath). <sup>[ma78][]</sup>
 
-
----
 
 [ma78]: Mountaineer-Annual#1978
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"

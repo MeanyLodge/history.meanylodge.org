@@ -2,10 +2,9 @@
 title: Work Parties
 category: Event
 ---
+# Work Parties
 
-## Meany Work Parties
-
-Meany is an all-volunteer lodge. Everything at Meany is the result of tens of thousands of hours donated by many hundreds of individuals. This document is maintained by [Matt Simerson](Matt-Simerson). Send him updates and more stuff will appear here.
+Meany is an all-volunteer lodge. Everything at Meany is the result of tens of thousands of hours donated by many hundreds of individuals. This document is maintained by [Matt Simerson](Matt-Simerson). Send him **brief** updates and more stuff will appear here.
 
 <img src="img/1948%20Meany%20Work%20Party.png" alt="sketch of meanyites working" width="320px" align="right">
 

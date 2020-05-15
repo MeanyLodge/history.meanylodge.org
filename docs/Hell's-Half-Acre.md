@@ -2,6 +2,7 @@
 title: Hell's Half-acre
 category: Place
 ---
+# Hell's Half-acre
 ### Location
 
 A patch of ground north of the [Lane](Lane) and south of [Cognito Wood](Cognito-Wood). <sup>[nw][]</sup>

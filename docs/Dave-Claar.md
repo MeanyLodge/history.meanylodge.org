@@ -3,7 +3,7 @@ title: Dave Claar
 category: Person
 categories: Person Driver Historian Instructor Mechanic
 ---
-
+# Dave Claar
 ### Events
 
 * Meany Since: before 1977
@@ -43,7 +43,6 @@ Snail Tow: New tow build in summer of 1986-1987 located SE of [Mach](Mach) tow. 
 
 What I think of, when I think of Dave, is dedication. To Meany. To the cross-country trail system around our lodge, and the endless hours he has spent keeping these trails groomed. To the ski trips that Patti takes to Europe, with Dave providing so much of the day-to-day logistics, freeing Patti to ski with her guests. To the bunnies that he and Patti have rescued and raised. To the Mountaineers, particularly its property division. Dave is there. Where he needs to be. -- [Dan Nord](Dan-Nord)
 
----
 
 [ma77]: Mountaineer-Annual#1977
 [ma79]: Mountaineer-Annual#1979

@@ -3,7 +3,7 @@ title: Chuck Welter
 category: Person
 categories: Person Chair Mechanic Operator
 ---
-
+# Chuck Welter
 ### Roles
 
 * [Chair](Chair)
@@ -15,6 +15,6 @@ categories: Person Chair Mechanic Operator
 * Chuck-isms
     * "If I catch anyone sledding on that hill without a helmet, I will duct tape them to a tree." - 2019
     * "Not my first rodeo"
-    * "talk about you with unloving and unchristian terms"
-    * "we encourage to take your children but it's optional"
+    * "with unloving and unchristian terms"
+    * "we encourage you to take your children but it's optional"
     * "you won't hear the train until it's in your back pocket"

@@ -3,7 +3,7 @@ title: Shawn Bertagnole
 category: Person
 categories: Person Driver Mechanic
 ---
-
+# Shawn Bertagnole
 ### Role
 
 * [Driver](Driver)

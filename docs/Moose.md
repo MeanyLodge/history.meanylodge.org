@@ -3,7 +3,7 @@ title: Moose
 category: Machine
 categories: Machine
 ---
-
+# Moose
 A snow tractor with a custom 8' square bed.
 
 ### Purpose

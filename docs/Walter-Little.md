@@ -3,9 +3,10 @@ title: Walter Little
 category: Person
 categories: Person
 ---
-
+# Walter Little
 ### Names
 
+- Walt Little
 - Walter B. Little
 - Walter Burges Little
 
@@ -69,8 +70,6 @@ Other skit characters were the minister ([Dave Claar](Dave-Claar)) and the victi
 
 It all started when the "Advanced Emissary of the New Year's Baby," Walter B. Little, appeared. <sup>[ma82][]</sup>
 
-
----
 
 [hw]: History-Walt "Meany History, by Walt Little"
 [ma40]: Mountaineer-Annual#1940

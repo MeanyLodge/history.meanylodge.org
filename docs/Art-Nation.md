@@ -3,7 +3,7 @@ title: Art Nation
 category: Person
 categories: Person
 ---
-
+# Art Nation
 ### Known For
 
 - [Damnation](Damnation)

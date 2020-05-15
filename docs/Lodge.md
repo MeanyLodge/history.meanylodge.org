@@ -3,7 +3,7 @@ title: Lodge
 category: Building
 categories: Building
 ---
-
+# Lodge
 <img src="img/1928%20Meany%20Ski%20Hut.png" width="250px" alt="Meany Lodge construction photo" align="right">
 
 ### Areas
@@ -140,8 +140,6 @@ Revise kitchen, added fire prevention sheeting, revise plumbing, move range from
 
 The major project completed was the excavation of about a fourth of the basement and the construction of a new classroom in its place.<sup>[ma91][]</sup>
 
-
----
 
 [hut]: Skiing-and-the-Ski-Hut
 [hw]: History-Walt "Meany History, by Walt Little"

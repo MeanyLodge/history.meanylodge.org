@@ -2,7 +2,7 @@
 title: Soffreenia Wood
 category: Place
 ---
-
+# Soffreenia Wood
 ### Location
 
 Patch of woods to southeast of [Mach](Mach) Tow. <sup>[nw][]</sup>
@@ -17,8 +17,6 @@ Meany web site: A play on words (so-free-in-the-woods). <sup>[n9][]</sup>
 
 Home of [Yellow Rock](Yellow-Rock).
 
-
----
 
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"
 [n9]: Names-2009 "Meany Names, by Brian Thompson & Emilio Marasco"

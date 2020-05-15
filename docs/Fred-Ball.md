@@ -3,6 +3,7 @@ title: Fred Ball
 category: Person
 categories: Person Chair
 ---
+# Fred Ball
 ### Events
 
 * Birth: 1897

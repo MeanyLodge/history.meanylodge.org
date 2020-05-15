@@ -2,7 +2,7 @@
 title: Tombstone Canyon
 category: Place
 ---
-
+# Tombstone Canyon
 ### Location
 
 Runs down the center of [Lower Slobbovia](Lower-Slobbovia)
@@ -21,7 +21,6 @@ a new bridge was placed across Tombstone Canyon
 
 A special hill brushing work party cleared tombstone canyon of brush. This had not been done for many years. <sup>[hr][]</sup>
 
----
 
 [hr]: History-Reports "Meany History Reports, by Idona Kellogg"
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"

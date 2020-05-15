@@ -1,9 +1,9 @@
 ---
-title: Tom Van Devanter
+title: Tom Van DeVanter
 category: Person
 categories: Person Chair Driver Mechanic
 ---
-
+# Tom Van DeVanter
 ### Roles
 
 * [Chair](Chair)
@@ -29,7 +29,6 @@ The Snow Tractor was renamed to [Tom Cat](Tom-Cat) in Tom's honor, since he had 
 
 The Bombardier Snow Tractor used to haul everything three miles from I-90 to Meany. Bought in 1960, when the NPRR discontinued passenger train service. Tom Van Devanter has driven it since the beginning; hence the name "Tom Cat." <sup>[hw][]</sup>
 
----
 
 [hw]: Names-Walt "Meany Names by Walter Little, 1984"
 [htt]: Skiers-Hit-The-Trail

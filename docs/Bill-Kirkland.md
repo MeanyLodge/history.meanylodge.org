@@ -3,7 +3,7 @@ title: Bill Kirkland
 category: Person
 categories: Person
 ---
-
+# Bill Kirkland
 ### Events
 
 - Birth: before 1920

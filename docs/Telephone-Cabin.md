@@ -3,9 +3,12 @@ title: Telephone Cabin
 category: Building
 categories: Building
 ---
+# Telephone Cabin
+The lodging for the tenders of the first transcontinental telephone line.<sup>[n9][]</sup>
 
-The lodging for the tenders of the first transcontinental telephone line.
+### Names
+- Telephone Cabin
+- Telephone Shack
 
-## Sources
 
-- [Names 2009](Names-2009)
+[n9]: Names-2009

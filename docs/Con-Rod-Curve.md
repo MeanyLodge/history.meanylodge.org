@@ -2,6 +2,7 @@
 title: Con-Rod Curve
 category: Place
 ---
+# Con-Rod Curve
 ### Location
 
 Forest Service Road 54 - just east of the Yakima River bridge.

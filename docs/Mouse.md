@@ -3,6 +3,7 @@ title: Mouse
 category: Machine
 categories: Machine Snowmobile
 ---
+# Mouse
 
 A snowmobile owned by [Al Alleman](Al-Alleman) and used for errands, thrills, and chills. <sup>[nw][]</sup>
 
@@ -11,6 +12,5 @@ A snowmobile owned by [Al Alleman](Al-Alleman) and used for errands, thrills, an
 - Mouse
 - Mighty Mouse
 
----
 
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"
