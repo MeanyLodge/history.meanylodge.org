@@ -126,6 +126,13 @@
 /docs/img/walter-little.png filter=lfs diff=lfs merge=lfs -text
 /docs/Mountaineer-Annual.md filter=lfs diff=lfs merge=lfs -text
 /docs/img/2020[[:space:]]RedFox[[:space:]]Skandic.jpg filter=lfs diff=lfs merge=lfs -text
+/reference/1989[[:space:]]Meany[[:space:]]History,[[:space:]]Walt.pdf filter=lfs diff=lfs merge=lfs -text
+/reference/1992[[:space:]]Nashie,[[:space:]]Times.pdf filter=lfs diff=lfs merge=lfs -text
+/reference/2005[[:space:]]Groomer[[:space:]]Guide.pdf filter=lfs diff=lfs merge=lfs -text
+/reference/2013[[:space:]]Meany-[[:space:]]Skiing[[:space:]]Like[[:space:]]In[[:space:]]The[[:space:]]Days[[:space:]]of[[:space:]]Yore.pdf filter=lfs diff=lfs merge=lfs -text
+/reference/2017[[:space:]]Meany[[:space:]]Zoo[[:space:]]Floor.pdf filter=lfs diff=lfs merge=lfs -text
+/reference/Meany[[:space:]]Names,[[:space:]]Claar.pdf filter=lfs diff=lfs merge=lfs -text
+/reference/Meany[[:space:]]Names,[[:space:]]Walt.pdf filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -140,13 +147,6 @@
 /docs/Names-Walt.md filter=lfs diff=lfs merge=lfs -text
 /docs/Skiing-in-Retrospect.md filter=lfs diff=lfs merge=lfs -text
 /docs/favicon.ico filter=lfs diff=lfs merge=lfs -text
-/reference/1989[[:space:]]Meany[[:space:]]History,[[:space:]]Walt.pdf filter=lfs diff=lfs merge=lfs -text
-/reference/1992[[:space:]]Nashie,[[:space:]]Times.pdf filter=lfs diff=lfs merge=lfs -text
-/reference/2005[[:space:]]Groomer[[:space:]]Guide.pdf filter=lfs diff=lfs merge=lfs -text
-/reference/2013[[:space:]]Meany-[[:space:]]Skiing[[:space:]]Like[[:space:]]In[[:space:]]The[[:space:]]Days[[:space:]]of[[:space:]]Yore.pdf filter=lfs diff=lfs merge=lfs -text
-/reference/2017[[:space:]]Meany[[:space:]]Zoo[[:space:]]Floor.pdf filter=lfs diff=lfs merge=lfs -text
-/reference/Meany[[:space:]]Names,[[:space:]]Claar.pdf filter=lfs diff=lfs merge=lfs -text
-/reference/Meany[[:space:]]Names,[[:space:]]Walt.pdf filter=lfs diff=lfs merge=lfs -text
 /reference/nelson-stampede.md filter=lfs diff=lfs merge=lfs -text
 /reference/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /reference/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
