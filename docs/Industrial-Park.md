@@ -8,7 +8,7 @@ Home of the following [Buildings](Buildings):
 - [Cat House](Cat-House)
 - [Zoo](Zoo)
 - [Dozer Tipi](Dozer-Tipi)
-- [Two Holer](Two-Holer).
+- [Jane](Jane).
 
 ### Location
 

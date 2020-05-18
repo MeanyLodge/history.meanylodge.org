@@ -8,6 +8,9 @@ categories: Person Mechanic
 - Bob Grass
 - Robert Grass
 
+### Events
+- First year at Meany: 1960 or 1961<sup>[rg][]</sup>
+
 ### Roles
 * [Mechanic](Mechanic)
 
@@ -22,3 +25,4 @@ categories: Person Mechanic
 
 
 [hr]: History-Idona "Meany History Reports, by Idona Kellogg"
+[rg]: # "Email from Robert Grass to Matt Simerson, 2020-05-15"

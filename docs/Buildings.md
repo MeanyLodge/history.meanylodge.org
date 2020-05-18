@@ -17,7 +17,7 @@ Buildings and Structures on the Meany Campus.
 * [Tow Hut](Tow-Hut)
 * [Top Hut](Top-Hut)
 * [One Holer](One-Holer)
-* [Two Holer](Two-Holer)
+* [Jane](Jane)
 * [Dozer Tipi](Dozer-Tipi)
 * Defunct:
     * [Edifice Wreck](Edifice-Wreck)

@@ -1,9 +1,12 @@
 ---
-title: Two Holer
+title: Jane
 category: Building
 categories: Building Outhouse
 ---
-# Two Holer
+# Jane
+### Names
+- Jane
+
 An outhouse.
 
 ### History
