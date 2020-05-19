@@ -1,1 +1,1 @@
-The site is [published here](https://meanylodge.github.io/History/).
+The site is [published here](https://meanylodge.github.io/).
