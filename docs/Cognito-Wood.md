@@ -14,3 +14,4 @@ Has been considerably thinned and trimmed. Still, when you are there you are wel
 
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"
 [n9]: Names-2009 "Meany Names, by Brian Thompson & Emilio Marasco"
+[map]: Meany-Map

@@ -3,16 +3,16 @@ title: Runs
 category: List
 ---
 # Ski Runs
+<img src="img/2020%20Meany%20Map.jpeg" align="right" style="width: 40%;">
 
 See [Meany Hill](Meany-Hill) for a geographically ordered tour of the ski runs and areas on Meany Hill.
 
-* [Al's Fringe](Al's-Fringe)
-* [Kirkland Park](Kirkland-Park)
 * [Cat Track](Cat-Track)
 * [Cognito Wood](Cognito-Wood)
 * [Damnation](Damnation)
 * [Harvey's Slot](Harvey's-Slot)
 * [Henrietta's Woods](Henrietta's-Woods)
+* [Kirkland Park](Kirkland-Park)
 * [Kitchen Run](Kitchen-Run)
 * [Lane](Lane)
 * [Lefty](Lefty)

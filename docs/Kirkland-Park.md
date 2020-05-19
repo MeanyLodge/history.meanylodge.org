@@ -3,6 +3,8 @@ title: Kirkland Park
 category: Place
 ---
 # Kirkland Park
+<img src="img/2020-Kirkland-Park.jpeg" style="width: 40%;" alt="Kirkland Park ski run" align="right">
+
 ### Location
 
 Large open area to the southeast (skier's right) of the [Lane](Lane), immediately below [Soffreenia Wood](Soffreenia-Wood).
@@ -30,3 +32,4 @@ The novice lane to the left of the tow begun last year has been lengthened and w
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"
 [ma41]: Mountaineer-Annual#1941
 [ma48]: Mountaineer-Annual#1948
+[map]: Meany-Map
