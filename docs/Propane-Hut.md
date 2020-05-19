@@ -4,21 +4,29 @@ category: Building
 categories: Building
 ---
 # Propane Hut
-### Names
+<img src="img/2020%20Propane%20Hut.jpeg" alt="Meany Propane Hut" align="right" style="width: 50%;">
 
+### Names
 - Propane Hut
-- Walter's Little Spring
+- [Walter's](Walter-Little) Little Spring
 - Walter's Spring Water Garden
 
-### Info
+### Location
+Just west of the [Lodge](Lodge)
 
-![Meany Propane Hut](img/2020%20Propane%20Hut.jpeg)
+### Purpose
+Intially, to enclose a 500-gallon propane tank. Now it is storage.
 
+### Events
+- Constructed: 2001
+- Stoop added: 2002
+
+---
 ### History
 
 #### 2003
 
-Built in 2001. Tank capacity is 500 gallons and will last through a season. The tank replaces several smaller tanks, which were kept in the generator hut nearby and did not meet today's safety code requirements.<sup>[75th][]</sup>
+**Propane Hut**: Built in 2001. Tank capacity is 500 gallons and will last through a season. The tank replaces several smaller tanks, which were kept in the generator hut nearby and did not meet today's safety code requirements.<sup>[75th][]</sup>
 
 #### 2NNN
 

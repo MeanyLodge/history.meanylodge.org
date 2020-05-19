@@ -4,8 +4,7 @@ category: Person
 categories: Person Committee Driver Instructor
 ---
 # Dan Nord
-### Name
-- Dan Nord
+<img src="img/2020-Dan-Nord.jpeg" style="width: 50%;" align="right">
 
 ### Roles
 - [Committee](Committee)

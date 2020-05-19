@@ -8,13 +8,12 @@ categories: Building
 - Pump House
 - Hoe House (ask Amy, I dare you)
 
-### Description
-
-Part of the [Water](Water) system. It encloses the well head and reservoir access. The hut make it easier to maintain the water system in the winter. It also protects it from the elements and rogue snow machines.
-
 ### Location
-
 South of the [Industrial Park](Industrial-Park).
+
+### Purpose
+
+Part of the [Water](Water) system. It encloses the well head and reservoir access. The hut make it dramatically easier to maintain the water system in the winter. It also protects it from the elements and rogue snow machines.
 
 ### More Info
 

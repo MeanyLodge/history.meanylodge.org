@@ -3,14 +3,19 @@ title: Dozer Tipi
 category: Building
 categories: Building
 ---
-# Dozer Tipi
 <img src="img/2020%20Dozer%20Tipi.jpeg" style="width: 40%;" alt="Bulldozer Tipi" align="right">
-In the [Industrial Park](Industrial-Park) is a tipi covering a bulldozer owned by [Bob Bentler](Bob-Bentler).
-
+# Dozer Tipi
 ### Names
 - Dozer Tipi
 - Dozer Hut
 
+### Location
+In the [Industrial Park](Industrial-Park).
+
+### Purpose
+To shelter a bulldozer owned by [Bob Bentler](Bob-Bentler).
+
+---
 ### History
 
 #### 2003

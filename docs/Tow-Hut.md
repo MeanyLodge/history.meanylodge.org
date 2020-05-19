@@ -11,6 +11,9 @@ The lower building that encloses the [Mach](Mach) rope tow and equipment.
 - Tow Hut
 - Operator Shack
 
+### Location
+At the base of [Meany Hill](Meany-Hill), SE of the [Lodge](Lodge).
+
 ### Purpose
 - Enclose [Mach](Mach) tow machinery
 - Electrical machinery for all 3 tows
@@ -20,8 +23,8 @@ The lower building that encloses the [Mach](Mach) rope tow and equipment.
 ### Events
 - Construction: 1938
 
+---
 ### History
-
 #### 1938
 
 Tow Hut was made of logs cut from trees from widening the [Lane](Lane).

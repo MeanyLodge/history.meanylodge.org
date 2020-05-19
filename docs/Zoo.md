@@ -10,14 +10,18 @@ categories: Building
 
 In the [Industrial Park](Industrial-Park).
 
-### Description
+### Purpose
 
-The Zoo is the veterinary hospital for Meany animals. In the Zoo, the [veterinarians](Mechanic) administer the copious amounts of TLC needed to keep them going. Since the Zoo is only big enough for one critter at a time, the [Machines](Machines) take turns breaking down. If you believe that one, we've got a Tom Cat differential we'd like to sell you.
+The Zoo is the veterinary hospital for Meany [animals](Machines). In the Zoo, the [veterinarians](Mechanic) administer the TLC needed to keep them going. Since the Zoo is only big enough for one critter at a time, the [Machines](Machines) take turns breaking down. If you believe that one, we've got a Tom Cat differential we'd like to sell you.
+
+### Events
+- Construction: 1993
 
 ### See Also
 
 - Zoo [Building Plans](/reference/Zoo-Plans.pdf)
 
+---
 ### History
 
 #### 1984

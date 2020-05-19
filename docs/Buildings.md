@@ -17,9 +17,12 @@ Buildings and Structures on the Meany Campus.
     - [Jane](Jane)
     - [Pump House](Pump-House)
 - [Tow Hut](Tow-Hut)
+    - [Top Hut](Top-Hut)
     - [Diesel Hut](Diesel-Hut)
     - [One Holer](One-Holer)
-- [Top Hut](Top-Hut)
 - [Telephone Cabin](Telephone-Cabin)
 - Defunct:
     - [Edifice Wreck](Edifice-Wreck)
+
+
+###### [template](Building-Template)

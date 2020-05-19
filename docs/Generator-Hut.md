@@ -3,11 +3,21 @@ title: Generator Hut
 category: Building
 categories: Building
 ---
-# Generator Hut
 <img src="img/2020%20Generator%20Hut.jpeg" style="width: 40%;" align="right">
+# Generator Hut
+### Location
+Just west of the [Lodge](Lodge).
 
+### Purpose
+- House the backup generator.
+- Housed propane cylinders prior to construction of the [Propane Hut](Propane-Hut)
+
+### Events
+- Construction: 1948
+- Addition: 1982
+
+---
 ### History
-
 #### 1948
 
 Construct a 6' x 10' generator hut about 50' west of the Lodge. <sup>[hw][]</sup>

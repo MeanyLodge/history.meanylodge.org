@@ -32,3 +32,4 @@ It's a thing, Meany machines have animal names.
 * [Thing 1](Thing-1), Thing 2, Thing 3
 
 😵 = defunct
+###### [template](Machine-Template)

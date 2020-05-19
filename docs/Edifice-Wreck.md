@@ -3,9 +3,8 @@ title: Edifice Wreck
 category: Building
 categories: Building
 ---
-# Edifice Wreck
 <img src="img/2020%20Edifus%20Wreck.jpeg" style="width: 40%;" align="right">
-
+# Edifice Wreck
 ### Names
 
 - Edifice Wreck <sup>[nw][]</sup>
@@ -15,12 +14,16 @@ categories: Building
 
 Below the RR tracks, directly below the [Ice Fall](Ice-Fall), which is nearly straight down the embankment after departing Meany and crossing the tracks.
 
-### Origin
+### Purpose
 
 A small shack built below RR track to store gasoline for [Tom Cat](Tom-Cat). <sup>[nw][]</sup>
 
-### History
+### Events
+- Constructed: 1960
+- Abandoned: 1979
 
+---
+### History
 #### 1960
 
 Built in 1960 by some students who at the time were working their way through the Greek classic tragedy <i>Oedipus Rex</i>. Forgive them the pun - even a little humor is better than none. <sup>[nw][]</sup>

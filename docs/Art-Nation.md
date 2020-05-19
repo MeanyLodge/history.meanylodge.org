@@ -4,13 +4,14 @@ category: Person
 categories: Person
 ---
 # Art Nation
-### Known For
+<img src="img/2000_-Art-Nation.jpeg" style="width: 50%;" align="right">
 
+### Known For
 - [Damnation](Damnation)
 - Genius of music and dance
 
+---
 ### History
-
 #### 1952
 
 If they could still muster the energy after dinner, [Art Nation](Art-Nation) would be ready with his fine collection of folk dance records and a helping hand for the novices. <sup>[ma52][]</sup>

@@ -58,11 +58,13 @@ New well sunk.
 
 New double sinks in the wash room. Led by [Shawn Bertagnole](Shawn-Bertagnole).
 
-
 ## 2014
 
 Replaced a pole at the top of the lane for Mach.
 
+## 2010 +/-
+
+Coated the steel lodge roof with silver paint.
 
 ## 2007
 

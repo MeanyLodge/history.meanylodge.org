@@ -10,6 +10,14 @@ categories: Building
 * Diesel Hut
 * Fuel House
 
+### Location
+Behind the [Tow Hut](Tow-Hut).
+
+### Purpose
+- Store diesel for Meany's diesel equipped machines. As of 2020, that list is [Hippo](Hippo) and [Moose](Moose).
+- Store other machinery used on the campus.
+
+---
 ### History
 
 #### 1989
