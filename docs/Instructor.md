@@ -17,6 +17,6 @@ category: List
 | ?-2020+ | [Dave Maltz](Dave-Maltz)
 | ?-2020+ | [Dan Nord](Dan-Nord)
 | 1982    | Kim Nelson
-|         | [Norm Vigus](Norm-Vigus)
+| late 90s-2020+ | [Norm Vigus](Norm-Vigus)
 
 Pulled from historical documents and [2018-9 Ski Instructors](https://docs.google.com/spreadsheets/d/17iqcST5BUPSt3xoypotYMjYOqoiOPt7j3_1YT6zyi5U/edit#gid=0)

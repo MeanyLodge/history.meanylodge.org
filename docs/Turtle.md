@@ -4,6 +4,8 @@ category: RopeTow
 categories: RopeTow
 ---
 # Turtle
+<img src="img/2020-Turtle.jpeg" style="width: 60%;" align="right">
+
 ### Location
 
 SE of [Mach](Mach).

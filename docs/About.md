@@ -9,3 +9,4 @@ This site is designed to be an authoritative and comprehensive source of informa
 
 As of 2020 it is maintained by [Matt Simerson](Matt-Simerson). The source is the [Meany Lodge History](https://github.com/MeanyLodge/History) repository on GitHub. Committee members are invited to send Matt their GitHub username to be added to the organization. Anyone with a GitHub account can fork the repo, make changes, and submit Pull Requests.
 
+The site theme is [ultra](https://github.com/ronv/ultra).

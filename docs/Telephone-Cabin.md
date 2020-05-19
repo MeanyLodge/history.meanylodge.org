@@ -4,7 +4,8 @@ category: Building
 categories: Building
 ---
 # Telephone Cabin
-The lodging for the tenders of the first transcontinental telephone line.<sup>[n9][]</sup>
+<img src="img/2020-Telephone-Cabin.jpeg" style="width: 50%;" alt="Meany Lodge photo" align="right">
+Lodging for the tenders of the first transcontinental telephone line.<sup>[n9][]</sup>
 
 ### Names
 - Telephone Cabin

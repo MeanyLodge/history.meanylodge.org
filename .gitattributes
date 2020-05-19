@@ -170,6 +170,11 @@
 /docs/img/2020[[:space:]]Coatrack.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/2020-Junior-Trail.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/2020-Kirkland-Park.jpeg filter=lfs diff=lfs merge=lfs -text
+/docs/img/2020-Jane.jpeg filter=lfs diff=lfs merge=lfs -text
+/docs/img/2020-Lodge.jpeg filter=lfs diff=lfs merge=lfs -text
+/docs/img/2020-One-Holer.jpeg filter=lfs diff=lfs merge=lfs -text
+/docs/img/2020-Telephone-Cabin.jpeg filter=lfs diff=lfs merge=lfs -text
+/docs/img/2020-Turtle.jpeg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -190,11 +195,6 @@
 /reference/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
 /reference/olympian/514268b0a2391.image.jpg filter=lfs diff=lfs merge=lfs -text
 /docs/Anniversary.md filter=lfs diff=lfs merge=lfs -text
-/docs/img/2020-Jane.jpeg filter=lfs diff=lfs merge=lfs -text
-/docs/img/2020-Lodge.jpeg filter=lfs diff=lfs merge=lfs -text
-/docs/img/2020-One-Holer.jpeg filter=lfs diff=lfs merge=lfs -text
-/docs/img/2020-Telephone-Cabin.jpeg filter=lfs diff=lfs merge=lfs -text
-/docs/img/2020-Turtle.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/2020-Industrial-Park.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/2000_-Art-Nation.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/2020-Dan-Nord.jpeg filter=lfs diff=lfs merge=lfs -text

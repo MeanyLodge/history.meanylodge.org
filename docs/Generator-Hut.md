@@ -4,7 +4,7 @@ category: Building
 categories: Building
 ---
 # Generator Hut
-<img src="/History/img/2020%20Generator%20Hut.jpeg" style="width: 40%;" align="right">
+<img src="img/2020%20Generator%20Hut.jpeg" style="width: 40%;" align="right">
 
 ### History
 

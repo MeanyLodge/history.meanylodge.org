@@ -4,7 +4,7 @@ category: Building
 categories: Building
 ---
 # Lodge
-<img src="img/1928%20Meany%20Ski%20Hut.png" style="width: 40%;" alt="Meany Lodge construction photo" align="right">
+<img src="img/2020-Lodge.jpeg" style="width: 50%;" alt="Meany Lodge photo" align="right">
 
 ### Areas
 
@@ -17,7 +17,7 @@ categories: Building
     * Drying Room
     * [Wood Room](Wood-Room)
     * Tunnel
-    * Jim's Closet Under the Stairs
+    * [Jim](Jim-Fahey)'s Closet Under the Stairs
     * Ping Pong Room
     * First Aid Room
 * First Floor
