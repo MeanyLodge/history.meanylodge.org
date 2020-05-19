@@ -16,6 +16,10 @@ A snowmobile owned by [Al Alleman](Al-Alleman) and used for errands, thrills, an
 - Speeds: 2
 - Lived in the "Den" (next to the Pantry)
 
+### Events
+- Donated to Nick for parts: after 2003
+
+---
 ### History
 #### 2003
 
