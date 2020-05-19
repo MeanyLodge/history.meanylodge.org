@@ -13,6 +13,7 @@ A Thiokol snow tractor. It's the only known packrat that is equipped with a bull
 Snow packing on [Meany Hill](Meany-Hill). The blade was ultimately removed and it towed a roller to pack the snow.
 
 ### Specifications
+<img src="img/2020%20Roller.jpeg" style="width: 40%;" align="right">
 
 - Model: 1967 Thiokol Spryte
 - Engine: 170 ci 6-cylinder industrial version of the Ford Falcon engine
@@ -21,7 +22,6 @@ Snow packing on [Meany Hill](Meany-Hill). The blade was ultimately removed and i
 - Cost: $3,000
 - Purchased: 1977
 - Sold: 2012
-
 
 ### History
 

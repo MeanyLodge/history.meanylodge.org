@@ -3,13 +3,15 @@ title: Big Tree
 category: Place
 ---
 # Big Tree
+<img src="img/2020%20Big%20Tree.jpeg" style="width: 40%;" align="right">
+
 At the top of [South Slobbovia](South-Slobbovia) they left a tree. This is one of the few things at Meany with a logical name.<sup>[n9][]</sup>
 
 ### History
 
 #### 2020
 
-The [Meany Map][map] on the wall shows Big Tree as being next to the coatrack. I think the 2009 names located this incorrectly. What big tree exists on South? Surely they aren't referring to [Lower Slobbovia National Park][lsnp].
+The [Meany Map][map] on the wall shows Big Tree as being next to the coatrack.
 
 
 [lsnp]: Lower-Slobbovia-National-Park

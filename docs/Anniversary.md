@@ -14,6 +14,24 @@ category: Event
 - 2003
 
 
+#### 
+
+#### Zoo
+
+A traditional Meany custom is to endearlingly name our mobile machinery after an appropriate animal. The zoo houses some of our animals and any at one time or another when they need some tending to. The zoo can also be used for sheltered activities such as [MOFA](MOFA) and the [Mushroom society's](Mushroom-Weekend) weekend for display tables, etc.
+
+#### Cat House
+
+It was built in 1980 just south of the Hut and the Industrial Park. It has three levels, the upper two are used for tools and parts storage. The main floor is a shop to support repairs on the Cat, the Rat, Mouse, and all the animals; therefore the name "Cat House". The committee has so far resisted the idea of installing a red light by the entrance. After the day's work was done it became the source of Walt Little's famous boxed "Spring Water", supplied by Franzia, which he supplied with a mischievous grin.
+
+#### TomCat
+
+Once there is snow on the ground the Bombardier snow tractor is used to haul everything, including skiers, the three miles from the parking lot up to the lodge. The cat was bought in 1960, when NPRR stopped its passenger train service to Meany. Legendary meanyite [Tom Van DeVander](Tom-Van-DeVander) has piloted hte cat from 1960 to 2002 (hence the name "Tomcat"). Tomcat is the most important support animal at Meany. The stories Tom and it have generated over the decards are too numerous to explore here, but compiled in a book they would make very colorful reading of man and machine and volunteers in the backcountry. Snow tractors have notoriously high maintenance requirements, and due to age and heavy use Tomcat is almost always in need of care. Original engine: Chrysler 252, flat head. New engine: Chevyrolet 292, six cylinder, installed in 1971. New transmission: Chevyrolet, installed in 1971. New belts: Meany manufactured, rock conveyor-Dacron, 1969. The frame was lengthened by about five feet in 1998 by Mike Lonergan. Total carrying capacity is about 100 people and their gear towed by ropes and in machine.
+
+#### Ox
+
+A four wheel drive, post WW II design 3/4 ton Dodge weapons carrier is used for hard labor in the summer and fall. An "A-frame" attachment can be mounted for heavy lifting. Unlike other oxen, it hibernates all winter under the tow hut - nose in - so that its winch is out of reach of potential thieves.
+
 #### Pack Rat
 
 This Thiokol snow tractor was scrounged up cheaply from BPA in 1977 for hill packing. It his now used as auxiliary transportation when [Tom Cat](Tom-Cat) is ailing or its load is too much. On ski lesson days it becomes "Munchkin Express" hauling kids up to their ski classes. A roller can be mounted on the rear for hill grooming.

@@ -3,6 +3,8 @@ title: Lower Slobbovia National Park
 category: Place
 ---
 # Lower Slobbovia National Park
+<img src="img/195_%20LSNP.jpeg" style="width: 40%;" align="right">
+
 ### Location
 
 The center of [Lower Slobbovia](Lower-Slobbovia).
