@@ -19,11 +19,5 @@ category: List
     * [50th](Anniversary#50th) in 1978
     * [75th](Anniversary#75th) in 2003
     * [100th](Anniversary#100th) in 2028
-
-
-### History
-
-#### 1981
-
-In August over a hundred Meanyites met at Gasworks Park in Seattle for an potluck and reunion.
-
+* Reunions and get togethers
+    * In August 1981, over a hundred Meanyites met at Gasworks Park in Seattle for a potluck and reunion.

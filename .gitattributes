@@ -157,6 +157,11 @@
 /docs/img/2020[[:space:]]Big[[:space:]]Tree.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/2020[[:space:]]Jacob's[[:space:]]Ladder.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/2020[[:space:]]Roller.jpeg filter=lfs diff=lfs merge=lfs -text
+/docs/audio/Patti-Polinsky.m4a filter=lfs diff=lfs merge=lfs -text
+/docs/img/1990[[:space:]]Ray[[:space:]]Nelson[[:space:]]Bored.jpeg filter=lfs diff=lfs merge=lfs -text
+/docs/img/2003[[:space:]]Ox.jpg filter=lfs diff=lfs merge=lfs -text
+/docs/img/2020[[:space:]]Cat[[:space:]]House.jpeg filter=lfs diff=lfs merge=lfs -text
+/docs/img/2020[[:space:]]Zoo.jpeg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -177,11 +182,6 @@
 /reference/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
 /reference/olympian/514268b0a2391.image.jpg filter=lfs diff=lfs merge=lfs -text
 /docs/Anniversary.md filter=lfs diff=lfs merge=lfs -text
-/docs/audio/Patti-Polinsky.m4a filter=lfs diff=lfs merge=lfs -text
-/docs/img/1990[[:space:]]Ray[[:space:]]Nelson[[:space:]]Bored.jpeg filter=lfs diff=lfs merge=lfs -text
-/docs/img/2003[[:space:]]Ox.jpg filter=lfs diff=lfs merge=lfs -text
-/docs/img/2020[[:space:]]Cat[[:space:]]House.jpeg filter=lfs diff=lfs merge=lfs -text
-/docs/img/2020[[:space:]]Zoo.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/2020[[:space:]]Commons.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/2020[[:space:]]Dozer[[:space:]]Tipi.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/2020[[:space:]]Moose.jpeg filter=lfs diff=lfs merge=lfs -text

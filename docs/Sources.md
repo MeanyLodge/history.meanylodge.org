@@ -22,6 +22,7 @@ The research on this site has been gathered from personal knowledge, interviews,
 | 1984 | [Meany Names 1984](Names-Walt) | [Walter Little][wl]
 | 1989 | [History Reports](History-Reports) | [Idona Kellogg][ik]
 | 1998 | [Life At Meany Ski Hut][life] | [Jim Kjeldsen](Jim-Kjeldsen)
+| 2003 | [Meany 75th Anniversary](Anniversary#75th) | Various |
 | 2009 | [Meany Names 2009](Names-2009) | [Idona Kellogg][ik]
 | 2009 | [Chronological History of Meany Lodge](History-Idona) | [Idona Kellogg][ik]
 | 2013 | [Skiing Like in the Days of Yore][yore] | Craig Hill

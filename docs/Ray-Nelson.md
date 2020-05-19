@@ -4,9 +4,12 @@ category: Person
 categories: Person Chair
 ---
 # Ray Nelson
+<img src="img/1990%20Ray%20Nelson%20Bored.jpeg" style="width: 100%;">
+
 ### Names
 
 * the "Boss"
+* Ray Nelson
 
 ### Roles
 

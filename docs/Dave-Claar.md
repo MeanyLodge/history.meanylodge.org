@@ -17,6 +17,7 @@ categories: Person Driver Historian Instructor Mechanic
 
 ### Known For
 
+* Maintainer of trails, esp. x-country.
 * Driver of [Hippo](Hippo)
 * Husband of [Patti Polinsky](Patti-Polinsky)
 * Men's Room Beautification Project

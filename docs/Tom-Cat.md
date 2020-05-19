@@ -12,8 +12,13 @@ When [Pack Rat](Pack-Rat) was acquired in 1977, there were two snow tractors. Th
 
 ### Purpose
 
-Used to haul people, gear, and supplies ~3 miles from the Crystal Springs Sno-Park to Meany. Bought in 1960 when the NPRR discontinued passenger train service to Martin.
+Used to haul people, gear, and supplies ~3 miles from the Crystal Springs Sno-Park to Meany. Bought in 1960 after the NPRR discontinued passenger train service to Martin.
 
+### Specifications
+- Model: Bombardier 6-cylinder
+- Engine: Chevrolet 292ci
+- Fuel: gasoline
+- Capacity: ~100 persons (think: very long top rope)
 
 ### History
 
@@ -112,6 +117,14 @@ New tracks were put on the Bombardier. <sup>[ma80][]</sup>
 
 Tom-Cat was refurbished with new paint, new canvas, new upholstery, and gorgeous Scandinavian designs on the ski boxes. In addition to "flowering" the ski boxes, Georgean Curran "rosemaled" the picture boards for Meany walls. <sup>[hr][]</sup>
 
+#### 1998
+
+The frame was lengthened by about five feet by [Mike Lonergan](Mike-Lonergan).<sup>[75th][]</sup>
+
+#### 2003
+
+Once there is snow on the ground the Bombardier snow tractor is used to haul everything, including skiers, the three miles from the parking lot up to the lodge. The cat was bought in 1960, when NPRR stopped its passenger train service to Meany. Legendary meanyite [Tom Van DeVander](Tom-Van-DeVander) has piloted hte cat from 1960 to 2002 (hence the name "Tomcat"). Tomcat is the most important support animal at Meany. The stories Tom and it have generated over the decards are too numerous to explore here, but compiled in a book they would make very colorful reading of man and machine and volunteers in the backcountry. Snow tractors have notoriously high maintenance requirements, and due to age and heavy use Tomcat is almost always in need of care. Original engine: Chrysler 252, flat head. New engine: Chevyrolet 292, six cylinder, installed in 1971. New transmission: Chevyrolet, installed in 1971. New belts: Meany manufactured, rock conveyor-Dacron, 1969. The frame was lengthened by about five feet in 1998 by Mike Lonergan. Total carrying capacity is about 100 people and their gear towed by ropes and in machine.<sup>[75th][]</sup>
+
 #### 2013
 
 When it arrives, two long ropes are tossed off the back of the covered tractor with tank-like tracks. Skiers grab hold and are towed down a popular snowmobile road before veering left onto a less-used route. Here, the tractor might pick up speed, slowing only to cross the railroad tracks that once delivered skiers from Seattle.<sup>[oly][oly]</sup>
@@ -121,7 +134,7 @@ When it arrives, two long ropes are tossed off the back of the covered tractor w
 In January, at a special mid-week work party, the following persons trekked up to Meany Lodge to put new tracks on Tom Cat: [Chuck Welter](Chuck-Welter), [Matt Simerson](Matt-Simerson), [Dan Nord](Dan-Nord), [James Kotlik](James-Kotlik), [Norm Vigus](Norm-Vigus), [Michael Froebe](Michael-Froebe), [Rick Ingham](Rick-Ingham)
 
 
-[oly]: https://www.theolympian.com/outdoors/article25316305.html
+[75th]: Anniversary#75th
 [htt]: Skiers-Hit-The-Trail
 [hr]: History-Reports "Meany History Reports, by Idona Kellogg"
 [hw]: History-Walt "Meany History, by Walt Little"
@@ -134,3 +147,4 @@ In January, at a special mid-week work party, the following persons trekked up t
 [ma68]: Mountaineer-Annual#1968
 [ma78]: Mountaineer-Annual#1978
 [ma80]: Mountaineer-Annual#1980
+[oly]: https://www.theolympian.com/outdoors/article25316305.html

@@ -4,10 +4,13 @@ category: Machine
 categories: Machine Tractor
 ---
 # Ox
+<img src="img/2003%20Ox.jpg" style="width: 40%;" align="right">
+
 A four-wheel drive Dodge truck used for summer work. Unlike most oxen, it hibernates all winter under the [Tow Hut](Tow-Hut).
 
 ### Specifications
 - Model: Dodge Power Wagon
+- Capacity: 3/4 ton
 - Engine: 
 
 ### History
@@ -30,7 +33,12 @@ An extension boom was built on Ox to lift machinery for all the tow work. <sup>[
 
 Replaced frame with frame from wrecked truck in Othello, plus much maintenance. <sup>[hw][]</sup>
 
+#### 2003
 
+A four wheel drive, post WW II design 3/4 ton Dodge weapons carrier is used for hard labor in the summer and fall. An "A-frame" attachment can be mounted for heavy lifting. Unlike other oxen, it hibernates all winter under the tow hut - nose in - so that its winch is out of reach of potential thieves.<sup>[75th][]</sup>
+
+
+[75th]: Anniversary#75th
 [ma78]: Mountaineer-Annual#1978
 [hr]: History-Reports "Meany History Reports, by Idona Kellogg"
 [hw]: History-Walt "Meany History, by Walt Little"

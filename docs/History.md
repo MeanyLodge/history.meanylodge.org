@@ -48,6 +48,14 @@ First season with rope tow. Pattern of skiing changed from 100% touring to mostl
 
 During the gas-rationed war years the availability of train service made the Hut a mecca for all who loved to ski.<sup>[ma56][]</sup>
 
+### 1948
+
+Armageddon? the juniors begin to surface and the Club panics.<sup>[75th][]</sup>
+
+### 1954
+
+Slobbovia created by BPA - unknown to them - they though they were building a power line.<sup>[75th][]</sup>
+
 ### 1967
 
 A new septic tank and sewer system were installed.<sup>[ma67][]</sup>
@@ -68,7 +76,11 @@ After long negotiations with the railroad we gained final approval and installed
 
 The study area was moved from the end of the Third Person's Dorm to a small area taken off the Women's Dorm. Bunks were added to the former study room so that Meany's sleeping capacity remains the same. Concrete steps were poured near the kitchen door and a concrete sidewalk was put in from the front steps to the basement.<sup>[ma80][]</sup>
 
+### 1990s
 
+Digging out the lodge basement and installing a new septic system and drain field increased lodge usability in the 90's.<sup>[75th][]</sup>
+
+[75th]: Anniversary#75th
 [hut]: Skiing-and-the-Ski-Hut
 [hw]: History-Walt "Meany History, by Walt Little"
 [ma55]: Mountaineer-Annual#1955

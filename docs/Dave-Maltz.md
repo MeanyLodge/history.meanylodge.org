@@ -5,3 +5,8 @@ categories: Person
 ---
 # Dave Maltz
 ### Names
+### Roles
+- Committee
+- Driver
+- Instructor
+- Operator

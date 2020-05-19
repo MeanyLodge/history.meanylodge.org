@@ -6,7 +6,7 @@ category: Event
 
 Meany is an all-volunteer lodge. Everything at Meany is the result of tens of thousands of hours donated by many hundreds of individuals. This document is maintained by [Matt Simerson](Matt-Simerson). Send him **brief** updates and more stuff will appear here.
 
-<img src="img/1948%20Meany%20Work%20Party.png" alt="sketch of meanyites working" width="320px" align="right">
+<img src="img/1948%20Meany%20Work%20Party.png" alt="sketch of meanyites working" style="width: 40%;" align="right">
 
 
 ## 2020
@@ -35,19 +35,21 @@ Meany is an all-volunteer lodge. Everything at Meany is the result of tens of th
 
 ## 2019
 
-Woodshed: replaced the roof. Replaced plywood decking with 2 layers of 3/4 plywood and covered with a fully adhered PVC membrane. Tearoff and framing team led by [Matt Simerson](Matt-Simerson) and membrane installation led by [Steve Bosworth](Steve-Bosworth).
+Woodshed: replaced the roof. Replaced plywood decking with 2 layers of 3/4 plywood and covered with a fully adhered PVC membrane. Tearoff and framing team led by [Matt Simerson](Matt-Simerson) and membrane installation led by [Steve Bozorth](Steve-Bozorth).
 
 <img src="img/2019%20Woodshed%20Roof.jpeg" width="300px">
 
-New well sunk, water pipe run to the lodge and electrical power from the Zoo.
-
-Matt Simerson built the [Pump House](Pump-House) to cover the newly installed well.
+Water pipe run from the new well to the lodge and electrical power from the Zoo. Matt Simerson built the [Pump House](Pump-House) to cover the newly installed well.
 
 LEDs everywhere! [Michael Moreland](Michael-Moreland) led replacing all LED fixtures on the main floor. [Matt Simerson](Matt-Simerson) led rewiring every other 4' fixture (basement, Zoo, Cat House, Tow Hut) for use with single-ended LED bulbs (ballast free). We also replaced every other incandescent and fluorescent bulb with LEDs.
 
 [Hippo](Hippo): complete track replacement, led by [Dave Claar](Dave-Claar).
 
 [Tom Cat](Tom-Cat): track replacement (new belts and bolts)
+
+## 2018
+
+New well sunk.
 
 ## 2017
 

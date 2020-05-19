@@ -4,6 +4,8 @@ category: Building
 categories: Building
 ---
 # Cat House
+<img src="img/2020%20Cat%20House.jpeg" style="width: 40%;" align="right">
+
 ### Location
 
 In the [Industrial Park](Industrial-Park).
@@ -28,7 +30,12 @@ Constructed new shop building, 12' x 12', 1st floor, 2nd floor and attic. Move a
 
 The shed to house tractor parts was completed. <sup>[ma82][]</sup>
 
+#### 2003
 
+It was built in 1980 just south of the Hut and the Industrial Park. It has three levels, the upper two are used for tools and parts storage. The main floor is a shop to support repairs on the [Cat](Tom-Cat), the [Rat](Pack-Rat), [Mouse](Mouse), and all the animals; therefore the name "Cat House". The committee has so far resisted the idea of installing a red light by the entrance. After the day's work was done it became the source of Walt Little's famous boxed "Spring Water", supplied by Franzia, which he supplied with a mischievous grin.<sup>[75th][]</sup>
+
+
+[75th]: Anniversary#75th
 [ma78]: Mountaineer-Annual#1978
 [ma80]: Mountaineer-Annual#1980
 [ma82]: Mountaineer-Annual#1982

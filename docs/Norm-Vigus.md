@@ -4,14 +4,18 @@ category: Person
 categories: Person Instructor
 ---
 # Norm Vigus
+### Events
+- First year at Meany: 1958
+
 ### Roles
 
-* Ski [Instructor](Instructor)
+- [Committee](Committee)
+- Ski [Instructor](Instructor)
 
 ### Known For
 
-* Mad carpentry skills
-* 1979 Bachelor of the Year Runner-up
+- Mad carpentry skills
+- 1979 Bachelor of the Year Runner-up
 
 ### History
 
@@ -27,6 +31,10 @@ Remote Meany Ski Hut boasts a bountiful winter 1987. With a very active PR Commi
 
 I signed on as an instructor in I think the late 90's.
 
+#### 2003
 
+'58 I guess, regular since 1960.<sup>[75th][]</sup>
+
+[75th]: Anniversary#75th
 [hr]: History-Reports
 [ma79]: Mountaineer-Annual#1979

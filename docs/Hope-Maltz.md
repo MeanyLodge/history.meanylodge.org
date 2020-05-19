@@ -4,4 +4,5 @@ category: Person
 categories: Person
 ---
 # Hope Maltz
-### Names
+### Roles
+- Committee
