@@ -2,7 +2,7 @@
 remote_theme: ronv/ultra
 
 livereload: true
-baseurl: /History
+#baseurl:
 
 defaults:
   - scope:

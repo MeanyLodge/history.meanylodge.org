@@ -13,7 +13,7 @@ category: List
   {% for doc in site.pages %}
     {% if doc.category == "Person" %}
       {% if doc.categories contains "Committee" %}
-  <li><a href="/History{{ doc.url }}">{{ doc.title }}</a></li>
+  <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
       {% endif %}
     {% endif %}
   {% endfor %}
