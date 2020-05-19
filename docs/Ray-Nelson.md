@@ -14,6 +14,7 @@ categories: Person Chair
 ### Roles
 
 * [Chair](Chair) from 1966-1982 and 1987-1990
+* [Committee](Committee)
 * Electrician
 * Lineman
 

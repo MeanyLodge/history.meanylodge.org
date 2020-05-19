@@ -4,6 +4,7 @@ category: Machine
 categories: Machine Groomer
 ---
 # Hippo
+<img src="img/2020%20Hippo.jpeg" style="width: 50%;" align="right">
 ### Names
 
 - Hippo
@@ -12,7 +13,7 @@ categories: Machine Groomer
 
 ### Origin
 
-See the 2011 photo of Hippo wallowing. That was the incident when the newly acquired groomer earned its name.
+See the 2011 photo of Hippo wallowing. That was Hippo earning its name.
 
 ### Purpose
 
@@ -28,14 +29,11 @@ Snow plow and groomer. Used for grooming Forest Road 420, the skier side of F.R.
 
 #### 2011
 
-<img src="img/2011%20Hippo.jpeg" width="400px">
+<img src="img/2011%20Hippo.jpeg" style="width: 40%;">
 
 #### 2019
 
 - track replacement, $25,000 <sup>[wp19][]</sup>
 
-#### 2020
-
-<img src="img/2020%20Hippo.jpeg" width="350px">
 
 [wp19]: Work-Parties#2019

@@ -10,7 +10,7 @@ categories: Person
 - Walter B. Little
 - Walter Burges Little
 
-<img src="img/walter-little.png" width="250px" align="right">
+<img src="img/walter-little.png" style="width: 250px;" align="right">
 
 ### Events
 
@@ -46,7 +46,7 @@ categories: Person
 
 #### 1956
 
-<img src="img/1956%20Walter%20Little.jpeg" alt="Walter Little Memorial Tow" width="400px" align="right">
+<img src="img/1956%20Walter%20Little.jpeg" alt="Walter Little Memorial Tow" style="width: 40%;">
 
 #### 1958
 
@@ -54,7 +54,7 @@ The relocated tow at Meany provided better access to lanes and eliminated the ne
 
 #### 1975
 
-<img src="img/1975%20Walt%20Little.png" align="right" width="300px">
+<img src="img/1975%20Walt%20Little.png" style="width: 50%;">
 
 #### 1978
 

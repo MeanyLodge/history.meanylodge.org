@@ -52,4 +52,5 @@ Areas, Items, and Points of Interest, grouped by general locale, north to south.
 * [Mosquito Creek](Mosquito-Creek)
 * [Con-Rod Curve](Con-Rod-Curve)
 * [Ice Fall](Ice-Fall)
+* [Edifice Wreck](Edifice-Wreck)
 * [Weasel Creek](Weasel-Creek)

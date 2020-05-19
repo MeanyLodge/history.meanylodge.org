@@ -7,4 +7,5 @@ categories: Person Cook
 <img src="img/2014%20Richard%20Botts.jpeg" style="width: 40%" align="right">
 ### Roles
 
-* [Cook](Cook)
+- [Committee](Committee)
+- [Cook](Cook)

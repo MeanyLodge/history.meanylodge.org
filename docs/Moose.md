@@ -4,7 +4,8 @@ category: Machine
 categories: Machine
 ---
 # Moose
-A snow tractor with a custom 8' square bed.
+<img src="img/2020%20Moose.jpeg" style="width: 50%;" align="right">
+A snow tractor.
 
 ### Purpose
 
@@ -16,6 +17,7 @@ As a [Tom Cat](Tom-Cat) backup.
     - One of a kind, custom built for the Oregon DoT.
 - Engine: John Deere 6-cyl turbodiesel 466ci, 302 HP industrial engine.
 - Blade: 3-way (up/down, forward/back, clockwise/ccw)
+- Bed: custom 8' x 8'
 - Cost: $15k + $15k maintenance.
 - Purchased: 2008
 
@@ -39,7 +41,7 @@ Dan Solemnson overhauled the hydraulics, rebuilt the deck and frame as well as m
 
 Moose running the [Munchkin Express](Munchkin-Express).
 
-<img src="img/2011%20Moose.jpeg" width="400px" align="right">
+<img src="img/2011%20Moose.jpeg" style="width: 400px;" align="right">
 
 #### ~2016
 

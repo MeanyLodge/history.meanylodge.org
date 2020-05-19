@@ -85,7 +85,7 @@ Begin work to relocate and rebuild. <sup>[hw][]</sup>
 
 Complete relocation, begun in 1955. Head pole moved south about 200' and 30' higher. Tow hut moved north about 250', and about 20' lower. This was done to gain more altitude, and to get upper unloading closer to [Lower Slobbovia](Lower-Slobbovia). Rise 440'. Length 1,000'. <sup>[ma78][]</sup>
 
-<img src="img/1956%20Walter%20Little.jpeg" alt="Walter Little Memorial Tow" width="400px">
+<img src="img/1956%20Walter%20Little.jpeg" alt="Walter Little Memorial Tow" style="width: 40%;">
 
 #### 1957
 

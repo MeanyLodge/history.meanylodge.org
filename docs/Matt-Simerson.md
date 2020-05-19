@@ -4,7 +4,7 @@ category: Person
 categories: Person Committee Driver Historian Mechanic Operator
 ---
 # Matt Simerson
-<img src="img/2020%20Matt%20Simerson.jpeg" align="right" width="400px" alt="photo of Matt feeding a gray jay">
+<img src="img/2020%20Matt%20Simerson.jpeg" align="right" style="width: 40%;" alt="photo of Matt feeding a gray jay">
 
 ### Roles
 

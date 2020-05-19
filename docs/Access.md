@@ -5,8 +5,6 @@ category: Document
 # Access
 ### Transportation to Meany
 
-<img src="img/1949%20Meanyites%20at%20RR.png" align="right" width="300px">
-
 Winter access to Meany Lodge is 2.7 miles from the Crystal Springs Sno-Park via:
 
 - snowshoes or skis
@@ -15,6 +13,7 @@ Winter access to Meany Lodge is 2.7 miles from the Crystal Springs Sno-Park via:
 Summer access is by Exit 62 off I-90. Take FS 54 to FS 420 and 420 to the lodge.
 
 ### History
+<img src="img/1949%20Meanyites%20at%20RR.png" align="right" style="width: 45%;">
 
 #### 1928
 

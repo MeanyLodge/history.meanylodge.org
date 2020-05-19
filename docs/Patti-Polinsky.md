@@ -4,33 +4,35 @@ category: Person
 categories: Person Instructor
 ---
 # Patti Polinsky
+<img src="img/2020%20Patti%20Polinsky.jpeg" alt="photo of Patti Polinsky" align="right" style="width: 40%">
+
 ### Events
 - First year at Meany: 1968 or 69
+- Teaching in early 1970s
 
 ### Names
 
-* Patti Polinsky
-* Patti Polinsky-Claar
+- Patti Polinsky
+- Patti Polinsky-Claar
 
 ### Roles
 
-* [Instructor](Instructor)
-* [Ski School](Ski-School)
+- [Committee](Committee)
+- [Instructor](Instructor)
+- [Ski School](Ski-School)
 
 ### Known For
 
-* PSIA-NW Certified Instructor
-* Organizing Meany events
-* [Carnival](Carnival)
-* [Mushroom Weekend](Mushroom-Weekend)
-* Ski clinics
-* [Mountaineers Super Volunteer](https://www.mountaineers.org/members/patti-polinsky)
+- PSIA-NW Certified Instructor
+- Organizing Meany events
+- [Carnival](Carnival)
+- [Mushroom Weekend](Mushroom-Weekend)
+- Ski clinics
+- [Mountaineers Super Volunteer](https://www.mountaineers.org/members/patti-polinsky)
 
 ### See also
 
-* [Dave Claar](Dave-Claar)
-
-<img src="img/2020%20Patti%20Polinsky.jpeg" alt="photo of Patti Polinsky" align="right" width="300px">
+- [Dave Claar](Dave-Claar)
 
 ### History
 
