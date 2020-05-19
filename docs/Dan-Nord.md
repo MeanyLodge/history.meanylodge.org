@@ -1,7 +1,7 @@
 ---
 title: Dan Nord
 category: Person
-categories: Person Committee Instructor
+categories: Person Committee Driver Instructor
 ---
 # Dan Nord
 ### Name
