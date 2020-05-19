@@ -3,11 +3,13 @@ title: Industrial Park
 category: Place
 ---
 # Industrial Park
+<a href="img/2020-Industrial-Park.jpeg"><img src="img/2020-Industrial-Park.jpeg" style="width: 50%;" alt="Meany Lodge photo" align="right"></a>
 
 Home of the following [Buildings](Buildings):
 - [Cat House](Cat-House)
 - [Zoo](Zoo)
 - [Dozer Tipi](Dozer-Tipi)
+- [Gas Hut](Gas-Hut)
 - [Jane](Jane).
 
 ### Location

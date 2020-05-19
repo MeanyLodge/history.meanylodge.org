@@ -9,10 +9,11 @@ categories: Person Committee Instructor
 
 ### Roles
 - [Committee](Committee)
+- [Driver](Driver)
 - [Instructor](Instructor)
 
 #### Known For
-- 2020 Patrol Race Contestant
+- 2020 [Patrol Race](Patrol-Race) Contestant
 - Sharing his dark beers
 
 ### History

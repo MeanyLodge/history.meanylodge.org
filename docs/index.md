@@ -6,8 +6,6 @@ category: List
 ### About Meany Lodge
 
 * [About](About) this site
-* [History](History), see also [Lodge](Lodge)
-* [Access](Access), [Energy](Energy) and [Water](Water)
 * [Persons](Persons)
 * [Ski School](Ski-School)
 * [Events](Events)
@@ -44,4 +42,6 @@ category: List
 * Wikipedia articles
     - [Meany Lodge](https://en.wikipedia.org/wiki/Meany_Lodge)
     - [Martin, Washington](https://en.wikipedia.org/wiki/Martin,_Washington)
+* [History](History)
+* [Access](Access), [Energy](Energy) and [Water](Water)
 * [Snoqualmie Lodge](Snoqualmie-Lodge)
