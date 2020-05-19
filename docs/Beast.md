@@ -8,6 +8,9 @@ categories: Machine, Tractor
 
 - Beast
 - the tractor
+- The Old Beast
+
+<img src="img/19nn%20Beast.jpeg" style="width: 40%;" align="right">
 
 ### Description
 

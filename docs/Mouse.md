@@ -12,5 +12,14 @@ A snowmobile owned by [Al Alleman](Al-Alleman) and used for errands, thrills, an
 - Mouse
 - Mighty Mouse
 
+### Specifications
+- Speeds: 2
+- Lived in the "Den" (next to the Pantry)
 
+### History
+#### 2003
+
+**Mouse**: This heavy duty 2-speed snowmobile was bought new by Al Alleman and donated to Meany. It's used for errands, individual transportation to worksites, etc. and thrills and chills. [Dave Claar](Dave-Claar) uses the mouse to tow the track setter for the groomed X-Country trail starting just below the hut.<sup>[75th][]</sup>
+
+[75th]: Anniversary#75th
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"

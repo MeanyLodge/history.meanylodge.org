@@ -92,12 +92,13 @@ Rewire all basement electric circuits all of which were overloaded. Installed ne
 
 #### 1989
 
-- [hw][]
-- Because of new code restrictions against buried fuel tanks, dug up 2 buried 500 gallon gasoline tanks used by "Mach"
-- Cleaned, painted and reinstalled in two locations, one near [Cat House](Cat-House), one near [Tow Hut](Tow-Hut)
-- Each station a 10' x 10' concrete block building, complete with wiring, plumbing and pump
+Because of new code restrictions against buried fuel tanks, dug up 2 buried 500 gallon gasoline tanks used by "[Mach](Mach)". Cleaned, painted and reinstalled in two locations, one near [Cat House](Cat-House), one near [Tow Hut](Tow-Hut). Each station a 10' x 10' concrete block building, complete with wiring, plumbing and pump.<sup>[hw][]</sup>
 
 Two aesthetically attractive concrete block houses were built to encase gas tanks above ground as the risk of rupture of underground tanks was considered too great. <sup>[hr][]</sup>
+
+#### 2001
+
+Constructed the [Propane Hut](Propane-Hut) to enclose a 500-gallon propane tank.<sup>[75th][]</sup>
 
 #### 2017
 
@@ -126,6 +127,7 @@ Replaced all florescent (tubes and A19) bulbs in the Lodge, Tow Hut, Cat House, 
 - 2019-09-30: $108
 
 
+[75th]: Anniversary#75th
 [hr]: History-Reports "Meany History Reports, by Idona Kellogg"
 [hw]: History-Walt "Meany History, by Walt Little"
 [ma37]: Mountaineer-Annual#1937

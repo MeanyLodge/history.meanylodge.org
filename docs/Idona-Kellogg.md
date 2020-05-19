@@ -12,6 +12,7 @@ categories: Person Historian
 
 * Long time partner and wife of [Bob Bentler](Bob-Bentler)
 * Author of [History-Idona](History-Idona)
+* Author of the Meany photo [Flipboard](Flipboard)
 
 ### History
 

@@ -3,18 +3,22 @@ title: Events
 category: List
 ---
 # Events
-
+### Annual
 * [Carnival](Carnival)
 * [Competitions](Competitions)
     * [Patrol Race](Patrol-Race)
     * ...
 * [MOFA](MOFA)
-* [Mountain Bike Workshops](Mountain-Bike-Workshops)
 * [Mushroom Weekend](Mushroom-Weekend)
-* [Railroad Buffs](Railroad-Buffs)
 * [Work Parties](Work-Parties)
-* [50th Birthday](50th-Birthday) in 1979
-* [100th Birthday](Centennial) in 2028
+
+### Special Events
+* [Mountain Bike Workshops](Mountain-Bike-Workshops)
+* [Railroad Buffs](Railroad-Buffs)
+* Anniversaries
+    * [50th](Anniversary#50th) in 1978
+    * [75th](Anniversary#75th) in 2003
+    * [100th](Anniversary#100th) in 2028
 
 
 ### History

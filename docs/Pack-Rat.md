@@ -4,11 +4,13 @@ category: Machine
 categories: Machine Groomer
 ---
 # Pack Rat
+<img src="img/2000_%20Pack%20Rat.jpeg" style="width: 40%;" align="right">
+
 A Thiokol snow tractor. It's the only known packrat that is equipped with a bulldozer blade.<sup>[nw][]</sup>
 
 ### Purpose
 
-Snow packing on [Meany Hill](Meany-Hill).
+Snow packing on [Meany Hill](Meany-Hill). The blade was ultimately removed and it towed a roller to pack the snow.
 
 ### Specifications
 
@@ -19,6 +21,7 @@ Snow packing on [Meany Hill](Meany-Hill).
 - Cost: $3,000
 - Purchased: 1977
 - Sold: 2012
+
 
 ### History
 
@@ -54,6 +57,10 @@ install new radiator. <sup>[hw][]</sup>
 
 The Thiokol (Pack Rat) transmission was rebuilt. <sup>[hr][]</sup>
 
+#### 2003
+
+This Thiokol snow tractor was scrounged up cheaply from BPA in 1977 for hill packing. It his now used as auxiliary transportation when [Tom Cat](Tom-Cat) is ailing or its load is too much. On ski lesson days it becomes "Munchkin Express" hauling kids up to their ski classes. A roller can be mounted on the rear for hill grooming.<sup>[75th][]</sup>
+
 #### around 2008
 
 Blew the differential and could not be replaced. Gave it away. --[Emilio Marasco](Emilio-Marasco) via email May 2020
@@ -65,6 +72,7 @@ Engine: industrial version of the Ford Falcon engine, a 165 --[Phil Christy](Phi
 Pack Rat was a 1967 Thiokol Spryte acquired in summer of 1977 at a GSA auction in Portland, OR. The original owner was Bonneville Power Admin. The fellows paid about $3000 at the auction and that included a trailer. Meany had no need for a trailer, so it was sold within a few days for $1500 or so. It had a blade and was powered by a 170 cubic inch 6 cylinder Ford gasoline industrial engine. It was acquired to groom the hill, so a roller was fabricated and it performed this duty for many years. The blade was too much for the machine, so the blade and hydraulic system were removed. The OC3 differential had an integral transmission that was terrible. So, the transmission was removed and a 4 speed syncromesh transmission was put on the back of the engine. The OC3 and axles were always a weak link. Thiokol only used the OC3 for a couple years and then changed to the OC12 which it used for many years. We were never able to do a retrofit. The tracks came with 1/4" bolts which were too weak. They were changed to 5/16" and finally to 3/8" which worked well. The track belting was replaced and the grousers lengthened. The differential and frame were tired with differential parts almost impossible to get by 2012, so the machine was sold to a farmer in eastern Oregon. [Paul Bergman](Paul-Bergman) was the primary caretaker of this machine for many years. --[Mike Lonergan](Mike-Lonergan)
 
 
+[75th]: Anniversary#75th
 [hr]: History-Reports "Meany History Reports, by Idona Kellogg"
 [hw]: History-Walt "Meany History, by Walt Little"
 [ma78]: Mountaineer-Annual#1978

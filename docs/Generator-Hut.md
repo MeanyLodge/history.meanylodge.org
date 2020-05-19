@@ -4,6 +4,8 @@ category: Building
 categories: Building
 ---
 # Generator Hut
+<img src="/History/img/2020%20Generator%20Hut.jpeg" style="width: 40%;" align="right">
+
 ### History
 
 #### 1948
@@ -18,7 +20,11 @@ Constructed generator shack. Moved motor-generator cut out of pantry into new sh
 
 The Generator Hut received some carpentry.<sup>[ma82][]</sup>
 
+#### 2003
+
+This gasoline engine driven 5,000 watt generator is used for emergency power when our normal power fails us due to inclement weather, accident or maintenance problems. This unit does not start automatic but must be started manually.<sup>[75th][]</sup>
 
 [hw]: History-Walt "Meany History, by Walt Little"
 [ma78]: Mountaineer-Annual#1978
 [ma82]: Mountaineer-Annual#1982
+[75th]: Anniversary#75th

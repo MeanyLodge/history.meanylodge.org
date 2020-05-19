@@ -4,6 +4,8 @@ category: Person
 categories: Person Committee
 ---
 # Jerry Thompson
+<img src="img/2014%20Jerry%20Thompson.jpeg" style="width: 40%;" align="right">
+
 ### Names
 
 - Jerry Thompson

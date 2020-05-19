@@ -4,6 +4,13 @@ category: RopeTow
 categories: RopeTow
 ---
 # Mach
+<img src="img/2020%20Mach%20Base.jpeg" style="width: 40%;" align="right">
+
+### Names
+- Mach
+- Mach Tow
+- Mach 2 Tow
+
 ### Description
 
 Mach is the largest tow rope at Meany and it pulls skiers up [Kirkland Park](Kirkland-Park) and the [Lane](Lane).
@@ -14,13 +21,13 @@ Along the south edge of the [Lane](Lane).
 
 ### Origin
 
-Jokers refer to it as exceeding the speed of sound. Hence "Mach Two Tow" or for short, "Mach Tow." <sup>[nw][]</sup>
+Mach used to have a 4-speed transmission. Typically only the first three gears were ever used, as 3rd gear was 19-21mph. Occasionally it was shifted into 4th which ran at 30mph. When propelled at such speeds it seemed as if one was approaching the speed of sound–hence the name "Mach Tow." <sup>[nw][] [75th][]</sup>
 
-### Specs
-
-- Vertical: 441'
+### Specifications
+<img src="img/2020%20Mach%20Head.jpeg" style="width: 40%;" align="right">
+- Vertical: 441' ([base 2911'](img/2020%20Mach%20base%20GPS.png), [top: 3330'](img/2020%20Mach%20top%20GPS.png))
 - Horizontal: 1,000'
-- Speed: 15mph, very fast
+- Speed: 16mph (limited by state regulations)
 - Constructed: 1938
 
 ### Known For
@@ -28,7 +35,7 @@ Jokers refer to it as exceeding the speed of sound. Hence "Mach Two Tow" or for 
 * The oldest rope tow in Washington.
 * v1: built by [Jack Hossack](Jack-Hossack)<sup>[ma68][]</sup>
 * v2: designed and built by [Walter Little](Walter-Little) <sup>[dc87][]<sup>
-* Used to be rip-your-arms-off fast (21 mph).
+* Used to be rip-your-arms-off fast.
 
 ### History
 
@@ -168,9 +175,13 @@ Some of the poles for were replaced. <sup>[ma82][]</sup>
 
 Construct control tower (tow operators sit and watch) as required by insurance policy and lift safety codes <sup>[hw][]</sup>
 
+#### 2003
+
+Present engine: 1960 6 cyl. 292 hp. Chevy. Total length of rope is 2500 feet. Length of uphill trip is about 1000 feet with about 420 feet elevation gain. Presently used top speed is 16 mph, as allowed by state authority. Previously the top speed was 19+ mph, but it could and occasionally was shifted to 30 mph. When propelled up the hill at such speeds it seems as if one was approaching the speed of sound–hence the name "Mach Tow."<sup>[75th][]</sup>
+
 #### 2013
 
-"Mach is the oldest rope tow in the state, just as Meany Lodge is the state’s oldest ski area. But fire code is forcing a new chapter in Meany history. Because the tow house doesn’t meet code, the engine will be replaced by a modern electric motor after this season. The Chevy engine will be saved as a backup for Tom-Cat. <sup>[yore][]</sup>
+"Mach is the oldest rope tow in the state, just as Meany Lodge is the state’s oldest ski area. But fire code is forcing a new chapter in Meany history. Because the tow house doesn’t meet code, the engine will be replaced by a modern electric motor after this season. The Chevy engine will be saved as a backup for Tom-Cat.<sup>[yore][]</sup>
 
 ##### Email from Mike Lonergan to Matt Simerson, May 5, 2020.
 
@@ -181,6 +192,7 @@ There was a fairly detailed maintenance log in the tow hut at one time as requir
 The current motor systems on the small and medium tows were installed several years earlier when tow operators were having trouble managing the rotary phase converter.
 
 
+[75th]: Anniversary#75th
 [dc87]: Dave-Claar#1987
 [hw]: History-Walt "Meany History, by Walt Little"
 [hr]:  History-Reports

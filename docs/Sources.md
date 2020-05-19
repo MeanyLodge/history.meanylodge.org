@@ -16,6 +16,7 @@ The research on this site has been gathered from personal knowledge, interviews,
 | 1933 | [The Mountaineer Influence in Northwest Skiing][mis] | [Robert Hayes][rh]
 | 1936 | [Skiing In Retrospect][sir] | [Andrew Anderson](Andrew-Anderson)
 | 1960 | [Meany Map](Meany-Map) | [Doug Damm](Doug-Damm) |
+| 197? | [Meany Flipboard](Meany-Flipboard) | [Idona Kellogg][ik] |
 | 1984 | [Chronological History of Meany Lodge](History-Walt) | [Walter Little][wl]
 | 1978 | [Meany Names 1978](Names-Walt-1978) | [Walter Little][wl]
 | 1984 | [Meany Names 1984](Names-Walt) | [Walter Little][wl]

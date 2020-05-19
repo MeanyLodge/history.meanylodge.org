@@ -5,11 +5,20 @@ categories: Building Hut
 ---
 # Tow Hut
 The lower building that encloses the [Mach](Mach) rope tow and equipment.
+<img src="img/2020%20Tow%20Hut%20SE.jpeg" style="width: 40%" align="right">
 
-### Known For
+### Names
+- Tow Hut
+- Operator Shack
 
-* [Ox][] lives in the basement.
+### Purpose
+- Enclose [Mach](Mach) tow machinery
+- Electrical machinery for all 3 tows
+- [Ox][] lives in the basement
+- Storage of high voltage electrical gear
 
+### Events
+- Construction: 1938
 
 ### History
 
@@ -22,7 +31,7 @@ Tow Hut was made of logs cut from trees from widening the [Lane](Lane).
 New Tow hut moved north about 250', and about 20' lower. Frame construction; basement floor, main floor and attic
 
 #### 1975
-
+<img src="img/2020%20Tow%20Hut%20W.jpeg" style="width: 40%" align="right">
 - New counter weight
 - Resided and decorated in a Bavarian style.
 
@@ -40,8 +49,11 @@ revise interior
 
 - remodeled inside of Tow Hut
 
+#### 2003
 
+**Tow Hut:** Houses the driving machinery for Meany's "Mach Tow." Build in 1938.<sup>[75th][]</sup>
 
+[75th]: Anniversary#75th
 [hw]: History-Walt "Meany History, by Walt Little"
 [ma75]: Mountaineer-Annual#1975
 [Ox]: Ox

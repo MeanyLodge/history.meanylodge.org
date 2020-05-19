@@ -10,6 +10,7 @@ Buildings and Structures on the Meany Campus.
 * [Zoo](Zoo)
 * [Cat House](Cat-House)
 * [Diesel Hut](Diesel-Hut)
+* [Gas Hut](Gas-Hut)
 * [Generator Hut](Generator-Hut)
 * [Propane Hut](Propane-Hut)
 * [Pump House](Pump-House)
