@@ -1,14 +1,16 @@
 ---
 title: Chuck Welter
 category: Person
-categories: Person Chair Mechanic Operator
+categories: Person Chair Committee Mechanic Operator
 ---
 # Chuck Welter
-### Roles
+<img src="img/2000_ Chuck Welter.jpeg" align="right" style="width: 40%;">
 
-* [Chair](Chair)
-* [Mechanic](Mechanic)
-* [Operator](Operator)
+### Roles
+- [Chair](Chair)
+- [Committee](Committee)
+- [Mechanic](Mechanic)
+- [Operator](Operator)
 
 ### Known For
 

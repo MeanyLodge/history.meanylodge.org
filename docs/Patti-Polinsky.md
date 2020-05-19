@@ -1,7 +1,7 @@
 ---
 title: Patti Polinsky
 category: Person
-categories: Person Instructor
+categories: Person Committee Instructor
 ---
 # Patti Polinsky
 <img src="img/2020%20Patti%20Polinsky.jpeg" alt="photo of Patti Polinsky" align="right" style="width: 40%">

@@ -1,11 +1,12 @@
 ---
 title: Art Freeman
 category: Person
-categories: Person Instructor
+categories: Person Committee Instructor
 ---
 # Art Freeman
 ### Roles
 
+- [Committee](Committee)
 - [Instructor](Instructor)
 
 ### History

@@ -1,21 +1,23 @@
 ---
 title: Bob Grass
 category: Person
-categories: Person Mechanic
+categories: Person Committee Mechanic
 ---
 # Bob Grass
 ### Names
 - Bob Grass
+- Bobby Grass
 - Robert Grass
 
 ### Events
 - First year at Meany: 1960 or 1961<sup>[rg][]</sup>
 
 ### Roles
-* [Mechanic](Mechanic)
+- [Committee](Committee)
+- [Mechanic](Mechanic)
 
 ### Known For
-* Son of [Peggy Grass](Peggy Grass)
+- Son of [Peggy Grass](Peggy-Grass)
 
 ### History
 

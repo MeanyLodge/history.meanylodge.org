@@ -5,13 +5,12 @@ categories: Person Chair Driver Mechanic
 ---
 # Tom Van DeVanter
 ### Events
-- First year Meany: 1954
+- First year at Meany: 1954
 
 ### Roles
-
-* [Chair](Chair)
-* [Driver](Driver)
-* [Mechanic](Mechanic)
+- [Chair](Chair)
+- [Driver](Driver)
+- [Mechanic](Mechanic)
 
 ### Known For
 

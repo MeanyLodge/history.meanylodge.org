@@ -1,7 +1,7 @@
 ---
 title: Norm Vigus
 category: Person
-categories: Person Instructor
+categories: Person Committee Instructor
 ---
 # Norm Vigus
 ### Events

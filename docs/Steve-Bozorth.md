@@ -7,6 +7,9 @@ categories: Person
 ### Events
 - First year at Meany: 2000
 
+### Roles
+- [Committee](Committee)
+
 ### History
 
 #### 2003

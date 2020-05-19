@@ -1,15 +1,16 @@
 ---
 title: Shawn Bertagnole
 category: Person
-categories: Person Driver Mechanic
+categories: Person Committee Driver Mechanic
 ---
 # Shawn Bertagnole
 ### Role
 
-* [Driver](Driver)
-* [Mechanic](Mechanic)
+- [Committee](Committee)
+- [Driver](Driver)
+- [Mechanic](Mechanic)
 
 ### Known For
 
-* Installed nice wooden sinks in washroom
-* Installed new wood furnace in Lodge
+- Installed nice wooden sinks in washroom
+- Installed new wood furnace in Lodge

@@ -1,7 +1,7 @@
 ---
 title: Andy Smith
 category: Person
-categories: Person Operator
+categories: Person Committee Operator
 ---
 # Andy Smith
 ### Events

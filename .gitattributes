@@ -165,6 +165,7 @@
 /docs/img/2020[[:space:]]Commons.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/2020[[:space:]]Dozer[[:space:]]Tipi.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/2020[[:space:]]Moose.jpeg filter=lfs diff=lfs merge=lfs -text
+/docs/img/2000_[[:space:]]Chuck[[:space:]]Welter.jpeg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -185,7 +186,6 @@
 /reference/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
 /reference/olympian/514268b0a2391.image.jpg filter=lfs diff=lfs merge=lfs -text
 /docs/Anniversary.md filter=lfs diff=lfs merge=lfs -text
-/docs/img/2000_[[:space:]]Chuck[[:space:]]Welter.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/1950-Meany-Hill.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/2020[[:space:]]Coatrack.jpeg filter=lfs diff=lfs merge=lfs -text
 /docs/img/2020-Junior-Trail.jpeg filter=lfs diff=lfs merge=lfs -text

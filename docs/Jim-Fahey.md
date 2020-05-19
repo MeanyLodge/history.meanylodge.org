@@ -1,7 +1,7 @@
 ---
 title: Jim Fahey
 category: Person
-categories: Person Driver Instructor
+categories: Person Committee Driver Instructor
 ---
 # Jim Fahey
 ### Events

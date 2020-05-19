@@ -1,7 +1,7 @@
 ---
 title: Alex de Klerk
 category: Person
-categories: Person Mechanic
+categories: Person Committee Mechanic
 ---
 # Alex de Klerk
 ### Events

@@ -8,8 +8,10 @@ Drivers of Meany Animals
 
 ### [Tom Cat](Tom-Cat)
 
-* [Tom Van DeVanter](Tom-Van-DeVanter)
+* [Tom Van DeVanter](Tom-Van-DeVanter) 1960-2001
 * [Jim Fahey](Jim-Fahey)
+* [Dave Maltz](Dave-Maltz)
+* [Michael Moreland](Michael-Moreland)
 
 ### [Hippo](Hippo)
 
@@ -31,3 +33,6 @@ Drivers of Meany Animals
 * [Dan Nord](Dan-Nord)
 * [Matt Simerson](Matt-Simerson)
 * [Nigel Steere](Nigel-Steere)
+
+
+###### not exhaustive lists, yet

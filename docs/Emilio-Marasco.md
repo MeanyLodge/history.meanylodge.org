@@ -1,7 +1,7 @@
 ---
 title: Emilio Marasco
 category: Person
-categories: Person Committee
+categories: Person
 ---
 # Emilio Marasco
 ### Events
@@ -10,7 +10,7 @@ categories: Person Committee
 
 ### Roles
 
-* [Committee](Committee)
+- [Committee](Committee)
 
 ### Known For
 

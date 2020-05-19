@@ -5,19 +5,15 @@ categories: Person Committee Instructor
 ---
 # Dan Nord
 ### Name
-
 - Dan Nord
 
 ### Roles
-
 - [Committee](Committee)
 - [Instructor](Instructor)
 
 #### Known For
-
 - 2020 Patrol Race Contestant
 - Sharing his dark beers
-
 
 ### History
 
