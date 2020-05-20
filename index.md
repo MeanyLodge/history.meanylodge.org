@@ -42,6 +42,7 @@ category: List
 * Wikipedia articles
     - [Meany Lodge](https://en.wikipedia.org/wiki/Meany_Lodge)
     - [Martin, Washington](https://en.wikipedia.org/wiki/Martin,_Washington)
+    - [Martin Ski Dome](https://en.wikipedia.org/wiki/Martin_Ski_Dome)
 * [History](History)
 * [Access](Access), [Energy](Energy) and [Water](Water)
 * [Snoqualmie Lodge](Snoqualmie-Lodge)
