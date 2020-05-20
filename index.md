@@ -39,10 +39,10 @@ category: List
 
 * Official [Meany Lodge](https://www.mountaineers.org/locations-lodges/meany-lodge/) web site.
 * Research [Sources](Sources)
+* [History](History)
+* [Access](Access), [Energy](Energy), [Safety](Safety), [Water](Water)
 * Wikipedia articles
     - [Meany Lodge](https://en.wikipedia.org/wiki/Meany_Lodge)
     - [Martin, Washington](https://en.wikipedia.org/wiki/Martin,_Washington)
     - [Martin Ski Dome](https://en.wikipedia.org/wiki/Martin_Ski_Dome)
-* [History](History)
-* [Access](Access), [Energy](Energy) and [Water](Water)
 * [Snoqualmie Lodge](Snoqualmie-Lodge)

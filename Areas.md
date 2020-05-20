@@ -6,9 +6,9 @@ category: List
 
 Areas, Items, and Points of Interest, grouped by general locale, north to south.
 
-* [Lodge](Lodge)
-    * [Industrial Park](Industrial-Park)
-* [Meany Hill](Meany-Hill)
+- [Lodge](Lodge)
+    - [Industrial Park](Industrial-Park)
+- [Meany Hill](Meany-Hill)
     - [Railroad Meadows](Railroad-Meadows)
         - [Couloir](Couloir)
         - [Danny's Woods](Danny's-Woods)
@@ -49,8 +49,9 @@ Areas, Items, and Points of Interest, grouped by general locale, north to south.
     - [Henrietta's Woods](Henrietta's-Woods)
         + [RBCSA Gulch](RBCSA-Gulch)
         + [Walter's Woods](Walter's-Woods)
-* [Mosquito Creek](Mosquito-Creek)
-* [Con-Rod Curve](Con-Rod-Curve)
-* [Ice Fall](Ice-Fall)
-* [Edifice Wreck](Edifice-Wreck)
-* [Weasel Creek](Weasel-Creek)
+- [Ice Fall](Ice-Fall)
+- [Edifice Wreck](Edifice-Wreck)
+- [Skier Pickup](Skier-Pickup)
+- [Weasel Creek](Weasel-Creek)
+- [Mosquito Creek](Mosquito-Creek)
+- [Con-Rod Curve](Con-Rod-Curve)

@@ -1,3 +1,7 @@
+---
+title: Person Template
+category: Stub
+---
 # Person Template
 
 Follow this template for organizating a person page:

@@ -13,6 +13,7 @@ Those who regularly work on Meany animals.
 * [Matt Simerson](Matt-Simerson)
 * [Dave Claar](Dave-Claar)
 * [Chuck Welter](Chuck-Welter)
+* [Michael Froebe](Michael-Froebe)
 
 ### Template
 
