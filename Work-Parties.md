@@ -4,14 +4,14 @@ category: Event
 ---
 # Work Parties
 
-Meany is an all-volunteer lodge. Everything at Meany is the result of tens of thousands of hours donated by many hundreds of individuals. This document is maintained by [Matt Simerson](Matt-Simerson). Send him **brief** updates and more stuff will appear here.
+Meany is an all-volunteer lodge. Everything at Meany is the result of hundreds of thousands of hours donated by hundreds of individuals. This page will get periodically refreshed from the [committee wiki](https://github.com/MeanyLodge/Committee/wiki), where more current information is maintained.
 
 <img src="img/1948%20Meany%20Work%20Party.png" alt="sketch of meanyites working" style="width: 40%;" align="right">
 
 
 ## 2020
 
-- Michael Moreland overhauled the fire alarm wiring.
+- overhauled the fire alarm wiring.
 - Cleaned the dam pre-filter and the reservoir
 
 [Google Doc](https://docs.google.com/spreadsheets/d/1nfzS1-X-nbi7EbtkVqKx9IZ4TflINx13XerAhoAwv4c/edit#gid=0)
@@ -38,7 +38,7 @@ Meany is an all-volunteer lodge. Everything at Meany is the result of tens of th
 
 Woodshed: replaced the roof. Replaced plywood decking with 2 layers of 3/4 plywood and covered with a fully adhered PVC membrane. Tearoff and framing team led by [Matt Simerson](Matt-Simerson) and membrane installation led by [Steve Bozorth](Steve-Bozorth).
 
-Water pipe run from the new well to the lodge and electrical power from the Zoo. Matt Simerson built the [Pump House](Pump-House) to cover the newly installed well.
+Water pipe run from the new well to the lodge and electrical power from the Zoo. Matt Simerson built a [Pump House](Pump-House) to cover the newly installed well.
 
 LEDs everywhere! [Michael Moreland](Michael-Moreland) led replacing all LED fixtures on the main floor. [Matt Simerson](Matt-Simerson) led rewiring every other 4' fixture (basement, Zoo, Cat House, Tow Hut) for use with single-ended LED bulbs (ballast free). Matt also replaced every other incandescent and fluorescent bulb with LEDs.
 

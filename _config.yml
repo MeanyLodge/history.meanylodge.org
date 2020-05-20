@@ -1,4 +1,5 @@
-name: MeanyLodge
+name: Meany Lodge
+title: Meany Lodge
 remote_theme: ronv/ultra
 
 livereload: true
@@ -18,3 +19,6 @@ defaults:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - maps
+  - reference
+  - annual
