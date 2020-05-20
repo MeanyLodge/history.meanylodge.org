@@ -6,40 +6,23 @@ category: List
 ### About Meany Lodge
 
 * [About](About) this site
-* [Persons](Persons)
+* [History](History)
 * [Ski School](Ski-School)
-* [Events](Events)
 
 ### Tows: [Mach](Mach), [Super Worm](Super-Worm), and [Turtle](Turtle)
 
 ### Ski [Runs](Runs)
 
-* [Lane](Lane)
-* [Kirkland Park](Kirkland-Park)
-* [Lower Slobbovia](Lower-Slobbovia)
-* [...full list](Runs)
-
 ### [Buildings](Buildings) / Structures
-
-* [Lodge](Lodge)
-* [Zoo](Zoo)
-* [Cat House](Cat-House)
-* [...full list](Buildings)
 
 ### [Machines](Machines) / Animals / Beasts
 
-
 ### [Areas](Areas) / Items / Points of Interest
-
-* [9 G Pullout](9-G-Pullout)
-* [Big Tree](Big-Tree)
-* [...full list](Areas)
 
 ### See Also
 
 * Official [Meany Lodge](https://www.mountaineers.org/locations-lodges/meany-lodge/) web site.
 * Research [Sources](Sources)
-* [History](History)
 * [Access](Access), [Energy](Energy), [Safety](Safety), [Water](Water)
 * Wikipedia articles
     - [Meany Lodge](https://en.wikipedia.org/wiki/Meany_Lodge)
