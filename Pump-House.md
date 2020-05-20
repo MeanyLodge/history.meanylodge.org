@@ -28,3 +28,14 @@ Cost: $1,689
 ![Pump House Frame](img/2019%20Pump%20House%20frame.jpeg)
 
 ![Pump House design](img/2019%20Pump%20House%20design.png)
+
+### Roof Removal
+
+1. Acquire a cordless drill
+2. Acquire 3 helpers
+3. Chuck the torx bit found in the screw box mounted to the wall inside the Pump House
+4. Remove the green painted screws along the 4 top rails.
+5. Lift the roof straight up ~ 4"
+6. Slide the roof towards the back of the structure.
+    * note: the roof assembly rests on the end rails
+7. After lifting and sliding the roof back ~6 inches, set it on the side rails. Send two helpers to the rear of the structure to catch and lower it.
