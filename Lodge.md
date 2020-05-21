@@ -1,7 +1,7 @@
 ---
 title: Lodge
 category: Building
-categories: Building
+categories:
 ---
 # Lodge
 <img src="img/2020-Lodge.jpeg" style="width: 50%;" alt="Meany Lodge photo" align="right">
@@ -31,6 +31,7 @@ categories: Building
     * Third Peoples Dorm
     * Committee Dorm
 
+---
 ### History
 
 #### 1928
@@ -71,10 +72,15 @@ Reshingled the roof.<sup>[ma50][]</sup>
 
 the building of the fire wall and doors in the stairway; and that other fire preventative measures have been taken with extra hoses and kick-out doors, and emergency exits and lamps.<sup>[ma52][]</sup>
 
+#### 1956
+
+Deepest snow year at 15' on the level.
+
 #### 1966
 
 Re-roofed hut with corrugated galvanized iron to replace worn original cedar shingles. <sup>[ma78][], [hw][]</sup>
 
+<img src="img/1956-Lodge.jpeg" style="width: 40%;" alt="Meany Lodge in 15' of snow photo" align="right">
 #### 1967
 
 A new septic tank and sewer system were installed. The hut's foundation was replaced, and so was the roof. Inside the hut, the women's dorm was painted (white and red), new shelves and mice-proof cupboards were installed in the kitchen, and the drying room facilities were improved.<sup>[ma67][]</sup>

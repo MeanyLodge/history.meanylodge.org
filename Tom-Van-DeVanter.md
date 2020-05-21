@@ -3,6 +3,7 @@ title: Tom Van DeVanter
 category: Person
 categories: Chair Driver Mechanic
 ---
+<img src="img/196n-Tom-Van-DeVanter.jpeg" align="right" style="width: 45%;">
 # Tom Van DeVanter
 ### Events
 - First year at Meany: 1954
