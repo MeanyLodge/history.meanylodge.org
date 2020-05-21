@@ -1,18 +1,17 @@
 ---
 title: Tom Van DeVanter
 category: Person
-categories: Chair Driver Mechanic
+categories:
+    - Chair
+    - Driver
+    - Mechanic
 ---
 <img src="img/196n-Tom-Van-DeVanter.jpeg" align="right" style="width: 45%;">
 # Tom Van DeVanter
 ### Events
 - First year at Meany: 1954
 
-### Roles
-- [Chair](Chair)
-- [Driver](Driver)
-- [Mechanic](Mechanic)
-
+{% include roles.html %}
 ### Known For
 - Driving and fixing [Tom Cat](Tom-Cat)
 - Shop teacher at a high school

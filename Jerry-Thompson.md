@@ -1,7 +1,9 @@
 ---
 title: Jerry Thompson
 category: Person
-categories: Person Committee
+categories:
+    - Active
+    - Committee
 ---
 <img src="img/2014%20Jerry%20Thompson.jpeg" style="width: 40%;" align="right">
 # Jerry Thompson
@@ -9,8 +11,7 @@ categories: Person Committee
 - Jerry Thompson
 - Hairy Chin
 
-### Roles
-- [Committee](Committee)
+{% include roles.html %}
 
 ### Known For
 - Lodge Opener

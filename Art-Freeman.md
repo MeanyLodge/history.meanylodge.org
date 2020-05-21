@@ -1,12 +1,16 @@
 ---
 title: Art Freeman
 category: Person
-categories: Active Committee Instructor
+categories:
+    - Active
+    - Committee
+    - Instructor
 ---
 # Art Freeman
-### Roles
-- [Committee](Committee)
-- [Instructor](Instructor)
+### Events
+- First year at Meany: 1994
+
+{% include roles.html %}
 
 ---
 ### History

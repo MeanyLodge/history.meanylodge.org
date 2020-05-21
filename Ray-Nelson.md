@@ -1,7 +1,10 @@
 ---
 title: Ray Nelson
 category: Person
-categories: Active Chair Committee
+categories:
+    - Active
+    - Chair
+    - Committee
 ---
 <img src="img/1990%20Ray%20Nelson%20Bored.jpeg" style="width: 100%;">
 # Ray Nelson
@@ -12,11 +15,11 @@ categories: Active Chair Committee
 ### Roles
 - [Chair](Chair) from 1966-1982 and 1987-1990
 - [Committee](Committee)
-- Electrician
-- Lineman
 
 ### Known For
 - "Running the best work parties." - [Patti-Polinsky-Claar](Patti-Polinsky)
+- Electrician
+- Lineman
 - Power Management Director for Seattle City Light
 
 ---

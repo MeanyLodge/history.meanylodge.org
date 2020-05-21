@@ -1,13 +1,14 @@
 ---
 title: Stu Ferguson
 category: Person
-categories: Person
+categories:
 ---
 # Stu Ferguson
 ### Names
 - Stu Ferguson
 - Stuart Ferguson
 
+{% include roles.html %}
 ### Known For
 - [Ferguson Pool](Ferguson-Pool)
 

@@ -1,18 +1,19 @@
 ---
 title: Dave Claar
 category: Person
-categories: Active Committee Driver Historian Instructor Mechanic
+categories:
+    - Active
+    - Committee
+    - Driver
+    - Historian
+    - Instructor
+    - Mechanic
 ---
 # Dave Claar
 ### Events
 - Meany Since: before 1977
 
-### Roles
-- [Committee](Committee)
-- [Driver](Driver)
-- [Historian](Historian)
-- [Instructor](Instructor)
-- [Mechanic](Mechanic)
+{% include roles.html %}
 
 ### Known For
 - Maintainer of trails, esp. x-country.

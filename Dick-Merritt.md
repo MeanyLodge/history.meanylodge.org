@@ -1,7 +1,8 @@
 ---
 title: Dick Merritt
 category: Person
-categories: Chair
+categories:
+    - Chair
 ---
 # Dick Merritt
 ### Events

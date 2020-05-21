@@ -1,17 +1,19 @@
 ---
 title: Jim Fahey
 category: Person
-categories: Active Committee Driver Instructor Operator
+categories:
+    - Active
+    - Committee
+    - Driver
+    - Instructor
+    - Operator
 ---
+<img src="img/2020-Jim-Fahey.jpeg" align="right" style="width: 40%;" alt="photo of Jim Fahey">
 # Jim Fahey
 ### Events
 - First year at Meany: 1998
 
-### Roles
-- [Committee](Committee)
-- [Driver](Driver)
-- [Instructor](Instructor)
-- [Operator](Operator)
+{% include roles.html %}
 
 ### Known For
 - [Tom Cat](Tom-Cat) Driver

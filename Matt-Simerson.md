@@ -1,17 +1,20 @@
 ---
 title: Matt Simerson
 category: Person
-categories: Active Committee Driver Historian Mechanic Operator
+categories:
+    - Active
+    - Committee
+    - Driver
+    - Historian
+    - Mechanic
+    - Operator
 ---
-# Matt Simerson
 <img src="img/2020%20Matt%20Simerson.jpeg" align="right" style="width: 40%;" alt="photo of Matt feeding a gray jay">
+# Matt Simerson
+### Events
+- First year at Meany: 2009
 
-### Roles
-- [Committee](Committee)
-- [Driver](Driver)
-- [Historian](Historian)
-- [Mechanic](Mechanic)
-- Tow [Operator](Operator)
+{% include roles.html %}
 
 ### Known For
 - Building the [Pump House](Pump-House)

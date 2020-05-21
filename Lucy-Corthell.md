@@ -1,8 +1,9 @@
 ---
 title: Lucy Corthell
 category: Person
-categories: Active Instructor
+categories:
+    - Active
+    - Instructor
 ---
 # Lucy Corthell
-### Roles
-- [Instructor](Instructor)
+{% include roles.html %}

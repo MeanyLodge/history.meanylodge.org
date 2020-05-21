@@ -1,0 +1,10 @@
+{% if page.categories %}
+<h3>Roles</h3>
+<ul>
+  {% for cat in page.categories %}
+    {% unless cat == "Active" %}
+  <li><a href="{{ cat }}">{{ cat }}</a></li>
+    {% endunless %}
+  {% endfor %}
+</ul>
+{% endif %}

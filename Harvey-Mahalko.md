@@ -1,7 +1,8 @@
 ---
 title: Harvey Mahalko
 category: Person
-categories: Chair
+categories:
+    - Chair
 ---
 # Harvey Mahalko
 ### Roles

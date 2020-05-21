@@ -4,6 +4,7 @@ category: Person
 categories:
 ---
 # Linda Harkness
+{% include roles.html %}
 ### Known For
 - really great massages
 - carpeting the dorms, with proceeds from massages

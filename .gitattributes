@@ -234,6 +234,8 @@
 /img/2020-Operator.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/1956-Lodge.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/196n-Tom-Van-DeVanter.jpeg filter=lfs diff=lfs merge=lfs -text
+/img/2020-Dave-Maltz.jpeg filter=lfs diff=lfs merge=lfs -text
+/img/2020-Jim-Fahey.jpeg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -263,8 +265,6 @@
 /Skiing-in-Retrospect.md filter=lfs diff=lfs merge=lfs -text
 /favicon.ico filter=lfs diff=lfs merge=lfs -text
 /img/194n-Head-Pole.jpeg filter=lfs diff=lfs merge=lfs -text
-/img/2020-Dave-Maltz.jpeg filter=lfs diff=lfs merge=lfs -text
-/img/2020-Jim-Fahey.jpeg filter=lfs diff=lfs merge=lfs -text
 /Tom-Cat.md filter=lfs diff=lfs merge=lfs -text
 /img/1928-Meany-Ski-Hut.png filter=lfs diff=lfs merge=lfs -text
 /img/1929-Meany-Ski-Hut.png filter=lfs diff=lfs merge=lfs -text

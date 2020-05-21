@@ -1,16 +1,16 @@
 ---
 title: Norm Vigus
 category: Person
-categories: Active Committee Instructor
+categories:
+    - Active
+    - Committee
+    - Instructor
 ---
 # Norm Vigus
 ### Events
 - First year at Meany: 1958
 
-### Roles
-- [Committee](Committee)
-- Ski [Instructor](Instructor)
-
+{% include roles.html %}
 ### Known For
 - Caring for the rope tow pulleys
 - Mad carpentry skills

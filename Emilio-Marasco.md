@@ -2,13 +2,13 @@
 title: Emilio Marasco
 category: Person
 categories:
+    - Committee
 ---
 # Emilio Marasco
 ### Events
 - Meany Since:
 
-### Roles
-- [Committee](Committee)
+{% include roles.html %}
 
 ### Known For
 - husband of [Linda Harkness](Linda-Harkness)

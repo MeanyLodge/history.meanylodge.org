@@ -1,14 +1,14 @@
 ---
 title: Idona Kellogg
 category: Person
-categories: Historian
+categories:
+    - Historian
 ---
 # Idona Kellogg
 ### Events
 - First year at Meany: 1969<sup>[75th][]</sup>
 
-### Roles
-- [Historian](Historian)
+{% include roles.html %}
 
 ### Known For
 - Long time partner and wife of [Bob Bentler](Bob-Bentler)

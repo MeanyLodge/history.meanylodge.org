@@ -1,7 +1,11 @@
 ---
 title: Mike Lonergan
 category: Person
-categories: Active Chair Mechanic Operator
+categories:
+    - Active
+    - Chair
+    - Mechanic
+    - Operator
 ---
 # Mike Lonergan
 ### Events

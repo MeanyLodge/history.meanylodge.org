@@ -1,7 +1,11 @@
 ---
 title: Phil Christy
 category: Person
-categories: Active Chair Committee Cook
+categories:
+    - Active
+    - Chair
+    - Committee
+    - Cook
 ---
 # Phil Christy
 ### Events

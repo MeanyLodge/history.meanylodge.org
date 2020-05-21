@@ -1,7 +1,8 @@
 ---
 title: Doug Damm
 category: Person
-categories: Chair
+categories:
+    - Chair
 ---
 # Doug Damm
 ### Roles

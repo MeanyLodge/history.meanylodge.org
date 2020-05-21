@@ -1,11 +1,11 @@
 ---
 title: Bill Weber
 category: Person
-categories: Operator
+categories:
+    - Operator
 ---
 # Bill Weber
-### Roles
-- Tow [Operator](Operator)
+{% include roles.html %}
 
 ---
 ### History

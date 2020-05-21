@@ -1,7 +1,8 @@
 ---
 title: Annie Iverson
 category: Person
-categories: Cook
+categories:
+    - Cook
 ---
 <img src="img/1955%20Nashie.png" style="width: 40%;" align="right">
 # Annie Iverson

@@ -1,15 +1,15 @@
 ---
 title: Fred Ball
 category: Person
-categories: Chair
+categories:
+    - Chair
 ---
 # Fred Ball
 ### Events
 - Birth: 1897
 - Meany Since: 1929
 
-### Roles
-- [Chair](Chair)
+{% include roles.html %}
 
 ### Known For
 - [Patrol Race](Patrol-Race) winner, 1930

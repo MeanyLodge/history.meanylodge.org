@@ -1,7 +1,10 @@
 ---
 title: Walter Little
 category: Person
-categories: Mechanic Operator Permanent-Resident
+categories:
+    - Mechanic
+    - Operator
+    - Permanent-Resident
 tags: Deceased
 ---
 <img src="img/walter-little.png" style="width: 250px;" align="right">
@@ -16,6 +19,7 @@ tags: Deceased
 - Meany Years: 1938-[∞](Permanent-Resident)
 - Death: 2002-02-28
 
+{% include roles.html %}
 ### Known For
 - Designed [Mach](Mach).
 - Planned the Steven's Pass lodge

@@ -1,7 +1,10 @@
 ---
 title: Patti Polinsky
 category: Person
-categories: Active Committee Instructor
+categories:
+    - Active
+    - Committee
+    - Instructor
 ---
 <img src="img/2020%20Patti%20Polinsky.jpeg" alt="photo of Patti Polinsky" align="right" style="width: 40%">
 # Patti Polinsky
@@ -13,17 +16,14 @@ categories: Active Committee Instructor
 - First year at Meany: 1968 or 69
 - Teaching in early 1970s
 
-### Roles
-- [Committee](Committee)
-- [Instructor](Instructor)
-- [Ski School](Ski-School)
-
+{% include roles.html %}
 ### Known For
 - PSIA-NW Certified Instructor
-- Organizing Meany events
-- [Carnival](Carnival)
-- [Mushroom Weekend](Mushroom-Weekend)
-- Ski clinics
+- Event Organizer
+    - [Ski School](Ski-School)
+    - [Mushroom Weekend](Mushroom-Weekend)
+    - Ski clinics
+    - [Carnival](Carnival)
 - [Mountaineers Super Volunteer](https://www.mountaineers.org/members/patti-polinsky)
 
 ### See also
