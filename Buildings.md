@@ -23,6 +23,7 @@ Buildings and Structures on the Meany Campus.
 - [Telephone Cabin](Telephone-Cabin)
 - Defunct:
     - [Edifice Wreck](Edifice-Wreck)
+    - [Snoqualmie Lodge](Snoqualmie-Lodge)
 
 
 ###### [template](Building-Template)

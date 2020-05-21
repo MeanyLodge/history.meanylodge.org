@@ -5,27 +5,29 @@ category: List
 # Home
 ### About Meany Lodge
 
-* [About](About) this site
-* [History](History)
-* [Ski School](Ski-School)
+- [About](About) this site
+- [Events](Events)
+- [History](History)
+- [Ski School](Ski-School)
 
-### Tows: [Mach](Mach), [Super Worm](Super-Worm), and [Turtle](Turtle)
+### [Tows](Tows)
 
 ### Ski [Runs](Runs)
 
 ### [Buildings](Buildings) / Structures
 
-### [Machines](Machines) / Animals / Beasts
+### [Machines](Machines) / Animals
 
 ### [Areas](Areas) / Items / Points of Interest
 
 ### See Also
 
-* Official [Meany Lodge](https://www.mountaineers.org/locations-lodges/meany-lodge/) web site.
-* Research [Sources](Sources)
-* [Access](Access), [Energy](Energy), [Safety](Safety), [Water](Water)
-* Wikipedia articles
-    - [Meany Lodge](https://en.wikipedia.org/wiki/Meany_Lodge)
+- Meany Lodge sites:
+    - Official [Meany Lodge](https://www.mountaineers.org/locations-lodges/meany-lodge/).
+    - Wikipedia [Meany Lodge](https://en.wikipedia.org/wiki/Meany_Lodge) article
+    - [Committee wiki](https://github.com/MeanyLodge/Committee/wiki)
+- [Access](Access), [Energy](Energy), [Safety](Safety), [Water](Water)
+- Research [Sources](Sources)
+- Wikipedia articles
     - [Martin, Washington](https://en.wikipedia.org/wiki/Martin,_Washington)
     - [Martin Ski Dome](https://en.wikipedia.org/wiki/Martin_Ski_Dome)
-* [Snoqualmie Lodge](Snoqualmie-Lodge)
