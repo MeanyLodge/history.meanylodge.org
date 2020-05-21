@@ -4,7 +4,7 @@ category: Building
 categories: Building
 ---
 # Zoo
-<img src="img/2020%20Zoo.jpeg" style="width: 40%;" align="right">
+<img src="img/2020-Zoo.jpeg" style="width: 40%;" align="right">
 
 ### Location
 

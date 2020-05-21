@@ -9,7 +9,7 @@ category: Document
 
 See: [Instructor](Instructor)
 
-<img src="img/1929%20Ski%20on%20the%20level.png" align="right" style="width: 40%;">
+<img src="img/1929-Ski-on-the-level.png" align="right" style="width: 40%;">
 
 ### See Also
 

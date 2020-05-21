@@ -46,7 +46,7 @@ tags: Deceased
 ### History
 #### 1956
 
-<img src="img/1956%20Walter%20Little.jpeg" alt="Walter Little Memorial Tow" style="width: 40%;">
+<img src="img/1956-Walter-Little.jpeg" alt="Walter Little Memorial Tow" style="width: 40%;">
 
 #### 1958
 
@@ -54,7 +54,7 @@ The relocated tow at Meany provided better access to lanes and eliminated the ne
 
 #### 1975
 
-<img src="img/1975%20Walt%20Little.png" style="width: 50%;">
+<img src="img/1975-Walt-Little.png" style="width: 50%;">
 
 #### 1978
 

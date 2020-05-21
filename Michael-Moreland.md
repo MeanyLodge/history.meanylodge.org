@@ -12,6 +12,9 @@ categories:
 - Michael Moreland
 - British Michael
 
+### Events
+- First year at Meany: 2017
+
 {% include roles.html %}
 ### Known For
 - Admiring Scotches

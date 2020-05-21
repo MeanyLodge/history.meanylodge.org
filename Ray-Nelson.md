@@ -6,7 +6,7 @@ categories:
     - Chair
     - Committee
 ---
-<img src="img/1990%20Ray%20Nelson%20Bored.jpeg" style="width: 100%;">
+<img src="img/1990-Ray-Nelson-Bored.jpeg" style="width: 100%;">
 # Ray Nelson
 ### Names
 - the "Boss"

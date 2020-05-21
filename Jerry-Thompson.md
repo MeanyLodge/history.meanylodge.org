@@ -5,7 +5,7 @@ categories:
     - Active
     - Committee
 ---
-<img src="img/2014%20Jerry%20Thompson.jpeg" style="width: 40%;" align="right">
+<img src="img/2014-Jerry-Thompson.jpeg" style="width: 40%;" align="right">
 # Jerry Thompson
 ### Names
 - Jerry Thompson

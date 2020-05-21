@@ -10,7 +10,7 @@ categories: Machine, Tractor
 - the tractor
 - The Old Beast
 
-<img src="img/19nn%20Beast.jpeg" style="width: 40%;" align="right">
+<img src="img/19nn-Beast.jpeg" style="width: 40%;" align="right">
 
 ### Description
 

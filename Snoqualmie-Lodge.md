@@ -3,7 +3,7 @@ title: Snoqualmie Lodge
 category: Building
 ---
 # Snoqualmie Lodge
-<img src="img/1929%20Snoqualmie%20Lodge.png" style="width: 100%;">
+<img src="img/1929-Snoqualmie-Lodge.png" style="width: 100%;">
 
 ## [1944][ma44]
 

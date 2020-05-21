@@ -4,7 +4,7 @@ category: Building
 categories: Building
 ---
 # Diesel Hut
-<img src="img/2020%20Diesel%20Hut.jpeg" style="width: 40%" align="right">
+<img src="img/2020-Diesel-Hut.jpeg" style="width: 40%" align="right">
 
 ### Names
 * Diesel Hut

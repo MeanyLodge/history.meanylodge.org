@@ -6,7 +6,7 @@ categories:
     - Committee
     - Cook
 ---
-<img src="img/2014%20Richard%20Botts.jpeg" style="width: 40%" align="right">
+<img src="img/2014-Richard-Botts.jpeg" style="width: 40%" align="right">
 # Richard Botts
 
 {% include roles.html %}

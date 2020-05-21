@@ -5,7 +5,7 @@ categories: Building Hut
 ---
 # Tow Hut
 The lower building that encloses the [Mach](Mach) rope tow and equipment.
-<img src="img/2020%20Tow%20Hut%20SE.jpeg" style="width: 40%" align="right">
+<img src="img/2020-Tow-Hut-SE.jpeg" style="width: 40%" align="right">
 
 ### Names
 - Tow Hut
@@ -34,7 +34,7 @@ Tow Hut was made of logs cut from trees from widening the [Lane](Lane).
 New Tow hut moved north about 250', and about 20' lower. Frame construction; basement floor, main floor and attic
 
 #### 1975
-<img src="img/2020%20Tow%20Hut%20W.jpeg" style="width: 40%" align="right">
+<img src="img/2020-Tow-Hut-W.jpeg" style="width: 40%" align="right">
 - New counter weight
 - Resided and decorated in a Bavarian style.
 

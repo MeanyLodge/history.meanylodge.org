@@ -4,7 +4,7 @@ category: RopeTow
 categories: RopeTow
 ---
 # Mach
-<img src="img/2020%20Mach%20Base.jpeg" style="width: 40%;" align="right">
+<img src="img/2020-Mach-Base.jpeg" style="width: 40%;" align="right">
 
 ### Names
 - Mach
@@ -24,8 +24,8 @@ Along the south edge of the [Lane](Lane).
 Mach used to have a 4-speed transmission. Typically only the first three gears were ever used, as 3rd gear was 19-21mph. Occasionally it was shifted into 4th which ran at 30mph. When propelled at such speeds it seemed as if one was approaching the speed of sound–hence the name "Mach Tow." <sup>[nw][] [75th][]</sup>
 
 ### Specifications
-<img src="img/2020%20Mach%20Head.jpeg" style="width: 40%;" align="right">
-- Vertical: 441' ([base 2911'](img/2020%20Mach%20base%20GPS.png), [top: 3330'](img/2020%20Mach%20top%20GPS.png))
+<img src="img/2020-Mach-Head.jpeg" style="width: 40%;" align="right">
+- Vertical: 441' ([base 2911'](img/2020-Mach-base-GPS.png), [top: 3330'](img/2020-Mach-top-GPS.png))
 - Horizontal: 1,000'
 - Speed: 16mph (limited by state regulations)
 - Constructed: 1938
@@ -86,7 +86,7 @@ Begin work to relocate and rebuild. <sup>[hw][]</sup>
 
 Complete relocation, begun in 1955. Head pole moved south about 200' and 30' higher. Tow hut moved north about 250', and about 20' lower. This was done to gain more altitude, and to get upper unloading closer to [Lower Slobbovia](Lower-Slobbovia). Rise 440'. Length 1,000'. <sup>[ma78][]</sup>
 
-<img src="img/1956%20Walter%20Little.jpeg" alt="Walter Little Memorial Tow" style="width: 40%;">
+<img src="img/1956-Walter-Little.jpeg" alt="Walter Little Memorial Tow" style="width: 40%;">
 
 #### 1957
 

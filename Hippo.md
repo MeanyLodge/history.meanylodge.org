@@ -4,7 +4,7 @@ category: Machine
 categories: Machine Groomer
 ---
 # Hippo
-<img src="img/2020%20Hippo.jpeg" style="width: 50%;" align="right">
+<img src="img/2020-Hippo.jpeg" style="width: 50%;" align="right">
 ### Names
 
 - Hippo
@@ -29,7 +29,7 @@ Snow plow and groomer. Used for grooming Forest Road 420, the skier side of F.R.
 
 #### 2011
 
-<img src="img/2011%20Hippo.jpeg" style="width: 40%;">
+<img src="img/2011-Hippo.jpeg" style="width: 40%;">
 
 #### 2019
 

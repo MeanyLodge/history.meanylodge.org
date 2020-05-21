@@ -6,7 +6,7 @@ categories:
     - Committee
     - Instructor
 ---
-<img src="img/2020%20Patti%20Polinsky.jpeg" alt="photo of Patti Polinsky" align="right" style="width: 40%">
+<img src="img/2020-Patti-Polinsky.jpeg" alt="photo of Patti Polinsky" align="right" style="width: 40%">
 # Patti Polinsky
 ### Names
 - Patti Polinsky

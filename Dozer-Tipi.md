@@ -3,7 +3,7 @@ title: Dozer Tipi
 category: Building
 categories: Building
 ---
-<img src="img/2020%20Dozer%20Tipi.jpeg" style="width: 40%;" alt="Bulldozer Tipi" align="right">
+<img src="img/2020-Dozer-Tipi.jpeg" style="width: 40%;" alt="Bulldozer Tipi" align="right">
 # Dozer Tipi
 ### Names
 - Dozer Tipi

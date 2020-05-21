@@ -4,18 +4,18 @@ category: List
 ---
 # Meany Ski Instructors
 
-| Years   | Name
-| -----   | ---
+| Years      | Name
+| ---------- | ---
 | 1969-2020+ | [Patti Polinsky](Patti-Polinsky)
-| -1982-? | [Dave Claar](Dave-Claar)
-| 1982    | Kim Nelson
+| -1982-?    | [Dave Claar](Dave-Claar)
+| 1982       | Kim Nelson
 | late 90s-2020+ | [Norm Vigus](Norm-Vigus)
 | 2002-2020+ | [Art Freeman](Art-Freeman)
-| ?-2020+ | [Dave Maltz](Dave-Maltz)
-| ?-2020+ | [Jim Fahey](Jim-Fahey)
-|         | [Maud de Bel](Maud-de-Bel)
-| ?-2020+ | [Dan Nord](Dan-Nord)
-|         | [Lucy Corthell](Lucy-Corthell)
+| ?-2020+    | [Dave Maltz](Dave-Maltz)
+| ?-2020+    | [Jim Fahey](Jim-Fahey)
+| 2019-2020+ | [Maud de Bel](Maud-de-Bel)
+| ?-2020+    | [Dan Nord](Dan-Nord)
+|            | [Lucy Corthell](Lucy-Corthell)
 
 #### Data Sources
 - historical documents

@@ -60,7 +60,7 @@ Being among the less talented, I was sent up on the roof to help with shingling,
 
 #### 1944
 
-<img src="img/1945%20Meany%20Ski%20Hut.png" alt="Meany Ski Lodge 1945" align="right" style="width: 40%;">
+<img src="img/1945-Meany-Ski-Hut.png" alt="Meany Ski Lodge 1945" align="right" style="width: 40%;">
 
 Extended basement by digging under original portion of building. Constructed 10' x 10' drying room. <sup>[hw][], [ma44][]</sup>
 
@@ -89,7 +89,7 @@ Added east end fire escape and fire alarm system.<sup>[ma78][]</sup>
 
 #### 1971
 
-<img src="img/1975%20Meany%20Ski%20Lodge.png" alt="Photo of Meany Lodge in 1975" align="right" style="width: 40%;">
+<img src="img/1975-Meany-Ski-Lodge.png" alt="Photo of Meany Lodge in 1975" align="right" style="width: 40%;">
 
 the hut capacity was increased again in 1971.<sup>[ma78][]</sup>
 

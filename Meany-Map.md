@@ -7,7 +7,7 @@ category: Document
 
 On the wall in the lodge, next to the stairwell.
 
-<img src="img/2020%20Meany%20Map.jpeg">
+<img src="img/2020-Meany-Map.jpeg">
 
 ### Origin
 
