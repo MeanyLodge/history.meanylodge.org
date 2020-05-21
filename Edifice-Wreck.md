@@ -1,7 +1,7 @@
 ---
 title: Edifice Wreck
 category: Building
-categories: Building
+categories: Building Defunct
 ---
 <img src="img/2020%20Edifus%20Wreck.jpeg" style="width: 40%;" align="right">
 # Edifice Wreck

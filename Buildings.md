@@ -24,6 +24,7 @@ Buildings and Structures on the Meany Campus.
 - Defunct:
     - [Edifice Wreck](Edifice-Wreck)
     - [Snoqualmie Lodge](Snoqualmie-Lodge)
+    - [Martin Lookout](Martin-Lookout)
 
 
 ###### [template](Building-Template)

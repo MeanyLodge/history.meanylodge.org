@@ -225,6 +225,7 @@
 /img/2020-One-Holer.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2020-Telephone-Cabin.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2020-Turtle.jpeg filter=lfs diff=lfs merge=lfs -text
+/reference/martin-lookout.zip filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -253,7 +254,6 @@
 /Names-Walt.md filter=lfs diff=lfs merge=lfs -text
 /Skiing-in-Retrospect.md filter=lfs diff=lfs merge=lfs -text
 /favicon.ico filter=lfs diff=lfs merge=lfs -text
-/reference/martin-lookout.zip filter=lfs diff=lfs merge=lfs -text
 /img/2020-martin-lookout-footing-2.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2020-martin-lookout-footing.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2020-James-Kotlick.jpeg filter=lfs diff=lfs merge=lfs -text
