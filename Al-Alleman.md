@@ -1,18 +1,17 @@
 ---
 title: Al Alleman
 category: Person
-categories: Person
+categories:
 ---
 # Al Alleman
 ### Known For
+- Owner of [Mouse](Mouse)
+- [Al's Fringe](Al's-Fringe)
+- X-Country trail maintenance
+- Order of the Mole - Second Class
 
-* Owner of [Mouse](Mouse)
-* [Al's Fringe](Al's-Fringe)
-* X-Country trail maintenance
-* Order of the Mole - Second Class
-
+---
 ### History
-
 #### 1981
 
 On the light side, Al Alleman and Kent Nelson, amid great applause, were awarded the "Order of the Mole - Second Class" for excavating the three foot diameter by thirty foot long culvert of Weasel Creek which had collected debris for over four years. These two were told that if they wish to try for the Order of the Mole - First Class" they would have to dig a longer hole.<sup>[hr][]</sup>

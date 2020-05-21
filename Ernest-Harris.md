@@ -1,17 +1,16 @@
 ---
 title: Ernest Harris
 category: Person
-categories: Person Chair
+categories: Chair
 ---
 # Ernest Harris
 ### Names
-
-* Ernest N. Harris
+- Ernest N. Harris
 
 ### Roles
+- [Chair](Chair) 1928
 
-* [Chair](Chair)
-
+---
 ### History
 
 #### 1929

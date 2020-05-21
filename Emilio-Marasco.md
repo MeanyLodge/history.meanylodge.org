@@ -1,23 +1,21 @@
 ---
 title: Emilio Marasco
 category: Person
-categories: Person
+categories:
 ---
 # Emilio Marasco
 ### Events
-
 - Meany Since:
 
 ### Roles
-
 - [Committee](Committee)
 
 ### Known For
-
 - husband of [Linda Harkness](Linda-Harkness)
 - webmaster
 - good looking kids. Where did they get it from?
 
+---
 ### History
 
 #### 2013

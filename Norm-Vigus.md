@@ -1,24 +1,23 @@
 ---
 title: Norm Vigus
 category: Person
-categories: Person Committee Instructor
+categories: Active Committee Instructor
 ---
 # Norm Vigus
 ### Events
 - First year at Meany: 1958
 
 ### Roles
-
 - [Committee](Committee)
 - Ski [Instructor](Instructor)
 
 ### Known For
-
+- Caring for the rope tow pulleys
 - Mad carpentry skills
 - 1979 Bachelor of the Year Runner-up
 
+---
 ### History
-
 #### 1979
 
 Other skit characters were the minister ([Dave Claar](Dave-Claar)) and the victim (Charlie Vail). [Walter Little](Walter-Little) walked away with the Bachelor of the Year Award with Norm Vigus as runner-up. Bob Bentler showed Super 8 movies of Walt and Norm to prove why they should be the winners. <sup>[ma79][]</sup>

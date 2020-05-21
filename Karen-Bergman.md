@@ -1,9 +1,8 @@
 ---
 title: Karen Bergman
 category: Person
-categories: Person
+categories:
 ---
 # Karen Bergman
 ### Known For
-
-* [Karen's Corridor](Karen's-Corridor)
+- [Karen's Corridor](Karen's-Corridor)

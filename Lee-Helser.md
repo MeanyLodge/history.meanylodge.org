@@ -1,7 +1,7 @@
 ---
 title: Lee Helser
 category: Person
-categories: Person
+categories: Chair
 tags: founder
 ---
 # Lee Helser
@@ -9,16 +9,13 @@ tags: founder
 - First year at Meany: 1928
 
 ### Roles
-
-* [Chair](Chair)
+- [Chair](Chair) 1982-1985
 
 ### Known For
+- [Helser's Ess](Helser's-Ess)
 
-* [Helser's Ess](Helser's-Ess)
-
-
+---
 ### History
-
 #### 1978
 
 One extra special Saturday night program was the dedication banquet for [Walter's Woods](Walter's-Woods) with Master of Ceremonies [Lee Helser](Lee-Helser) cleverly spicing the evening...<sup>[ma78][]</sup>

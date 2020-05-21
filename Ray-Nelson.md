@@ -1,30 +1,26 @@
 ---
 title: Ray Nelson
 category: Person
-categories: Person Chair Committee
+categories: Active Chair Committee
 ---
-# Ray Nelson
 <img src="img/1990%20Ray%20Nelson%20Bored.jpeg" style="width: 100%;">
-
+# Ray Nelson
 ### Names
-
-* the "Boss"
-* Ray Nelson
+- the "Boss"
+- Ray Nelson
 
 ### Roles
-
-* [Chair](Chair) from 1966-1982 and 1987-1990
-* [Committee](Committee)
-* Electrician
-* Lineman
+- [Chair](Chair) from 1966-1982 and 1987-1990
+- [Committee](Committee)
+- Electrician
+- Lineman
 
 ### Known For
+- "Running the best work parties." - [Patti-Polinsky-Claar](Patti-Polinsky)
+- Power Management Director for Seattle City Light
 
-* "Running the best work parties." - [Patti-Polinsky-Claar](Patti-Polinsky)
-* Power Management Director for Seattle City Light
-
+---
 ### History
-
 #### 1977
 
 The hut operation has prospered under the "Boss's" management and it is very much to the benefit of The Mountaineers, and Meany especially, that Ray is willing to continue.<sup>[ma77][]</sup>

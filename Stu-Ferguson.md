@@ -9,11 +9,10 @@ categories: Person
 - Stuart Ferguson
 
 ### Known For
+- [Ferguson Pool](Ferguson-Pool)
 
-* [Ferguson Pool](Ferguson-Pool)
-
+---
 ### History
-
 #### 2003
 
 *Snoq. to Meany*, email from Stuart Ferguson to J Lamers.

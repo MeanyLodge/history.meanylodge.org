@@ -1,49 +1,45 @@
 ---
 title: Walter Little
 category: Person
-categories: Person
+categories: Mechanic Operator Permanent-Resident
+tags: Deceased
 ---
+<img src="img/walter-little.png" style="width: 250px;" align="right">
 # Walter Little
 ### Names
-
 - Walt Little
 - Walter B. Little
 - Walter Burges Little
 
-<img src="img/walter-little.png" style="width: 250px;" align="right">
-
 ### Events
-
 - Birth: 1909-04-29
 - Meany Years: 1938-[∞](Permanent-Resident)
 - Death: 2002-02-28
 
 ### Known For
-
-* Designed [Mach](Mach).
-* Planned the Steven's Pass lodge
-* Helped design tows and lifts at Crystal & Whistler.
-* Sailor
-    * Life Member of Seattle Yacht Club
-    * Founder of [Pacific Handicap Racing Fleet](http://phrf-nw.org/founders/)
-* Fan of [Al Capp](https://en.wikipedia.org/wiki/Al_Capp) and L'il Abner.
-* [1979 Meany Batchelor of the Year][ma79]
-* Writing about Meany
-    * 1940 [Meany Ski Hut][ma40]
-    * 1941 [Mountaineering on Skis][ma41]
-    * 1978 [Meany History][ma78]
-    * 1984 [Meany Names](Names-Walt)
-    * 1984 [Chronological History of Meany Lodge][hw]
-* [Walter's Little Spring](Propane-Hut)
-* [Permanent Resident](Permanent-Resident)
+- Designed [Mach](Mach).
+- Planned the Steven's Pass lodge
+- Helped design tows and lifts at Crystal & Whistler.
+- Sailor
+    - Life Member of Seattle Yacht Club
+    - Founder of [Pacific Handicap Racing Fleet](http://phrf-nw.org/founders/)
+- Fan of [Al Capp](https://en.wikipedia.org/wiki/Al_Capp) and L'il Abner.
+- [1979 Meany Batchelor of the Year][ma79]
+- Writing about Meany
+    - 1940 [Meany Ski Hut][ma40]
+    - 1941 [Mountaineering on Skis][ma41]
+    - 1978 [Meany History][ma78]
+    - 1984 [Meany Names](Names-Walt)
+    - 1984 [Chronological History of Meany Lodge][hw]
+- [Walter's Little Spring](Propane-Hut)
+- [Permanent Resident](Permanent-Resident)
 
 ### See Also
-
 - [Obituary](http://www.alpenglow.org/ski-history/notes/orig/little-walt-obit.txt)
 - [PHRF Obit](http://phrf-nw.org/founders/)
 
+---
 ### History
-
 #### 1956
 
 <img src="img/1956%20Walter%20Little.jpeg" alt="Walter Little Memorial Tow" style="width: 40%;">

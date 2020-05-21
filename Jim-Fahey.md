@@ -1,26 +1,25 @@
 ---
 title: Jim Fahey
 category: Person
-categories: Person Committee Driver Instructor
+categories: Active Committee Driver Instructor Operator
 ---
 # Jim Fahey
 ### Events
 - First year at Meany: 1998
 
 ### Roles
-
 - [Committee](Committee)
 - [Driver](Driver)
 - [Instructor](Instructor)
+- [Operator](Operator)
 
 ### Known For
-
 - [Tom Cat](Tom-Cat) Driver
 - Meany COO
 - Greasing his tows
 
+---
 ### History
-
 #### 2003
 
 **Jim Fahey & son Gabe** This will be our fifth year skiing and boarding here at Meany. This place has already become a favorite memory of ours. Last season there was hardly enough snow to ski on. We had to take our skiis off and walk through the woods to the tow hut spot. Even with such little snow my son would say, "I don't care about the ski conditions, I just want to come up to Meany every weekend!" Me too!<sup>[75th][]</sup>

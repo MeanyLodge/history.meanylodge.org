@@ -1,23 +1,22 @@
 ---
 title: Idona Kellogg
 category: Person
-categories: Person Historian
+categories: Historian
 ---
 # Idona Kellogg
 ### Events
 - First year at Meany: 1969<sup>[75th][]</sup>
 
 ### Roles
-
-* [Historian](Historian)
+- [Historian](Historian)
 
 ### Known For
+- Long time partner and wife of [Bob Bentler](Bob-Bentler)
+- Author of [History-Idona](History-Idona)
+- Author of the Meany photo [Flipboard](Flipboard)
+- Author of [Milestones from 75 years at Meany Lodge](Milestones-from-75-years-at-Meany-Lodge)
 
-* Long time partner and wife of [Bob Bentler](Bob-Bentler)
-* Author of [History-Idona](History-Idona)
-* Author of the Meany photo [Flipboard](Flipboard)
-* Author of [Milestones from 75 years at Meany Lodge](Milestones-from-75-years-at-Meany-Lodge)
-
+---
 ### History
 
 #### 1979

@@ -1,12 +1,11 @@
 ---
 title: Dave Maltz
 category: Person
-categories: Person Committee Driver Instructor Operator
+categories: Active Committee Driver Instructor Operator
 ---
 # Dave Maltz
-### Names
 ### Roles
-- Committee
-- Driver
-- Instructor
-- Operator
+- [Committee](Committee)
+- [Driver](Driver)
+- [Instructor](Instructor)
+- [Operator](Operator)

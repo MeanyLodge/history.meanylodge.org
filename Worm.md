@@ -1,7 +1,7 @@
 ---
 title: Worm
 category: RopeTow
-categories: RopeTow Lift
+categories: Lift
 ---
 # Worm
 ### Location

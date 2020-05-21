@@ -1,24 +1,22 @@
 ---
 title: Fred Ball
 category: Person
-categories: Person Chair
+categories: Chair
 ---
 # Fred Ball
 ### Events
-
-* Birth: 1897
-* Meany Since: 1929
+- Birth: 1897
+- Meany Since: 1929
 
 ### Roles
-
-* [Chair](Chair)
+- [Chair](Chair)
 
 ### Known For
+- [Patrol Race](Patrol-Race) winner, 1930
+- Author: [The Story of Meany Ski Hut][ma56]
+- Author: [Mountaineer Skiing][ma63]
 
-* [Patrol Race](Patrol-Race) winner, 1930
-* Author: [The Story of Meany Ski Hut][ma56]
-* Author: [Mountaineer Skiing][ma63]
-
+---
 ### History
 
 #### 1963

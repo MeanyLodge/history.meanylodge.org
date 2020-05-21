@@ -23,7 +23,7 @@ Holders of the Meany Chair position.
 | 1943-1944 | Ken MacLean | |
 | 1945-1946 | Charles Cehrs | |
 | 1947      | C. A. Mittun | |
-| 1948 Malcolm Post |  | |
+| 1948      | Malcolm Post | |
 | 1949      | Bob Cuss | |
 | 1950-1951 | Coleman Leuthy | |
 | 1952      | Dale Turner | |

@@ -1,10 +1,11 @@
 ---
 title: Annie Iverson
 category: Person
+categories: Cook
 ---
+<img src="img/1955%20Nashie.png" style="width: 40%;" align="right">
 # Annie Iverson
 ### Names
-
 - Nashie
 - Annie Iverson
 - Mrs. Harry K. Iverson
@@ -12,14 +13,10 @@ category: Person
 Wife of Northern Pacific Railroad engineer Harry K. Iverson.
 
 ### Roles
+- [Cook](Cook) 1935-1965
 
-* [Cook](Cook)
-
-<img src="img/1955%20Nashie.png" style="width: 40%;" align="right">
-
-
+---
 ### History
-
 #### 1935
 
 During the early years it was difficult to find a suitable cook who could be available regularly. In 1935 the committee induced the one and only Nashie to take over. <sup>[ma56][]</sup>

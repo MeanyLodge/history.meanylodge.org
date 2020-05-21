@@ -1,21 +1,18 @@
 ---
 title: Doug Damm
 category: Person
-categories: Person Chair
+categories: Chair
 ---
 # Doug Damm
-
 ### Roles
-
-* [Chair](Chair)
+- [Chair](Chair) 1961
 
 ### Known For
+- Authored the Meany Hut map on the wall in the lodge.
+- [Damnation](Damnation)
 
-* Authored the Meany Hut map on the wall in the lodge.
-* [Damnation](Damnation)
-
+---
 ### History
-
 #### 1960
 
 Authored the Meany Hut map on the wall in the lodge.<sup>[map][]</sup>

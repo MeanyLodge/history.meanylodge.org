@@ -10,11 +10,10 @@ category: List
 * [Cook](Cook)
 * [Driver](Driver)
 * [Historian](Historian)
-* [Instructor](Instructor)
-* [Mechanic](Mechanic)
-* [Permanent Resident](Permanent-Resident)
 * Ski [Instructor](Instructor)
+* [Mechanic](Mechanic)
 * Tow [Operator](Operator)
+* [Permanent Resident](Permanent-Resident)
 
 ### Persons
 

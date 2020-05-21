@@ -1,8 +1,9 @@
 ---
 title: Hope Maltz
 category: Person
-categories: Person Committee
+categories: Active Committee Operator
 ---
 # Hope Maltz
 ### Roles
-- Committee
+- [Committee](Committee)
+- [Operator](Operator)

@@ -1,15 +1,14 @@
 ---
 title: Bill Weber
 category: Person
-categories: Person Operator
+categories: Operator
 ---
 # Bill Weber
 ### Roles
-
 - Tow [Operator](Operator)
 
+---
 ### History
-
 #### 1991
 
 Mike Lonergan ran the tows because Bill was ill.<sup>[hi][]</sup>

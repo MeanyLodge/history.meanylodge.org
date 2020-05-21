@@ -1,18 +1,17 @@
 ---
 title: Paul Bergman
 category: Person
-categories: Person Chair Mechanic
+categories: Chair Mechanic
 ---
 # Paul Bergman
 ### Roles
-
-* [Chair](Chair) 1985-1987
-* [Mechanic](Mechanic)
+- [Chair](Chair) 1985-1987
+- [Mechanic](Mechanic)
 
 ### Known For
+- Primary mechanic for [Pack Rat](Pack-Rat)
 
-* Primary mechanic for [Pack Rat](Pack-Rat)
-
+---
 ### History
 
 #### 1979

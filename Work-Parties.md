@@ -2,36 +2,19 @@
 title: Work Parties
 category: Event
 ---
+<img src="img/1948%20Meany%20Work%20Party.png" alt="sketch of meanyites working" style="width: 40%;" align="right">
 # Work Parties
 
-Meany is an all-volunteer lodge. Everything at Meany is the result of hundreds of thousands of hours donated by hundreds of individuals. This page will get periodically refreshed from the [committee wiki](https://github.com/MeanyLodge/Committee/wiki), where more current information is maintained.
-
-<img src="img/1948%20Meany%20Work%20Party.png" alt="sketch of meanyites working" style="width: 40%;" align="right">
+Meany is an all-volunteer lodge. Everything at Meany is the result of hundreds of thousands of hours donated by hundreds of individuals. This page gets periodically refreshed from the [committee wiki](https://github.com/MeanyLodge/Committee/wiki), where more current information is maintained.
 
 
 ## 2020
 
 - overhauled the fire alarm wiring.
 - Cleaned the dam pre-filter and the reservoir
-
-[Google Doc](https://docs.google.com/spreadsheets/d/1nfzS1-X-nbi7EbtkVqKx9IZ4TflINx13XerAhoAwv4c/edit#gid=0)
-
-### Coronovirus Work Party Safety Ideas
-
-* Publicizing dates early gives us all something to look forward to and targets for our organizational planning - Hope
-* Nobody will be surprised if we need to call off an event - Hope
-* Publish "cut off dates" if restrictions aren't lifted by then - Hope
-* liberal refund policy - Hope
-* treat family members who live together as "one quarantine unit" - Matt
-* have twice as many work parties with half as many people at each - Matt
-* organize working groups to limit the exposure of Q.U. exposure to each other. - Matt
-* serve meals outside under a tent - Matt
-* Install screen doors and fans in the dorms to increase air flow. Then sleep a dozen Q.U. in the dooms with at least 10' between each - Matt
-* Camping outside. - Matt
-* Different Committee members take the lead of different work parties. - Jim
-* Post specifically what is planned for a particular work party and people sign up for those tasks - Jim
-* Day trips for the work party, maybe even go home and come back the following day - Jim
-* Small groups focused on outdoor projects that require fewer people - Rick
+- [Annual Maintenance](https://github.com/MeanyLodge/Committee/wiki/2020-Annual-Maintenance)
+- [2020 Project List](https://github.com/MeanyLodge/Committee/wiki/2020-Projects)
+- [Coronavirus work party safety ideas](https://github.com/MeanyLodge/Committee/wiki/Coronavirus-Work-Party-Safety-Ideas)
 
 ## 2019
 <img src="img/2019%20Woodshed%20Roof.jpeg" style="width: 300px;" align="right">

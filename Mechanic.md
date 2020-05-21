@@ -6,24 +6,26 @@ category: List
 
 Those who regularly work on Meany animals.
 
-* [Tom Van DeVanter](Tom-Van-DeVanter)
-* [Shawn Bertagnole](Shawn-Bertagnole)
-* [Alex de Klerk](Alex-de-Klerk)
-* [Rick Ingham](Rick-Ingham)
-* [Matt Simerson](Matt-Simerson)
-* [Dave Claar](Dave-Claar)
-* [Chuck Welter](Chuck-Welter)
-* [Michael Froebe](Michael-Froebe)
+### Active Mechanics
+<ul>
+  {% for doc in site.pages %}
+    {% if doc.category == "Person" %}
+      {% if doc.categories contains "Mechanic" and doc.categories contains "Active" %}
+  <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</ul>
 
-### Template
+### Past Mechanics
+<ul>
+  {% for doc in site.pages %}
+    {% if doc.category == "Person" and doc.categories contains "Mechanic" %}
+      {% unless doc.categories contains "Active" %}
+  <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+</ul>
 
-Use the following template for each machine:
-
-- Name
-- Purpose
-- Specifications
-    - Model
-    - Engine
-    - ...
-- Mechanics
-- History
+###### this list is incomplete. Send updates to [Matt Simerson](Matt-Simerson)

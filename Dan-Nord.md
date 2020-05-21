@@ -1,22 +1,22 @@
 ---
 title: Dan Nord
 category: Person
-categories: Person Committee Driver Instructor
+categories: Active Committee Driver Instructor Operator
 ---
-# Dan Nord
 <img src="img/2020-Dan-Nord.jpeg" style="width: 50%;" align="right">
-
+# Dan Nord
 ### Roles
 - [Committee](Committee)
 - [Driver](Driver)
 - [Instructor](Instructor)
+- [Operator](Operator)
 
 #### Known For
 - 2020 [Patrol Race](Patrol-Race) Contestant
 - Sharing his dark beers
 
+---
 ### History
-
 #### 2013
 
 “You hear people around here say, ‘It takes a lodge,’ ” said Dan Nord, whose been visiting the lodge for a decade. “Everybody helps out.” <sup>[yore][]</sup>

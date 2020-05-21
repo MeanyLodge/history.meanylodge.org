@@ -1,7 +1,7 @@
 ---
 title: Lucy Corthell
 category: Person
-categories: Person Instructor
+categories: Active Instructor
 ---
 # Lucy Corthell
 ### Roles

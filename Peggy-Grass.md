@@ -5,12 +5,12 @@ categories: Person Cook
 ---
 # Peggy Grass
 ### Role
-
-* [Cook](Cook)
+- [Cook](Cook) 1967-1978+
 
 ### Known For
-* Mother of [Robert Grass](Bob-Grass)
+- Mother of [Robert Grass](Bob-Grass)
 
+---
 ### History
 
 #### 1978

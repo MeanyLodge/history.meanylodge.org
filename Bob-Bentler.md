@@ -1,17 +1,15 @@
 ---
 title: Bob Bentler
 category: Person
-categories: Person
+categories:
 ---
 # Bob Bentler
 ### Known For
+- Owns the bulldozer under the tipi in the [Industrial Park][ip]
+- Married to [Idona Kellogg][ik]
 
-* Owns the bulldozer under the tipi in the [Industrial Park][ip]
-* Married to [Idona Kellogg][ik]
-
-
+---
 ### History
-
 #### 1978
 
 One extra special Saturday night program was the dedication banquet for "Walt's Woods" with Master of Ceremonies Lee Heiser cleverly spicing the evening and a film on Walter shown by Bob Bentler. A huge cake shaped like a bald head contained a hidden cavity which was opened to reveal Walter's thoughts in the form of sayings on heart-shaped candies.<sup>[hr][]</sup>

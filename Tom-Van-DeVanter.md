@@ -1,7 +1,7 @@
 ---
 title: Tom Van DeVanter
 category: Person
-categories: Person Chair Driver Mechanic
+categories: Chair Driver Mechanic
 ---
 # Tom Van DeVanter
 ### Events
@@ -13,12 +13,11 @@ categories: Person Chair Driver Mechanic
 - [Mechanic](Mechanic)
 
 ### Known For
-
 - Driving and fixing [Tom Cat](Tom-Cat)
 - Shop teacher at a high school
 
+---
 ### History
-
 #### 1977
 
 The Snow Tractor was renamed to [Tom Cat](Tom-Cat) in Tom's honor, since he had driven it since the beginning.

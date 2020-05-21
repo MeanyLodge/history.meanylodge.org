@@ -1,11 +1,10 @@
 ---
 title: Art Nation
 category: Person
-categories: Person
+categories:
 ---
-# Art Nation
 <img src="img/2000_-Art-Nation.jpeg" style="width: 50%;" align="right">
-
+# Art Nation
 ### Known For
 - [Damnation](Damnation)
 - Genius of music and dance

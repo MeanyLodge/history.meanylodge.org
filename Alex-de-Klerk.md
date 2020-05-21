@@ -1,7 +1,7 @@
 ---
 title: Alex de Klerk
 category: Person
-categories: Person Committee Mechanic
+categories: Active Committee Mechanic
 ---
 # Alex de Klerk
 ### Events
@@ -11,8 +11,8 @@ categories: Person Committee Mechanic
 - Mechanic
 - Committee
 
+---
 ### History
-
 #### 2003
 
 Alphonse de Klerk-took the twins Alex and Camille to Meany when they were both 9. Now they are almost 16 and we are still enjoy our family get togethers here at Meany Lodge.<sup>[75th][]</sup>

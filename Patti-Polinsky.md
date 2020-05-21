@@ -1,28 +1,24 @@
 ---
 title: Patti Polinsky
 category: Person
-categories: Person Committee Instructor
+categories: Active Committee Instructor
 ---
-# Patti Polinsky
 <img src="img/2020%20Patti%20Polinsky.jpeg" alt="photo of Patti Polinsky" align="right" style="width: 40%">
+# Patti Polinsky
+### Names
+- Patti Polinsky
+- Patti Polinsky-Claar
 
 ### Events
 - First year at Meany: 1968 or 69
 - Teaching in early 1970s
 
-### Names
-
-- Patti Polinsky
-- Patti Polinsky-Claar
-
 ### Roles
-
 - [Committee](Committee)
 - [Instructor](Instructor)
 - [Ski School](Ski-School)
 
 ### Known For
-
 - PSIA-NW Certified Instructor
 - Organizing Meany events
 - [Carnival](Carnival)
@@ -31,11 +27,10 @@ categories: Person Committee Instructor
 - [Mountaineers Super Volunteer](https://www.mountaineers.org/members/patti-polinsky)
 
 ### See also
+- wife of [Dave Claar](Dave-Claar)
 
-- [Dave Claar](Dave-Claar)
-
+---
 ### History
-
 #### 1977
 
 A highlight of the season was the Carnival weekend, which featured a "European Feast" complete with bratwurst, German hot potato salad, European pastries and homemade pretzels, in addition to the skiing events-all masterminded by Patti Polinsky. That was the weekend which saw record crowds. <sup>[ma77][]</sup>

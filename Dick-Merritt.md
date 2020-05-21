@@ -1,12 +1,13 @@
 ---
 title: Dick Merritt
 category: Person
-categories: Person Chair
+categories: Chair
 ---
 # Dick Merritt
 ### Events
 - First year at Meany: 1944
 
+---
 ### History
 #### 2003
 

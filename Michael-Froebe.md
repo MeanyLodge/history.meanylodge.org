@@ -1,13 +1,13 @@
 ---
 title: Michael Froebe
 category: Person
-categories: Person Mechanic
+categories: Active Mechanic
 ---
 # Michael Froebe
 ### Roles
 - [Mechanic](Mechanic)
 
-
+---
 ### History
 
 #### 2019

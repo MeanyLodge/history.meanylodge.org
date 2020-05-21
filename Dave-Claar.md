@@ -1,14 +1,13 @@
 ---
 title: Dave Claar
 category: Person
-categories: Person Committee Driver Historian Instructor Mechanic
+categories: Active Committee Driver Historian Instructor Mechanic
 ---
 # Dave Claar
 ### Events
 - Meany Since: before 1977
 
 ### Roles
-
 - [Committee](Committee)
 - [Driver](Driver)
 - [Historian](Historian)
@@ -16,12 +15,12 @@ categories: Person Committee Driver Historian Instructor Mechanic
 - [Mechanic](Mechanic)
 
 ### Known For
-
 - Maintainer of trails, esp. x-country.
 - Driver of [Hippo](Hippo)
 - Husband of [Patti Polinsky](Patti-Polinsky)
 - Men's Room Beautification Project
 
+---
 ### History
 
 #### 1977

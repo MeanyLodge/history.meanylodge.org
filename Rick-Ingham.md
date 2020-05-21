@@ -1,16 +1,14 @@
 ---
 title: Rick Ingham
 category: Person
-categories: Person Committee Driver Mechanic
+categories: Active Committee Driver Mechanic
 ---
 # Rick Ingham
 ### Roles
-
 - [Committee](Committee)
 - [Driver](Driver)
 - [Mechanic](Mechanic)
 
 ### Known For
-
 - voluminous and really really really really really bad puns
 - [Moose](Moose) mechanic
