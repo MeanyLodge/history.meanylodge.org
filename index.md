@@ -8,6 +8,7 @@ category: List
 - [About](About) this site
 - [Events](Events)
 - [History](History)
+- [Meany Hill](Meany-Hill)
 - [Ski School](Ski-School)
 
 ### [Tows](Tows)
