@@ -27,6 +27,7 @@ All routes north or west from [Top Hut](Top-Hut) end at [Psychopath](Psychopath)
 From anywhere on the [Lane](Lane), the trees on skier's right are [Soffreenia Wood](Soffreenia-Wood). Notable attractions within Soffreenia are [Yellow Rock](Yellow-Rock) and the [Ape Swing](Ape-Swing). At the bottom edge of the wood lies [Kirkland Park](Kirkland-Park).
 
 ### The Southern Front
+<img src="img/2020-to-Slobbovia.jpeg" align="right" style="width: 30%;">
 
 From [Top Hut](Top-Hut), head south. A two-track leads gently uphill. After a short section the two-track turns steeply up to the right and is covered with herringbones, unless you're lucky enough to get first tracks. Another ski trail peels off on the left. Either leads you to [Green Pastures](Green-Pastures), the grassy area atop [Lower Slobbovia](Lower-Slobbovia).
 
