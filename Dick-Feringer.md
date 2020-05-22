@@ -45,4 +45,4 @@ Since those first few work parties, I have seen many improvements go into the hu
 
 Now when I hike up the trail from Martin and the hut comes into sight, a never waning enthusiasm returns, and I feel as though I am coming home.
 
-[ma53]: Mountaineers-Annual#1953
+[ma53]: Mountaineer-Annual#1953

@@ -6,7 +6,7 @@ category: Place
 
 ### Origin
 
-Named after [Phil Christy](Phil Christy)
+Named after [Phil Christy](Phil-Christy)
 
 ### History
 
