@@ -3,6 +3,7 @@ title: South Slobbovia
 category: Place
 categories: Place Ski-Run
 ---
+<img src="img/2020-South-Slobbovia.jpeg" align="right" style="width: 50%;">
 # South Slobbovia
 On the south side of [Lower Slobbovia](Lower-Slobbovia). Directions in Slobbovia are the same as directions in the USA. <sup>[nw][]</sup>
 
