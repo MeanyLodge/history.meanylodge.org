@@ -7,7 +7,7 @@ categories:
     - Permanent-Resident
 tags: Deceased
 ---
-<img src="img/walter-little.png" style="width: 250px;" align="right">
+<img src="img/walter-little.png" style="width: 30%;" align="right">
 # Walter Little
 ### Names
 - Walt Little

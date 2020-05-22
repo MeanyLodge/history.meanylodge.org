@@ -311,6 +311,7 @@
 /img/2020-Tow-Hut-W.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2020-Walter's-Spring.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2020-Zoo.jpeg filter=lfs diff=lfs merge=lfs -text
+/img/2020-Maud-de-Bel.jpeg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -342,7 +343,6 @@
 /img/194n-Head-Pole.jpeg filter=lfs diff=lfs merge=lfs -text
 /Tom-Cat.md filter=lfs diff=lfs merge=lfs -text
 /img/2007-Men's-Room/DSCN0332.jpeg filter=lfs diff=lfs merge=lfs -text
-/img/2020-Maud-de-Bel.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2020-Lane.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2020-Rope-Tows.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2020-South-Slobbovia.jpeg filter=lfs diff=lfs merge=lfs -text

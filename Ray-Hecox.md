@@ -3,7 +3,7 @@ title: Ray Hecox
 category: Person
 categories:
     - Cook
-    - PermanentResident
+    - Permanent-Resident
 ---
 <img src="img/2014-Ray-Hecox.jpeg" style="width: 40%;" align="right">
 # Ray Hecox

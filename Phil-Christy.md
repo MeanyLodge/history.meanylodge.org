@@ -17,7 +17,7 @@ categories:
 - [Cook](Cook)
 
 ### Known For
-- [Phil's Shortcut](Phil's Shortcut)
+- [Phil's Shortcut](Phil's-Shortcut)
 - Chainsaw driver
 - Fire extinguisher maintainer
 

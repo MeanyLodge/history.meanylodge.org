@@ -1,5 +1,5 @@
 ---
-title: Maude de Bel
+title: Maud de Bel
 category: Person
 categories:
     - Active
@@ -7,8 +7,8 @@ categories:
     - Driver
     - Operator
 ---
-<img src="img/2020-Maude-de-Bel.jpeg" alt="photo of Maude de Bel" align="right" style="width: 40%">
-# Maude de Bel
+<img src="img/2020-Maud-de-Bel.jpeg" alt="photo of Maud de Bel" align="right" style="width: 40%">
+# Maud de Bel
 ### Events
 - First year at Meany: 2017
 

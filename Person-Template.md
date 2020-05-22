@@ -1,17 +1,16 @@
 ---
 title: Person Template
 category: Stub
+categories:
+    - Active
 ---
+<!--img src="img/20YY-Person-Template.jpeg" style="width: 40%;" align="right"-->
 # Person Template
-
-Follow this template for organizating a person page:
-
-# First Last
 ### Names
 ### Events
-- Birth (year only for living persons)
-- Meany Since: YYYY
-- Death (if applicable)
+- Birth Year:
+- First year at Meany: YYYY
+- Death Year: (if applicable)
 
 {% include roles.html %}
 ### Known For

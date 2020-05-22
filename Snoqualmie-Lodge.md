@@ -42,7 +42,7 @@ All club members who can, should plan to give some of their time for work partie
 
 p. 18
 
-Then in 1944 disaster struck: the lodge burned to the ground, despite the efforts of C. L. Anderson, the only person present, who suffered severe injuries and burns in his attempts to stop the blaze. Today the forlorn remains of the fireplace still stand, in mute testimony to the many wonderful times enjoyed by Moun­taineers in what is truly one of the beauty spots of the Cascades.
+Then in 1944 disaster struck: the lodge burned to the ground, despite the efforts of C. L. Anderson, the only person present, who suffered severe injuries and burns in his attempts to stop the blaze. Today the forlorn remains of the fireplace still stand, in mute testimony to the many wonderful times enjoyed by Mountaineers in what is truly one of the beauty spots of the Cascades.
 
 ## [1967][ma67]
 
