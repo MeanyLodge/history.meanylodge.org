@@ -321,6 +321,8 @@
 /maps/1951-Meany-to-Snoqualmie-map.pdf filter=lfs diff=lfs merge=lfs -text
 /reference/2013-Meany-Skiing-Like-In-The-Days-of-Yore.pdf filter=lfs diff=lfs merge=lfs -text
 /reference/olympian.zip filter=lfs diff=lfs merge=lfs -text
+/img/2020-Diesel-Tank.jpeg filter=lfs diff=lfs merge=lfs -text
+/img/2020-Gas-Hut.jpeg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -352,8 +354,6 @@
 /img/194n-Head-Pole.jpeg filter=lfs diff=lfs merge=lfs -text
 /Tom-Cat.md filter=lfs diff=lfs merge=lfs -text
 /img/2007-Men's-Room/DSCN0332.jpeg filter=lfs diff=lfs merge=lfs -text
-/img/2020-Diesel-Tank.jpeg filter=lfs diff=lfs merge=lfs -text
-/img/2020-Gas-Hut.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2020-Mach-Cert.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2020-Top-Hut.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2020-Turtle-Cert.jpeg filter=lfs diff=lfs merge=lfs -text
