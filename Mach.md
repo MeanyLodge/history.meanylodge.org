@@ -192,6 +192,10 @@ There was a fairly detailed maintenance log in the tow hut at one time as requir
 
 The current motor systems on the small and medium tows were installed several years earlier when tow operators were having trouble managing the rotary phase converter.
 
+#### 2020
+
+<img src="img/2020-Mach-Cert.jpeg" style="width: 50%;">
+
 
 [75th]: Anniversary#75th
 [dc87]: Dave-Claar#1987

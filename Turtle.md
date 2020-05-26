@@ -38,6 +38,10 @@ For downhill skiers, a new Beginners Ski Area was developed with a grade of seve
 
 Meany Ski Lodge continues to operate their downhill rope tows, and in fact, has added a beginner tow. <sup>[ma83][]</sup>
 
+#### 2020
+
+<img src="img/2020-Turtle-Cert.jpeg" style="width: 50%;">
+
 
 [dc87]: Dave-Claar#1987
 [hw]: History-Walt "Meany History, by Walt Little"
