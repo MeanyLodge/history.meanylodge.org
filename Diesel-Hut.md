@@ -19,8 +19,10 @@ Behind the [Tow Hut](Tow-Hut).
 - Store other machinery used on the campus, like the wood splitter.
 
 ### Specifications
-- Diesel tank: 1,000 gallons
-- Gasoline tank: 500 gallons
+- Diesel tank: 1,000 gallons <sup>[20][20]</sup>
+- Gasoline tank: 500 gallons <sup>[20][20]</sup>
+- tank diameters: ~48" OD, 46" ID (measured with stick) <sup>[20][20]</sup>
+- tank Lengths: ~6' for 500 gallon, ~12' for 1,000 gallon
 
 ---
 ### History
@@ -35,7 +37,8 @@ Because of new code restrictions against buried fuel tanks, dug up 2 buried 500 
 
 #### 2020
 
-The diesel hut has a 1,000 gallon diesel fuel tank and adjacent gasoline tank is 500 gallons. The diesel tank was measured in reference to the gasoline tank (same diameter and twice as long) as well as by inspecting the tank plate on the far end which states, "1,000 gallons".
+The diesel hut has a 1,000 gallon diesel fuel tank and the adjacent gasoline tank is 500 gallons. The diesel tank was measured in reference to the gasoline tank (same diameter, twice as long) and after a stroke of obvious, by inspecting the tank plate on the far end of the tank which clearly states, "1,000 gallons".
 
+[20]: #2020
 [75th]: Anniversary#75th
 [hw]: History-Walt

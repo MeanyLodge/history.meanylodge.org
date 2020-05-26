@@ -10,7 +10,6 @@ A snowmobile owned by [Al Alleman](Al-Alleman) and used for errands, thrills, an
 ### Names
 
 - Mouse
-- Mighty Mouse
 
 ### Specifications
 - Yamaka VK540 <sup>[dc][]</sup>
@@ -19,6 +18,7 @@ A snowmobile owned by [Al Alleman](Al-Alleman) and used for errands, thrills, an
 
 ### Events
 - Donated to Nick for parts: after 2003
+- Replaced by [Mighty Mouse](Mighty-Mouse)
 
 ---
 ### History
