@@ -2,9 +2,14 @@
 title: Whats Its Name
 category: Machine
 ---
-# Whats Its Name
+# Dave's ATV
+### Names
+- Whats Its Name
+- Dave's ATV
 
-It was donated by Dave Claar, and like Hippo, Dave pays for all the maintenance on it. I did a brake job, new cables, oil change, and new trailer hitch on it this spring. Brakes shouldn't drag and squeak now when you drive it.
+### Description
+
+An ATV donated by [Dave Claar](Dave-Claar). Like Hippo, Dave pays for all the maintenance.
 
 ---
 ### History
