@@ -3,26 +3,25 @@ title: Lodge
 category: Building
 categories:
 ---
-# Lodge
 <img src="img/2020-Lodge.jpeg" style="width: 50%;" alt="Meany Lodge photo" align="right">
-
+# Lodge
 ### Areas
 
 * Basement
     * [Men's Room](Men's-Room)
-    * Women's Room
-    * Washroom
+    * [Ladies' Room](Ladies'-Room)
+    * [Washroom](Washroom)
     * Shower #1
-    * Shower #2
+    * [Shower #2](Shower-2)
     * Drying Room
     * [Wood Room](Wood-Room)
     * Tunnel
     * [Jim](Jim-Fahey)'s Closet Under the Stairs
-    * Ping Pong Room
-    * First Aid Room
+    * [Ping Pong Room](Ping-Pong-Room)
+    * [First Aid Room](First-Aid-Room)
 * First Floor
     * [Kitchen](Kitchen)
-    * Dining Room
+    * [Dining Room](Dining-Room)
     * [Commons](Commons)
 * Second Floor
     * Women's Dorm
