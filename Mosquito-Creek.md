@@ -10,7 +10,7 @@ category: Place
 
 ### Location
 
-About 1/4 mile west of the point where the [Tom Cat](Tom-Cat) road crosses the Milwaukee RR. Two heavy concrete culvert pipes take the creek under the road.
+About 1/4 mile west of the point where the [Tom Cat](Tomcat) road crosses the Milwaukee RR. Two heavy concrete culvert pipes take the creek under the road.
 
 Location of frequent floodings.<sup>[nw][]</sup>
 

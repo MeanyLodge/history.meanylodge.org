@@ -5,7 +5,7 @@ category: Place
 # Weasel Creek
 ### Location
 
-Forest Service road 420, on which the [Tom Cat](Tom-Cat) tracks its way back and forth, crosses this side creek at about 0.8 miles from Meany. <sup>[nw][]</sup>
+Forest Service road 420, on which the [Tomcat](Tomcat) tracks its way back and forth, crosses this side creek at about 0.8 miles from Meany. <sup>[nw][]</sup>
 
 ### Origin
 

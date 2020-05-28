@@ -36,7 +36,7 @@ Purchased Thiokol Spryte snow tractor at government auction to be used as hill p
 
 #### 1978
 
-Maintaining the equipment has taken an enormous number of volunteer hours...[Tomcat](Tom-Cat)...Meany's newest crew member, a Thiokol Spryte Sno-cat which now packs Meany's lower slopes, takes hours of service time. <sup>[ma78][]</sup>
+Maintaining the equipment has taken an enormous number of volunteer hours...[Tomcat](Tomcat)...Meany's newest crew member, a Thiokol Spryte Sno-cat which now packs Meany's lower slopes, takes hours of service time. <sup>[ma78][]</sup>
 
 #### 1980
 
@@ -59,7 +59,7 @@ The Thiokol (Pack Rat) transmission was rebuilt. <sup>[hr][]</sup>
 
 #### 2003
 
-This Thiokol snow tractor was scrounged up cheaply from BPA in 1977 for hill packing. It his now used as auxiliary transportation when [Tom Cat](Tom-Cat) is ailing or its load is too much. On ski lesson days it becomes "Munchkin Express" hauling kids up to their ski classes. A roller can be mounted on the rear for hill grooming.<sup>[75th][]</sup>
+This Thiokol snow tractor was scrounged up cheaply from BPA in 1977 for hill packing. It his now used as auxiliary transportation when [Tom Cat](Tomcat) is ailing or its load is too much. On ski lesson days it becomes "Munchkin Express" hauling kids up to their ski classes. A roller can be mounted on the rear for hill grooming.<sup>[75th][]</sup>
 
 #### around 2008
 

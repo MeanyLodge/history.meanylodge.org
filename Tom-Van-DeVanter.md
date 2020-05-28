@@ -13,14 +13,14 @@ categories:
 
 {% include roles.html %}
 ### Known For
-- Driving and fixing [Tom Cat](Tom-Cat)
+- Driving and fixing [Tomcat](Tomcat)
 - Shop teacher at a high school
 
 ---
 ### History
 #### 1977
 
-The Snow Tractor was renamed to [Tom Cat](Tom-Cat) in Tom's honor, since he had driven it since the beginning.
+The Snow Tractor was renamed to [Tom Cat](Tomcat) in Tom's honor, since he had driven it since the beginning.
 
 #### 1978
 

@@ -12,7 +12,7 @@ In the [Industrial Park](Industrial-Park).
 
 ### Purpose
 
-A toolroom. Before the [Zoo](Zoo) existed, the first floor was a shop for repair and overhaul of [Tom Cat](Tom-Cat) and other [snowcats](https://en.wikipedia.org/wiki/Snowcat), hence the name, Cat House.
+A toolroom. Before the [Zoo](Zoo) existed, the first floor was a shop for repair and overhaul of [Tom Cat](Tomcat) and other [snowcats](https://en.wikipedia.org/wiki/Snowcat), hence the name, Cat House.
 
 ### Events
 - Ground cleared: 1976
@@ -37,11 +37,11 @@ The shed to house tractor parts was completed. <sup>[ma82][]</sup>
 
 #### 1984
 
-A small building appeared as if my magic at south side of industrial area in about 1980. The first floor was a shop for repair and overhaul of [Tom Cat](Tom-Cat) and [Pack Rat](Pack-Rat), both equipped tractors. Hence the name, Cat House. The committee resisted the idea of placing a red light over the door. <sup>[nw][]</sup>
+A small building appeared as if my magic at south side of industrial area in about 1980. The first floor was a shop for repair and overhaul of [Tom Cat](Tomcat) and [Pack Rat](Pack-Rat), both equipped tractors. Hence the name, Cat House. The committee resisted the idea of placing a red light over the door. <sup>[nw][]</sup>
 
 #### 2003
 
-It was built in 1980 just south of the Hut and the Industrial Park. It has three levels, the upper two are used for tools and parts storage. The main floor is a shop to support repairs on the [Cat](Tom-Cat), the [Rat](Pack-Rat), [Mouse](Mouse), and all the animals; therefore the name "Cat House". The committee has so far resisted the idea of installing a red light by the entrance. After the day's work was done it became the source of Walt Little's famous boxed "Spring Water", supplied by Franzia, which he supplied with a mischievous grin.<sup>[75th][]</sup>
+It was built in 1980 just south of the Hut and the Industrial Park. It has three levels, the upper two are used for tools and parts storage. The main floor is a shop to support repairs on the [Cat](Tomcat), the [Rat](Pack-Rat), [Mouse](Mouse), and all the animals; therefore the name "Cat House". The committee has so far resisted the idea of installing a red light by the entrance. After the day's work was done it became the source of Walt Little's famous boxed "Spring Water", supplied by Franzia, which he supplied with a mischievous grin.<sup>[75th][]</sup>
 
 
 [75th]: Anniversary#75th

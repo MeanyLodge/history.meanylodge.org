@@ -7,7 +7,7 @@ It's a thing, Meany machines have animal names.
 
 ### Snow Tractors
 
-* [Tom Cat](Tom-Cat)
+* [Tom Cat](Tomcat)
 * [Hippo](Hippo)
 * [Moose](Moose)
 
