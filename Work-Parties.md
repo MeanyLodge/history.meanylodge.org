@@ -27,7 +27,7 @@ LEDs everywhere! [Michael Moreland](Michael-Moreland) led replacing all LED fixt
 
 [Hippo](Hippo): complete track replacement, led by [Dave Claar](Dave-Claar).
 
-[Tom Cat](Tom-Cat): track replacement (new belts and bolts)
+[Tom Cat](Tomcat): track replacement (new belts and bolts)
 
 ## 2018
 
