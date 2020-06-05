@@ -53,7 +53,7 @@ Armageddon? the juniors begin to surface and the Club panics.<sup>[75th][]</sup>
 
 ### 1954
 
-Slobbovia created by BPA - unknown to them - they though they were building a power line.<sup>[75th][]</sup>
+Slobbovia created by BPA - unknown to them - they thought they were building a power line.<sup>[75th][]</sup>
 
 ### 1967
 
