@@ -39,3 +39,6 @@ Cost: $1,689
 6. Slide the roof towards the back of the structure.
     * note: the roof assembly rests on the end rails
 7. After lifting and sliding the roof back ~6 inches, set it on the side rails. Send two helpers to the rear of the structure to catch and lower it.
+
+### See Also
+- [build a Pump House](https://github.com/MeanyLodge/Committee/issues/1)

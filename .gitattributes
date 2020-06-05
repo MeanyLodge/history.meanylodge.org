@@ -345,6 +345,7 @@
 /img/2020-Tomcat/TomCat[[:space:]]Diff.JPG filter=lfs diff=lfs merge=lfs -text
 /img/2020-Tomcat/TomCat[[:space:]]bit.JPG filter=lfs diff=lfs merge=lfs -text
 /img/2003-75th-Parking.png filter=lfs diff=lfs merge=lfs -text
+/audio/2019-TomCat-Track-Fail.mov filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -377,7 +378,6 @@
 /Tom-Cat.md filter=lfs diff=lfs merge=lfs -text
 /img/2007-Men's-Room/DSCN0332.jpeg filter=lfs diff=lfs merge=lfs -text
 /Tomcat.md filter=lfs diff=lfs merge=lfs -text
-/audio/2019-TomCat-Track-Fail.mov filter=lfs diff=lfs merge=lfs -text
 /History-Harvey.md filter=lfs diff=lfs merge=lfs -text
 /reference/1960[[:space:]]History,[[:space:]]Harvey.pdf filter=lfs diff=lfs merge=lfs -text
 /Tomcat-Petition.md filter=lfs diff=lfs merge=lfs -text
