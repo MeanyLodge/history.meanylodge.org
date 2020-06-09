@@ -72,6 +72,8 @@ Rebuilt rope tow machinery. Discarded Fordson; replaced with Chevy truck engine 
 
 A Boeing jig was the base and a truck rear end for reduction gear. BRRH 87b, gear ratio 6:7. <sup>[hw][]</sup>
 
+In 1946, a used 1942 Chevrolet truck motor was substituted to drive the rope tow. <sup>[hh][]</sup>
+
 #### 1948
 
 A new tow rope is threaded through the shives. No more long rope-splicing sessions! <sup>[ma48][]</sup>
@@ -95,6 +97,10 @@ Completed relocation of Mach Tow. New [Tow Hut](Tow-Hut) moved 150' north on gro
 #### 1958
 
 The relocated tow provided better access to lanes and eliminated the necessity of digging out the upper part of the rope. The big social event of the season was the dedication of the new tow to [Walter Little](Walter-Little). <sup>[ma58][]</sup>
+
+#### 1960
+
+In 1946, a used 1942 Chevrolet truck motor was substituted to drive the rope tow. It still drives the rope. It's a better motor now than when bought. It runs all the time! It has run for fourteen years! <sup>[hh][]</sup>
 
 #### 1964
 

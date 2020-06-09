@@ -47,6 +47,11 @@ Mr. Morris of the gas company still wonders how, in a few hours of apparently co
 
 A new gas stove and water heater <sup>[ma53][]</sup>
 
+#### 1960
+
+Three different second-hand light plants have been used at Meany for lights since 1939. All of them ran! Meany has never been without lights.
+- The Meany Lane is now lighted at night. Lights at top and bottom are produced by second-hand generators and voltage regulators attached to the rope; those in the center by a gasoline-electric generator known as the "turbo-encabulator." All equipment was bought at junk prices. No failures yet! <sup>[hh][]</sup>
+
 #### 1962
 
 Good use was made of the large numbers turning out for work parties by completely overhauling the light plant. <sup>[ma62][]</sup>
@@ -128,6 +133,7 @@ Replaced all florescent (tubes and A19) bulbs in the Lodge, Tow Hut, Cat House, 
 
 
 [75th]: Anniversary#75th
+[hh]: History-Harvey
 [hr]: History-Reports "Meany History Reports, by Idona Kellogg"
 [hw]: History-Walt "Meany History, by Walt Little"
 [ma37]: Mountaineer-Annual#1937

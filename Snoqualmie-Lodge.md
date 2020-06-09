@@ -44,12 +44,17 @@ p. 18
 
 Then in 1944 disaster struck: the lodge burned to the ground, despite the efforts of C. L. Anderson, the only person present, who suffered severe injuries and burns in his attempts to stop the blaze. Today the forlorn remains of the fireplace still stand, in mute testimony to the many wonderful times enjoyed by Mountaineers in what is truly one of the beauty spots of the Cascades.
 
+## 1960
+
+Starvation of a Lodge organism by an inadequate supply is not a new experience for the Mountaineers. In 1937 Walt Little chairmanned a fact-finding committee, which inquired into the difficulties besetting the original Snoqualmie Lodge, which burned in 1944. All supplies and customers had to come up a trail a mile long, 750-foot rise. Symptoms of starvation were clear. People were unwilling to serve on committee; so a caretaker had been hired; not enough people came to pay enough fees, so the operation was deeply in the red; not enough workers would show in the summer to cut wood, so a woodcutter was hired. The caretaker was subsequently discontinued, and the Lodge operated on a very limited basis until 1944 when it burned, losing money but not as much. <sup>[hh][]</sup>
+
 ## [1967][ma67]
 
 p. 79
 
 Andy Anderson who had inadvertently started the fire that burned down the old Snoqualmie Lodge, wanted to do something for the club so he took Dave Castor down to Mt. Hood to see the new ski lodges in that area. Many of the ideas such as a gas cooking stove in the kitchen, trusses to hold up the main floor ceiling, so as to eliminate need for posts, and others, were obtained from the trip.
 
+[hh]: History-Harvey
 [ma44]: https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1944
 [ma46]: https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1946
 [ma56]: https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1956
