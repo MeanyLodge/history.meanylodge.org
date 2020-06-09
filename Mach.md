@@ -205,6 +205,7 @@ The current motor systems on the small and medium tows were installed several ye
 
 [75th]: Anniversary#75th
 [dc87]: Dave-Claar#1987
+[hh]: History-Harvey
 [hw]: History-Walt "Meany History, by Walt Little"
 [hr]:  History-Reports
 [ma37]: Mountaineer-Annual#1937
