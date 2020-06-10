@@ -72,7 +72,7 @@ Rebuilt rope tow machinery. Discarded Fordson; replaced with Chevy truck engine 
 
 A Boeing jig was the base and a truck rear end for reduction gear. BRRH 87b, gear ratio 6:7. <sup>[hw][]</sup>
 
-In 1946, a used 1942 Chevrolet truck motor was substituted to drive the rope tow. <sup>[hh][]</sup>
+In 1946, a used 1942 Chevrolet truck motor was substituted to drive the rope tow. <sup>[tp][]</sup>
 
 #### 1948
 
@@ -100,7 +100,7 @@ The relocated tow provided better access to lanes and eliminated the necessity o
 
 #### 1960
 
-In 1946, a used 1942 Chevrolet truck motor was substituted to drive the rope tow. It still drives the rope. It's a better motor now than when bought. It runs all the time! It has run for fourteen years! <sup>[hh][]</sup>
+In 1946, a used 1942 Chevrolet truck motor was substituted to drive the rope tow. It still drives the rope. It's a better motor now than when bought. It runs all the time! It has run for fourteen years! <sup>[tp][]</sup>
 
 #### 1964
 
@@ -205,7 +205,6 @@ The current motor systems on the small and medium tows were installed several ye
 
 [75th]: Anniversary#75th
 [dc87]: Dave-Claar#1987
-[hh]: History-Harvey
 [hw]: History-Walt "Meany History, by Walt Little"
 [hr]:  History-Reports
 [ma37]: Mountaineer-Annual#1937
@@ -220,4 +219,5 @@ The current motor systems on the small and medium tows were installed several ye
 [ma78]: Mountaineer-Annual#1978
 [ma82]: Mountaineer-Annual#1982
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[tp]: Tomcat-Petition
 [yore]: https://www.theolympian.com/outdoors/article25316305.html

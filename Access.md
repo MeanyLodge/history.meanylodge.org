@@ -85,7 +85,7 @@ BNSF resumed regular train service across Stampede Pass.
 
 
 
-[hh]: History-Harvey "Loss of NPRR Trains #5 & #6"
+[hh]: Tomcat-Petition "Loss of NPRR Trains #5 & #6"
 [hw]: History-Walt "Meany History, by Walt Little"
 [ma60]: Mountaineer-Annual#1960
 [ma66]: Mountaineer-Annual#1966
