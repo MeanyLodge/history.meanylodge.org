@@ -123,7 +123,7 @@ MEANY HUT COMMITTEE
 
 Harvey Mahalko, Chairman (Composed and compiled by Walt Little)
 
-- [Walt Little](Walt-Little)
+- [Walt Little](Walter-Little)
 - [Tom Van Devanter](Tom-Van-DeVanter)
 - Peggy Lawton
 - [Doug Damm](Doug-Damm)
