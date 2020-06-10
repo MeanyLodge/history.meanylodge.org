@@ -5,7 +5,7 @@ categories: Machine Groomer
 ---
 # Dino
 A snow groomer.
-<img src="img/2000_%20Dino.jpeg" style="width: 40%;" align="right">
+<img src="img/2000_-Dino.jpeg" style="width: 40%;" align="right">
 
 ### Purpose
 

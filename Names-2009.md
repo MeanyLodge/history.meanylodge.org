@@ -144,7 +144,7 @@ A landmark that once had branches.
 
 It might be yellow rock before you chuck yourself off it, but it will be brown rock afterwards.
 
-## [Third Peoples dorm](Third-Peoples-dorm)
+## [Third Peoples dorm](Third-Peoples-Dorm)
 
 Couples, family sleeping area (top of the lodge)
 
@@ -156,11 +156,11 @@ A vintage Thiokol Sprite used for hauling children and other baggage.
 
 A vintage snowmobile with a busted fairing used for late night trips to Trollhaugen.
 
-## [Tombstone canyon](Tombstone-canyon)
+## [Tombstone Canyon](Tombstone-Canyon)
 
 Named after Roger Colvi. He decided to go straight down but ran into sticky snow. His tips went in and he took a face plant and only his skis could be seen. He was digging his own grave, hence the name. His ski is still on the wall in the lodge.
 
-## [Phogbound gulch](Phogbound-gulch)
+## [Phogbound Gulch](Phogbound-Gulch)
 
 After the loggers were done they left one tree which was 20 ft tall and it had needles on only one side. The lodge chairman and others on the committee proposed declaring it the Lower Slobbovian National Park. Billing himself as Senator Jack S. Phogbound, the chairman held a mock hearing in the main Meany lodge on the matter. (The Phogbound character comes from L'il Abner. The hearing may have been held as a comment on the North Cascades debate.)
 

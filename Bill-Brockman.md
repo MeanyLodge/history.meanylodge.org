@@ -1,7 +1,8 @@
 ---
 title: Bill Brockman
 category: Person
-categories: Chair
+categories:
+    - Chair
 tags: Deceased
 ---
 # Bill Brockman

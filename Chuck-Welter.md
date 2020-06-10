@@ -1,7 +1,12 @@
 ---
 title: Chuck Welter
 category: Person
-categories: Active Chair Committee Mechanic Operator
+categories:
+    - Active
+    - Chair
+    - Committee
+    - Mechanic
+    - Operator
 ---
 <img src="img/2000_ Chuck Welter.jpeg" align="right" style="width: 40%;">
 # Chuck Welter

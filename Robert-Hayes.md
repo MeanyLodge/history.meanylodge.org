@@ -8,6 +8,7 @@ categories:
 * Bob Hayes
 * Robert H. Hayes
 
+{% include roles.html %}
 ### Known For
 - [Patrol Race](Patrol-Race) contestant, 2nd place, 1930
 - Author of [The Development of Skiing in the Mountaineers][dev]

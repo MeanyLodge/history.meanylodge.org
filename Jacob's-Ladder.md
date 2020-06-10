@@ -3,7 +3,7 @@ title: Jacob's Ladder
 category: Place
 ---
 # Jacob's Ladder
-<img src="img/2020%20Jacob's%20Ladder.jpeg" style="width: 40%;" align="right">
+<img src="img/2020-Jacob's-Ladder.jpeg" style="width: 40%;" align="right">
 
 ### Location
 

@@ -1,9 +1,14 @@
 ---
 title: Top Hut
 category: Building
-categories: Building Hut
+categories: Hut
 ---
+<img src="img/2020-Top-Hut.jpeg" style="width: 40%;" align="right">
 # Top Hut
+### Names
+- Top Hut
+- Top Tow Hut
+
 Among the smallest of Meany [Buildings](Buildings).
 
 ### Location

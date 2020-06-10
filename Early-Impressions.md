@@ -5,7 +5,7 @@ category: Document
 # Early Impressions
 ## by Hermia Thomson
 
-<img src="img/1929%20Meany%20Ski%20Hut.png" style="width: 350px;" alt="MEANY SKI HUT - PHOTO by A. H. Hudson" align="right">
+<img src="img/1929-Meany-Ski-Hut.png" style="width: 40%;" alt="MEANY SKI HUT - PHOTO by A. H. Hudson" align="right">
 
 [Mountaineer Annual 1929](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1929)
 

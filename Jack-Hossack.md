@@ -1,7 +1,9 @@
 ---
 title: Jack Hossack
 category: Person
-categories: Chair Operator
+categories:
+    - Chair
+    - Operator
 ---
 # Jack Hossack
 ### Roles

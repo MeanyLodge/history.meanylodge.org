@@ -5,7 +5,7 @@ category: Place
 # Bullmoose Ridge
 ### Location
 
-Between [Tombstone Canyon](Tombstone-Canyon) and [Druther's Gulch](Druther's-Gulch). <sup>[nw][]</sup>
+Between [Tombstone Canyon](Tombstone-Canyon) and [Druthers Gulch](Druthers-Gulch). <sup>[nw][]</sup>
 
 ### Origin
 

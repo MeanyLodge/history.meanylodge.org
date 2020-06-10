@@ -5,6 +5,7 @@ category: List
 # Events
 ### Seasonal
 - [Ski School](Ski-School)
+- [Munchkin Express](Munchkin-Express)
 
 ### Annual
 - [Carnival](Carnival)

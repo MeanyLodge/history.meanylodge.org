@@ -4,7 +4,7 @@ category: RopeTow
 categories: RopeTow
 ---
 # Mach
-<img src="img/2020%20Mach%20Base.jpeg" style="width: 40%;" align="right">
+<img src="img/2020-Mach-Base.jpeg" style="width: 40%;" align="right">
 
 ### Names
 - Mach
@@ -24,8 +24,8 @@ Along the south edge of the [Lane](Lane).
 Mach used to have a 4-speed transmission. Typically only the first three gears were ever used, as 3rd gear was 19-21mph. Occasionally it was shifted into 4th which ran at 30mph. When propelled at such speeds it seemed as if one was approaching the speed of sound–hence the name "Mach Tow." <sup>[nw][] [75th][]</sup>
 
 ### Specifications
-<img src="img/2020%20Mach%20Head.jpeg" style="width: 40%;" align="right">
-- Vertical: 441' ([base 2911'](img/2020%20Mach%20base%20GPS.png), [top: 3330'](img/2020%20Mach%20top%20GPS.png))
+<img src="img/2020-Mach-Head.jpeg" style="width: 40%;" align="right">
+- Vertical: 441' ([base 2911'](img/2020-Mach-base-GPS.png), [top: 3330'](img/2020-Mach-top-GPS.png))
 - Horizontal: 1,000'
 - Speed: 16mph (limited by state regulations)
 - Constructed: 1938
@@ -37,8 +37,8 @@ Mach used to have a 4-speed transmission. Typically only the first three gears w
 * v2: designed and built by [Walter Little](Walter-Little) <sup>[dc87][]<sup>
 * Used to be rip-your-arms-off fast.
 
+---
 ### History
-
 #### 1937
 
 A ski lift is to be realized before the coming season opens. <sup>[ma37][]</sup>
@@ -53,6 +53,7 @@ The Beast was propped up clear of the floor and had maple driving rims bolted on
 
 The old ski tow rope lasted the season and is even now waiting to start its fourth year...a new axle was provided for the tractor which we hope will result in a trouble-free season for the coming year. <sup>[ma41][]</sup>
 
+<img src="img/194n-Head-Pole.jpeg" align="right" style="width: 40%">
 #### 1943
 
 The tow tractor was given a thorough overhaul. 300 feet were added to the length, making it 1,100 feet long with a vertical lift of 300 feet. <sup>[ma43][]</sup>
@@ -71,6 +72,8 @@ Rebuilt rope tow machinery. Discarded Fordson; replaced with Chevy truck engine 
 
 A Boeing jig was the base and a truck rear end for reduction gear. BRRH 87b, gear ratio 6:7. <sup>[hw][]</sup>
 
+In 1946, a used 1942 Chevrolet truck motor was substituted to drive the rope tow. <sup>[tp][]</sup>
+
 #### 1948
 
 A new tow rope is threaded through the shives. No more long rope-splicing sessions! <sup>[ma48][]</sup>
@@ -85,7 +88,7 @@ Begin work to relocate and rebuild. <sup>[hw][]</sup>
 
 Complete relocation, begun in 1955. Head pole moved south about 200' and 30' higher. Tow hut moved north about 250', and about 20' lower. This was done to gain more altitude, and to get upper unloading closer to [Lower Slobbovia](Lower-Slobbovia). Rise 440'. Length 1,000'. <sup>[ma78][]</sup>
 
-<img src="img/1956%20Walter%20Little.jpeg" alt="Walter Little Memorial Tow" style="width: 40%;">
+<img src="img/1956-Walter-Little.jpeg" alt="Walter Little Memorial Tow" style="width: 40%;">
 
 #### 1957
 
@@ -94,6 +97,10 @@ Completed relocation of Mach Tow. New [Tow Hut](Tow-Hut) moved 150' north on gro
 #### 1958
 
 The relocated tow provided better access to lanes and eliminated the necessity of digging out the upper part of the rope. The big social event of the season was the dedication of the new tow to [Walter Little](Walter-Little). <sup>[ma58][]</sup>
+
+#### 1960
+
+In 1946, a used 1942 Chevrolet truck motor was substituted to drive the rope tow. It still drives the rope. It's a better motor now than when bought. It runs all the time! It has run for fourteen years! <sup>[tp][]</sup>
 
 #### 1964
 
@@ -191,6 +198,10 @@ There was a fairly detailed maintenance log in the tow hut at one time as requir
 
 The current motor systems on the small and medium tows were installed several years earlier when tow operators were having trouble managing the rotary phase converter.
 
+#### 2020
+
+<img src="img/2020-Mach-Cert.jpeg" style="width: 50%;">
+
 
 [75th]: Anniversary#75th
 [dc87]: Dave-Claar#1987
@@ -208,4 +219,5 @@ The current motor systems on the small and medium tows were installed several ye
 [ma78]: Mountaineer-Annual#1978
 [ma82]: Mountaineer-Annual#1982
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[tp]: Tomcat-Petition
 [yore]: https://www.theolympian.com/outdoors/article25316305.html

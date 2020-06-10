@@ -1,28 +1,27 @@
 ---
 title: Lodge
 category: Building
-categories: Building
+categories:
 ---
-# Lodge
 <img src="img/2020-Lodge.jpeg" style="width: 50%;" alt="Meany Lodge photo" align="right">
-
+# Lodge
 ### Areas
 
 * Basement
     * [Men's Room](Men's-Room)
-    * Women's Room
-    * Washroom
+    * [Ladies' Room](Ladies'-Room)
+    * [Washroom](Washroom)
     * Shower #1
-    * Shower #2
+    * [Shower #2](Shower-2)
     * Drying Room
     * [Wood Room](Wood-Room)
     * Tunnel
     * [Jim](Jim-Fahey)'s Closet Under the Stairs
-    * Ping Pong Room
-    * First Aid Room
+    * [Ping Pong Room](Ping-Pong-Room)
+    * [First Aid Room](First-Aid-Room)
 * First Floor
     * [Kitchen](Kitchen)
-    * Dining Room
+    * [Dining Room](Dining-Room)
     * [Commons](Commons)
 * Second Floor
     * Women's Dorm
@@ -31,6 +30,7 @@ categories: Building
     * Third Peoples Dorm
     * Committee Dorm
 
+---
 ### History
 
 #### 1928
@@ -59,7 +59,7 @@ Being among the less talented, I was sent up on the roof to help with shingling,
 
 #### 1944
 
-<img src="img/1945%20Meany%20Ski%20Hut.png" alt="Meany Ski Lodge 1945" align="right" style="width: 40%;">
+<img src="img/1945-Meany-Ski-Hut.png" alt="Meany Ski Lodge 1945" align="right" style="width: 40%;">
 
 Extended basement by digging under original portion of building. Constructed 10' x 10' drying room. <sup>[hw][], [ma44][]</sup>
 
@@ -71,10 +71,15 @@ Reshingled the roof.<sup>[ma50][]</sup>
 
 the building of the fire wall and doors in the stairway; and that other fire preventative measures have been taken with extra hoses and kick-out doors, and emergency exits and lamps.<sup>[ma52][]</sup>
 
+#### 1956
+
+Deepest snow year at 15' on the level.
+
 #### 1966
 
 Re-roofed hut with corrugated galvanized iron to replace worn original cedar shingles. <sup>[ma78][], [hw][]</sup>
 
+<img src="img/1956-Lodge.jpeg" style="width: 40%;" alt="Meany Lodge in 15' of snow photo" align="right">
 #### 1967
 
 A new septic tank and sewer system were installed. The hut's foundation was replaced, and so was the roof. Inside the hut, the women's dorm was painted (white and red), new shelves and mice-proof cupboards were installed in the kitchen, and the drying room facilities were improved.<sup>[ma67][]</sup>
@@ -83,7 +88,7 @@ Added east end fire escape and fire alarm system.<sup>[ma78][]</sup>
 
 #### 1971
 
-<img src="img/1975%20Meany%20Ski%20Lodge.png" alt="Photo of Meany Lodge in 1975" align="right" style="width: 40%;">
+<img src="img/1975-Meany-Ski-Lodge.png" alt="Photo of Meany Lodge in 1975" align="right" style="width: 40%;">
 
 the hut capacity was increased again in 1971.<sup>[ma78][]</sup>
 

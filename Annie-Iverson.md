@@ -1,9 +1,10 @@
 ---
 title: Annie Iverson
 category: Person
-categories: Cook
+categories:
+    - Cook
 ---
-<img src="img/1955%20Nashie.png" style="width: 40%;" align="right">
+<img src="img/1955-Nashie.png" style="width: 40%;" align="right">
 # Annie Iverson
 ### Names
 - Nashie
@@ -33,7 +34,7 @@ She's going to be around for awhile, we're sure because we're really planning a 
 
 #### 1956
 
-<img src="img/1954%20Nashie.png" style="width: 40%;" align="right">
+<img src="img/1954-Nashie.png" style="width: 40%;" align="right">
 
 Perhaps symbolic of Meany is Annie Iverson, "Nashie" to most of us, who has been cooking and dispensing philosophical advice for over 25 years (see story on page 57).<sup>[ma56][]</sup>
 
@@ -46,7 +47,7 @@ by Mrs Harry K. (Nashie) Iverson
 I REMEMBER the first time I came to Meany - for the New Year's celebration of 1934-5. Never in all my life had I met such a queer lot of people was my first impression. Their garb surely set them apart as being out of the ordinary.
 It didn't take long to figure out that outdoor sports were not their only interest; they had an interest in everything! After my day's work, it was interesting for me to sit in the shadows and see the romantic intrigue among the bachelors and spinsters, for there was plenty of it. No one paid much attention to the fact that they were being spied upon. My favorite vantage point was sitting underneath the dripping socks that were hung over the old coal stove which in those days provided the only drying facilities.
 
-There was never a dull moment and times haven't changed a bit. Come 11 o'clock, games and merriment of the evening were over and time to bed down. In the women's dorm we were nightly entertained by Sally's ballet dance costumed in fancy scanties. After breakfast some of the hardier skiers packed a lunch and took off for Mount Baldi which was an all day trip. The party consisted of Norm Engle, Herman Wunderling and Paul and Gertrude Shorrock. The less eager played around [Hell's Half Acre](Hell's-Half-Acre) climbing up under their own steam.
+There was never a dull moment and times haven't changed a bit. Come 11 o'clock, games and merriment of the evening were over and time to bed down. In the women's dorm we were nightly entertained by Sally's ballet dance costumed in fancy scanties. After breakfast some of the hardier skiers packed a lunch and took off for Mount Baldi which was an all day trip. The party consisted of Norm Engle, Herman Wunderling and Paul and Gertrude Shorrock. The less eager played around [Hell's Half-acre](Hell's-Half-acre) climbing up under their own steam.
 
 On Washington's birthday, a three-day holiday, the hut was filled to capacity with 60 people. The rain came down in torrents keeping everyone inside, except a few who now and then would venture out for a breath of air and return soaking wet. Even so the roof billowed with hilarity, and chairman [Jack Hossack](Jack-Hossack) said: "Nashie, I bet you have never been housed with so many 'nuts' before!" He was right, but I will say this: they were and still are the greatest in the land.
 
@@ -62,7 +63,7 @@ My greatest satisfaction has been to watch the growth of character that has come
 
 Also achieving legendary status at Meany was Nashie Iverson, wife of a Northern Pacific Railroad engineer. In the early years, it was difficult to find a cook for the weekend outings, but in 1935 the hut committee prevailed upon Nashie to take the job.<sup>[life][]</sup>
 
-<img src="img/19nn%20Nashie%20b-day.jpeg" style="width: 40%;" align="right">
+<img src="img/19nn-Nashie-b-day.jpeg" style="width: 40%;" align="right">
 
 [life]: Life-At-Meany-Ski-Hut
 [ma56]: Mountaineer-Annual#1956

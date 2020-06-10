@@ -1,15 +1,17 @@
 ---
 title: Alex de Klerk
 category: Person
-categories: Active Committee Mechanic
+categories:
+    - Active
+    - Committee
+    - Driver
+    - Mechanic
 ---
 # Alex de Klerk
 ### Events
 - First year at Meany: 1997
 
-### Roles
-- Mechanic
-- Committee
+{% include roles.html %}
 
 ---
 ### History

@@ -1,7 +1,11 @@
 ---
 title: Phil Christy
 category: Person
-categories: Active Chair Committee Cook
+categories:
+    - Active
+    - Chair
+    - Committee
+    - Cook
 ---
 # Phil Christy
 ### Events
@@ -13,7 +17,7 @@ categories: Active Chair Committee Cook
 - [Cook](Cook)
 
 ### Known For
-- [Phil's Shortcut](Phil's Shortcut)
+- [Phil's Shortcut](Phil's-Shortcut)
 - Chainsaw driver
 - Fire extinguisher maintainer
 

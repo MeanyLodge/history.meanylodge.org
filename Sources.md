@@ -11,12 +11,14 @@ The research on this site has been gathered from personal knowledge, interviews,
 | 1935-1994 | [Mountaineer Annual](Mountaineer-Annual) | Various
 | 1928 | [Skiing and the Ski Hut][hut] | [Stuart Walsh](Stuart-Walsh)
 | 1929 | [The Development of Skiing in the Mountaineers][dev] | [Robert Hayes][rh]
-| 1929 | [Early Impressions](Early-Impressions) | [Hermia Thomson](Hermia-Thomson)
+| 1929 | [Early Impressions](Early-Impressions) | Hermia Thomson
 | 1932 | [Ski Excursions From Meany Hut][go] | [Rudolph Amsler](Rudolph-Amsler)
 | 1933 | [The Mountaineer Influence in Northwest Skiing][mis] | [Robert Hayes][rh]
 | 1936 | [Skiing In Retrospect][sir] | [Andrew Anderson](Andrew-Anderson)
 | 1960 | [Meany Map](Meany-Map) | [Doug Damm](Doug-Damm) |
-| 197? | [Meany Flipboard](Meany-Flipboard) | [Idona Kellogg][ik] |
+| 1960 | [Petition to Get Tomcat](Tomcat-Petition) | [Harvey Mahalko](Harvey-Mahalko) |
+| 1961 | [Petition to Buy Tomcat](Tomcat-Buy) | [Walter Little][wl]
+| 197? | [Meany Flipboard](Flipboard) | [Idona Kellogg][ik] |
 | 1984 | [Chronological History of Meany Lodge](History-Walt) | [Walter Little][wl]
 | 1978 | [Meany Names 1978](Names-Walt-1978) | [Walter Little][wl]
 | 1984 | [Meany Names 1984](Names-Walt) | [Walter Little][wl]
@@ -36,6 +38,6 @@ The research on this site has been gathered from personal knowledge, interviews,
 [ik]: Idona-Kellogg
 [mis]: The-Mountaineer-Influence-in-Northwest-Skiing
 [rh]: Robert-Hayes
-[sir]: Skiing-In-Retrospect
+[sir]: Skiing-in-Retrospect
 [wl]: Walter-Little
 [yore]: https://www.theolympian.com/outdoors/article25316305.html

@@ -13,7 +13,7 @@ Winter access to Meany Lodge is 2.7 miles from the Crystal Springs Sno-Park via:
 Summer access is by Exit 62 off I-90. Take FS 54 to FS 420 and 420 to the lodge.
 
 ### History
-<img src="img/1949%20Meanyites%20at%20RR.png" align="right" style="width: 45%;">
+<img src="img/1949-Meanyites-at-RR.png" align="right" style="width: 45%;">
 
 #### 1928
 
@@ -33,13 +33,13 @@ Access continues to be passenger trains on NPRR. <sup>[hw][]</sup>
 
 #### 1960
 
-In April of 1960, NPRR discontinued passenger service to Martin. <sup>[ma60][]</sup> Meany leased a Bombardier snow tractor [Tom Cat](Tom-Cat),-to haul gear and tow skiers from I-90 to [Edifice Wreck](Edifice-Wreck). <sup>[hw][]</sup>
+In April of 1960, NPRR discontinued trains #5 and #6 to Martin. <sup>[ma60][], [hh][]</sup> Meany leased a Bombardier snow tractor [Tomcat](Tomcat),-to haul gear and tow skiers from I-90 to [Edifice Wreck](Edifice-Wreck). <sup>[hw][]</sup>
 
-The Meany Committee was authorized to negotiate a lease for the use of a snow tractor during the 1960-61 ski season. <sup>[ma60][]</sup> After 31 years of access by train, Meany must now find another way. Will Meany Survive? October: Rental agreement with Symington for use of Bombardier Sno Tractor to haul skiers from Snoqualmie Pass Highway across valley to Meany-3 miles. <sup>[ma78][]</sup>
+The Meany Committee was authorized to negotiate a lease for the use of a snow tractor during the 1960-61 ski season. <sup>[ma60][]</sup> After 31 years of access by train, Meany must now find another way. Will Meany Survive? <sup>[hh][]</sup> October: Rental agreement with Symington for use of Bombardier Sno Tractor to haul skiers from Snoqualmie Pass Highway across valley to Meany-3 miles. <sup>[ma78][]</sup>
 
 #### 1961
 
-Access to Meany is by automobile to highway highway overpass near Rustic Inn, exit 62. Cars park on overpass ramps, from thence snow tractor conveys skiers to Meany. Some ride on tractor, most ride their skis and are towed behind the tractor. [Tom Cat](Tom-Cat) hauled max load of 82 skiers. <sup>[hw][]</sup>
+Access to Meany is by automobile to highway highway overpass near Rustic Inn, exit 62. Cars park on overpass ramps, from thence snow tractor conveys skiers to Meany. Some ride on tractor, most ride their skis and are towed behind the tractor. [Tom Cat](Tomcat) hauled max load of 82 skiers. <sup>[hw][]</sup>
 
 #### 1966
 
@@ -85,6 +85,7 @@ BNSF resumed regular train service across Stampede Pass.
 
 
 
+[hh]: Tomcat-Petition "Loss of NPRR Trains #5 & #6"
 [hw]: History-Walt "Meany History, by Walt Little"
 [ma60]: Mountaineer-Annual#1960
 [ma66]: Mountaineer-Annual#1966

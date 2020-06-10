@@ -21,13 +21,13 @@ Designed and built in 2019, in Shoreline, by [Matt Simerson](Matt-Simerson). It 
 
 Cost: $1,689
 
-![Pump House covered in snow](img/2020%20Pump%20House.jpeg)
+![Pump House covered in snow](img/2020-Pump-House.jpeg)
 
-![Meany Lodge Pump House](img/2019%20Pump%20House.jpeg)
+![Meany Lodge Pump House](img/2019-Pump-House.jpeg)
 
-![Pump House Frame](img/2019%20Pump%20House%20frame.jpeg)
+![Pump House Frame](img/2019-Pump-House-frame.jpeg)
 
-![Pump House design](img/2019%20Pump%20House%20design.png)
+![Pump House design](img/2019-Pump-House-design.png)
 
 ### Roof Removal
 
@@ -39,3 +39,6 @@ Cost: $1,689
 6. Slide the roof towards the back of the structure.
     * note: the roof assembly rests on the end rails
 7. After lifting and sliding the roof back ~6 inches, set it on the side rails. Send two helpers to the rear of the structure to catch and lower it.
+
+### See Also
+- [build a Pump House](https://github.com/MeanyLodge/Committee/issues/1)

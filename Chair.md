@@ -31,7 +31,7 @@ Holders of the Meany Chair position.
 | 1954      | Dick Feiringer | |
 | 1955      | Howard Raymond | |
 | 1956      | [Dick Merritt](Dick-Merritt) | |
-| 1957-1958 | [Tom Van Devanter](Tom-Van-Devanter) | |
+| 1957-1958 | [Tom Van DeVanter](Tom-Van-DeVanter) | |
 | 1959      | Dan Streeter | |
 | 1960      | [Harvey Mahalko](Harvey-Mahalko) | |
 | 1961      | [Harvey Mahalko](Harvey-Mahalko) & [Doug Damm](Doug-Damm) | |

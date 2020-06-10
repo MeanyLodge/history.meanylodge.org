@@ -7,11 +7,9 @@ It's a thing, Meany machines have animal names.
 
 ### Snow Tractors
 
-* [Tom Cat](Tom-Cat)
+* [Tom Cat](Tomcat)
 * [Hippo](Hippo)
 * [Moose](Moose)
-* [Dino](Dino) 😵
-* [Pack Rat](Pack-Rat) 😵
 
 ### Snowmobiles
 
@@ -19,8 +17,6 @@ It's a thing, Meany machines have animal names.
 * [Yurtle](Yurtle)
 * [Red Fox](Red-Fox)
 * [Red Rooster](Red-Rooster)
-* [Mouse](Mouse) 😵
-* [Yak](Yak) 😵⚡️
 
 ### Utility
 
@@ -32,5 +28,11 @@ It's a thing, Meany machines have animal names.
 
 * [Thing 1](Thing-1), Thing 2, Thing 3
 
-😵 = defunct
+### Defunct Machines
+* [Dino](Dino) (groomer)
+* [Pack Rat](Pack-Rat) (snow tractor)
+* [Yak](Yak)⚡️ (snowmobile)
+* [Mighty Mouse](Mighty-Mouse) (snowmobile)
+* [Mouse](Mouse) (snowmobile)
+
 ###### [template](Machine-Template)

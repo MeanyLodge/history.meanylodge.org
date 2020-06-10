@@ -4,10 +4,10 @@ category: Document
 ---
 # Flipboard
 
-<img src="img/197n%20Idona-Flipboard%201.jpeg">
+<img src="img/197n-Idona-Flipboard-1.jpeg">
 
-<img src="img/197n%20Idona-Flipboard%202.jpeg">
+<img src="img/197n-Idona-Flipboard-2.jpeg">
 
-<img src="img/197n%20Idona-Flipboard%203.jpeg">
+<img src="img/197n-Idona-Flipboard-3.jpeg">
 
-<img src="img/197n%20Idona-Flipboard%204.jpeg">
+<img src="img/197n-Idona-Flipboard-4.jpeg">

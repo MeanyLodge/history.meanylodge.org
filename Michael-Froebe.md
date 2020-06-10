@@ -1,11 +1,12 @@
 ---
 title: Michael Froebe
 category: Person
-categories: Active Mechanic
+categories:
+    - Active
+    - Mechanic
 ---
 # Michael Froebe
-### Roles
-- [Mechanic](Mechanic)
+{% include roles.html %}
 
 ---
 ### History

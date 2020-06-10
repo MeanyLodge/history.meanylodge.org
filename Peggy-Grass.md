@@ -1,7 +1,9 @@
 ---
 title: Peggy Grass
 category: Person
-categories: Person Cook
+categories:
+    - Person
+    - Cook
 ---
 # Peggy Grass
 ### Role

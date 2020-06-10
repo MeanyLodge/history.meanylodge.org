@@ -4,12 +4,12 @@ category: Machine
 categories: Machine
 ---
 # Moose
-<img src="img/2020%20Moose.jpeg" style="width: 50%;" align="right">
+<img src="img/2020-Moose.jpeg" style="width: 50%;" align="right">
 A snow tractor.
 
 ### Purpose
 
-As a [Tom Cat](Tom-Cat) backup.
+As a [Tom Cat](Tomcat) backup.
 
 ### Specifications
 
@@ -23,7 +23,7 @@ As a [Tom Cat](Tom-Cat) backup.
 
 ### Mechanics
 
-- [Dan Solemnson](Dan-Solemnson)
+- Dan Solemnson
 - [Shawn Bertagnole](Shawn-Bertagnole)
 - [Rick Ingham](Rick-Ingham)
 
@@ -41,7 +41,7 @@ Dan Solemnson overhauled the hydraulics, rebuilt the deck and frame as well as m
 
 Moose running the [Munchkin Express](Munchkin-Express).
 
-<img src="img/2011%20Moose.jpeg" style="width: 400px;" align="right">
+<img src="img/2011-Moose.jpeg" style="width: 50%;" align="right">
 
 #### ~2016
 
@@ -55,7 +55,7 @@ Moose had a total electrical meltdown. Lost all power. --[Rick Ingham](Rick-Ingh
 
 #### 2020
 
-No one at Meany maintained any real records on the machine. [Dan Solemnson](Dan-Solemnson) documented the hydraulics, but had a stroke and his records were no longer accessible. The track belts were replaced. The frame had several phases of repair and reinforcement. The rest of the maintenance was limited to tires, grousers, etc as needed. The starter was weak and the machine was not used much until Shawn changed the starter. I do not know anything more recent. --[Mike Lonergan](Mike-Lonergan), May 2020
+No one at Meany maintained any real records on the machine. Dan Solemnson documented the hydraulics, but had a stroke and his records were no longer accessible. The track belts were replaced. The frame had several phases of repair and reinforcement. The rest of the maintenance was limited to tires, grousers, etc as needed. The starter was weak and the machine was not used much until Shawn changed the starter. I do not know anything more recent. --[Mike Lonergan](Mike-Lonergan), May 2020
 
 my recollection was about 10 years ago for $15k, with another $15k put into it... But don't quote me at all --[Shawn Bertagnole](Shawn-Bertagnole) May 2020
 

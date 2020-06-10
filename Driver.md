@@ -6,7 +6,7 @@ category: List
 
 Drivers of Meany [Animals](Machines)
 
-### [Tom Cat](Tom-Cat)
+### [Tom Cat](Tomcat)
 
 * [Tom Van DeVanter](Tom-Van-DeVanter) 1960-2001
 * [Jim Fahey](Jim-Fahey)
@@ -21,7 +21,7 @@ Drivers of Meany [Animals](Machines)
 
 ### Snowmobiles
 
-* [Maude de Bel](Maude-de-Bel)
+* [Maud de Bel](Maud-de-Bel)
 * [Pat Boyle](Pat-Boyle)
 * [Amy Deyerle-Smith](Amy-Deyerle-Smith)
 * [Alicia Fahey](Alicia-Fahey)

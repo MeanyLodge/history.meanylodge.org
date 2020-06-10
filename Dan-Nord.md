@@ -1,15 +1,16 @@
 ---
 title: Dan Nord
 category: Person
-categories: Active Committee Driver Instructor Operator
+categories:
+    - Active
+    - Committee
+    - Driver
+    - Instructor
+    - Operator
 ---
 <img src="img/2020-Dan-Nord.jpeg" style="width: 50%;" align="right">
 # Dan Nord
-### Roles
-- [Committee](Committee)
-- [Driver](Driver)
-- [Instructor](Instructor)
-- [Operator](Operator)
+{% include roles.html %}
 
 #### Known For
 - 2020 [Patrol Race](Patrol-Race) Contestant

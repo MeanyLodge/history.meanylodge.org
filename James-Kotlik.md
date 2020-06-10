@@ -1,7 +1,10 @@
 ---
 title: James Kotlik
 category: Person
-categories: Active Committee Mechanic
+categories:
+    - Active
+    - Committee
+    - Mechanic
 ---
 <img src="img/2020-James-Kotlick.jpeg" style="width: 45%;" align="right">
 # James Kotlik
@@ -9,9 +12,7 @@ categories: Active Committee Mechanic
 ### Events
 - Meany Since: YYYY
 
-### Roles
-- [Committee](Committee)
-- [Mechanic](Mechanic)
+{% include roles.html %}
 
 ### Known For
 - Getting dirty.

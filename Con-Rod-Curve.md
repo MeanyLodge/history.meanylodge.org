@@ -9,13 +9,13 @@ Forest Service Road 54 - just east of the Yakima River bridge.
 
 ### History
 
-This is on F.S. Road 54 - just east of the Yakima River bridge. It was here on a horrible Sunday night in 1976 that a connecting rod burst through the side of the Tom Cat engine block. It was about 8 PM, raining, dark, sleep crust all over, crying kids, mad parents, the works. Believe it or not, a new engine was in [Tom Cat](Tom-Cat) by Wednesday night, and the hut opened the next weekend as usual. <sup>[nw][]</sup>
+This is on F.S. Road 54 - just east of the Yakima River bridge. It was here on a horrible Sunday night in 1976 that a connecting rod burst through the side of the Tom Cat engine block. It was about 8 PM, raining, dark, sleep crust all over, crying kids, mad parents, the works. Believe it or not, a new engine was in [Tom Cat](Tomcat) by Wednesday night, and the hut opened the next weekend as usual. <sup>[nw][]</sup>
 
 Jan 20 On Sunday evening outward trip at Yakima River bridge, broke con-rod in engine. Bad snow contributed. Broken con-rod breached pan dumping engine oil. By bandaging pan, tying rope to restrain flailing con-rod, using 5 cylinders and 16 quarts of oil, managed to run tractor out to overpass. In ensuing 3 days, volunteers assembled a replacement engine and installed in tractor - no loss of weekend time. <sup>[hw](History-Walt)</sup>
 
 #### Jan 20th-23rd 1976 <sup>[hi](History-Idona)</sup>
 
-- [Tom Cat](Tom-Cat) Engine failure
+- [Tom Cat](Tomcat) Engine failure
 - Sunday outbound trip
 - Broke a connecting-rod in engine at Yakima River
 - Sent out Skiers to get any extra oil they had in their cars

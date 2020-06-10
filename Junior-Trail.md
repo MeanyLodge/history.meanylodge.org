@@ -9,7 +9,7 @@ The trail from the [Lodge](Lodge) to the [Tow Hut](Tow-Hut) without climbing.<su
 
 ### Location
 
-Above the low road (through the swamp) to Tow Hut and below the high road (past the [Coat Rack](Coat-Rack)).
+Above the low road (through the swamp) to Tow Hut and below the high road (past the [coat rack](Coatrack)).
 
 ### Origin
 

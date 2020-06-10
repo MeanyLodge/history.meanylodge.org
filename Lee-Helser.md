@@ -1,8 +1,9 @@
 ---
 title: Lee Helser
 category: Person
-categories: Chair
 tags: founder
+categories:
+    - Chair
 ---
 # Lee Helser
 ### Events

@@ -1,8 +1,8 @@
 ---
-title: Druther's Gulch
+title: Druthers Gulch
 category: Place
 ---
-# Druther's Gulch
+# Druthers Gulch
 ### Location
 
 The short gully between [South Slobbovia](South-Slobbovia) and [Bullmoose Ridge](Bullmoose-Ridge). <sup>[nw][]</sup>

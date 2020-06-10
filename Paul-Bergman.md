@@ -1,7 +1,9 @@
 ---
 title: Paul Bergman
 category: Person
-categories: Chair Mechanic
+categories:
+    - Chair
+    - Mechanic
 ---
 # Paul Bergman
 ### Roles

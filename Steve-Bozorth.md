@@ -1,14 +1,14 @@
 ---
 title: Steve Bozorth
 category: Person
-categories: Committee
+categories:
+    - Committee
 ---
 # Steve Bozorth
 ### Events
 - First year at Meany: 2000
 
-### Roles
-- [Committee](Committee)
+{% include roles.html %}
 
 ---
 ### History

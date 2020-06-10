@@ -4,7 +4,7 @@ category: Building
 categories: Building
 ---
 # Propane Hut
-<img src="img/2020%20Propane%20Hut.jpeg" alt="Meany Propane Hut" align="right" style="width: 50%;">
+<img src="img/2020-Propane-Hut.jpeg" alt="Meany Propane Hut" align="right" style="width: 50%;">
 
 ### Names
 - Propane Hut

@@ -3,7 +3,7 @@ title: Edifice Wreck
 category: Building
 categories: Building Defunct
 ---
-<img src="img/2020%20Edifus%20Wreck.jpeg" style="width: 40%;" align="right">
+<img src="img/2020-Edifus-Wreck.jpeg" style="width: 40%;" align="right">
 # Edifice Wreck
 ### Names
 
@@ -16,7 +16,7 @@ Below the RR tracks, directly below the [Ice Fall](Ice-Fall), which is nearly st
 
 ### Purpose
 
-A small shack built below RR track to store gasoline for [Tom Cat](Tom-Cat). <sup>[nw][]</sup>
+A small shack built below RR track to store gasoline for [Tomcat](Tomcat). <sup>[nw][]</sup>
 
 ### Events
 - Constructed: 1960
@@ -38,7 +38,7 @@ Soon we cross the bridge, up the slope to a peculiar little structure below the 
 
 #### 1979
 
-Abandoned when it became possible to run [Tom Cat](Tom-Cat) over the BNRR to the [Lodge](Lodge).
+Abandoned when it became possible to run [Tom Cat](Tomcat) over the BNRR to the [Lodge](Lodge).
 
 #### 2020
 

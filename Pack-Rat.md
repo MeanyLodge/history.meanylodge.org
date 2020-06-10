@@ -4,7 +4,7 @@ category: Machine
 categories: Machine Groomer
 ---
 # Pack Rat
-<img src="img/2000_%20Pack%20Rat.jpeg" style="width: 40%;" align="right">
+<img src="img/2000_-Pack-Rat.jpeg" style="width: 40%;" align="right">
 
 A Thiokol snow tractor. It's the only known packrat that is equipped with a bulldozer blade.<sup>[nw][]</sup>
 
@@ -13,7 +13,7 @@ A Thiokol snow tractor. It's the only known packrat that is equipped with a bull
 Snow packing on [Meany Hill](Meany-Hill). The blade was ultimately removed and it towed a roller to pack the snow.
 
 ### Specifications
-<img src="img/2020%20Roller.jpeg" style="width: 40%;" align="right">
+<img src="img/2020-Pack-Rat-Roller.jpeg" style="width: 40%;" align="right">
 
 - Model: 1967 Thiokol Spryte
 - Engine: 170 ci 6-cylinder industrial version of the Ford Falcon engine
@@ -36,7 +36,7 @@ Purchased Thiokol Spryte snow tractor at government auction to be used as hill p
 
 #### 1978
 
-Maintaining the equipment has taken an enormous number of volunteer hours...[Tomcat](Tom-Cat)...Meany's newest crew member, a Thiokol Spryte Sno-cat which now packs Meany's lower slopes, takes hours of service time. <sup>[ma78][]</sup>
+Maintaining the equipment has taken an enormous number of volunteer hours...[Tomcat](Tomcat)...Meany's newest crew member, a Thiokol Spryte Sno-cat which now packs Meany's lower slopes, takes hours of service time. <sup>[ma78][]</sup>
 
 #### 1980
 
@@ -59,7 +59,7 @@ The Thiokol (Pack Rat) transmission was rebuilt. <sup>[hr][]</sup>
 
 #### 2003
 
-This Thiokol snow tractor was scrounged up cheaply from BPA in 1977 for hill packing. It his now used as auxiliary transportation when [Tom Cat](Tom-Cat) is ailing or its load is too much. On ski lesson days it becomes "Munchkin Express" hauling kids up to their ski classes. A roller can be mounted on the rear for hill grooming.<sup>[75th][]</sup>
+This Thiokol snow tractor was scrounged up cheaply from BPA in 1977 for hill packing. It his now used as auxiliary transportation when [Tom Cat](Tomcat) is ailing or its load is too much. On ski lesson days it becomes "Munchkin Express" hauling kids up to their ski classes. A roller can be mounted on the rear for hill grooming.<sup>[75th][]</sup>
 
 #### around 2008
 

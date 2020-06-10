@@ -20,7 +20,7 @@ Areas, Items, and Points of Interest, grouped by general locale, north to south.
         - [Richard's Ravine](Richard's-Ravine)
         - [Railroad Curve](Railroad-Curve)
         - [Kitchen Run](Kitchen-Run)
-        - [Hell's Half Acre](Hell's-Half-Acre)
+        - [Hell's Half Acre](Hell's-Half-acre)
         - [Cognito Wood](Cognito-Wood)
         - [Cat Track](Cat-Track)
     - [Coatrack](Coatrack)

@@ -20,13 +20,14 @@ To the west, behind you, as if we removed the safety gate, ran [Mach](Mach) in 4
 
 South and up the hill from Side Track is [Danny's Woods](Danny's-Woods). North and downhill of Side Track lies Railroad Meadows. From Side Track you can ski through RR Meadows or take Side Track past the [Couloir](Couloir) to [Lefty](Lefty). From Lefty you can catch glimpses of [Stampede Creek](Stampede-Creek) and pass near the old [Ferguson Pool](Ferguson-Pool) below [Harvey's Slot](Harvey's-Slot).
 
-All routes north or west from [Top Hut](Top-Hut) end at [Psychopath](Psychopath), which twists along the northwest boundary of Meany Hill. As you ski down Psychopath, pause to reflect upon the achievements of Meany legends. From [Railroad Curve](Railroad-Curve) you can see [Karen's Corridor](Karen's-Corridor). The lower section of Psychopath is [Liberation Way](Liberation-Way), home of [Richard's Ravine](Richard's-Ravine). Psychopath ends at the switchback of the [Cat Track](Cat-Track). From there you are uphill of [Hell's Half Acre](Hell's-Half-Acre). The Cat Track leads to the lower Lane. Turning left (north) will descend [Kitchen Run](Kitchen-Run), pass the [Industrial Park](Industrial-Park), and arrive at, surprise, the kitchen end of the [Lodge](Lodge).
+All routes north or west from [Top Hut](Top-Hut) end at [Psychopath](Psychopath), which twists along the northwest boundary of Meany Hill. As you ski down Psychopath, pause to reflect upon the achievements of Meany legends. From [Railroad Curve](Railroad-Curve) you can see [Karen's Corridor](Karen's-Corridor). The lower section of Psychopath is [Liberation Way](Liberation-Way), home of [Richard's Ravine](Richard's-Ravine). Psychopath ends at the switchback of the [Cat Track](Cat-Track). From there you are uphill of [Hell's Half-acre](Hell's-Half-acre). The Cat Track leads to the lower Lane. Turning left (north) will descend [Kitchen Run](Kitchen-Run), pass the [Industrial Park](Industrial-Park), and arrive at, surprise, the kitchen end of the [Lodge](Lodge).
 
 ### Down the Middle
 
 From anywhere on the [Lane](Lane), the trees on skier's right are [Soffreenia Wood](Soffreenia-Wood). Notable attractions within Soffreenia are [Yellow Rock](Yellow-Rock) and the [Ape Swing](Ape-Swing). At the bottom edge of the wood lies [Kirkland Park](Kirkland-Park).
 
 ### The Southern Front
+<img src="img/2020-to-Slobbovia.jpeg" align="right" style="width: 30%;">
 
 From [Top Hut](Top-Hut), head south. A two-track leads gently uphill. After a short section the two-track turns steeply up to the right and is covered with herringbones, unless you're lucky enough to get first tracks. Another ski trail peels off on the left. Either leads you to [Green Pastures](Green-Pastures), the grassy area atop [Lower Slobbovia](Lower-Slobbovia).
 
@@ -35,3 +36,6 @@ Downhill (NE) from Green Pastures is [North Slobbovia](North-Slobbovia). About 1
 Traversing across Green Pastures past Tombstone Canyon and above [Bullmoose Ridge](Bullmoose-Ridge) leads to [South Slobbovia](South-Slobbovia). To the east of South lies [Phogbound Gulch](Phogbound-Gulch) and beyond that lies [Henrietta's Woods](Henrietta's-Woods). Even further east lies [RBCSA Gulch](RBCSA-Gulch) and beyond that is [Walter's Woods](Walter's-Woods).
 
 Skiers descending South are between [Druthers Gulch](Druthers-Gulch) (left) and [Phogbound Gulch](Phogbound-Gulch) (right). Near the top is [Big Tree](Big-Tree). You can't miss [Jacob's Ladder](Jacob's-Ladder)🗼 unless you're a good skier. Just below Jacob's Ladder is [Brockman's Knob](Brockman's-Knob) and the [9-G Pullout](9-G-Pullout). As you descend any sane route, watch for the bridge across [Tombstone Canyon](Tombstone-Canyon). It joins up with [Al's Fringe](Al's-Fringe) and returns to [Mach](Mach). Skiers win an award for missing the bridge: uphill travel practice.
+
+### See Also
+- [Meany Map](Meany-Map)

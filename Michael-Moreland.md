@@ -1,7 +1,10 @@
 ---
 title: Michael Moreland
 category: Person
-categories: Active Committee Driver
+categories:
+    - Active
+    - Committee
+    - Driver
 ---
 <img src="img/2020-Michael-Moreland.jpeg" alt="photo of Michael Moreland" align="right" style="width: 40%">
 # Michael Moreland
@@ -9,10 +12,10 @@ categories: Active Committee Driver
 - Michael Moreland
 - British Michael
 
-### Roles
-- [Committee](Committee)
-- [Driver](Driver)
+### Events
+- First year at Meany: 2017
 
+{% include roles.html %}
 ### Known For
 - Admiring Scotches
 - Electrical

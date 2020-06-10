@@ -1,10 +1,13 @@
 ---
 title: Walter Little
 category: Person
-categories: Mechanic Operator Permanent-Resident
+categories:
+    - Mechanic
+    - Operator
+    - Permanent-Resident
 tags: Deceased
 ---
-<img src="img/walter-little.png" style="width: 250px;" align="right">
+<img src="img/walter-little.png" style="width: 30%;" align="right">
 # Walter Little
 ### Names
 - Walt Little
@@ -16,6 +19,7 @@ tags: Deceased
 - Meany Years: 1938-[∞](Permanent-Resident)
 - Death: 2002-02-28
 
+{% include roles.html %}
 ### Known For
 - Designed [Mach](Mach).
 - Planned the Steven's Pass lodge
@@ -42,7 +46,7 @@ tags: Deceased
 ### History
 #### 1956
 
-<img src="img/1956%20Walter%20Little.jpeg" alt="Walter Little Memorial Tow" style="width: 40%;">
+<img src="img/1956-Walter-Little.jpeg" alt="Walter Little Memorial Tow" style="width: 40%;">
 
 #### 1958
 
@@ -50,7 +54,7 @@ The relocated tow at Meany provided better access to lanes and eliminated the ne
 
 #### 1975
 
-<img src="img/1975%20Walt%20Little.png" style="width: 50%;">
+<img src="img/1975-Walt-Little.png" style="width: 50%;">
 
 #### 1978
 

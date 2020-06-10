@@ -31,7 +31,7 @@ Mountaineer Skiers determined that another ski hut, additional to Snoqualmie Lod
 
 [Ernest Harris](Ernest-Harris)'s committee selected the Martin site and Dr. [Edmond S. Meany](Edmond-S.-Meany) purchased it for $125 and donated it to the Mountaineers. In June 1928 plans for a 20x50 two-story frame building to accommodate 50 people were approved and $1,700 was appropriated for construction. <sup>[ma56][]</sup> Generous donations were made by the Everett and Tacoma branches. Lumber was purchased from the Cabin Creek Sawmill.<sup>[hw][]</sup> Materials were shipped by rail to Martin, unloaded by the enthusiastic volunteer workers and carried uphill 300 yards <sup>[ma78][]</sup> to the site by hand. Construction was started in September and dedicated on November 11.
 
-<img src="img/1928%20Meany%20Ski%20Hut.png" style="width: 250px;" alt="Meany Lodge construction photo" align="right">
+<img src="img/1928-Meany-Ski-Hut.png" style="width: 30%;" alt="Meany Lodge construction photo" align="right">
 
 Meany Ski Hut opened for skiing in the winter of 1928/29.
 
@@ -53,7 +53,7 @@ Armageddon? the juniors begin to surface and the Club panics.<sup>[75th][]</sup>
 
 ### 1954
 
-Slobbovia created by BPA - unknown to them - they though they were building a power line.<sup>[75th][]</sup>
+Slobbovia created by BPA - unknown to them - they thought they were building a power line.<sup>[75th][]</sup>
 
 ### 1967
 
@@ -63,7 +63,7 @@ A new septic tank and sewer system were installed.<sup>[ma67][]</sup>
 
 Leveled area to south of ski hut for a work and storage area. Covered the 48 year accumulation of cans and metal at east end of hut. Constructed holding bins in which to store cans and bottles until they can be hauled out in summer.<sup>[ma78][]</sup>
 
-- Grooming all around Lodge, particular the [Industrial Area](Industrial-Area) <sup>[hw][]</sup>
+- Grooming all around Lodge, particular the [Industrial Area](Industrial-Park) <sup>[hw][]</sup>
 - Eliminate rubbish dump over bank at East end
 - Make holding bins for cans and glass at generator bldg.
 
