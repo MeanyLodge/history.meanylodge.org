@@ -80,6 +80,7 @@ Deepest snow year at 15' on the level.
 Re-roofed hut with corrugated galvanized iron to replace worn original cedar shingles. <sup>[ma78][], [hw][]</sup>
 
 <img src="img/1956-Lodge.jpeg" style="width: 40%;" alt="Meany Lodge in 15' of snow photo" align="right">
+
 #### 1967
 
 A new septic tank and sewer system were installed. The hut's foundation was replaced, and so was the roof. Inside the hut, the women's dorm was painted (white and red), new shelves and mice-proof cupboards were installed in the kitchen, and the drying room facilities were improved.<sup>[ma67][]</sup>
