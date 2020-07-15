@@ -55,6 +55,7 @@ revise interior
 #### 2003
 
 **Tow Hut:** Houses the driving machinery for Meany's "Mach Tow." Build in 1938.<sup>[75th][]</sup>
+- Added high voltage line equipment storage annex to West side of tow hut
 
 [75th]: Anniversary#75th
 [hw]: History-Walt "Meany History, by Walt Little"

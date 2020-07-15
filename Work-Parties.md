@@ -15,6 +15,8 @@ Meany is an all-volunteer lodge. Everything at Meany is the result of hundreds o
 - [Annual Maintenance](https://github.com/MeanyLodge/Committee/wiki/2020-Annual-Maintenance)
 - [2020 Project List](https://github.com/MeanyLodge/Committee/wiki/2020-Projects)
 - [Coronavirus work party safety ideas](https://github.com/MeanyLodge/Committee/wiki/Coronavirus-Work-Party-Safety-Ideas)
+- [Dick Huggett](Dick-Huggett): cleaned and organized the Zoo, greased Hippo
+
 
 ## 2019
 <img src="img/2019-Woodshed-Roof.jpeg" style="width: 40%;" align="right">

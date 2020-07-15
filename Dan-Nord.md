@@ -12,8 +12,11 @@ categories:
 # Dan Nord
 {% include roles.html %}
 
+### Events
+- First year instructing at Meany: 2012-2013
+- [Patrol Race](Patrol-Race) Contestant: 2020
+
 #### Known For
-- 2020 [Patrol Race](Patrol-Race) Contestant
 - Sharing his dark beers
 
 ---
