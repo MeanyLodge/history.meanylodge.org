@@ -1,0 +1,12 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {% seo %}
+  <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
+  <style type="text/css">
+    {% capture include_to_scssify %}
+      {% include inline.scss %}
+    {% endcapture %}
+    {{ include_to_scssify | scssify }}
+  </style>
+</head>
