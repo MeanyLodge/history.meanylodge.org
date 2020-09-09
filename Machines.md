@@ -22,13 +22,14 @@ It's a thing, Meany machines have animal names.
 
 * [Ox](Ox)
 * [Beast](Beast)
-* [ATV](Whats-its-Name)
+* [ATV](Daves-ATV)
 * [Wood Chipper](Wood-Chipper)
+* [Wood Splitter](Wood-Splitter)
 
 ### Wagons / Sleds
 
-* [Thing 1](Thing-1), Thing 2, Thing 3
-* ATV trailers: [Toad-1][], [Toad-2][], [Toad-3][]
+* Snowmobile sleds: [Thing 1](Thing-1), Thing 2, Thing 3
+* ATV trailers: [Toad 1](Toad-1), [Toad 2](Toad-2), [Toad 3](Toad-3)
 
 ### Defunct Machines
 * [Dino](Dino) (groomer)
