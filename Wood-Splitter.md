@@ -4,12 +4,14 @@ category: Machine
 ---
 
 # Wood Splitter
-<img src="" style="width: 40%;" align="right">
+<img src="img/2020-Wood-Splitter.jpg" style="width: 40%;" align="right">
 
 
 ### Specifications
-- Model:
-- Engine:
+- Make: Prince Manufacturing Corp
+- Model: 
+- Serial: 270014
+- Engine: Predator 212 cc
 
 
 ### History

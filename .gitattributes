@@ -355,6 +355,7 @@
 /maps/WA_Snoqualmie_Pass_20170320_TM_geo.pdf filter=lfs diff=lfs merge=lfs -text
 /maps/WA_Stampede_Pass_20170320_TM_geo.pdf filter=lfs diff=lfs merge=lfs -text
 /reference/2003[[:space:]]Meany[[:space:]]75th.pdf filter=lfs diff=lfs merge=lfs -text
+/img/2020-Wood-Splitter.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -389,7 +390,6 @@
 /Tomcat.md filter=lfs diff=lfs merge=lfs -text
 /History-Harvey.md filter=lfs diff=lfs merge=lfs -text
 /Tomcat-Petition.md filter=lfs diff=lfs merge=lfs -text
-/img/2020-Wood-Splitter.jpg filter=lfs diff=lfs merge=lfs -text
 /licensing/2018-11-06[[:space:]]Tow[[:space:]]Insp[[:space:]]Report[[:space:]]CW.doc filter=lfs diff=lfs merge=lfs -text
 /licensing/2019-11-18[[:space:]]Tow[[:space:]]Report.docx filter=lfs diff=lfs merge=lfs -text
 /licensing/2020[[:space:]]Recreational[[:space:]]Conveyance[[:space:]]Inspection[[:space:]]Program[[:space:]]Guide.pdf filter=lfs diff=lfs merge=lfs -text

@@ -3,7 +3,26 @@ title: Energy
 category: Document
 ---
 # Energy
-Meany currently has electricity service through Puget Sound Energy. We have gas, diesel, and propane tanks that are filled seasonally.
+Meany has electricity service through Puget Sound Energy. We have gas, diesel, and propane tanks that are filled seasonally.
+
+## Vendors
+
+- Electricity: Puget Sound Energy
+- Propane: Amerigas
+- Diesel: 
+- Gasoline:
+
+## Building
+
+- Lodge
+    + Wood (heat furnace)
+    + Electricity
+    + Propane (kitchen stove & water heaters)
+- Zoo
+    + Electricity
+    + Propane (furnace), 100# cylinders
+- Tow Hut
+    + Electricity
 
 ### History
 
