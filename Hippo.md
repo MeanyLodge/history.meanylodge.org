@@ -30,6 +30,9 @@ Snow plow and groomer. Used for grooming Forest Road 420, the skier side of F.R.
 ### Piston Bully
 
 - 1-775-857-5030 Tech Support
+- [Aux Hydraulics Control Panel](/Hippo/PB160D-Aux-Panel.jpg)
+- [Control Valve Schematic](/Hippo/PB160D-Control-Valve.pdf)
+- [Haudraulics Schematic](/Hippo/PB160D-Hydraulic-Schematics.pdf)
 
 ### History
 

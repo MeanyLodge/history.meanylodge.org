@@ -37,6 +37,7 @@ tags: Deceased
     - 1984 [Chronological History of Meany Lodge][hw]
 - [Walter's Little Spring](Propane-Hut)
 - [Permanent Resident](Permanent-Resident)
+- Member of the Mountaineers Birth Control Society, ("bigger! bigger! make those ski jumps bigger!")
 
 ### See Also
 - [Obituary](http://www.alpenglow.org/ski-history/notes/orig/little-walt-obit.txt)
@@ -69,6 +70,10 @@ Other skit characters were the minister ([Dave Claar](Dave-Claar)) and the victi
 #### 1982
 
 It all started when the "Advanced Emissary of the New Year's Baby," Walter B. Little, appeared. <sup>[ma82][]</sup>
+
+#### 2021
+
+A group of 5 skiers, all of whom visited Meany regularly in the 1970s, including Dale Karr and "I'm the woman that broke one of Walt's ribs", and the reason he bought that bright yellow suit, visited and regaled us with a few anecdotes.
 
 
 [hw]: History-Walt "Meany History, by Walt Little"

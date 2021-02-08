@@ -361,6 +361,8 @@
 /img/1936-Anna-Rogers-Painting-Of-Meany.pdf filter=lfs diff=lfs merge=lfs -text
 /Hippo/PB[[:space:]]160[[:space:]]D[[:space:]]Control[[:space:]]Valve.pdf filter=lfs diff=lfs merge=lfs -text
 /Hippo/PB[[:space:]]160[[:space:]]D[[:space:]]Hydraulic[[:space:]]Schematics.pdf filter=lfs diff=lfs merge=lfs -text
+/Hippo/PB160D-Control-Valve.pdf filter=lfs diff=lfs merge=lfs -text
+/Hippo/PB160D-Hydraulic-Schematics.pdf filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -405,8 +407,6 @@
 /img/1920s-Edmond_S_Meany.jpg filter=lfs diff=lfs merge=lfs -text
 /Hippo/PB[[:space:]]160[[:space:]]Aux[[:space:]]Panel.jpg filter=lfs diff=lfs merge=lfs -text
 /Hippo/PB160D-Aux-Panel.jpg filter=lfs diff=lfs merge=lfs -text
-/Hippo/PB160D-Control-Valve.pdf filter=lfs diff=lfs merge=lfs -text
-/Hippo/PB160D-Hydraulic-Schematics.pdf filter=lfs diff=lfs merge=lfs -text
 /img/2008-Snowstorm/2008-2-2[[:space:]]005.jpg filter=lfs diff=lfs merge=lfs -text
 /img/2008-Snowstorm/2008-2-2[[:space:]]010.jpg filter=lfs diff=lfs merge=lfs -text
 /img/2008-Snowstorm/2008-2-2[[:space:]]012.jpg filter=lfs diff=lfs merge=lfs -text
