@@ -9,4 +9,5 @@ This site is designed to be an authoritative and comprehensive source of informa
 
 As of 2020 it is maintained by [Matt Simerson](Matt-Simerson). The source is in the [meanylodge.github.com](https://github.com/MeanyLodge/meanylodge.github.com) repository on GitHub. The pages are formatted in [Markdown](https://www.markdownguide.org), the easiest to learn and use markup language for writing web pages. Committee members are invited to send Matt their GitHub username to be added to the organization. Users with little git experience are recommended to try [GitHub Desktop](https://desktop.github.com). GitHub users can fork the repo, make changes, and submit Pull Requests.
 
-The site theme is [ultra](https://github.com/ronv/ultra).
+The site theme is [ultra](https://github.com/ronv/ultra). The publishing engine is jekyll and [can be run locally](https://jekyllrb.com/docs/ruby-101/).
+

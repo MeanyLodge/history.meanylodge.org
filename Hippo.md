@@ -22,8 +22,14 @@ Snow plow and groomer. Used for grooming Forest Road 420, the skier side of F.R.
 ### Specifications
 
 - Model: Piston Bully PB 160D
+- Year: 1995
 - Engine: 160 horsepower
 - Fuel: diesel
+- Serial: 813.10-14343
+
+### Piston Bully
+
+- 1-775-857-5030 Tech Support
 
 ### History
 
@@ -31,9 +37,16 @@ Snow plow and groomer. Used for grooming Forest Road 420, the skier side of F.R.
 
 <img src="img/2011-Hippo.jpeg" style="width: 40%;">
 
+#### 2016 or 2017
+
+- Replaced valves 4 and valve 10.
+
 #### 2019
 
 - track replacement, $25,000 <sup>[wp19][]</sup>
 
+#### 2021
+
+- unable to raise blade. Hippo stuck at skier pickup.
 
 [wp19]: Work-Parties#2019
