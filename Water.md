@@ -39,6 +39,10 @@ Add electric water heater: existing propane fueled water heater insufficient cap
 
 Revise kitchen, revise plumbing, moved hot water tanks to under counter. <sup>[hw][]</sup>
 
+#### ????
+
+Switched to propane water heaters located in the pantry.
+
 #### 2019
 
 Sank a new well, because the Kittitas County Health Department compelled us to. Dam water is still being used for flushing toilets and fire suppression system. Built the [Pump House](Pump-House) to enclose the well head.
