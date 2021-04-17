@@ -79,6 +79,11 @@ The study area was moved from the end of the Third Person's Dorm to a small area
 
 Digging out the lodge basement and installing a new septic system and drain field increased lodge usability in the 90's.<sup>[75th][]</sup>
 
+### 2019
+
+A new well as part of the [Water](Water) system.
+
+
 [75th]: Anniversary#75th
 [hut]: Skiing-and-the-Ski-Hut
 [hw]: History-Walt "Meany History, by Walt Little"
