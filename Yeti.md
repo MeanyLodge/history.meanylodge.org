@@ -13,6 +13,8 @@ A Ski-Doo Skandic snowmobile
 - Model: 2018 Ski-Doo Skandic SWT 900 ACE
 - Engine: 900cc/55ci 3-cylinder 4-stroke engine
 - HP: 90
+- VIN: YH2SLDJA4JR000528
+- Tag: 214772S
 
 ---
 ### History
