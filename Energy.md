@@ -124,6 +124,10 @@ Two aesthetically attractive concrete block houses were built to encase gas tank
 
 Constructed the [Propane Hut](Propane-Hut) to enclose a 500-gallon propane tank.<sup>[75th][]</sup>
 
+#### 2013
+
+Switched [Mach](Mach) from gasoline engine to electric motor.
+
 #### 2017
 
 Approximately 2017: replaced 500 gallon propane tank with 1000 gallon.
