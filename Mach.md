@@ -29,6 +29,8 @@ Mach used to have a 4-speed transmission. Typically only the first three gears w
 - Horizontal: 1,000'
 - Speed: 16mph (limited by state regulations)
 - Constructed: 1938
+- Motor: 50 HP electric
+    - prior to 2013: 59 HP Chevy 292 gasoline
 
 ### Known For
 
