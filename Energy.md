@@ -24,6 +24,25 @@ Meany has electricity service through Puget Sound Energy. We have gas, diesel, a
 - Tow Hut
     + Electricity
 
+## Infrastructure
+
+- Power Poles: 
+- Transformers
+    - Tow Hut: 50 KVA
+    - Lodge: ?? KVA
+    - Zoo: ?? KVA
+- Fuel Tanks
+    - gasoline
+        - 500 gallons ([Diesel Hut](Diesel-Hut))
+        - 500 gallons ([Gas Hut](Gas-Hut))
+    - diesel
+        - 1000 gallons ([Diesel Hut](Diesel-Hut))
+
+## Consumption
+
+- Gasoline
+    + In long past the Tow Hut used 500 gallons per operating year. Currently (2013) the engine consumes 250-300 gallons per year (shorter season). <sup>[rn13][]</sup>
+
 ### History
 
 #### 1928
@@ -83,6 +102,8 @@ Construction of a power line from the Martin Station on the Northern Pacific Rai
 
 p.137: The Legal Advisory Committee was involved in three important questions. The most time-consuming was the negotiation with the Puget Sound Power and Light Company over the right of way for power lines on the Meany ski hill. p.142: Puget Sound Power and Light, which initially constructed a power line across Meany property during the summer of 1962 without permission from the Mountaineers, has replaced the overhead power line with one that now runs underground.
 
+Commercial power first came to the Lodge in the early ‘60s via the BN railroad at (RR) 2400 volt. The power came from the vicinity of the RR tunnel and ran to the Lodge on a Mountaineer installed and maintained power line. The power cost a flat rate of $35/year and there was no meter. The load limit was 5-kW which we quickly exceeded and then also picked up the Tow Hut and later the [Cat House](Cat-House) and [Zoo](Zoo) loads. <sup>[rn19][]</sup>
+
 #### 1966
 
 Changed propane tanks from 400# to 200# size, used only to fuel kitchen stove.
@@ -96,9 +117,13 @@ Moved propane tanks to generator hut. <sup>[hw][]</sup>
 
 Power connection to BNRR interrupted by falling tree. Connection restored temporarily, but BNRR advises their power line over Stampede Pass is to be abandoned. <sup>[hw][]</sup>
 
+[continued from 1963] BN power worked out fine until there was a power outage in 1980 and someone called the RR and informed them that our power was out and please fix it. This prompted a response “Who are you and by the way the RR does not serve non-RR loads.” The local RR management did not know they were serving us. <sup>[rn19][]</sup>
+
 #### 1981
 
 Constructed power transmisison to connect Meany system to Puget Sound Power Line on South side of Meany property. ~500 ft. Transformers to convert supply at 7000v to 2400v. Meter at point of tie to supply line. <sup>[hw][]</sup>
+
+[continued from 1980] This (the 1980 power outage) resulted in converting our electrical load to PSE in the summer of 1981 by building a power line from the BPA transmission line right of way to the Lodge. PSE had a 7200-volt line on the BPA R/W. A primary meter (7200 Volt) was needed because of the distance to the lodge and the distributed loads that we had.<sup>[rn19][]</sup>
 
 #### 1982
 
@@ -126,7 +151,7 @@ Constructed the [Propane Hut](Propane-Hut) to enclose a 500-gallon propane tank.
 
 #### 2013
 
-Switched [Mach](Mach) from gasoline engine to electric motor.
+Switched [Mach](Mach) from gasoline engine to 50 HP electric motor.
 
 #### 2017
 
@@ -171,3 +196,5 @@ Replaced all florescent (tubes and A19) bulbs in the Lodge, Tow Hut, Cat House, 
 [ma82]: Mountaineer-Annual#1982
 [ma91]: Mountaineer-Annual#1991
 [tp]: Tomcat-Petition
+[rn13]: Mach-Tow-Electric-Motor
+[rn19]: Electrical-Power-System
