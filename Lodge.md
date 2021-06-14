@@ -160,4 +160,5 @@ Coated the steel lodge roof with silver paint.
 [ma52]: Mountaineer-Annual#1952
 [ma67]: Mountaineer-Annual#1967
 [ma78]: Mountaineer-Annual#1978
+[ma80]: Mountaineer-Annual#1980
 [ma91]: Mountaineer-Annual#1991
