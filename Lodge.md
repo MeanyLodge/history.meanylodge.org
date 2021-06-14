@@ -147,6 +147,11 @@ Revise kitchen, added fire prevention sheeting, revise plumbing, move range from
 The major project completed was the excavation of about a fourth of the basement and the construction of a new classroom in its place.<sup>[ma91][]</sup>
 
 
+#### 2010
+
+Coated the steel lodge roof with silver paint.
+
+
 [hut]: Skiing-and-the-Ski-Hut
 [hw]: History-Walt "Meany History, by Walt Little"
 [ma39]: Mountaineer-Annual#1939
