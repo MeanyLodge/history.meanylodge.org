@@ -37,6 +37,7 @@ Meany has electricity service through Puget Sound Energy. We have gas, diesel, a
         - 500 gallons ([Gas Hut](Gas-Hut))
     - diesel
         - 1000 gallons ([Diesel Hut](Diesel-Hut))
+    - propane: 1000 gallons, near [Propane Hut](Propane-Hut)
 
 ## Consumption
 
