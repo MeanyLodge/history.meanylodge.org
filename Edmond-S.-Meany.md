@@ -14,7 +14,7 @@ tags: founder
 
 ## Known For
 - Professor at University of Washington
-- Buying the land and donating to the Mountaineers
+- Buying the land for Meany Lodge and donating it to the Mountaineers
 
 ### See Also
 - [A brief Biography of Professor Meany](https://www.mountaineers.org/locations-lodges/meany-lodge/history/edmond-s-meany)
