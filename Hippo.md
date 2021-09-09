@@ -50,6 +50,6 @@ Snow plow and groomer. Used for grooming Forest Road 420, the skier side of F.R.
 
 #### 2021
 
-- unable to raise blade. Hippo stuck at skier pickup.
+- unable to raise blade. Hippo stuck at skier pickup. Fixed itself when we returned the next day. Troubleshooted by switching wiring for valves and restored ability to raise blade. Replaced one of the valves.
 
 [wp19]: Work-Parties#2019
