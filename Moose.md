@@ -21,6 +21,12 @@ As a [Tom Cat](Tomcat) backup.
 - Cost: $15k + $15k maintenance.
 - Purchased: 2008
 
+### Manuals
+
+- [Bombardier Skidozer 302 Flyer][Flyer]
+- [Operators Manual][Manual]
+- [Transmission Application Manual][Tranny]
+
 ### Mechanics
 
 - Dan Solemnson
@@ -60,3 +66,7 @@ No one at Meany maintained any real records on the machine. Dan Solemnson docume
 my recollection was about 10 years ago for $15k, with another $15k put into it... But don't quote me at all --[Shawn Bertagnole](Shawn-Bertagnole) May 2020
 
 the estimates of purchase and maintenance are pretty good. --[Chuck Welter](Chuck-Welter) May 2020
+
+[Flyer]: Moose/Flyer.pdf
+[Manual]: Moose/Manual.pdf
+[Tranny]: Moose/Transmission.pdf

@@ -374,6 +374,9 @@
 /licensing/Sawyer/MTDC-Chain-Saw-and-Crosscut-Saw-Training-Course-Students-Guidebook.pdf filter=lfs diff=lfs merge=lfs -text
 /maps/2020-07-18[[:space:]]Stampede[[:space:]]Switchback[[:space:]]Map.pdf filter=lfs diff=lfs merge=lfs -text
 /maps/2021-01-22[[:space:]]Stampede[[:space:]]Pass[[:space:]]Trail[[:space:]]Map.pdf filter=lfs diff=lfs merge=lfs -text
+/Moose/Flyer.pdf filter=lfs diff=lfs merge=lfs -text
+/Moose/Manual.pdf filter=lfs diff=lfs merge=lfs -text
+/Moose/Transmission.pdf filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -421,9 +424,6 @@
 /img/2008-Snowstorm/2008-2-2[[:space:]]069.jpg filter=lfs diff=lfs merge=lfs -text
 /img/2008-Snowstorm/2008-2-2[[:space:]]071.jpg filter=lfs diff=lfs merge=lfs -text
 /img/2008-Snowstorm/2008-2-2[[:space:]]075.jpg filter=lfs diff=lfs merge=lfs -text
-/Moose/Flyer.pdf filter=lfs diff=lfs merge=lfs -text
-/Moose/Manual.pdf filter=lfs diff=lfs merge=lfs -text
-/Moose/Transmission.pdf filter=lfs diff=lfs merge=lfs -text
 /Tomcat/Manual.pdf filter=lfs diff=lfs merge=lfs -text
 /img/2021-Bob-Bentler-Dozer.jpeg filter=lfs diff=lfs merge=lfs -text
 /img/2021-Bob-Bentler-Memorial.jpeg filter=lfs diff=lfs merge=lfs -text
