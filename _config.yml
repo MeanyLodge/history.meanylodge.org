@@ -5,6 +5,9 @@ remote_theme: ronv/ultra
 livereload: true
 #baseurl:
 
+plugins:
+  - jekyll-seo-tag
+
 defaults:
   - scope:
       path: "" # an empty string means all files
