@@ -15,7 +15,7 @@ categories:
 ### Events
 - First year at Meany: 1968 or 69
 - Teaching in early 1970s
-- [Obituary](2021-Patti-Obit), 2021
+- [Obituary](reference/2021-Patti-Obit), 2021
 
 {% include roles.html %}
 ### Known For
