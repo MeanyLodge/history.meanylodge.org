@@ -5,7 +5,7 @@ categories:
     - Driver
     - Mechanic
 ---
-<img src="img/2021-Bob-Bentler.jpeg" style="width: 60%;" align="right">
+<img src="img/2021-Bob-Bentler.jpeg" style="width: 40%;" align="right">
 # Bob Bentler
 ### Known For
 - Wearing a big smile and a twinkle in his eye.
@@ -24,13 +24,14 @@ categories:
 
 Birth.
 
-#### Military service
-<img src="img/2021-Bob-Bentler-Service.jpeg" style="width: 60%;" align="right">
+<img src="img/2021-Bob-Bentler-Service.jpeg" style="width: 70%;" align="right">
+#### 19?? Military service
+
 
 
 #### 1961 or 1962
 
-First year at Meany. Introduced to Meany by Norm Vigus' parents.
+First year at Meany. Introduced to Meany by [Norm Vigus](Norm-Vigus)' parents.
 
 
 #### 1978
