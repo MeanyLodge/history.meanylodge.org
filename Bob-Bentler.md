@@ -25,7 +25,7 @@ categories:
 Birth.
 
 #### Military service
-<img src="img/2021-2021-Bob-Bentler-Service.jpeg" style="width: 60%;" align="right">
+<img src="img/2021-Bob-Bentler-Service.jpeg" style="width: 60%;" align="right">
 
 
 #### 1961 or 1962
