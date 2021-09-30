@@ -31,7 +31,7 @@ First year at Meany. Introduced to Meany by Norm Vigus' parents.
 
 #### 1978
 
-One extra special Saturday night program was the dedication banquet for "Walt's Woods" with Master of Ceremonies Lee Helser cleverly spicing the evening and a film on Walter shown by Bob Bentler. A huge cake shaped like a bald head contained a hidden cavity which was opened to reveal Walter's thoughts in the form of sayings on heart-shaped candies.<sup>[hr][]</sup>
+One extra special Saturday night program was the dedication banquet for "Walt's Woods" with Master of Ceremonies [Lee Helser](Lee-Helser) cleverly spicing the evening and a film on Walter shown by Bob Bentler. A huge cake shaped like a bald head contained a hidden cavity which was opened to reveal Walter's thoughts in the form of sayings on heart-shaped candies.<sup>[hr][]</sup>
 
 #### 1979
 
