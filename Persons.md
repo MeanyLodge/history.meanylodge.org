@@ -20,6 +20,7 @@ category: List
 * [Committee](Committee)
 * [Cook](Cook)
 * [Driver](Driver)
+* [Fossil](Fossil)
 * [Historian](Historian)
 * Ski [Instructor](Instructor)
 * [Mechanic](Mechanic)
