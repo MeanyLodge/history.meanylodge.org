@@ -14,18 +14,27 @@ As a [Tom Cat](Tomcat) backup.
 ### Specifications
 
 - Model: Bombardier SV302HD Ski Dozer
-    - One of a kind, custom built for the Oregon DoT.
+    - One of a kind, custom built for the Oregon State Highway Div, Job #13865
+- Year: about 1979
+- Chassis/Serial: 567190021
 - Engine: John Deere 6-cyl turbodiesel 466ci, 302 HP industrial engine.
+    - Model: 6466AF ( A means Turbocharged and Intercooled)
+    - Serial: 6466AF00106784RG (AF designates Turbocharged and Intercooled, OEM)
 - Blade: 3-way (up/down, forward/back, clockwise/ccw)
 - Bed: custom 8' x 8'
 - Cost: $15k + $15k maintenance.
 - Purchased: 2008
+- Parts
+    - Oil Filter: AR101278 or RE46380
+    - Hydraulic Fluid: John Deere Hy Guard II low viscosity (biodegradable) part # TY26252
+    - Starter vendor: [Romaine Electric](https://www.romaineelectric.com/) in Kent, WA
 
 ### Manuals
 
 - [Bombardier Skidozer 302 Flyer][Flyer]
 - [Operators Manual][Manual]
 - [Transmission Application Manual][Tranny]
+- The engine parts manual lives in the first floor doored cabinet in the cat house.
 
 ### Mechanics
 
@@ -49,7 +58,7 @@ Moose running the [Munchkin Express](Munchkin-Express).
 
 <img src="img/2011-Moose.jpeg" style="width: 50%;" align="right">
 
-#### ~2016
+#### 2016
 
 Moose had a total electrical meltdown. Lost all power. --[Rick Ingham](Rick-Ingham)
 
@@ -59,13 +68,24 @@ Moose had a total electrical meltdown. Lost all power. --[Rick Ingham](Rick-Ingh
 
 - mounted an eBay acquired ($100) ether injector for starting
 
+#### 2019
+
+[Alex-De-Klerk](Alex-de-Klerk) removed, had repaired, and installed the hydraulic tank. Replaced the alternator. --[Rick Ingham](Rick-Ingham)
+
 #### 2020
 
 No one at Meany maintained any real records on the machine. Dan Solemnson documented the hydraulics, but had a stroke and his records were no longer accessible. The track belts were replaced. The frame had several phases of repair and reinforcement. The rest of the maintenance was limited to tires, grousers, etc as needed. The starter was weak and the machine was not used much until Shawn changed the starter. I do not know anything more recent. --[Mike Lonergan](Mike-Lonergan), May 2020
 
-my recollection was about 10 years ago for $15k, with another $15k put into it... But don't quote me at all --[Shawn Bertagnole](Shawn-Bertagnole) May 2020
+my recollection was about 10 years ago for $15k, with another $15k put into it... But don't quote me --[Shawn Bertagnole](Shawn-Bertagnole) May 2020
 
 the estimates of purchase and maintenance are pretty good. --[Chuck Welter](Chuck-Welter) May 2020
+
+Rick and Dick Hugget replaced the heater cores and fans. --[Rick Ingham](Rick-Ingham)
+
+#### 2021
+
+Shawn & Rick replaced the starter with a newer generation direct replacement fully sealed gear reduction starter, reducing the load on the battery. --[Rick Ingham](Rick-Ingham)
+
 
 [Flyer]: Moose/Flyer.pdf
 [Manual]: Moose/Manual.pdf

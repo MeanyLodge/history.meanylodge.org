@@ -12,15 +12,17 @@ categories:
 
 {% include roles.html %}
 ### Known For
-- Caring for the rope tow pulleys
-- Mad carpentry skills
+- Helping forge [Junior Trail](Junior-Trail)
 - 1979 Bachelor of the Year Runner-up
+- Caring for the rope tow pulleys
+- Maker of finely carved bowls
+- Mad carpentry skills
 
 ---
 ### History
 #### 1979
 
-Other skit characters were the minister ([Dave Claar](Dave-Claar)) and the victim (Charlie Vail). [Walter Little](Walter-Little) walked away with the Bachelor of the Year Award with Norm Vigus as runner-up. Bob Bentler showed Super 8 movies of Walt and Norm to prove why they should be the winners. <sup>[ma79][]</sup>
+Other skit characters were the minister ([Dave Claar](Dave-Claar)) and the victim (Charlie Vail). [Walter Little](Walter-Little) walked away with the Bachelor of the Year Award with Norm Vigus as runner-up. [Bob Bentler](Bob-Bentler) showed Super 8 movies of Walt and Norm to prove why they should be the winners. <sup>[ma79][]</sup>
 
 #### 1987
 

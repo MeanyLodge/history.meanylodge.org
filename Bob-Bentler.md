@@ -5,13 +5,14 @@ categories:
     - Driver
     - Mechanic
 ---
+<img src="img/2021-Bob-Bentler.jpeg" style="width: 40%;" align="right">
 # Bob Bentler
 ### Known For
-- Always wearing a big smile and a mischevious twinkle in his eye.
+- Wearing a big smile and a twinkle in his eye.
 - Mechanic for City of Seattle
 - Raced his Lotus cars with SCCA
 - Could fix anything mechanical
-- Filmed the skiers every weekend
+- Filmed learning skiers every weekend
 - Ice Skater
 - Owns the bulldozer under the tipi in the [Industrial Park][ip]
 - Married to [Idona Kellogg][ik]
@@ -23,10 +24,14 @@ categories:
 
 Birth.
 
+<img src="img/2021-Bob-Bentler-Service.jpeg" style="width: 70%;" align="right">
+#### 19?? Military service
 
-#### 1961 or 1962 
 
-First year at Meany. Introduced to Meany by Norm Vigus' parents.
+
+#### 1961 or 1962
+
+First year at Meany. Introduced to Meany by [Norm Vigus](Norm-Vigus)' parents.
 
 
 #### 1978
@@ -36,6 +41,7 @@ One extra special Saturday night program was the dedication banquet for "Walt's 
 #### 1979
 
 Another notable weekend was the Leap Day Bonanza where Hildegarde Hamhocker of Tumbleweeds (played by [Bob Bentler](Bob-Bentler)) and Sadie Hawkins from Dogpatch (portrayed by [Norm Vigus](Norm-Vigus)) invaded to choose a mate from among the many Meany eligibles...Bob Bentler showed Super 8 movies of Walt and Norm to prove why they should be winners.<sup>[hr78][]</sup>
+<img src="img/2021-Bob-Bentler-Dozer.jpeg" style="width: 60%;" align="right">
 
 #### 2020-11-20
 
@@ -49,6 +55,7 @@ and later married in 2006. Together they enjoyed a wonderful life skiing,
 laughing and traveling to visit friends and family over 48 years."
 
 #### 2021-09-29
+<img src="img/2021-Bob-Bentler-Memorial.jpeg" style="width: 60%;" align="right">
 
 Internment at Holyrood Cemetery in Shoreline. Memorial service followed at American Legion in Montlake Terrace.
 
