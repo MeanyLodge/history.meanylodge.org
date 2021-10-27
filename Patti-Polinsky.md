@@ -5,6 +5,7 @@ categories:
     - Active
     - Committee
     - Instructor
+    - Permanent Resident
 ---
 <img src="img/2020-Patti-Polinsky.jpeg" alt="photo of Patti Polinsky" align="right" style="width: 40%">
 # Patti Polinsky
@@ -19,16 +20,18 @@ categories:
 
 {% include roles.html %}
 ### Known For
-- PSIA-NW Certified Instructor
+- PSIA-NW Level 3 Certified Instructor
 - Event Organizer
     - [Ski School](Ski-School)
+    - Global Ventures
     - [Mushroom Weekend](Mushroom-Weekend)
     - Ski clinics
     - [Carnival](Carnival)
 - [Mountaineers Super Volunteer](https://www.mountaineers.org/members/patti-polinsky)
+- Bunnies
 
 ### See also
-- wife of [Dave Claar](Dave-Claar)
+- wife of [Dave Claar](Dave-Claar) for 44 years
 
 ---
 ### History

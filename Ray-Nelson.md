@@ -5,6 +5,7 @@ categories:
     - Active
     - Chair
     - Committee
+    - Fossil
 ---
 <img src="img/1990-Ray-Nelson-Bored.jpeg" style="width: 100%;">
 # Ray Nelson

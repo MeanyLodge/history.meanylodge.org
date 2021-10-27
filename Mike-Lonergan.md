@@ -6,6 +6,7 @@ categories:
     - Chair
     - Mechanic
     - Operator
+    - Fossil
 ---
 # Mike Lonergan
 ### Events

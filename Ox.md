@@ -19,6 +19,8 @@ A four-wheel drive Dodge truck used for summer work. Unlike most oxen, it hibern
 
 Purchased 4-wheel drive Dodge Power Wagon, affectionately called the Ox, to use in summer work; cost $200. Welded broken frame and ground valves. <sup>[ma78][], [hw][]</sup>
 
+Walt bought it and Mike brought it up to Meany.
+
 #### 1982
 
 Repaired brakes. <sup>[hw][]</sup>
@@ -28,6 +30,8 @@ During work party season, Meany women took charge of the "Ox" and the two hill "
 #### 1987
 
 An extension boom was built on Ox to lift machinery for all the tow work. <sup>[hr][]</sup>
+
+
 
 #### 1988
 

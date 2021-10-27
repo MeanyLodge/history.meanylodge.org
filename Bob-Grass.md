@@ -4,6 +4,7 @@ category: Person
 categories:
     - Committee
     - Mechanic
+    - Fossil
 ---
 # Bob Grass
 ### Names

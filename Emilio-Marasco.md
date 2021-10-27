@@ -3,6 +3,7 @@ title: Emilio Marasco
 category: Person
 categories:
     - Committee
+    - Fossil
 ---
 # Emilio Marasco
 ### Events
