@@ -10,7 +10,7 @@ categories: Energy
 
 - Medium Voltage (7,200V)
 - Power Poles
-    - 1st (cutouts, 65A fuse on hot, 100A on neutral)
+    - 1st (cutouts, 65T fuse on hot, 100T on neutral)
     - 2nd
     - 3rd ...
 - Power Line
@@ -141,3 +141,12 @@ Jack Sansaver of Ellensburg replaced a fuse on a transformer. "Looks like animal
 
 A downed tree took out our power line between poles 1 and 2. See [Power Outage Nov 2021](https://github.com/MeanyLodge/Committee/issues/18)
 
+
+
+[hr]: History-Reports "Meany History Reports, by Idona Kellogg"
+[hw]: History-Walt "Meany History, by Walt Little"
+[ma46]: Mountaineer-Annual#1946
+[ma78]: Mountaineer-Annual#1978
+[ma82]: Mountaineer-Annual#1982
+[rn19]: Electrical-Power-System
+[tp]: Tomcat-Petition
