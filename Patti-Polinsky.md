@@ -16,7 +16,7 @@ categories:
 ### Events
 - First year at Meany: 1968 or 69
 - Teaching in early 1970s
-- [Obituary](reference/2021-Patti-Obit), 2021
+- [Obituary](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2021-Patti-Obit), 2021
 
 {% include roles.html %}
 ### Known For

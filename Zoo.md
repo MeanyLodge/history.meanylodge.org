@@ -19,7 +19,7 @@ The Zoo is the veterinary hospital for Meany [animals](Machines). In the Zoo, th
 
 ### See Also
 
-- Zoo [Building Plans](/reference/Zoo-Plans.pdf)
+- Zoo [Building Plans](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/Zoo-Plans.pdf)
 
 ---
 ### History
