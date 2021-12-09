@@ -16,7 +16,7 @@ categories:
 ### Events
 - First year at Meany: 1968 or 69
 - Teaching in early 1970s
-- [Obituary](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2021-Patti-Obit), 2021
+- [Obituary](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2021-Patti-Obit.md), 2021
 
 {% include roles.html %}
 ### Known For
@@ -29,8 +29,6 @@ categories:
     - [Carnival](Carnival)
 - [Mountaineers Super Volunteer](https://www.mountaineers.org/members/patti-polinsky)
 - Bunnies
-
-### See also
 - wife of [Dave Claar](Dave-Claar) for 44 years
 
 ---

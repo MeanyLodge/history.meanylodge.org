@@ -386,6 +386,9 @@
 /img/2021-Electric-Distribution.png filter=lfs diff=lfs merge=lfs -text
 /reference/2021-12-08-Power-Line.pdf filter=lfs diff=lfs merge=lfs -text
 /reference/2021-Fuse-Links.pdf filter=lfs diff=lfs merge=lfs -text
+/reference/1993-Zoo-Plans.pdf filter=lfs diff=lfs merge=lfs -text
+/reference/2015-Power-Line-Replacement.pdf filter=lfs diff=lfs merge=lfs -text
+/reference/2017-Zoo-Floor.pdf filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -434,9 +437,6 @@
 /img/2008-Snowstorm/2008-2-2[[:space:]]071.jpg filter=lfs diff=lfs merge=lfs -text
 /img/2008-Snowstorm/2008-2-2[[:space:]]075.jpg filter=lfs diff=lfs merge=lfs -text
 /Energy.md filter=lfs diff=lfs merge=lfs -text
-/reference/1993-Zoo-Plans.pdf filter=lfs diff=lfs merge=lfs -text
-/reference/2015-Power-Line-Replacement.pdf filter=lfs diff=lfs merge=lfs -text
-/reference/2017-Zoo-Floor.pdf filter=lfs diff=lfs merge=lfs -text
 /img/2007-dam-water-pipe-1.jpg filter=lfs diff=lfs merge=lfs -text
 /img/2007-dam-water-pipe-2.jpg filter=lfs diff=lfs merge=lfs -text
 /img/2007-dam-water-pipe-3.jpg filter=lfs diff=lfs merge=lfs -text

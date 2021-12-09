@@ -19,7 +19,7 @@ The Zoo is the veterinary hospital for Meany [animals](Machines). In the Zoo, th
 
 ### See Also
 
-- Zoo [Building Plans](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/Zoo-Plans.pdf)
+- Zoo [Building Plans](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/1993-Zoo-Plans.pdf)
 
 ---
 ### History
@@ -37,6 +37,10 @@ Now that I dig through old notes, I believe the floor has welded wire mesh--I ha
 #### 2003
 
 A traditional Meany custom is to endearlingly name our mobile machinery after an appropriate animal. The zoo houses some of our animals and any at one time or another when they need some tending to. The zoo can also be used for sheltered activities such as [MOFA](MOFA) and the [Mushroom society's](Mushroom-Weekend) weekend for display tables, etc.<sup>[75th][]</sup>
+
+#### 2017
+
+Floor is cracking and heaving. See [report](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2017-Zoo-Floor.pdf)
 
 #### 2020
 

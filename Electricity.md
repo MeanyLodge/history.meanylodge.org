@@ -51,7 +51,7 @@ categories: Energy
 
 ### Significant Events
 
-- 2015, replaced entire power line
+- 2015, [replaced entire power line](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2015-Power-Line-Replacement.pdf)
 - 2013, added Mach 50HP motor
 - 2005, meter error
 - 1986, added dead end insulators to trees supporting power lines
@@ -60,7 +60,6 @@ categories: Energy
 
 
 ---
-
 
 ### History
 
@@ -122,9 +121,10 @@ A PSE meter changeout resulted in a metering errors and an assignment to Rate Sc
 
 Add the 50 HP motor load to the system by replacing the gas motor in the Tow Hut with the electric motor at the State Inspector’s insistence.  Load studies were done and actions to reduce loads were taken. <sup>[rn19][]</sup>
 
+
 #### 2015
 
-The old power poles were rotted off. L-boz Construction in Ellensburg replaced the entire power line from PSE to the lodge. $21,692.<sup>[rn19][]</sup>
+The old power poles were rotted off. L-boz Construction in Ellensburg replaced the entire power line from PSE to the lodge. $21,692. <sup>[rn19][], [rn15][] </sup>
 
 
 #### 2016
@@ -148,5 +148,6 @@ A downed tree took out our power line between poles 1 and 2. See [Power Outage N
 [ma46]: Mountaineer-Annual#1946
 [ma78]: Mountaineer-Annual#1978
 [ma82]: Mountaineer-Annual#1982
+[rn15]: https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2015-Power-Line-Replacement.pdf
 [rn19]: Electrical-Power-System
 [tp]: Tomcat-Petition
