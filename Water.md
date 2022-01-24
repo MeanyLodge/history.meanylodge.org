@@ -3,6 +3,25 @@ title: Water
 category: Document
 ---
 # Water
+
+# Two Systems
+
+## Dam Water
+
+The historic water source for the lodge. Still used for fire suppression system and flushing toilets.
+
+The pipe line is about 1300 feet long. <sup>[rn][]</sup>
+
+## Well
+
+Used for potable domestic water.
+
+
+# Reference
+
+- [Grundfos Pumps Instructions](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2020-grundfos-pump-instructions.pdf)
+
+
 ### History
 
 #### 1928
@@ -10,6 +29,11 @@ category: Document
 Established "continuous community domestic supply for a lodge" from [Tombstone Creek](Tombstone-Creek). Priority date: June 30, 1889.
 
 Water piped in from nearby creek. <sup>[hw][]</sup>
+
+The original pipe line was iron (you can still some remnants of it in the
+road up to the Lane) was installed in approximately 1928 which lasted months
+(froze in the first winter and split).  It was replaced shortly there after
+and lasted until the early '80. <sup>[rn][]</sup>
 
 #### 1939
 
@@ -39,6 +63,15 @@ Add electric water heater: existing propane fueled water heater insufficient cap
 
 Revise kitchen, revise plumbing, moved hot water tanks to under counter. <sup>[hw][]</sup>
 
+#### 1993-2003
+
+Place two storage tanks near the dam and replace the existing iron pipe with 2" PVC from the dam to approximately midway between North and Kirkland Park. <sup>[rn][]</sup>
+
+#### ????
+
+Replace the pipe from Kirkland Park to the Lodge with 2" PVC with shut off valves near the
+connection point. <sup>[rn][]</sup>
+
 #### ????
 
 Switched to propane water heaters located in the pantry.
@@ -54,3 +87,4 @@ Cleaned the dam prefilter. [Michael Moreland](Michael-Moreland) and Lucas Simers
 
 [hw]: History-Walt "Meany History, by Walt Little"
 [ma78]: Mountaineer-Annual#1978
+[rn]: Ray-Nelson-Email-2022-01
