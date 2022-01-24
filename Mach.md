@@ -70,7 +70,7 @@ Install headpole at the top of lane and install safety gate, vertical now 380'. 
 
 #### 1946
 
-Rebuilt rope tow machinery. Discarded Fordson; replaced with Chevy truck engine and transmission and truck rear end. For driving wheels used wood rims originally mounted on Fordson tractor drive wheels. <sup>[ma78][]</sup>
+Rebuilt rope tow machinery. Discarded Fordson; replaced with 235 Chevy truck engine (with splash oiling) and transmission and truck rear end. For driving wheels used wood rims originally mounted on Fordson tractor drive wheels. <sup>[ma78][]</sup>
 
 A Boeing jig was the base and a truck rear end for reduction gear. BRRH 87b, gear ratio 6:7. <sup>[hw][]</sup>
 

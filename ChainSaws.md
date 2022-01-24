@@ -20,6 +20,6 @@ Back in the day, Meany lumberjacks used hand saws. Nowadays, we use chainsaws th
 
 - Make: Stihl
 - Model: Farm Boss
-- Bar Length: 2N"
+- Bar Length: 20"
 - Spark Plug: 
 - Chain: 

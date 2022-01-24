@@ -21,4 +21,9 @@ categories:
 Alaska Weekend went over big with a greased pole contest, a gorp presentation, Alaska slides by Paul Bergman<sup>[ma79][]</sup>
 
 
+### 2003
+
+death
+
+
 [ma79]: Mountaineer-Annual#1979

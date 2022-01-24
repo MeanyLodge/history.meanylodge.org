@@ -12,20 +12,27 @@ A snowmobile owned by [Al Alleman](Al-Alleman) and used for errands, thrills, an
 - Mouse
 
 ### Specifications
+
 - 1989 Yamaka VK540 <sup>[dc][]</sup>
 - Speeds: 2
 - Lived in the "Den" (next to the Pantry)
 
 ### Events
+
 - purchased new by Al <sup>[ml][]</sup>
 - Donated to Nick for parts: after 2003
 - Replaced by [Mighty Mouse](Mighty-Mouse)
 
 ---
 ### History
+
+
+#### 
+
 #### 2003
 
 **Mouse**: This heavy duty 2-speed snowmobile was bought new by Al Alleman and donated to Meany. It's used for errands, individual transportation to worksites, etc. and thrills and chills. [Dave Claar](Dave-Claar) uses the mouse to tow the track setter for the groomed X-Country trail starting just below the hut.<sup>[75th][]</sup>
+
 
 #### 2020
 
