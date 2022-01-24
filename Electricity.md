@@ -126,6 +126,9 @@ Add the 50 HP motor load to the system by replacing the gas motor in the Tow Hut
 
 The old power poles were rotted off. L-boz Construction in Ellensburg replaced the entire power line from PSE to the lodge. $21,692. <sup>[rn19][], [rn15][] </sup>
 
+Repair power line between poles 1-2. 3-men, 6 hr on snowmobiles. L-Boz
+construction: $2,083.41.
+
 
 #### 2016
 
@@ -134,7 +137,7 @@ Power line repair by L-boz Construction on January 9th. Repair 1 span west of th
 
 #### 2017
 
-Jack Sansaver of Ellensburg replaced a fuse on a transformer. "Looks like animal got into high side." $200. <sup>[rn19][]</sup>
+Jack Sansaver of L-boz Construction in Ellensburg replaced a fuse on a transformer. "Looks like animal got into high side." $200. <sup>[rn19][]</sup>
 
 
 #### 2021
