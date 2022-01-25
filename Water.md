@@ -14,7 +14,7 @@ The pipe line is about 1300 feet long. <sup>[rn][]</sup>
 
 ## Well
 
-Used for potable domestic water.
+Used for potable domestic water. The well head and storage tank manhole are located in the [Pump House](Pump-House)
 
 
 # Reference

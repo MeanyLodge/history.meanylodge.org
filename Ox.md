@@ -32,7 +32,6 @@ During work party season, Meany women took charge of the "Ox" and the two hill "
 An extension boom was built on Ox to lift machinery for all the tow work. <sup>[hr][]</sup>
 
 
-
 #### 1988
 
 Replaced frame with frame from wrecked truck in Othello, plus much maintenance. <sup>[hw][]</sup>
