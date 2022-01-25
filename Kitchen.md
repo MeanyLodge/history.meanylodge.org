@@ -32,8 +32,13 @@ A major remodeling of the Meany kitchen was started at the July weeklong work pa
 
 Crews redid the plumbing for the new sinks and relocated the water heaters. Ray Nelson fabricated an extensive copper tubing utensil rack above the kitchen island and shaped the soap rack above the new sinks.
 
+#### 2007
+
+Range hood was installed around 2007, it was after Amy and I were regulars (after the Snoqualmie hut burned) <sup>[gs][]</sup>
+
 
 [ma56]: Mountaineer-Annual#1956
 [ma78]: Mountaineer-Annual#1978
 [hr]: History-Reports "Meany History Reports, by Idona Kellogg"
 [hw]: History-Walt "Meany History, by Walt Little"
+[gs]: Greg-Smith-Email-2021
