@@ -9,7 +9,7 @@ category: Building
 
 p. 37
 
-The Mountaineers suffered a great loss this year in the destruction by fire of Snoqualmie Lodge. Over 20,000 names have been registered since its completion in 1914; each have contributed to its background of tradi­tion. Vince Millspaugh and his committee had done a great deal of work to make the lodge an even more desirable place, and this season proved to be a particularly popular one. We look forward with anticipation to the time when this spirit is carried over into the planning and building of a new lodge.
+The Mountaineers suffered a great loss this year in the destruction by fire of Snoqualmie Lodge. Over 20,000 names have been registered since its completion in 1914; each have contributed to its background of tradition. Vince Millspaugh and his committee had done a great deal of work to make the lodge an even more desirable place, and this season proved to be a particularly popular one. We look forward with anticipation to the time when this spirit is carried over into the planning and building of a new lodge.
 
 p. 40
 
@@ -17,9 +17,13 @@ p. 40
 
 It was reached by train to Rockdale followed by a two-mile trail trip. But those hardy old-timers came up oftener and in greater numbers than later when use of the highway cut the trail trip in half.
 
-Nov. 9, 1913, one hundred eleven were in a party that went up to look over the proposed lodge site. The plans were drawn by Carl Gould (mem­ber) and work started May 8, 1914.
+Nov. 9, 1913, one hundred eleven were in a party that went up to look over the proposed lodge site. The plans were drawn by Carl Gould (member) and work started May 8, 1914.
 
-Dedication day was June 21, 1914, and found the log walls up and roof partly done. The ceremonies were held with Professor Meany, Pro­fessor Turner, Mr. A. H. Denman, and May Ingraham speaking. After­wards everyone made up a work party and carried up shakes for the roof. Individuals and work parties labored during the summer until the Lodge was ready for occupancy by August. Between June 21, 1914 and Oct. 17, 1915 eight hundred signatures were put on the register. The bricks for the stove chimneys went up from Rockdale in Mountaineers' rucksacks. The Forestry Service cooperated, as usual, in every way.
+Dedication day was June 21, 1914, and found the log walls up and roof partly done. The ceremonies were held with Professor Meany, Professor Turner, Mr. A. H. Denman, and May Ingraham speaking. Afterwards everyone made up a work party and carried up shakes for the roof. Individuals and work parties labored during the summer until the Lodge was ready for occupancy by August. Between June 21, 1914 and Oct. 17, 1915 eight hundred signatures were put on the register. The bricks for the stove chimneys went up from Rockdale in Mountaineers' rucksacks. The Forestry Service cooperated, as usual, in every way.
+
+## 1944
+
+77 acre site purchased. The Snoqualmie Lodge was built in 1948 by an all-volunteer crew. The Lodge was used for classes, training and social events as well as base camp for hikers, skiers and recreationists. [sf][]
 
 ## [1946][ma46]
 
@@ -27,10 +31,10 @@ Dedication day was June 21, 1914, and found the log walls up and roof partly don
 
 Considerable progress has been made in the building program this last summer. Starting with virgin forest the following improvements have been made:
 
-- A good trail from the road to the building site has been constructed.
+- A good trail from the road to the building site has been constructed.
 - The water tank and a considerable amount of 2-inch pipe have been moved from the old Snoqualmie Lodge site.
 - The water system has been laid out. A dam has been constructed and several hundred feet of pipeline dug.
-- The right-of-way for the electric wires from the highway to the site has been cleared.
+- The right-of-way for the electric wires from the highway to the site has been cleared.
 - A contract has been made with a logging company that will give us a good
 road, a bulldozed building site, a ski hill cleared with the stumps cut close to the ground, and $1250 cash. This clearing will enable the club to construct a ski lift for operation during the winter season of 1947-48 if materials can be obtained.
 
@@ -54,8 +58,14 @@ p. 79
 
 Andy Anderson who had inadvertently started the fire that burned down the old Snoqualmie Lodge, wanted to do something for the club so he took Dave Castor down to Mt. Hood to see the new ski lodges in that area. Many of the ideas such as a gas cooking stove in the kitchen, trusses to hold up the main floor ceiling, so as to eliminate need for posts, and others, were obtained from the trip.
 
+## 2006
+
+Fire totaled the lodge. [sf][]
+
+
 [ma44]: https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1944
 [ma46]: https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1946
 [ma56]: https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1956
 [ma67]: https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1967
 [tp]: Tomcat-Petition
+[sf]: Snoqualmie-Fund
