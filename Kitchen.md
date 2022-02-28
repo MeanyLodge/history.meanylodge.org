@@ -32,9 +32,25 @@ A major remodeling of the Meany kitchen was started at the July weeklong work pa
 
 Crews redid the plumbing for the new sinks and relocated the water heaters. Ray Nelson fabricated an extensive copper tubing utensil rack above the kitchen island and shaped the soap rack above the new sinks.
 
-#### 2007
+#### 2011
 
 Range hood was installed around 2007, it was after Amy and I were regulars (after the Snoqualmie hut burned) <sup>[gs][]</sup>
+
+<hr>
+
+The range hood was installed in October/November 2011. Attached is a picture of it after installation. In July/August 2012 ( per my WP report) the seniors added to the hood the lights and thermal override relay to cut the fan out in case of fire.
+
+The fire suppression system is supposed to be service each year by a qualified technician just like the fire extinguishers. To my knowledge I do not believe it has been serviced since it was installed. Also the hood and fan need to be cleaned of grease each year which has been done at times.<sup>Ray Nelson, 2022-01-25 email</sup>
+
+<hr>
+- Amerex PRM Kitchen unit
+- Has Manual Pull Station, Heat Detector, Gas Shut Off Valve
+- The grease caps that Matt identified are installed ( I remember A) looking at them and going “urgh! They look really greasy” and B) I wonder if they are meant to be removed to allow the system to work)
+- Is now integrated into the Fire Alarm system
+- The Nitrogen bottle (i.e. the physical force, not the wet chem bottle) has a pressure gauge which is unreadable (cover screen is completely opaque)
+- There is no safety sticker that I could see saying “re-test by” or similar
+- The Amerex manual asks for six monthly service from one of their reps (!!!), monthly checks on a number of obvious physical things (nozzle condition, pressure, release mechanisms, etc.) and REGULAR (hint, hint!) Hood & Duct de-greasing.
+<sup>Benjamin Moreland, 2022-01-27 Email</sup>
 
 
 [ma56]: Mountaineer-Annual#1956
