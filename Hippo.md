@@ -5,6 +5,7 @@ categories: Machine Groomer
 ---
 # Hippo
 <img src="img/2020-Hippo.jpeg" style="width: 50%;" align="right">
+
 ### Names
 
 - Hippo
@@ -21,7 +22,7 @@ Snow plow and groomer. Used for grooming Forest Road 420, the skier side of F.R.
 
 ### Specifications
 
-- Model: Piston Bully PB 160D
+- Model: Piston Bully PB 160 D
 - Year: 1995
 - Engine: 160 horsepower
 - Fuel: diesel
@@ -33,6 +34,7 @@ Snow plow and groomer. Used for grooming Forest Road 420, the skier side of F.R.
 - [Aux Hydraulics Control Panel](/Hippo/PB160D-Aux-Panel.jpg)
 - [Control Valve Schematic](/Hippo/PB160D-Control-Valve.pdf)
 - [Haudraulics Schematic](/Hippo/PB160D-Hydraulic-Schematics.pdf)
+- [Repair / Parts Manual](/Hippo/PB-160-D-(DE,EN).pdf)
 
 ### History
 
@@ -53,3 +55,8 @@ Snow plow and groomer. Used for grooming Forest Road 420, the skier side of F.R.
 - unable to raise blade. Hippo stuck at skier pickup. Fixed itself when we returned the next day. Troubleshooted by switching wiring for valves and restored ability to raise blade. Replaced one of the valves.
 
 [wp19]: Work-Parties#2019
+
+#### 2022
+
+- unable to raise blade or lower tiller. Problem was the tiller downpressure switch was activated, robbing power from the rest of the hydraulics system. Solution: flip the switch to off.
+- throttle linkage cable frayed in two. Used the F switch override to drive it back to the Zoo. New cable ordered.
