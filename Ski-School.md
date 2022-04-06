@@ -5,6 +5,7 @@ category: Document
 # Ski School
 ### Organizers
 
+* [Jennifer Simerson](Jennifer-Simerson)
 * [Patti Polinsky](Patti-Polinsky)
 
 See: [Instructor](Instructor)
@@ -51,7 +52,7 @@ Meany Ski School enticed a record number of downhill skiers. Classes were filled
 
 #### 1987
 
-Cross-country ski lessons were started. Telemark turn practice on the became popular as did use of Meany's six major cross-country loop trails. <sup>[hr][]</sup>
+Cross-country ski lessons were started. Telemark turn practice on the hill became popular as did use of Meany's six major cross-country loop trails. <sup>[hr][]</sup>
 
 
 [hr]: History-Reports "Meany History Reports, by Idona Kellogg"
