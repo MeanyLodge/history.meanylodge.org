@@ -14,17 +14,19 @@ Called the Worm Tow because it crawls.<sup>[nw][]</sup>
 
 ### History
 
-#### 1973
+#### 1987
 
-Completed construction of "worm tow" located parallel to [Mach](Mach) and rising about 160 vertical feet. Length 450'. It runs slower for beginners. <sup>[ma78][]</sup>
+Revision to [Super Worm](Super-Worm) occurred in the summer of 1987. A new lower terminal was built 50' further down the hill. The speed increased to 800 feet per minute (9.1 MPH). Many of the parts for this tow donated by Crystal Mountain Inc. <sup>[dc87][]</sup>
 
-Electric motor + spare parts cost ~ $300. <sup>[hw][]</sup>
+#### 1982
 
-#### 1974
+Some of the poles for the [Mach](Mach) and [Worm](Worm) tows were replaced. <sup>[ma82][]</sup>
 
-A major achievement of the work parties was completion of the new beginner rope tow. <sup>[ma74][ma74]</sup>
 
-Repowered with 7.5 HP electric motor and converter to enable 3 phase motor to run on 1 phase supply. <sup>[hw][]</sup>
+#### 1980
+
+Replaced rope with old [Mach](Mach) rope. <sup>[hw][]</sup>
+
 
 #### 1975
 
@@ -32,17 +34,25 @@ Repowered with 7.5 HP electric motor and converter to enable 3 phase motor to ru
 - Bridge across top of safety gate poles.
 - On top of bridge a carrier pulley for return rope
 
-#### 1980
 
-Replaced rope with old [Mach](Mach) rope. <sup>[hw][]</sup>
+#### 1974
 
-#### 1982
+A major achievement of the work parties was completion of the new beginner rope tow. <sup>[ma74][ma74]</sup>
 
-Some of the poles for the [Mach](Mach) and [Worm](Worm) tows were replaced. <sup>[ma82][]</sup>
+Repowered with 7.5 HP electric motor and converter to enable 3 phase motor to run on 1 phase supply. <sup>[hw][]</sup>
 
-#### 1987
 
-Revision to [Super Worm](Super-Worm) occurred in the summer of 1987. A new lower terminal was built 50' further down the hill. The speed increased to 800 feet per minute (9.1 MPH). Many of the parts for this tow donated by Crystal Mountain Inc. <sup>[dc87][]</sup>
+#### 1973
+
+Completed construction of "worm tow" located parallel to [Mach](Mach) and rising about 160 vertical feet. Length 450'. It runs slower for beginners. <sup>[ma78][]</sup>
+
+Electric motor + spare parts cost ~ $300. <sup>[hw][]</sup>
+
+
+#### 1969
+
+- [plans](/reference/1969-Worm.pdf) by [Mike Lonergan](Mike-Lonergan)
+
 
 [dc87]: Dave-Claar#1987
 [hw]: History-Walt "Meany History, by Walt Little"

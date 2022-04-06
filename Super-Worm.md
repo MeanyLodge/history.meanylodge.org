@@ -6,9 +6,16 @@ categories: RopeTow
 # Super Worm
 Short rope tow paralleling [Mach](Mach).
 
-The [Worm](Worm) Tow until 1987.
+Known as the [Worm](Worm) Tow until 1987.
 
 ### History
+
+#### 1990
+
+- SuperWorm motor which burned up and replaced was finally made to work<sup>[hi][]</sup>
+- SuperWorm rope was changed because it was frayed
+
+
 #### 1987
 
 A new rope tow (super worm) donated to Meany by Crystal Mountain Ski Area was assembled on the lower Lane. A drive system was engineered and fabricated for this intermediate tow.<sup>[hr][]</sup>
@@ -17,10 +24,10 @@ Revision to [Worm](Worm) occurred in the summer of 1987. A new lower terminal wa
 
 New rope tow where [Worm](Worm) tow used to be. Parts donated by Crystal Mountain Ski area. Electric motor 20 HP. Vertical 160', length 510'. Goes faster, carries more people than worm. Medium speed.<sup>[hw][]</sup>
 
-#### 1990
 
-- SuperWorm motor which burned up and replaced was finally made to work<sup>[hi][]</sup>
-- SuperWorm rope was changed because it was frayed
+#### pre-1987
+
+The [Worm](Worm) Tow
 
 
 [hi]: History-Idona#1990
