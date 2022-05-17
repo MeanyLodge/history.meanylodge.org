@@ -13,43 +13,34 @@ Winter access to Meany Lodge is 2.7 miles from the Crystal Springs Sno-Park via:
 Summer access is by Exit 62 off I-90. Take FS 54 to FS 420 and 420 to the lodge.
 
 ### History
-<img src="img/1949-Meanyites-at-RR.png" align="right" style="width: 45%;">
 
-#### 1928
+#### 2021
 
-The Sunset Highway wasn't regularly open during the winter so the Northern Pacific Railroad was the primary means of access.
+Graded the 420 Road. Added two dump trucks of gravel on the hill.
 
-#### 1929
+#### 1996
 
-The ride to Meany via the Northern Pacific passenger train cost $2 round trip. <sup>[hw][]</sup>
+BNSF resumed regular train service across Stampede Pass.
 
-#### late 1930s
+#### 1984
 
-Snoqualmie Pass was plowed more regularly and some skiers would park at the Rustic Inn on the Sunset Highway (present day I-90) and ski to the lodge.
+Sno-Park moved to Price Creek. Sons of Norway (Trollhagen) and Meany obtain USFS permit for private parking lot near exit 62 overpass. Meany provided steel gate, Sons of Norway did needed grading. Snow removal by hired bulldozer. Cost for same divided. <sup>[hw][]</sup>
 
-#### 1939
+#### 1983
 
-Access continues to be passenger trains on NPRR. <sup>[hw][]</sup>
+BNSF Railway discontinued the 78-mile line through the Stampede Tunnel but did not abandon the right of way.
 
-#### 1960
+#### 1982
 
-In April of 1960, NPRR discontinued trains #5 and #6 to Martin. <sup>[ma60][], [hh][]</sup> Meany leased a Bombardier snow tractor [Tomcat](Tomcat),-to haul gear and tow skiers from I-90 to [Edifice Wreck](Edifice-Wreck). <sup>[hw][]</sup>
+Sno-Park ticket price now $7.50 per season. <sup>[hw][]</sup>
 
-The Meany Committee was authorized to negotiate a lease for the use of a snow tractor during the 1960-61 ski season. <sup>[ma60][]</sup> After 31 years of access by train, Meany must now find another way. Will Meany Survive? <sup>[hh][]</sup> October: Rental agreement with Symington for use of Bombardier Sno Tractor to haul skiers from Snoqualmie Pass Highway across valley to Meany-3 miles. <sup>[ma78][]</sup>
+#### 1979
 
-#### 1961
+New locks, bars and road gates all around to deter potential thieves. <sup>[hw][]</sup>
 
-Access to Meany is by automobile to highway highway overpass near Rustic Inn, exit 62. Cars park on overpass ramps, from thence snow tractor conveys skiers to Meany. Some ride on tractor, most ride their skis and are towed behind the tractor. [Tom Cat](Tomcat) hauled max load of 82 skiers. <sup>[hw][]</sup>
+#### 1977
 
-#### 1966
-
-Widened the road above the NPRR tracks to the hut to permit vehicle access. <sup>[ma66][], [hw][]</sup>
-
-#### 1968
-
-During the war years and gas rationing, trains made Meany the salvation of skiers until the trains were rescheduled, inconveniencing skiers, and then came the time they no longer stopped at Meany. The new highway over the pass, in spite of the long haul in, is now the only access. <sup>[ma68][]</sup>
-
-Dickinson starts a snowmobile rental operation near Milwaukee RR Crossing and plows access road to his operation. For $200 he also plows parking for Meany near Milwaukee tracks. Ceased operations in 1969. <sup>[hw][]</sup>
+The same flood washed out the Burlington Northern Railroad bridge at Easton, which was not immediately repaired. Because the railroad tracks were not being plowed, there was no "Ice Fall," and the Sno-cat was able to drive to the door of the lodge on most weekends. <sup>[ma77][]</sup>
 
 #### 1976
 
@@ -59,30 +50,42 @@ One of the memories of the Old [Snoqualmie Lodge](Snoqualmie-Lodge) involves the
 
 The wintertime trip was often longer. Snow would pile up on the two-lane roadway faster than it could be plowed off. The old lodge was probably one of the first ski lodges in the Snoqualmie Pass area. Skiing wasn't the downhill sport it is today. The only way back up was to sidestep or herringbone. Parallel skiing then was cross country. Every year the Snoqualmie skiers would compete with the Meany skiers on a cross-country race between the two Lodges. When Lodge Lake froze over before the snow fell we had ice skating on a natural rink.
 
-#### 1977
+#### 1968
 
-The same flood washed out the Burlington Northern Railroad bridge at Easton, which was not immediately repaired. Because the railroad tracks were not being plowed, there was no "Ice Fall," and the Sno-cat was able to drive to the door of the lodge on most weekends. <sup>[ma77][]</sup>
+During the war years and gas rationing, trains made Meany the salvation of skiers until the trains were rescheduled, inconveniencing skiers, and then came the time they no longer stopped at Meany. The new highway over the pass, in spite of the long haul in, is now the only access. <sup>[ma68][]</sup>
 
-#### 1979
+Dickinson starts a snowmobile rental operation near Milwaukee RR Crossing and plows access road to his operation. For $200 he also plows parking for Meany near Milwaukee tracks. Ceased operations in 1969. <sup>[hw][]</sup>
 
-New locks, bars and road gates all around to deter potential thieves. <sup>[hw][]</sup>
+#### 1966
 
-#### 1982
+Widened the road above the NPRR tracks to the hut to permit vehicle access. <sup>[ma66][], [hw][]</sup>
 
-Sno-Park ticket price now $7.50 per season. <sup>[hw][]</sup>
+#### 1961
 
-#### 1983
+Access to Meany is by automobile to highway highway overpass near Rustic Inn, exit 62. Cars park on overpass ramps, from thence snow tractor conveys skiers to Meany. Some ride on tractor, most ride their skis and are towed behind the tractor. [Tom Cat](Tomcat) hauled max load of 82 skiers. <sup>[hw][]</sup>
 
-BNSF Railway discontinued the 78-mile line through the Stampede Tunnel but did not abandon the right of way.
+#### 1960
 
-#### 1984
+In April of 1960, NPRR discontinued trains #5 and #6 to Martin. <sup>[ma60][], [hh][]</sup> Meany leased a Bombardier snow tractor [Tomcat](Tomcat),-to haul gear and tow skiers from I-90 to [Edifice Wreck](Edifice-Wreck). <sup>[hw][]</sup>
 
-Sno-Park moved to Price Creek. Sons of Norway (Trollhagen) and Meany obtain USFS permit for private parking lot near exit 62 overpass. Meany provided steel gate, Sons of Norway did needed grading. Snow removal by hired bulldozer. Cost for same divided. <sup>[hw][]</sup>
+The Meany Committee was authorized to negotiate a lease for the use of a snow tractor during the 1960-61 ski season. <sup>[ma60][]</sup> After 31 years of access by train, Meany must now find another way. Will Meany Survive? <sup>[hh][]</sup> October: Rental agreement with Symington for use of Bombardier Sno Tractor to haul skiers from Snoqualmie Pass Highway across valley to Meany-3 miles. <sup>[ma78][]</sup>
 
-#### 1996
+#### 1939
 
-BNSF resumed regular train service across Stampede Pass.
+Access continues to be passenger trains on NPRR. <sup>[hw][]</sup>
 
+#### late 1930s
+
+Snoqualmie Pass was plowed more regularly and some skiers would park at the Rustic Inn on the Sunset Highway (present day I-90) and ski to the lodge.
+
+#### 1929
+
+The ride to Meany via the Northern Pacific passenger train cost $2 round trip. <sup>[hw][]</sup>
+
+#### 1928
+<img src="img/1949-Meanyites-at-RR.png" align="right" style="width: 45%;">
+
+The Sunset Highway wasn't regularly open during the winter so the Northern Pacific Railroad was the primary means of access.
 
 
 [hh]: Tomcat-Petition "Loss of NPRR Trains #5 & #6"
