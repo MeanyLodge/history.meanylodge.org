@@ -3,9 +3,9 @@ title: Runs
 category: List
 ---
 # Ski Runs
-<img src="img/2020-Meany-Map.jpeg" align="right" style="width: 40%;">
+<img src="/img/2020-Meany-Map.jpeg" align="right" style="width: 40%;">
 
-See [Meany Hill](Meany-Hill) for a geographically ordered tour of the ski runs and areas on Meany Hill.
+See [Meany Hill](/Meany-Hill) for a geographically ordered tour of the ski runs and areas on Meany Hill.
 
 * [Cat Track](Cat-Track)
 * [Cognito Wood](Cognito-Wood)
@@ -17,14 +17,12 @@ See [Meany Hill](Meany-Hill) for a geographically ordered tour of the ski runs a
 * [Lane](Lane)
 * [Lefty](Lefty)
 * [Liberation Way](Liberation-Way)
-* [Lower Slobbovia](Lower-Slobbovia)
-* [North Slobbovia](North-Slobbovia)
 * [Nose](Nose)
 * [Psychopath](Psychopath)
 * [Railroad Meadows](Railroad-Meadows)
 * [Side Track](Side-Track)
+* Slobbovia: [Lower](Lower-Slobbovia), [North](North-Slobbovia), [South](South-Slobbovia)
 * [Soffreenia Wood](Soffreenia-Wood)
-* [South Slobbovia](South-Slobbovia)
 * [Walter's Woods](Walter's-Woods)
 * Defunct:
     * [Downhill Trail](Downhill-Trail)

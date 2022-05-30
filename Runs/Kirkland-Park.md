@@ -3,7 +3,7 @@ title: Kirkland Park
 category: Place
 ---
 # Kirkland Park
-<img src="img/2020-Kirkland-Park.jpeg" style="width: 40%;" alt="Kirkland Park ski run" align="right">
+<img src="/img/2020-Kirkland-Park.jpeg" style="width: 40%;" alt="Kirkland Park ski run" align="right">
 
 ### Location
 
