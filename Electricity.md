@@ -3,7 +3,7 @@ title: Electricity
 category: Document
 categories: Energy
 ---
-<img src="img/2021-Electric-Distribution.png" align="right">
+<img src="/img/2021-Electric-Distribution.png" align="right">
 # Electricity
 
 ### Distibution

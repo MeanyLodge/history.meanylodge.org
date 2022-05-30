@@ -7,7 +7,7 @@ categories: Snowmobile
 
 A Ski-Doo Skandic snowmobile
 
-<img src="img/2020-Yeti.jpeg" alt="photo of snowmobile" style="width: 50%;" align="right">
+<img src="/img/2020-Yeti.jpeg" alt="photo of snowmobile" style="width: 50%;" align="right">
 
 ### Specifications
 - Model: 2018 Ski-Doo Skandic SWT 900 ACE

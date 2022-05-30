@@ -3,7 +3,7 @@ title: Kitchen
 category: Document
 categories: Place
 ---
-<img src="img/2020-Kitchen.jpeg" align="right" style="width: 45%;">
+<img src="/img/2020-Kitchen.jpeg" align="right" style="width: 45%;">
 # Kitchen
 
 ### History

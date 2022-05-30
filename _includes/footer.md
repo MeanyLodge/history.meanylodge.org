@@ -1,1 +1,1 @@
-[Areas](Areas) |  [Buildings](Buildings) | [Meany Hill](Meany-Hill) | [Tows](Tows) | Ski [Runs](Runs) | [Machines](Machines) | [Persons](Person)
+[Areas](/Area) |  [Buildings](Buildings) | [Meany Hill](/Meany-Hill) | [Tows](/Tows) | Ski [Runs](/Run) | [Machines](/Machine) | [Persons](/Person)

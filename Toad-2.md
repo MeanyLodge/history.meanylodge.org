@@ -15,7 +15,7 @@ categories: Machine Wagon
 
 #### 2020
 
-- [I purchased](Rick-Ingham), but I consider them to be exclusively Meany's
+- [I purchased](/Person/Rick-Ingham), but I consider them to be exclusively Meany's
 - added the shovel pipe type tool holders
 
 #### 2018-9

@@ -3,8 +3,8 @@ title: Martin Lookout
 category: Building
 categories: Building Defunct
 ---
-<img src="img/2020-martin-lookout-footing.jpeg" align="right" style="width: 51%;">
-<img src="img/2020-martin-lookout-footing-2.jpeg" align="right" style="width: 51%;">
+<img src="/img/2020-martin-lookout-footing.jpeg" align="right" style="width: 51%;">
+<img src="/img/2020-martin-lookout-footing-2.jpeg" align="right" style="width: 51%;">
 # Martin Lookout
 ### Location
 

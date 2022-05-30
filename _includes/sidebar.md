@@ -1,33 +1,33 @@
-### [Areas](Areas)
+### [Areas](/Area)
 
-- [Lodge](Lodge)
-- [Meany Hill](Meany-Hill)
-- [...full list](Areas)
+- [Lodge](/Lodge)
+- [Meany Hill](/Meany-Hill)
+- [...full list](/Area)
 
 ### Tows
 
-- [Mach](Mach)
-- [Super Worm](Super-Worm)
-- [Turtle](Turtle)
+- [Mach](/Mach)
+- [Super Worm](/Super-Worm)
+- [Turtle](/Turtle)
 
-### Ski [Runs](Runs)
+### Ski [Runs](/Run)
 
-* [Lane](Lane)
-* [Kirkland Park](Kirkland-Park)
-* [...](Runs)
+* [Lane](/Run/Lane)
+* [Kirkland Park](/Run/Kirkland-Park)
+* [...](/Run)
 
-### [Machines](Machines) / Animals
+### [Machines](/Machine) / Animals
 
-* [Tom Cat](Tom-Cat)
-* [Hippo](Hippo)
-* [...](Machines)
+* [Tom Cat](/Machine/Tom-Cat)
+* [Hippo](/Machine/Hippo)
+* [...](/Machine)
 
-### [Buildings](Buildings)
+### [Buildings](/Buildings)
 
-- [Lodge](Lodge)
-- [Tow Hut](Tow-Hut)
+- [Lodge](/Lodge)
+- [Tow Hut](/Tow-Hut)
 - [...](Buildings)
 
 ### Other
-- [Persons](Persons)
+- [Persons](/Person)
 - [Sources](Sources)

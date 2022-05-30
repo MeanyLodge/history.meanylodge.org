@@ -83,7 +83,7 @@ Snoqualmie Pass was plowed more regularly and some skiers would park at the Rust
 The ride to Meany via the Northern Pacific passenger train cost $2 round trip. <sup>[hw][]</sup>
 
 #### 1928
-<img src="img/1949-Meanyites-at-RR.png" align="right" style="width: 45%;">
+<img src="/img/1949-Meanyites-at-RR.png" align="right" style="width: 45%;">
 
 The Sunset Highway wasn't regularly open during the winter so the Northern Pacific Railroad was the primary means of access.
 

@@ -4,7 +4,7 @@ category: RopeTow
 categories: RopeTow
 ---
 # Turtle
-<img src="img/2020-Turtle.jpeg" style="width: 60%;" align="right">
+<img src="/img/2020-Turtle.jpeg" style="width: 60%;" align="right">
 
 ### Location
 

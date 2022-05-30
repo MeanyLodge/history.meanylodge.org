@@ -4,7 +4,7 @@ category: Building
 categories: Building
 ---
 # Diesel Hut
-<img src="img/2020-Diesel-Hut.jpeg" style="width: 40%" align="right">
+<img src="/img/2020-Diesel-Hut.jpeg" style="width: 40%" align="right">
 
 ### Names
 * Diesel Hut
@@ -36,7 +36,7 @@ Because of new code restrictions against buried fuel tanks, dug up 2 buried 500 
 **Fuel House**: Built in 2001, it has two rooms, one for a 1500 gallon diesel tank for [Dino](Dino), the hill grooming machine, and the other houses the gas tank for the tow hut engine.<sup>[75th][]</sup>
 
 #### 2020
-<img src="img/2020-diesel-tank.jpeg" style="width: 40%" align="right">
+<img src="/img/2020-diesel-tank.jpeg" style="width: 40%" align="right">
 
 The diesel hut has a 1,000 gallon diesel fuel tank and the adjacent gasoline tank is 500 gallons. The diesel tank was measured in reference to the gasoline tank (same diameter, twice as long) and after a stroke of obvious, by inspecting the tank plate on the far end of the tank which clearly states, "1,000 gallons".
 

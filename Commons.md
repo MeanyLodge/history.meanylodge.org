@@ -4,7 +4,7 @@ category: Place
 categories: Place Room
 ---
 # Commons
-<img src="img/2020-Commons.jpeg" style="">
+<img src="/img/2020-Commons.jpeg" style="">
 
 The large open area on the 1st floor of the lodge.
 

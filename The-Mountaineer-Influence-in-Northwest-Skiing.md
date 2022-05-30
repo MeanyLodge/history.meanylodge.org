@@ -3,7 +3,7 @@ title: The Mountaineer Influence in Northwest Skiing
 category: Document
 ---
 # The Mountaineer Influence in Northwest Skiing
-## by [Robert H. Hayes](Robert-Hayes)
+## by [Robert H. Hayes](/Person/Robert-Hayes)
 
 [Mountaineer Annual 1933](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1933)
 

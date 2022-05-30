@@ -3,7 +3,7 @@ title: Tunnel
 category: Document
 categories: Place
 ---
-<img src="img/2021-Tunnel.jpeg" align="right" style="width: 45%;">
+<img src="/img/2021-Tunnel.jpeg" align="right" style="width: 45%;">
 
 # Tunnel
 
@@ -16,7 +16,7 @@ Significant repairs. Footings rebuilt to modern standards, wooden walls replaced
 
 #### 2008
 
-[Dave](Dave-Claar) put in new foundation for tunnel (under the front porch) east wall
+[Dave](/Person/Dave-Claar) put in new foundation for tunnel (under the front porch) east wall
 <sup>[hi][]</sup>
 
 
@@ -25,5 +25,5 @@ Significant repairs. Footings rebuilt to modern standards, wooden walls replaced
 Construct new structure on East end, combining fire escape, front entrance, basement entrance, and ski room. Replaces inadequate front porch. <sup>[hw][]</sup>
 
 
-[hw]: History-Walt "Meany History, by Walt Little"
-[hi]: History-Idona#1985 "Chronological History of Meany Lodge"
+[hw]: /History-Walt "Meany History, by Walt Little"
+[hi]: /History-Idona#1985 "Chronological History of Meany Lodge"
