@@ -2,7 +2,7 @@
 title: Tow Operators
 category: List
 ---
-<img src="img/2020-Operator.jpeg" style="width: 50%;" align="right">
+<img src="/img/2020-Operator.jpeg" style="width: 50%;" align="right">
 ### Tow Operators
 <ul>
   {% for doc in site.pages %}

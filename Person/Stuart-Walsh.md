@@ -3,7 +3,7 @@ title: Stuart Walsh
 category: Person
 categories:
 ---
-<!--img src="img/20YY-Person-Template.jpeg" style="width: 40%;" align="right"-->
+<!--img src="/img/20YY-Person-Template.jpeg" style="width: 40%;" align="right"-->
 # Stuart Walsh
 ### Names
 - Stuart Walsh

@@ -3,7 +3,7 @@ title: Willard Johnston
 category: Person
 categories:
 ---
-<!--img src="img/20YY-Person-Template.jpeg" style="width: 40%;" align="right"-->
+<!--img src="/img/20YY-Person-Template.jpeg" style="width: 40%;" align="right"-->
 # Willard Johnston
 
 {% include roles.html %}

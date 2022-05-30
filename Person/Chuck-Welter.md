@@ -8,7 +8,7 @@ categories:
     - Mechanic
     - Operator
 ---
-<img src="img/2000_ Chuck Welter.jpeg" align="right" style="width: 40%;">
+<img src="/img/2000_ Chuck Welter.jpeg" align="right" style="width: 40%;">
 # Chuck Welter
 ### Events
 - First year at Meany: 1996

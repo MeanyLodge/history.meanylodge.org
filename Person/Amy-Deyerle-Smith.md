@@ -6,7 +6,7 @@ categories:
     - Committee
     - Driver
 ---
-<!--img src="img/20YY-Amy-Deyerle-Smith.jpeg" style="width: 40%;" align="right"-->
+<!--img src="/img/20YY-Amy-Deyerle-Smith.jpeg" style="width: 40%;" align="right"-->
 # Amy Deyerle-Smith
 ### Names
 ### Events

@@ -3,7 +3,7 @@ title: Edifice Wreck
 category: Building
 categories: Building Defunct
 ---
-<img src="img/2020-Edifus-Wreck.jpeg" style="width: 40%;" align="right">
+<img src="/img/2020-Edifus-Wreck.jpeg" style="width: 40%;" align="right">
 # Edifice Wreck
 ### Names
 

@@ -10,5 +10,5 @@ _[The Mountaineer Annual 1932](https://www.mountaineers.org/about/history/the-mo
 
 p. 29
 
-<img src="img/1932-Ski-Excursions-from-Meany-Hut.png" style="width: 100%;" alt="">
+<img src="/img/1932-Ski-Excursions-from-Meany-Hut.png" style="width: 100%;" alt="">
 

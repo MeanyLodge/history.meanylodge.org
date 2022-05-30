@@ -9,7 +9,7 @@ categories:
     - Mechanic
     - Operator
 ---
-<img src="img/2020-Matt-Simerson.jpeg" align="right" style="width: 40%;" alt="photo of Matt feeding a gray jay">
+<img src="/img/2020-Matt-Simerson.jpeg" align="right" style="width: 40%;" alt="photo of Matt feeding a gray jay">
 # Matt Simerson
 ### Events
 - First year at Meany: 2009

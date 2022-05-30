@@ -3,7 +3,7 @@ title: Jim Kjeldsen
 category: Person
 categories:
 ---
-<!--img src="img/19YY-Jim-Kjeldsen.jpeg" style="width: 40%;" align="right"-->
+<!--img src="/img/19YY-Jim-Kjeldsen.jpeg" style="width: 40%;" align="right"-->
 # Jim Kjeldsen
 {% include roles.html %}
 

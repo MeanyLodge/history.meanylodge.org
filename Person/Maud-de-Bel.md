@@ -7,7 +7,7 @@ categories:
     - Driver
     - Operator
 ---
-<img src="img/2020-Maud-de-Bel.jpeg" alt="photo of Maud de Bel" align="right" style="width: 40%">
+<img src="/img/2020-Maud-de-Bel.jpeg" alt="photo of Maud de Bel" align="right" style="width: 40%">
 # Maud de Bel
 ### Events
 - First year at Meany: 2017

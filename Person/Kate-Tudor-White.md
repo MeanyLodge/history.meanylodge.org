@@ -6,6 +6,6 @@ categories:
     - Committee
     - Operator
 ---
-<!--img src="img/2020-.jpeg" style="width: 40%" align="right"-->
+<!--img src="/img/2020-.jpeg" style="width: 40%" align="right"-->
 # Kate Tudor White
 {% include roles.html %}

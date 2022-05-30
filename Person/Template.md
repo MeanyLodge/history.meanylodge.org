@@ -4,7 +4,7 @@ category: Stub
 categories:
     - Active
 ---
-<!--img src="img/20YY-Person-Template.jpeg" style="width: 40%;" align="right"-->
+<!--img src="/img/20YY-Person-Template.jpeg" style="width: 40%;" align="right"-->
 # Person Template
 ### Names
 ### Events

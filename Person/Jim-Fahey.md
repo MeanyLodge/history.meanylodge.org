@@ -8,7 +8,7 @@ categories:
     - Instructor
     - Operator
 ---
-<img src="img/2020-Jim-Fahey.jpeg" align="right" style="width: 40%;" alt="photo of Jim Fahey">
+<img src="/img/2020-Jim-Fahey.jpeg" align="right" style="width: 40%;" alt="photo of Jim Fahey">
 # Jim Fahey
 ### Events
 - First year at Meany: 1998

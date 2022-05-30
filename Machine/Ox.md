@@ -4,7 +4,7 @@ category: Machine
 categories: Machine Tractor
 ---
 # Ox
-<img src="img/2003-Ox.jpg" style="width: 40%;" align="right">
+<img src="/img/2003-Ox.jpg" style="width: 40%;" align="right">
 
 A four-wheel drive Dodge truck used for summer work. Unlike most oxen, it hibernates all winter under the [Tow Hut](Tow-Hut).
 

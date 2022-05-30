@@ -7,7 +7,7 @@ categories:
     - Committee
     - Fossil
 ---
-<img src="img/1990-Ray-Nelson-Bored.jpeg" style="width: 100%;">
+<img src="/img/1990-Ray-Nelson-Bored.jpeg" style="width: 100%;">
 # Ray Nelson
 ### Names
 - the "Boss"

@@ -40,7 +40,7 @@ Meany Ski Lodge continues to operate their downhill rope tows, and in fact, has 
 
 #### 2020
 
-<img src="img/2020-Turtle-Cert.jpeg" style="width: 50%;">
+<img src="/img/2020-Turtle-Cert.jpeg" style="width: 50%;">
 
 
 [dc87]: Dave-Claar#1987

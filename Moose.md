@@ -4,7 +4,7 @@ category: Machine
 categories: Machine
 ---
 # Moose
-<img src="img/2020-Moose.jpeg" style="width: 50%;" align="right">
+<img src="/img/2020-Moose.jpeg" style="width: 50%;" align="right">
 A snow tractor.
 
 ### Purpose
@@ -56,7 +56,7 @@ Dan Solemnson overhauled the hydraulics, rebuilt the deck and frame as well as m
 
 Moose running the [Munchkin Express](Munchkin-Express).
 
-<img src="img/2011-Moose.jpeg" style="width: 50%;" align="right">
+<img src="/img/2011-Moose.jpeg" style="width: 50%;" align="right">
 
 #### 2016
 

@@ -2,7 +2,7 @@
 title: Munchkin Express
 category: Event
 ---
-<img src="img/2011-Moose.jpeg" style="width: 45%;" align="right">
+<img src="/img/2011-Moose.jpeg" style="width: 45%;" align="right">
 # Munchkin Express
 ### Location
 

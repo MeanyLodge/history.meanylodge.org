@@ -4,7 +4,7 @@ category: Person
 categories:
 tags: founder
 ---
-<!--img src="img/20YY-Person-Template.jpeg" style="width: 40%;" align="right"-->
+<!--img src="/img/20YY-Person-Template.jpeg" style="width: 40%;" align="right"-->
 # Andrew Anderson
 ### Names
 - Andy Anderson
