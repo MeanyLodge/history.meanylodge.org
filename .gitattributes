@@ -402,6 +402,10 @@
 /reference/1969-Worm.pdf filter=lfs diff=lfs merge=lfs -text
 /annual/1915.pdf filter=lfs diff=lfs merge=lfs -text
 /img/1916-ma-lodge-living-room.png filter=lfs diff=lfs merge=lfs -text
+/Walter-Little/1956-Walter-Little.jpeg filter=lfs diff=lfs merge=lfs -text
+/Walter-Little/1975-Walt-Little.png filter=lfs diff=lfs merge=lfs -text
+/Walter-Little/Walt[[:space:]]Little.pdf filter=lfs diff=lfs merge=lfs -text
+/Walter-Little/walter-little.png filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -452,10 +456,6 @@
 /Energy.md filter=lfs diff=lfs merge=lfs -text
 /Mach.md filter=lfs diff=lfs merge=lfs -text
 /Snoqualmie-Lodge.md filter=lfs diff=lfs merge=lfs -text
-/Walter-Little/1956-Walter-Little.jpeg filter=lfs diff=lfs merge=lfs -text
-/Walter-Little/1975-Walt-Little.png filter=lfs diff=lfs merge=lfs -text
-/Walter-Little/Walt[[:space:]]Little.pdf filter=lfs diff=lfs merge=lfs -text
-/Walter-Little/walter-little.png filter=lfs diff=lfs merge=lfs -text
 /Edmond-S.-Meany/1920s-Edmond_S_Meany.jpg filter=lfs diff=lfs merge=lfs -text
 /Edmond-S.-Meany/1936-Anna-Rogers-Painting-Of-Meany.pdf filter=lfs diff=lfs merge=lfs -text
 /Edmond-S.-Meany/Edmond-Portrait.jpeg filter=lfs diff=lfs merge=lfs -text

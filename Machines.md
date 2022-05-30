@@ -33,6 +33,8 @@ It's a thing, Meany machines have animal names.
 * ATV trailers: [Toad 1](Toad-1), [Toad 2](Toad-2), [Toad 3](Toad-3)
 
 ### Defunct Machines
+
+* [Dozer](Dozer)
 * [Dino](Dino) (groomer)
 * [Pack Rat](Pack-Rat) (snow tractor)
 * [Yak](Yak)⚡️ (snowmobile)

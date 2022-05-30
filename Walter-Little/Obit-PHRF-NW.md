@@ -1,0 +1,19 @@
+## Founders
+
+#### Walt Little, Founded PHRF NW in 1966
+
+1909 – 2002 Walter B. Little was born in Tacoma, WA on April 29, 1909 and died in Seattle, WA on February 28, 2002, at the age of 92.
+
+Walt was educated at Stanford University, graduating in 1932 with a BS degree in Civil Engineering. He served as an officer in the U. S. Army Corps of Engineers, entering the service in 1942 as a 1st Lt and left the Army in 1946 as a Major.
+
+Walt had two great activities that he pursued throughout his life – sailing and skiing – and he excelled at both. While never a boat owner, he crewed on many winning boats throughout the years. Notably, he crewed for Bob Watt on Lady Van, for John Graham on Maruffa, and for Chuck Schiff on Meridian, as well as many other boats. His winters were devoted to skiing. In 1966, he properly perceived that the CCA measurement type rating rule was failing to meet the needs of the racing sailors in the Pacific Northwest. He sought help from sailors in Southern California, who in the early 1960?s had developed what they called their Arbitrary Ocean Handicap system, which evolved into the Pacific Handicap Rating Fleet. In 1966, Walt brought the PHRF concept to Washington, and with the assistance of some friends at Seattle Yacht Club, the Pacific Handicap Racing Fleet of the Northwest was formed, with Walt Little as Chief Handicapper, Tom Wheeler as President, and Ralph Russell as Treasurer. Initially, there were about 40 boats sailing using PHRF-NW ratings – by 1971, there were about 800, and when Walt stepped down as Chief Handicapper in 1986, there were over 2000 boats sailing with PHRF – NW ratings. CCA quickly disappeared as a rating system, to be replaced first by IOR and briefly by IMS, but none of the measurement rating systems have flourished like PHRF, which has spread nation-wide.
+
+Walt often described himself as a retired civil engineer and a self-employed philosopher, and Walt added his own personal philosophy to what we know today as PHRF-NW. He developed the documentation we know today as the Handicapper’s Manual, which includes Chapter II. Subsequent Chief Handicappers have maintained “Walt’s Baby”, just as he would have expected. But Walt Little was more than just “Mr. PHRF-NW”. He was a skier before he became a sailor, and he devoted his time to The Mountaineers. In 1939, Walt chaired the committee that planned the Mountaineer’s Stevens Pass lodge. In 1941, he developed their ski mountaineering course, writing the course handbook himself, and of over 100 who registered for the course, and after the start of WWII, 31 people took the final examination, and Walt was one of eight who fulfilled the stiff requirements for graduation. He was a fixture at the Meany Ski Hut for years. And he continued to find time for his skiing exploits, making, with several other Mountaineers, the first recorded ski ascent of Whitehorse Mountain. Walt continued skiing throughout his life.
+
+In January 2002, Walt spent time at Whistler-Blackcomb and in February, three weeks with the Ancient Skiers at their annual meeting at Sun Valley.
+
+After retiring from Federal employment, Walt worked for the John Graham Architectural Engineering firm, and was involved in the initial planning and design phases of the development of Crystal Mountain Ski Resort and he was a consultant in the development of Mission Ridge Ski Resort.
+
+In addition to PHRF-NW, Walt’s contributions to sailing include writing most of what we know today as the PIYA Category Requirements. Walt was a Life Member of Seattle Yacht Club, and in his retirement, he usually ate one or more meals a day there. Most of the effort involved in the development of PHRF-NW and the continuation of its operations emanated from the SYC bar. As you can see, Walt Little was a very talented, multifaceted individual. We will all miss him. Sound eight bells! Walt Little has gone off watch!
+
+Retrived from: https://phrf-nw.org/founders/, 2022-05-30

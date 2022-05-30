@@ -3,7 +3,7 @@
 <ul>
   {% for cat in page.categories %}
     {% unless cat == "Active" %}
-  <li><a href="{{ cat }}">{{ cat }}</a></li>
+  <li><a href="/{{ cat }}">{{ cat }}</a></li>
     {% endunless %}
   {% endfor %}
 </ul>
