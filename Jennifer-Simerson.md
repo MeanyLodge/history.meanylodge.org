@@ -4,6 +4,7 @@ category: Person
 categories:
     - Active
     - Driver
+    - Instructor
     - Operator
 ---
 <img src="img/2022-Jennifer-Simerson.jpeg" align="right" style="width: 40%;" alt="photo of Jennifer">

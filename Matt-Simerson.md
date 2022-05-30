@@ -17,12 +17,20 @@ categories:
 {% include roles.html %}
 
 ### Known For
+- Half of the "Lewis & Clark" duo
 - Building the [Pump House](Pump-House)
-- [Patrol Race](Patrol-Race) contestant, 2020
-
+- Rebuilding the [Tunnel](Tunnel)
+- [Patrol Race](Patrol-Race) contestant, 2020, 2021, 2022
+- Building the glove drying rack
 
 ---
 ### History
+
+#### 2021
+
+- rebuilt the [Tunnel](Tunnel)
+
+
 #### 2019
 
 - **Woodroom Roof**: Tearoff and framing team lead. <sup>[wp][]</sup>

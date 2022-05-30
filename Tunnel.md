@@ -11,12 +11,12 @@ categories: Place
 
 #### 2022
 
-Repaired. See [#12](https://github.com/MeanyLodge/Committee/issues/12)
+Significant repairs. Footings rebuilt to modern standards, wooden walls replaced with concrete blocks, covered with aluminum decking. See [#12](https://github.com/MeanyLodge/Committee/issues/12)
 
 
 #### 2008
 
-Dave put in new foundation for tunnel (under the front porch) east wall
+[Dave](Dave-Claar) put in new foundation for tunnel (under the front porch) east wall
 <sup>[hi][]</sup>
 
 

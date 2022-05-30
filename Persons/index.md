@@ -16,16 +16,16 @@ category: List
 
 ### Lists / Roles
 
-* [Chair](Chair)
-* [Committee](Committee)
-* [Cook](Cook)
-* [Driver](Driver)
-* [Fossil](Fossil)
-* [Historian](Historian)
-* Ski [Instructor](Instructor)
-* [Mechanic](Mechanic)
-* Tow [Operator](Operator)
-* [Permanent Resident](Permanent-Resident)
+* [Chair](/Chair)
+* [Committee](/Committee)
+* [Cook](/Cook)
+* [Driver](/Driver)
+* [Fossil](/Fossil)
+* [Historian](/Historian)
+* Ski [Instructor](/Instructor)
+* [Mechanic](/Mechanic)
+* Tow [Operator](/Operator)
+* [Permanent Resident](/Permanent-Resident)
 
 
-###### [template](Person-Template)
+###### [template](/Persons/Template)

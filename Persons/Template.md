@@ -18,4 +18,4 @@ categories:
 ### See Also
 ### History
 
-If sections are missing from a person please add it and cite the source. If the source is personal knowledge, tag it with your name. Or send it to [Matt Simerson](Matt-Simerson) to post.
+If sections are missing from a person please add it and cite the source. If the source is personal knowledge, tag it with your name. Or send it to [Matt Simerson](/Matt-Simerson) to post.
