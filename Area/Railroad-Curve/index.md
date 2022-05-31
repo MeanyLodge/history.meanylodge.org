@@ -13,4 +13,4 @@ From this sharp curve a skier could stop and look directly down on the old Marti
 
 
 
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

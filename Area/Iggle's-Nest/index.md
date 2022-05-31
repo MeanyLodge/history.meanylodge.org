@@ -14,5 +14,5 @@ It was named for the Lower Slobbovian "Iggle," a creature with a large blue head
 There was a creature in Al Capps L'il Abner cartoon strip that had one foot, a blue head and no body. It only grows in the country of [Lower Slobbovia](/Run/Lower-Slobbovia). The Lower Slobbovians were like Meany people - they wore ratty clothes and lived in snow holes. Ferguson used the Iggle's Nest for a jump takeoff and got 40-50 ft of air. <sup>[n9][]</sup>
 
 
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
-[n9]: Names-2009 "Meany Names, by Brian Thompson & Emilio Marasco"
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"
+[n9]: /Names-2009 "Meany Names, by Brian Thompson & Emilio Marasco"

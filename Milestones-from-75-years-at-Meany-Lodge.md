@@ -35,5 +35,5 @@ Imagine the surprise of people when they see coming toward them lines of skiers 
 For seventy-five years Meany has been blessed with dedicated volunteers. May
 that caliber of volunteer be with Meany for many years to come.<sup>[75th][]</sup>
 
-[75th]: Anniversary#75th
+[75th]: /Anniversary#75th
 

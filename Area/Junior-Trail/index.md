@@ -25,6 +25,6 @@ It was already there when Patti started attending Meany --[Patti Polinsky](/Pers
 
 [Bill Weber](/Person/Bill-Weber) was a big fan of the Junior Trail and used it when going out to run the [Tow Hut](/Building/Tow-Hut).
 
-[map]: Meany-Map
-[n9]: Names-2009
+[map]: /Meany-Map
+[n9]: /Names-2009
 

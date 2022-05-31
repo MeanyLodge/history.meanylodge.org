@@ -23,7 +23,7 @@ The trees have all grown back, it has long since been Henrietta's Woods. --[Matt
 
 
 
-[ma78]: Mountaineer-Annual#1978
-[ma79]: Mountaineer-Annual#1979
-[map]: Meany-Map
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[ma78]: /Mountaineer-Annual#1978
+[ma79]: /Mountaineer-Annual#1979
+[map]: /Meany-Map
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

@@ -22,5 +22,5 @@ Great credit is due to Mr. Harris and his colleagues for the untiring effort and
 
 Ernest N. Harris was appointed first ski chairman, December 8, 1927. His committee selected the Martin site and he directed the building of Meany Ski Hut.<sup>[ma56][]</sup>
 
-[dev]: The-Development-of-Skiing-in-the-Mountaineers
-[ma56]: Mountaineer-Annual#1956
+[dev]: /The-Development-of-Skiing-in-the-Mountaineers
+[ma56]: /Mountaineer-Annual#1956

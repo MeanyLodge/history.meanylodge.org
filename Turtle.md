@@ -43,7 +43,7 @@ Meany Ski Lodge continues to operate their downhill rope tows, and in fact, has 
 <img src="/img/2020-Turtle-Cert.jpeg" style="width: 50%;">
 
 
-[dc87]: Dave-Claar#1987
-[hw]: History-Walt "Meany History, by Walt Little"
-[hr]: History-Reports "Meany History Reports, by Idona Kellogg"
-[ma83]: Mountaineer-Annual#1983-1990
+[dc87]: /Person/Dave-Claar#1987
+[hw]: /History/Walt "Meany History, by Walt Little"
+[hr]: /History/Reports "Meany History Reports, by Idona Kellogg"
+[ma83]: /Mountaineer-Annual#1983-1990

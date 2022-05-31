@@ -30,7 +30,7 @@ New rope tow where [Worm](Worm) tow used to be. Parts donated by Crystal Mountai
 The [Worm](Worm) Tow
 
 
-[hi]: History-Idona#1990
-[hr]: History-Reports
-[hw]: History-Walt
-[dc87]: Dave-Claar#1987
+[hi]: /History/Idona#1990
+[hr]: /History/Reports
+[hw]: /History/Walt
+[dc87]: /Person/Dave-Claar#1987

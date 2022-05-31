@@ -18,5 +18,5 @@ Meany web site: A play on words (so-free-in-the-woods). <sup>[n9][]</sup>
 Home of [Yellow Rock](/Area/Yellow-Rock).
 
 
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
-[n9]: Names-2009 "Meany Names, by Brian Thompson & Emilio Marasco"
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"
+[n9]: /Names-2009 "Meany Names, by Brian Thompson & Emilio Marasco"

@@ -41,5 +41,5 @@ Excellence in Engineering and Operations Award from [Northwest Public Power Asso
 
 Meany [Electrical Power System](Electrical-Power-System)
 
-[hr]: History-Reports "Meany History Reports, by Idona Kellogg"
-[ma77]: Mountaineer-Annual#1977
+[hr]: /History/Reports "Meany History Reports, by Idona Kellogg"
+[ma77]: /Mountaineer-Annual#1977

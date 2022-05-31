@@ -30,4 +30,4 @@ categories:
 led replacing all LED fixtures on the main floor. <sup>[wp][]</sup>
 
 
-[wp]: Work-Parties#2019
+[wp]: /Work-Parties#2019

@@ -28,8 +28,8 @@ Work parties this fall have widened and smoothed _Kirkland Park_ until good skii
 The novice lane to the left of the tow begun last year has been lengthened and widened. <sup>[ma48][]</sup>
 
 
-[bk]: Bill-Kirkland
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
-[ma41]: Mountaineer-Annual#1941
-[ma48]: Mountaineer-Annual#1948
-[map]: Meany-Map
+[bk]: /Person/Bill-Kirkland
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"
+[ma41]: /Mountaineer-Annual#1941
+[ma48]: /Mountaineer-Annual#1948
+[map]: /Meany-Map

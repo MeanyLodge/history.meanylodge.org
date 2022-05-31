@@ -16,5 +16,5 @@ About 1974 the Meany troops completed the partial clearing and grading of an are
 Approximate completion date of clearing of Railroad Meadows and [Psychopath](/Run/Psychopath). <sup>[ma78][]</sup>
 
 
-[ma78]: Mountaineer-Annual#1978
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[ma78]: /Mountaineer-Annual#1978
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

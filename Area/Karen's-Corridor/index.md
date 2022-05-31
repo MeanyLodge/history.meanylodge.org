@@ -17,4 +17,4 @@ Karen's Corner is straight down a steep pitch from [Railroad Curve](/Area/Railro
 [Karen Bergman](/Person/Karen-Bergman) always fell off the original [Psychopath](/Run/Psychopath) at this corner. Karen's Corner became Karen's Corridor when the run above her was cleared.<sup>[nw][]</sup>
 
 
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

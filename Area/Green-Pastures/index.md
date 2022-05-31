@@ -12,4 +12,4 @@ Between [North Slobbovia](/Run/North-Slobbovia) and upper Tombstone. <sup>[nw][]
 Slobbovians presumably ascend this slope on their way to heaven. <sup>[nw][]</sup>
 
 
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

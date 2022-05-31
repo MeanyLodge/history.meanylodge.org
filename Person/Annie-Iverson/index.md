@@ -65,5 +65,5 @@ Also achieving legendary status at Meany was Nashie Iverson, wife of a Northern 
 
 <img src="/img/19nn-Nashie-b-day.jpeg" style="width: 40%;" align="right">
 
-[life]: Life-At-Meany-Ski-Hut
-[ma56]: Mountaineer-Annual#1956
+[life]: /Life-At-Meany-Ski-Hut
+[ma56]: /Mountaineer-Annual#1956

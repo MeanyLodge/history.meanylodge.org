@@ -55,11 +55,11 @@ Meany Ski School enticed a record number of downhill skiers. Classes were filled
 Cross-country ski lessons were started. Telemark turn practice on the hill became popular as did use of Meany's six major cross-country loop trails. <sup>[hr][]</sup>
 
 
-[hr]: History-Reports "Meany History Reports, by Idona Kellogg"
-[ma41]: Mountaineer-Annual#1941)
-[ma47]: Mountaineer-Annual#1947)
-[ma75]: Mountaineer-Annual#1975)
-[ma77]: Mountaineer-Annual#1977)
-[ma82]: Mountaineer-Annual#1982)
-[ma83]: Mountaineer-Annual#1983-1990
-[retro]: Skiing-in-Retrospect
+[hr]: /History/Reports "Meany History Reports, by Idona Kellogg"
+[ma41]: /Mountaineer-Annual#1941)
+[ma47]: /Mountaineer-Annual#1947)
+[ma75]: /Mountaineer-Annual#1975)
+[ma77]: /Mountaineer-Annual#1977)
+[ma82]: /Mountaineer-Annual#1982)
+[ma83]: /Mountaineer-Annual#1983-1990
+[retro]: /Skiing-in-Retrospect

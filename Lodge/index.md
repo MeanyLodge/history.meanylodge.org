@@ -158,13 +158,13 @@ The major project completed was the excavation of about a fourth of the basement
 Coated the steel lodge roof with silver paint.
 
 
-[hut]: Skiing-and-the-Ski-Hut
-[hw]: History-Walt "Meany History, by Walt Little"
-[ma39]: Mountaineer-Annual#1939
-[ma44]: Mountaineer-Annual#1944
-[ma50]: Mountaineer-Annual#1950
-[ma52]: Mountaineer-Annual#1952
-[ma67]: Mountaineer-Annual#1967
-[ma78]: Mountaineer-Annual#1978
-[ma80]: Mountaineer-Annual#1980
-[ma91]: Mountaineer-Annual#1991
+[hut]: /Skiing-and-the-Ski-Hut
+[hw]: /History/Walt "Meany History, by Walt Little"
+[ma39]: /Mountaineer-Annual#1939
+[ma44]: /Mountaineer-Annual#1944
+[ma50]: /Mountaineer-Annual#1950
+[ma52]: /Mountaineer-Annual#1952
+[ma67]: /Mountaineer-Annual#1967
+[ma78]: /Mountaineer-Annual#1978
+[ma80]: /Mountaineer-Annual#1980
+[ma91]: /Mountaineer-Annual#1991

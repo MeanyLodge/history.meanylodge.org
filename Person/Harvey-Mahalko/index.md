@@ -15,4 +15,4 @@ categories:
 - Set the record for 56,000' of vertical skied in one day, doing laps off Mach.<sup>[ml][]</sup>
 
 
-[ml]: Mike-Lonergan#2021
+[ml]: /Person/Mike-Lonergan#2021

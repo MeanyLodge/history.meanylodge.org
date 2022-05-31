@@ -18,5 +18,5 @@ So called because of its warped and twisted character. <sup>[nw][]</sup>
 Approximate completion date of clearing of [Railroad Meadows](/Run/Railroad-Meadows) and Psychopath. <sup>[ma78][]</sup>
 
 
-[ma78]: Mountaineer-Annual#1978
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[ma78]: /Mountaineer-Annual#1978
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

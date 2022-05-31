@@ -14,4 +14,4 @@ categories: Building
 Lodging for the tenders of the first transcontinental telephone line.<sup>[n9][]</sup>
 
 
-[n9]: Names-2009
+[n9]: /Names-2009

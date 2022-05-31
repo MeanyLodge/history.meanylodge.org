@@ -24,6 +24,6 @@ categories:
 A huge seven-part cake made by Idona Kellogg was brought in sections and assembled at the lodge.<sup>[hr][]</sup>
 
 
-[75th]: Anniversary#75th
-[hr]: History-Reports "Meany History Reports, by Idona Kellogg"
-[75m]: Milestones-from-75-years-at-Meany-Lodge
+[75th]: /Anniversary#75th
+[hr]: /History/Reports "Meany History Reports, by Idona Kellogg"
+[75m]: /Milestones-from-75-years-at-Meany-Lodge

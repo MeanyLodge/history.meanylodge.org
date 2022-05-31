@@ -61,4 +61,4 @@ revise interior
 [hw]: /History-Walt "Meany History, by Walt Little"
 [ma75]: /Mountaineer-Annual#1975
 [Ox]: /Machine/Ox
-[hr]: History-Reports "Meany History Reports, by Idona Kellogg"
+[hr]: /History/Reports "Meany History Reports, by Idona Kellogg"

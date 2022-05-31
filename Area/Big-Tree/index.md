@@ -14,6 +14,6 @@ At the top of [South Slobbovia](/Run/South-Slobbovia) they left a tree. This is 
 The [Meany Map][map] on the wall shows Big Tree as being next to the coatrack.
 
 
-[lsnp]: Lower-Slobbovia-National-Park
-[n9]: Names-2009
-[map]: Meany-Map
+[lsnp]: /Lower-Slobbovia-National-Park
+[n9]:  /Names-2009
+[map]: /Meany-Map

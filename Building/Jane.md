@@ -27,4 +27,4 @@ outside 2-holers for Jane and John. <sup>[ma78][]</sup>
 #### 2019
 Very large electrical wires from the [Cat House](/Building/Cat-House) knocked off by falling tree.
 
-[ma78]: Mountaineer-Annual#1978
+[ma78]: /Mountaineer-Annual#1978

@@ -51,4 +51,4 @@ Harvey Malako set the record for 56,000' of vertical skied in one day. He would 
 In the '90's we had a girl, Cindy Torzinski (Geologist), who helped splice the rope one yarn at a time. It took about 12 hours but that splice wasn't touched again until the rope was replaced. Cindy was riding the Mach tow on skinny skis to get into the backcountry. She went up to Muir on them one year and skied down to Paradise where she was noticed and offered a job as a ski instructor.
 
 
-[75th]: Anniversary#75th
+[75th]: /Anniversary#75th

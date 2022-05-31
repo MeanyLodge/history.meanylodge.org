@@ -20,4 +20,4 @@ This was a small lone hemlock, branches on one side only, that lived for a while
 It finally fell down one winter. <sup>[nw][]</sup>
 
 
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

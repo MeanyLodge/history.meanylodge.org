@@ -7,4 +7,4 @@ categories: Place Room
 Couples, family sleeping area (top of the lodge)<sup>[n9][]</sup>
 
 
-[n9]: Names-2009
+[n9]: /Names-2009

@@ -31,7 +31,7 @@ The Rock Slide and Hell's Half Acre always had their quota of people practicing 
 
 
 
-[hw]: History-Walt "Meany History, by Walt Little"
-[ma56]: Mountaineer-Annual#1956
-[ma63]: Mountaineer-Annual#1963
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[hw]: /History/Walt "Meany History, by Walt Little"
+[ma56]: /Mountaineer-Annual#1956
+[ma63]: /Mountaineer-Annual#1963
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

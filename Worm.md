@@ -51,12 +51,12 @@ Electric motor + spare parts cost ~ $300. <sup>[hw][]</sup>
 
 #### 1969
 
-- [plans](/reference/1969-Worm.pdf) by [Mike Lonergan](/Person/Mike-Lonergan)
+- [plans](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/1969-Worm.pdf) by [Mike Lonergan](/Person/Mike-Lonergan)
 
 
-[dc87]: Dave-Claar#1987
-[hw]: History-Walt "Meany History, by Walt Little"
-[ma74]: Mountaineer-Annual#1974
-[ma78]: Mountaineer-Annual#1978
-[ma82]: Mountaineer-Annual#1982
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[dc87]: /Person/Dave-Claar#1987
+[hw]: /History/Walt "Meany History, by Walt Little"
+[ma74]: /Mountaineer-Annual#1974
+[ma78]: /Mountaineer-Annual#1978
+[ma82]: /Mountaineer-Annual#1982
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

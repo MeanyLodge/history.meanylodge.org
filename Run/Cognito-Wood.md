@@ -12,6 +12,6 @@ Lies between the [Lane](/Run/Lane) and [Kitchen Run](/Run/Kitchen-Run).
 Has been considerably thinned and trimmed. Still, when you are there you are well concealed from identification and therefore In-Cognito.<sup>[nw][],[n9][]</sup>
 
 
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
-[n9]: Names-2009 "Meany Names, by Brian Thompson & Emilio Marasco"
-[map]: Meany-Map
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"
+[n9]: /Names-2009 "Meany Names, by Brian Thompson & Emilio Marasco"
+[map]: /Meany-Map

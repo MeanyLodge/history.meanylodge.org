@@ -70,7 +70,7 @@ The area just above the [Tow Hut](/Building/Tow-Hut) (to the left of the tow loo
 
 ## [Harvey's Slot](/Run/Harvey's-Slot)
 
-[Harvey Mahalko](Harvey-Mahalko) was a lodge [Chair](/Person/Chair). Harvey's Slot is part of railroad meadows. Harvey opened up a slot when he went crazy with a saw and cleared a run. That's why it is named after him.
+[Harvey Mahalko](/Person/Harvey-Mahalko) was a lodge [Chair](/Person/Chair). Harvey's Slot is part of railroad meadows. Harvey opened up a slot when he went crazy with a saw and cleared a run. That's why it is named after him.
 
 ## [Jacob's Ladder](/Area/Jacob's-Ladder)
 

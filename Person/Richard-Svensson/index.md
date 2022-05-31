@@ -19,4 +19,4 @@ categories:
 folk dancing organized by Arne Svensson with live music by [Art Nation](/Person/Art-Nation) and Richard Svensson <sup>[ma78][]</sup>
 
 
-[ma78]: Mountaineer-Annual#1978
+[ma78]: /Mountaineer-Annual#1978

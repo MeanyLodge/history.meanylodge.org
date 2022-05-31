@@ -19,5 +19,5 @@ There was a pool formed by an old RR dam built in 1886. The dam washed out in 19
 Named to commemorate [Stu Ferguson](/Person/Stu-Ferguson) who fell into the pond while skiing (in the 1960s?)<sup>[n9][]</sup>
 
 
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
-[n9]: Names-2009 "Meany Names, by Brian Thompson & Emilio Marasco"
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"
+[n9]: /Names-2009 "Meany Names, by Brian Thompson & Emilio Marasco"

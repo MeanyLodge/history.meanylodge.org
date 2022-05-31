@@ -76,10 +76,10 @@ December 31, 2013 was not a good snow day.
 <img src="/img/2013-Bare-Lane-at-New-Year.jpeg" alt="A sad non-snowy Lane on Dec 31, 2013">
 
 
-[hr]: History-Reports "Meany History Reports, by Idona Kellogg"
-[hw]: History-Walt "Meany History, by Walt Little"
-[ma35]: Mountaineer-Annual#1935
-[ma40]: Mountaineer-Annual#1940
-[ma56]: Mountaineer-Annual#1956
-[n9]: Names-2009 "Meany Names, by Brian Thompson & Emilio Marasco"
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[hr]: /History/Reports "Meany History Reports, by Idona Kellogg"
+[hw]: /History/Walt "Meany History, by Walt Little"
+[ma35]: /Mountaineer-Annual#1935
+[ma40]: /Mountaineer-Annual#1940
+[ma56]: /Mountaineer-Annual#1956
+[n9]: /Names-2009 "Meany Names, by Brian Thompson & Emilio Marasco"
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

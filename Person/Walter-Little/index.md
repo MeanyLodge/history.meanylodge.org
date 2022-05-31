@@ -16,7 +16,7 @@ tags: Deceased
 
 ### Events
 - Birth: 1909-04-29
-- Meany Years: 1938-[∞](../Permanent-Resident)
+- Meany Years: 1938-[∞](/Person//Permanent-Resident)
 - Death: 2002-02-28
 
 {% include roles.html %}
@@ -36,8 +36,8 @@ tags: Deceased
     - 1978 [Meany History][ma78]
     - 1984 [Meany Names](/Names-Walt)
     - 1984 [Chronological History of Meany Lodge][hw]
-- [Walter's Little Spring](/Propane-Hut)
-- [Permanent Resident](/Permanent-Resident)
+- [Walter's Little Spring](/Building/Propane-Hut)
+- [Permanent Resident](/Person/Permanent-Resident)
 - Member of the Mountaineers Birth Control Society, ("bigger! bigger! make those ski jumps bigger!")
 
 ### See Also
@@ -59,13 +59,13 @@ The relocated tow at Meany provided better access to lanes and eliminated the ne
 
 #### 1978
 
-[Bob Cram](../Bob-Cram) said this of Walt Little, who has skied Meany for forty of its fifty years: "Walt was a pioneer in ski technique. Anything that was crazy Walt had already tried." Besides his many technical contributions Walt concocted many of the names around [Meany Hill](../Meany-Hill) like [Psychopath](../Psychopath) and [Lower Slobbovia](../Lower-Slobbovia). Walt, with his keen intellect, has helped create the friendly and witty Meany atmosphere. <sup>[ma78][]</sup>
+[Bob Cram](/Person/Bob-Cram) said this of Walt Little, who has skied Meany for forty of its fifty years: "Walt was a pioneer in ski technique. Anything that was crazy Walt had already tried." Besides his many technical contributions Walt concocted many of the names around [Meany Hill](/Meany-Hill) like [Psychopath](/Run/Psychopath) and [Lower Slobbovia](/Run/Lower-Slobbovia). Walt, with his keen intellect, has helped create the friendly and witty Meany atmosphere. <sup>[ma78][]</sup>
 
-One extra special Saturday night program was the dedication banquet for [Walter's Woods](../Walter's-Woods) with Master of Ceremonies [Lee Helser](../Lee-Helser) cleverly spicing the evening and a film on Walter shown by [Bob Bentler](../Bob-Bentler). A huge cake shaped like a bald head contained a hidden cavity which was opened to reveal Walter's thoughts in the form of sayings on heart-shaped candies. <sup>[ma78][] p.173</sup>
+One extra special Saturday night program was the dedication banquet for [Walter's Woods](/Run/Walter's-Woods) with Master of Ceremonies [Lee Helser](/Person/Lee-Helser) cleverly spicing the evening and a film on Walter shown by [Bob Bentler](/Person/Bob-Bentler). A huge cake shaped like a bald head contained a hidden cavity which was opened to reveal Walter's thoughts in the form of sayings on heart-shaped candies. <sup>[ma78][] p.173</sup>
 
 #### 1979
 
-Other skit characters were the minister ([Dave Claar](../Dave-Claar)) and the victim (Charlie Vail). Walter Little walked away with the Bachelor of the Year Award with [Norm Vigus](../Norm-Vigus) as runner-up. Bob Bentler showed Super 8 movies of Walt and Norm to prove why they should be the winners. <sup>[ma79][]</sup>
+Other skit characters were the minister ([Dave Claar](/Person/Dave-Claar)) and the victim (Charlie Vail). Walter Little walked away with the Bachelor of the Year Award with [Norm Vigus](/Person/Norm-Vigus) as runner-up. Bob Bentler showed Super 8 movies of Walt and Norm to prove why they should be the winners. <sup>[ma79][]</sup>
 
 #### 1982
 

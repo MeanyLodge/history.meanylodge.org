@@ -41,8 +41,8 @@ Replaced frame with frame from wrecked truck in Othello, plus much maintenance. 
 A four wheel drive, post WW II design 3/4 ton Dodge weapons carrier is used for hard labor in the summer and fall. An "A-frame" attachment can be mounted for heavy lifting. Unlike other oxen, it hibernates all winter under the tow hut - nose in - so that its winch is out of reach of potential thieves.<sup>[75th][]</sup>
 
 
-[75th]: Anniversary#75th
-[ma78]: Mountaineer-Annual#1978
-[hr]: History-Reports "Meany History Reports, by Idona Kellogg"
-[hw]: History-Walt "Meany History, by Walt Little"
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[75th]: /Anniversary#75th
+[ma78]: /Mountaineer-Annual#1978
+[hr]: /History/Reports "Meany History Reports, by Idona Kellogg"
+[hw]: /History/Walt "Meany History, by Walt Little"
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

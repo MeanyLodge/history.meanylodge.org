@@ -48,5 +48,5 @@ What I think of, when I think of Dave, is dedication. To Meany. To the cross-cou
 
 Poured the footings and walls for the [Zoo](/Building/Zoo) extension.
 
-[ma77]: Mountaineer-Annual#1977
-[ma79]: Mountaineer-Annual#1979
+[ma77]: /Mountaineer-Annual#1977
+[ma79]: /Mountaineer-Annual#1979

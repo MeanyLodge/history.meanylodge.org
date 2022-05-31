@@ -146,11 +146,11 @@ A downed tree took out our power line between poles 1 and 2. See [Power Outage N
 
 
 
-[hr]: History-Reports "Meany History Reports, by Idona Kellogg"
-[hw]: History-Walt "Meany History, by Walt Little"
-[ma46]: Mountaineer-Annual#1946
-[ma78]: Mountaineer-Annual#1978
-[ma82]: Mountaineer-Annual#1982
+[hr]: /History/Reports "Meany History Reports, by Idona Kellogg"
+[hw]: /History/Walt "Meany History, by Walt Little"
+[ma46]: /Mountaineer-Annual#1946
+[ma78]: /Mountaineer-Annual#1978
+[ma82]: /Mountaineer-Annual#1982
 [rn15]: https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2015-Power-Line-Replacement.pdf
-[rn19]: Electrical-Power-System
+[rn19]: /Electrical-Power-System
 [tp]: /Machine/Tomcat/Petition

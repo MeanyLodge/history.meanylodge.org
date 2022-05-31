@@ -28,4 +28,4 @@ Gasoline refueling station for all our animals except Dino.
 **Gas House**: Because of new code restrictions against buried fuel tanks, dug up 2 buried 500 gallon gasoline tanks used by "Mach". Cleaned, painted and reinstalled near the [Cat House](/Building/Cat-House).<sup>[hw][]</sup>
 
 
-[hw]: History-Walt
+[hw]: /History/Walt

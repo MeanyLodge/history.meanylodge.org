@@ -60,8 +60,8 @@ laughing and traveling to visit friends and family over 48 years."
 Internment at Holyrood Cemetery in Shoreline. Memorial service followed at American Legion in Montlake Terrace.
 
 
-[ik]: Idona-Kellogg
-[ip]: Industrial-Park
-[hr]: History-Reports
-[hr78]: History-Reports#1978
+[ik]: /Person/Idona-Kellogg
+[ip]: /Area/Industrial-Park
+[hr]: /History/Reports
+[hr78]: /History/Reports#1978
 

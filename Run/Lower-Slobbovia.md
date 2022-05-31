@@ -61,9 +61,9 @@ Improved ski return trail from [Lower Slobbovia](/Run/Lower-Slobbovia) to [Mach]
 It's time for a run down [South Slobbovia](/Run/South-Slobbovia). From the top of the tow we traverse Green Pastures to [Tombstone Canyon](/Area/Tombstone-Canyon), cross to the Bullmoose Glacier where some take off for a run down [Bullmoose Ridge](/Area/Bullmoose-Ridge), but we "druther" cross [Druthers Gulch](/Area/Druthers-Gulch) and run Upper South Slobbovia. It's over the edge for a turn in the deep-sheltered powder of [Phogbound Gulch](/Area/Phogbound-Gulch), then back into S. Slobbovia for a fast run down the ridge to Brockman's Knob. A hard right turn around [Jacob's Ladder](/Area/Jacob's-Ladder) (power-line tower) brings us to wide open skiing over bumps and hollows. We finally cross the bridge over [Tombstone Canyon](/Area/Tombstone-Canyon) and head back through the woods to the tow.<sup>[ma68][]</sup>
 
 
-[hw]: History-Walt "Meany History, by Walt Little"
-[ma54]: Mountaineer-Annual#1954
-[ma56]: Mountaineer-Annual#1956
-[ma68]: Mountaineer-Annual#1968
-[ma78]: Mountaineer-Annual#1978
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[hw]: /History/Walt "Meany History, by Walt Little"
+[ma54]: /Mountaineer-Annual#1954
+[ma56]: /Mountaineer-Annual#1956
+[ma68]: /Mountaineer-Annual#1968
+[ma78]: /Mountaineer-Annual#1978
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

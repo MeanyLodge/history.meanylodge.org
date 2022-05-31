@@ -89,11 +89,11 @@ The Sunset Highway wasn't regularly open during the winter so the Northern Pacif
 
 
 [hh]: /Machine/Tomcat/Petition "Loss of NPRR Trains #5 & #6"
-[hw]: History-Walt "Meany History, by Walt Little"
-[ma60]: Mountaineer-Annual#1960
-[ma66]: Mountaineer-Annual#1966
-[ma68]: Mountaineer-Annual#1968
-[ma76]: Mountaineer-Annual#1976
-[ma77]: Mountaineer-Annual#1977
-[ma78]: Mountaineer-Annual#1978
+[hw]: /History/Walt "Meany History, by Walt Little"
+[ma60]: /Mountaineer-Annual#1960
+[ma66]: /Mountaineer-Annual#1966
+[ma68]: /Mountaineer-Annual#1968
+[ma76]: /Mountaineer-Annual#1976
+[ma77]: /Mountaineer-Annual#1977
+[ma78]: /Mountaineer-Annual#1978
 [ts]: https://www.mountaineers.org/locations-lodges/meany-lodge/event-details/winter-weekends#tomcat-schedule

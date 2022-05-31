@@ -12,4 +12,4 @@ The steep gully in Section 34 between [Henrietta's Meadow](/Run/Henrietta's-Mead
 RBCSA means Retroactive Birth Control Society of America. <sup>[nw][]</sup>
 
 
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

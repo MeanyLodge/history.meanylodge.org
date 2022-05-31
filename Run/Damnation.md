@@ -12,4 +12,4 @@ This trail starts at northwest edge of the [Lane](/Run/Lane) - straight down ste
 Much clearing on this slope was done by Messrs. [Doug Damm](/Person/Doug-Damm) and [Art Nation](/Person/Art-Nation).<sup>[nw][]</sup>
 
 
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

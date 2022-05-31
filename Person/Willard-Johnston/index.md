@@ -15,4 +15,4 @@ categories:
 
 A small water power lighting plant was developed by [Willard Johnston](Willard-Johnston) and [Jack Hossack](/Person/Jack-Hossack), Hut chairman. <sup>[ma37][]</sup>
 
-[ma37]: Mountaineer-Annual#1937
+[ma37]: /Mountaineer-Annual#1937

@@ -14,4 +14,4 @@ Halfway down [South Slobbovia](/Run/South-Slobbovia).
 Bonneville Power thinks this is a transmission line tower, but Slobbovians know better. If you climb the rungs and grab one of the big wires at the top, you go to heaven fast.<sup>[nw][]</sup>
 
 
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

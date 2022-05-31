@@ -44,7 +44,7 @@ One Sunday morning [Al](/Person/Al-Alleman) took me up to the Mt. Francis microw
 
 Towards the end of Mouse's life we took the motor out of a newer VK540 from Loup Loup ski trails and installed it in this machine and used it for about 2 more years but it was never completely right after the change of motors. The change of motors was done by one of the Finrow's and myself. --[Phil Christy](/Person/Phil-Christy)
 
-[75th]: Anniversary#75th
-[dc]: Dave-Claar
+[75th]: /Anniversary#75th
+[dc]: /Person/Dave-Claar
 [ml]: #2020
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

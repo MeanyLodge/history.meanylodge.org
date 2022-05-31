@@ -14,5 +14,5 @@ On the south side of [Lower Slobbovia](/Run/Lower-Slobbovia). Directions in Slob
 All stumps have been removed from the transmission line right-of-way known as [North Slobbovia](/Run/North-Slobbovia) and South Slobbovia. <sup>[ma67][]</sup>
 
 
-[ma67]: Mountaineer-Annual#1967
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[ma67]: /Mountaineer-Annual#1967
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

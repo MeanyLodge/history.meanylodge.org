@@ -34,7 +34,7 @@ The Generator Hut received some carpentry.<sup>[ma82][]</sup>
 
 This gasoline engine driven 5,000 watt generator is used for emergency power when our normal power fails us due to inclement weather, accident or maintenance problems. This unit does not start automatic but must be started manually.<sup>[75th][]</sup>
 
-[hw]: History-Walt "Meany History, by Walt Little"
-[ma78]: Mountaineer-Annual#1978
-[ma82]: Mountaineer-Annual#1982
-[75th]: Anniversary#75th
+[hw]: /History/Walt "Meany History, by Walt Little"
+[ma78]: /Mountaineer-Annual#1978
+[ma82]: /Mountaineer-Annual#1982
+[75th]: /Anniversary#75th

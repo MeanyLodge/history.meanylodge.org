@@ -70,10 +70,10 @@ This was the old Fordsen tractor that powered the [Mach](Mach) Tow when first bu
 
 
 [tp]: /Machine/Tomcat/Petition
-[ma41]: Mountaineer-Annual#1941
-[ma43]: Mountaineer-Annual#1943
-[ma51]: Mountaineer-Annual#1951
-[ma52]: Mountaineer-Annual#1952
-[ma53]: Mountaineer-Annual#1953
-[ma78]: Mountaineer-Annual#1978
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[ma41]: /Mountaineer-Annual#1941
+[ma43]: /Mountaineer-Annual#1943
+[ma51]: /Mountaineer-Annual#1951
+[ma52]: /Mountaineer-Annual#1952
+[ma53]: /Mountaineer-Annual#1953
+[ma78]: /Mountaineer-Annual#1978
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

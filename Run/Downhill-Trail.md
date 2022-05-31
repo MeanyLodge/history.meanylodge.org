@@ -14,4 +14,4 @@ A downhill race trail came down the open area from Meany Woods to the present Co
 Ski racing was popular early on, though it has now disappeared. In the early 1940's a downhill race trail was completed from [Meany Woods](Meany-Woods) to the kitchen end of the Meany Hut. The Downhill Trail has not been raced for many years, and the name has disappeared from modern use. Parts of the trail are now parts of runs with other names.<sup>[nw][]</sup>
 
 
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

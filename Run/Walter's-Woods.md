@@ -25,6 +25,6 @@ A very important change to the Meany vicinity was made in the summer of 1978 whe
 Meany work parties ... started the enormous task of clearing Walter's Woods and [Henrietta's Meadow](/Run/Henrietta's-Meadow). <sup>[ma79][]</sup>
 
 
-[ma78]: Mountaineer-Annual#1978
-[ma79]: Mountaineer-Annual#1979
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[ma78]: /Mountaineer-Annual#1978
+[ma79]: /Mountaineer-Annual#1979
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

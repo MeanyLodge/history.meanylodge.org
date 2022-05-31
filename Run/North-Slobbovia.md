@@ -25,7 +25,7 @@ Puget Power constructed power line up [North Slobbovia](/Run/North-Slobbovia), u
 All stumps have been removed from the transmission line right-of-way known as North and [South Slobbovia](/Run/South-Slobbovia). <sup>[ma67][]</sup>
 
 
-[hw]: History-Walt "Meany History, by Walt Little"
-[ma67]: Mountaineer-Annual#1967
-[ma78]: Mountaineer-Annual#1978
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[hw]: /History/Walt "Meany History, by Walt Little"
+[ma67]: /Mountaineer-Annual#1967
+[ma78]: /Mountaineer-Annual#1978
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

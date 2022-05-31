@@ -22,4 +22,4 @@ My 1st trip across was in the early 60s. At that time most of the route was timb
 
 I now follow a route that continues up to the Silver Tinkham saddle. The turn up is made at the pond where the Crest Trail turns sharply E below Tinkham. From the saddle we drop the packs and ski up Silver, summit and ski down. Picking up packs we ski the very steep N ridge of Tinkham to the summit. From there it is a very nice ski down to Yakima Pass.<sup>[75th][]</sup>
 
-[75th]: Anniversary#75th
+[75th]: /Anniversary#75th

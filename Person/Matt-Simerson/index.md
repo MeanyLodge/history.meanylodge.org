@@ -38,4 +38,4 @@ categories:
 - [Pump House](/Building/Pump-House): built it to cover the newly installed well.
 - **LED lights**: Led team that rewired every 4' fluorescent fixture (basement, Zoo, Cat House, Tow Hut). Replaced every other incandescent and fluorescent bulb with an LED.
 
-[wp]: Work-Parties#2019
+[wp]: /Work-Parties#2019

@@ -39,6 +39,6 @@ Bob Cram's imitation of "Charlie's" jungle noises in the men's dorm had the crow
 
 Bob Cram said this of Walter Little, who has skied Meany for forty of its fifty years: "Walt was a pioneer in ski technique. Anything that was crazy Walt had already tried." Besides his many technical contributions Walt concocted many of the names around [Meany Hill](Meany-Hill) like "Psychopath" and "Lower Slobbovia". Walt, with his keen intellect, has helped create the friendly and witty Meany atmosphere. <sup>[ma78][]</sup>
 
-[ma49]: Mountaineer-Annual#1949
-[ma55]: Mountaineer-Annual#1955
-[ma78]: Mountaineer-Annual#1978
+[ma49]: /Mountaineer-Annual#1949
+[ma55]: /Mountaineer-Annual#1955
+[ma78]: /Mountaineer-Annual#1978

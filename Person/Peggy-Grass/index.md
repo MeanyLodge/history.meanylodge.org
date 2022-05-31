@@ -20,4 +20,4 @@ categories:
 [Peggy Grass](/Person/Peggy-Grass) has been our ingenious cook for the last eleven years.<sup>[ma78][]</sup>
 
 
-[ma78]: Mountaineer-Annual#1978
+[ma78]: /Mountaineer-Annual#1978

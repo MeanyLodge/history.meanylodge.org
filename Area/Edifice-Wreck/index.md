@@ -44,7 +44,7 @@ Abandoned when it became possible to run [Tom Cat](/Machine/Tomcat) over the BNR
 
 It's name fits now more than ever.
 
-[hw]: History-Walt "Meany History, by Walt Little"
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
-[ma68]: Mountaineer-Annual#1968
-[map]: Meany-Map
+[hw]: /History/Walt "Meany History, by Walt Little"
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"
+[ma68]: /Mountaineer-Annual#1968
+[map]: /Meany-Map

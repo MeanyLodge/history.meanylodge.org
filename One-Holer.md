@@ -18,4 +18,4 @@ To save skiers and tow [operators](/Person/Operator) a trip back to the lodge.
 - Constructed: 1986 <sup>[hr][]</sup>
 
 
-[hr]: History-Reports "Meany History Reports, by Idona Kellogg"
+[hr]: /History/Reports "Meany History Reports, by Idona Kellogg"
