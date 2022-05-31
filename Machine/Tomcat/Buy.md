@@ -82,11 +82,11 @@ MEANY HUT COMMITTEE
 
 Harvey Mahalko, Chairman (Composed and compiled by Walt Little)
 
-- [Walt Little](Walter-Little)
-- [Tom Van Devanter](Tom-Van-DeVanter)
+- [Walt Little](/Person/Walter-Little)
+- [Tom Van Devanter](/Person/Tom-Van-DeVanter)
 - Peggy Lawton
-- [Doug Damm](Doug-Damm)
-- [Art Nation](Art-Nation)
+- [Doug Damm](/Person/Doug-Damm)
+- [Art Nation](/Person/Art-Nation)
 - Jessie Hamlin
 
 [Original document](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/1961%20Tomcat%20Buy.pdf)

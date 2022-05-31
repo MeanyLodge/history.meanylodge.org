@@ -17,18 +17,19 @@ categories:
 {% include roles.html %}
 
 ### Known For
+- Father of Kayla & Lucas, husband of [Jennifer](/Person/Jennifer-Simerson)
 - Half of the "Lewis & Clark" duo
 - Building the [Pump House](Pump-House)
 - Rebuilding the [Tunnel](Tunnel)
 - [Patrol Race](Patrol-Race) contestant, 2020, 2021, 2022
-- Building the glove drying rack
+- Builder of the glove drying rack
 
 ---
 ### History
 
 #### 2021
 
-- rebuilt the [Tunnel](Tunnel)
+- rebuilt the [Tunnel](/Lodge/Tunnel)
 
 
 #### 2019

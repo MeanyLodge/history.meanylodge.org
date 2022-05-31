@@ -27,7 +27,7 @@ At the base of [Meany Hill](/Meany-Hill), SE of the [Lodge](/Lodge).
 ### History
 #### 1938
 
-Tow Hut was made of logs cut from trees from widening the [Lane](Lane).
+Tow Hut was made of logs cut from trees from widening the [Lane](/Run/Lane).
 
 #### 1956
 

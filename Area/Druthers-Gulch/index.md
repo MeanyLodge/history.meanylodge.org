@@ -5,7 +5,7 @@ category: Place
 # Druthers Gulch
 ### Location
 
-The short gully between [South Slobbovia](South-Slobbovia) and [Bullmoose Ridge](Bullmoose-Ridge). <sup>[nw][]</sup>
+The short gully between [South Slobbovia](/Run/South-Slobbovia) and [Bullmoose Ridge](Bullmoose-Ridge). <sup>[nw][]</sup>
 
 ### Origin
 

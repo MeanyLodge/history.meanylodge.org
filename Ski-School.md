@@ -5,16 +5,16 @@ category: Document
 # Ski School
 ### Organizers
 
-* [Jennifer Simerson](Jennifer-Simerson)
-* [Patti Polinsky](Patti-Polinsky)
+* [Jennifer Simerson](/Person/Jennifer-Simerson)
+* [Patti Polinsky](/Person/Patti-Polinsky)
 
-See: [Instructor](Instructor)
+See: [Instructor](/Person/Instructor)
 
 <img src="/img/1929-Ski-on-the-level.png" align="right" style="width: 40%;">
 
 ### See Also
 
-- [Munchkin Express](Munchkin-Express)
+- [Munchkin Express](/Munchkin-Express)
 
 ### History
 
@@ -36,11 +36,11 @@ A ski school has been started at Meany and is proving to be popular. With the su
 
 #### 1977
 
-The very popular lessons taught by [Patti Polinsky](Patti-Polinsky) and [Dave Claar](Dave-Claar) improved the techniques of beginners and advanced skiers alike. Lessons and "Family Weekend" brought many future juniors.<sup>[ma77][]</sup>
+The very popular lessons taught by [Patti Polinsky](/Person/Patti-Polinsky) and [Dave Claar](/Person/Dave-Claar) improved the techniques of beginners and advanced skiers alike. Lessons and "Family Weekend" brought many future juniors.<sup>[ma77][]</sup>
 
 #### 1982
 
-Record crowds were drawn to Meany Ski Hut this season by plentiful snow, fantastic skiing, terrific ski lessons with capacity classes taught by [Patti Polinsky](Patti-Polinsky), Dave Claar and Kim Nelson.<sup>[ma77][]</sup>
+Record crowds were drawn to Meany Ski Hut this season by plentiful snow, fantastic skiing, terrific ski lessons with capacity classes taught by [Patti Polinsky](/Person/Patti-Polinsky), Dave Claar and Kim Nelson.<sup>[ma77][]</sup>
 
 #### 198?
 

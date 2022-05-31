@@ -28,4 +28,4 @@ Those who regularly work on Meany animals.
   {% endfor %}
 </ul>
 
-###### this list is incomplete. Send updates to [Matt Simerson](Matt-Simerson)
+###### this list is incomplete. Send updates to [Matt Simerson](/Person/Matt-Simerson)

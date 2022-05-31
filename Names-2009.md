@@ -16,11 +16,11 @@ Named to commemorate Stu Ferguson who fell into the pond while skiing (in the 19
 
 An "official" name, presumably honoring the Northern Pacific's route through the Stampede Tunnel. Sometimes shown on maps as Tunnel Creek and on others as [Stampede Creek](Stampede-Creek).
 
-## [Psychopath](Psychopath)
+## [Psychopath](/Run/Psychopath)
 
 A play on words referring both to the single-track width of the get-back and the extreme steepness of the terrain it traverses. (Named for its twisted character).
 
-## The [Nose](Nose)
+## The [Nose](/Run/Nose)
 
 Referring to a protuberance?
 
@@ -32,23 +32,23 @@ The steepest place in the whole area. Karen Bergman didn't ski it much but went 
 
 Parallels the curve of the railroad track coming out of the tunnel below.
 
-## [Cat Track](Cat-Track)
+## [Cat Track](/Run/Cat-Track)
 
-The committee wanted help to keep the trails better so they got the Pack Rat and built a road and called it the [Rat Track](Rat-Track). Over time it changed to the Cat Track.
+The committee wanted help to keep the trails better so they got the Pack Rat and built a road and called it the [Rat Track](/Run/Cat-Track). Over time it changed to the Cat Track.
 
-## [Railroad Meadows](Railroad-Meadows)
+## [Railroad Meadows](/Run/Railroad-Meadows)
 
 From the top of the lane on the left there is a long gentle run from which you can see the trains go in and out of the depot.
 
-## [Cognito Wood](Cognito-Wood)
+## [Cognito Wood](/Run/Cognito-Wood)
 
 If you ski there you are incognito.
 
-## the [Lane](Lane)
+## the [Lane](/Run/Lane)
 
 The main run down beside the tow (a classic example of Meany understatement.) Very early on the lane was thick with trees. A retired doctor hired loggers to clear the lane but they did a bad job and left big stumps and logs. The Lodge Committee worked really hard for many years getting rid of the stumps, but The Lane was named by the doctor.
 
-## [Soffreenia Woods](Soffreenia-Woods)
+## [Soffreenia Woods](/Run/Soffreenia-Wood)
 
 A play on words (so-free-in-the-woods).
 
@@ -56,7 +56,7 @@ A play on words (so-free-in-the-woods).
 
 There was a creature in Al Capps L'il Abner cartoon strip that had one foot, a blue head and no body. It only grow in the country of Lower Slobbovia. The Lower Slobbovians were like Meany people - they wore ratty clothes and lived in snow holes. Ferguson used the Iggles Nest for a jump takeoff and got 40-50 ft of air.
 
-## [North Slobbovia](North-Slobbovia)
+## [North Slobbovia](/Run/North-Slobbovia)
 
 From Li'l Abner. Now usually just called "North"
 
@@ -64,31 +64,31 @@ From Li'l Abner. Now usually just called "North"
 
 Above Kirkland Park there was a tree with a line hanging from it. People would ski down and swing on the rope to see how far out they could go.
 
-## [Kirkland Park](Kirkland-Park)
+## [Kirkland Park](/Run/Kirkland-Park)
 
-The area just above the [Tow Hut](Tow-Hut) (to the left of the tow looking uphill) that gets groomed. Named after [Bill Kirkland](Bill-Kirkland). He cleared the area of stumps with large quantities of explosive. He did not make it back from WW II.
+The area just above the [Tow Hut](Tow-Hut) (to the left of the tow looking uphill) that gets groomed. Named after [Bill Kirkland](/Person/Bill-Kirkland). He cleared the area of stumps with large quantities of explosive. He did not make it back from WW II.
 
-## [Harvey's Slot](Harvey's-Slot)
+## [Harvey's Slot](/Run/Harvey's-Slot)
 
-[Harvey Mahalko](Harvey-Mahalko) was a lodge [Chair](Chair). Harvey's Slot is part of railroad meadows. Harvey opened up a slot when he went crazy with a saw and cleared a run. That's why it is named after him.
+[Harvey Mahalko](Harvey-Mahalko) was a lodge [Chair](/Person/Chair). Harvey's Slot is part of railroad meadows. Harvey opened up a slot when he went crazy with a saw and cleared a run. That's why it is named after him.
 
 ## [Jacob's Ladder](Jacob's-Ladder)
 
 the power company wanted to cross the property and Meany agreed. Jacobs's ladder came from the Bible, if you go to the top you go to heaven real quick.
 
-## [South Slobbovia](South-Slobbovia)
+## [South Slobbovia](/Run/South-Slobbovia)
 
 From Li'l Abner. In the cartoon strip Slobbovia was kind of a satire on Siberia. To get to South you have to make a long traverse and you end up a long ways away from anywhere, kind of like in Siberia.
 
-## [Henrietta's Meadow](Henrietta's-Meadow)
+## [Henrietta's Meadow](/Run/Henrietta's-Meadow)
 
 Named after one of the Li'l Abner Characters.
 
-## [Walter's Woods](Walter's-Woods)
+## [Walter's Woods](/Run/Walter's-Woods)
 
 Named for Walt Little, organizer of the first Ski Mountaineering course for The Mountaineers. It originally had no hair like Walt, Walt didn't think it was funny.
 
-## [Al's Fringe](Al's-Fringe)
+## [Al's Fringe](/Run/Al's-Fringe)
 
 Al Allmen was active until the 1980s. Al's Fringe was the get-back from Walt's Woods and Henriettas'. Al wanted this to be a cross country trail. It used to have sheets of yellow metal so you knew were it was.
 
@@ -96,7 +96,7 @@ Al Allmen was active until the 1980s. Al's Fringe was the get-back from Walt's W
 
 From the Lodge to the [Tow Hut](Tow-Hut) without climbing, it was all cut by juniors.
 
-## [Kitchen Run](Kitchen-Run)
+## [Kitchen Run](/Run/Kitchen-Run)
 
 Originally it was called the down hill course but later renamed because it came out at the kitchen.
 
@@ -168,7 +168,7 @@ After the loggers were done they left one tree which was 20 ft tall and it had n
 
 Richard's is named after Richard Swenson who still is alive and plays  accordion at dances. His photo is on the wall at Meany in several locations.
 
-## [Damnation](Damnation) Run
+## [Damnation](/Run/Damnation) Run
 
 Art Nation thought it would be good skiing so they cleared out the brush and put in a trail to the spring that was the water supply for the Lodge. You could only call it Dam Nation because he was the one responsible for all the work it took and because it went to the dam.
 
@@ -178,7 +178,7 @@ A run from the railroad track down to the road.
 
 ## Helser's Ess
 
-Named after Lee Helser. At that time, the trip was made from the top of the [Lane](Lane) to the bottom through the woods with just the three turns and no checks or side slipping. Lee had a great deal of trouble making this with out landing on his Ass. However, Ass is not appropriate family language so it was shortened to S to reflect the twisted character of the run.
+Named after [Lee Helser](/Person/Lee-Helser). At that time, the trip was made from the top of the [Lane](/Run/Lane) to the bottom through the woods with just the three turns and no checks or side slipping. Lee had a great deal of trouble making this with out landing on his Ass. However, Ass is not appropriate family language so it was shortened to S to reflect the twisted character of the run.
 
 ## [Ice Fall](Ice-Fall)
 
@@ -188,6 +188,6 @@ The bank that had to be climbed down and back up when crossing the railroad trac
 
 The station at the eastern portal of the Stampede Tunnel. This was where people originally got on and off the train at Meany. It also was where signal crews and other railroad people were housed.
 
-## [9-G pullout](9-G-Pullout)
+## [9-G pullout](/Area/9-G-Pullout)
 
 Also known as the 'Hot Tub Run' for its steepness and for the hole at the bottom.

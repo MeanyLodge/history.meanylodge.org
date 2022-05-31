@@ -5,6 +5,7 @@ categories:
     - Chair
 tags: Deceased
 ---
+<img src="1953-Bill-Brockman.png" style="width: 40%" align="right">
 # Bill Brockman
 ### Names
 - Bill Brockman
@@ -17,7 +18,7 @@ tags: Deceased
 - [Chair](/Person/Chair) 1953
 
 ### Known For
-- [Brockman's Knob](/Brockman's-Knob)
+- [Brockman's Knob](/Area/Brockman's-Knob)
 
 ### More Info
 - Navy vet in WW II

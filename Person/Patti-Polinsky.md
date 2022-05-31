@@ -29,7 +29,7 @@ categories:
     - [Carnival](Carnival)
 - [Mountaineers Super Volunteer](https://www.mountaineers.org/members/patti-polinsky)
 - Bunnies
-- wife of [Dave Claar](Dave-Claar) for 44 years
+- wife of [Dave Claar](/Person/Dave-Claar) for 44 years
 
 ---
 ### History
@@ -53,7 +53,7 @@ Record crowds were drawn to Meany Ski Hut this season by plentiful snow, fantast
 
 #### late 90s
 
-[Norm Vigus](Norm-Vigus) begins instructing at Meany. "Patti was definitely a bonus in my early instruction efforts and I've enjoyed the relationship ever since.  I hope I can last as long as she does instructing at Meany."
+[Norm Vigus](/Person/Norm-Vigus) begins instructing at Meany. "Patti was definitely a bonus in my early instruction efforts and I've enjoyed the relationship ever since.  I hope I can last as long as she does instructing at Meany."
 
 #### 2003
 
@@ -61,13 +61,13 @@ Record crowds were drawn to Meany Ski Hut this season by plentiful snow, fantast
 
 #### 2020
 
-I'm a ski INSTRUCTOR because of Patti.  Because Patti encouraged me to take responsibility for the pre-and-early teens, the mostly mindless adolescent boys after they graduated from her class, to actually imagine that I might have something to give them.  And then later, to connect me with the Olympic Ski School for my first experience with a "standard" ski program, and then with Ski Masters so I could get my Level 1 certification, and then with the bigger world of PSIA-NW that eventually lead me to the Summit Snowsport School, and that's how I became a ski instructor.  And by becoming an instructor, I became a skier, instead of the wannabe who could somehow get down the steep stuff without crashing and burning -- too much.  Because the best way to learn is to teach.  Which I learned from Patti. -- [Dan Nord](Dan-Nord)
+I'm a ski INSTRUCTOR because of Patti.  Because Patti encouraged me to take responsibility for the pre-and-early teens, the mostly mindless adolescent boys after they graduated from her class, to actually imagine that I might have something to give them.  And then later, to connect me with the Olympic Ski School for my first experience with a "standard" ski program, and then with Ski Masters so I could get my Level 1 certification, and then with the bigger world of PSIA-NW that eventually lead me to the Summit Snowsport School, and that's how I became a ski instructor.  And by becoming an instructor, I became a skier, instead of the wannabe who could somehow get down the steep stuff without crashing and burning -- too much.  Because the best way to learn is to teach.  Which I learned from Patti. -- [Dan Nord](/Person/Dan-Nord)
 
 ---
 
 This is Patti Polinsky. I started going to Meany in the late 60s, probably 68 or 69. At that point there was a cat that came out and picked me up on my first trip in. It was an interesting trip because they picked you up right at the top of the overpass. I had been dropped off there at 3 in the afternoon so I stood there until 5:30 wondering if anyone was going to come out.
 
-On the way in, a tree fell down where the hill starts up by the old campground. Two fellows, [Doug Damm](Doug-Damm) and John Rice who had been riding in the cat with Tom, jumped out and grabbed an ax from underneath the cat, chopped the tree in half, picked the tree up, moved it out of the way. The Tomcat continued up the hill, they climbed in, never said a word about what they had just done, they continued their same conversation.
+On the way in, a tree fell down where the hill starts up by the old campground. Two fellows, [Doug Damm](/Person/Doug-Damm) and John Rice who had been riding in the cat with Tom, jumped out and grabbed an ax from underneath the cat, chopped the tree in half, picked the tree up, moved it out of the way. The Tomcat continued up the hill, they climbed in, never said a word about what they had just done, they continued their same conversation.
 
 Later I started running one day weekend seminars. One weekend would be for intermediates, one weekend would be for fast, another weekend for beginners. I did all the teaching myself because I was an instructor certified by Fiorini ski school at the summit.
 

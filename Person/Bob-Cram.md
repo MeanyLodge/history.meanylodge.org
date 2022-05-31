@@ -19,7 +19,7 @@ categories:
 
 #### 1949
 
-Other sterling efforts were made by many of our competitors. [Bob Cram](Bob-Cram) came in 35th (absolutely last) in the Golden Pole at Hood.. <sup>[ma49][]</sup>
+Other sterling efforts were made by many of our competitors. [Bob Cram](/Person/Bob-Cram) came in 35th (absolutely last) in the Golden Pole at Hood... <sup>[ma49][]</sup>
 
 #### 1955
 
@@ -29,7 +29,7 @@ It goes without saying that the past season at Meany was another outstanding yea
 
 #### 1978
 
-BPA constructed a 287 KV power line over portion of Meany property to south of rope tow; the cleared area made excellent skiing and added much variety. It was christened "Lower Slobbovia" by [Cram](Bob-Cram) and Little, because it resembled the mythical country in Al Capp's cartoon Li'l Abner.<sup>[ma78][], [hw][]</sup>
+BPA constructed a 287 KV power line over portion of Meany property to south of rope tow; the cleared area made excellent skiing and added much variety. It was christened "Lower Slobbovia" by [Cram](/Person/Bob-Cram) and Little, because it resembled the mythical country in Al Capp's cartoon Li'l Abner.<sup>[ma78][], [hw][]</sup>
 
 Bob Cram masterfully and humorously emceed the dedication program... <sup>[ma78][]</sup>
 

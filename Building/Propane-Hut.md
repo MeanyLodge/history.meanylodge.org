@@ -8,7 +8,7 @@ categories: Building
 
 ### Names
 - Propane Hut
-- [Walter's](Walter-Little) Little Spring
+- [Walter's](/Person/Walter-Little) Little Spring
 - Walter's Spring Water Garden
 
 ### Location

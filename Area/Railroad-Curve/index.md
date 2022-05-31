@@ -5,7 +5,7 @@ category: Place
 # Railroad Curve
 ### Location
 
-A sharp curve to the right on the old [Downhill Trail](Downhill-Trail).<sup>[nw][]</sup>
+A sharp curve to the right on the old [Downhill Trail](/Run/Downhill-Trail).<sup>[nw][]</sup>
 
 ### Origin
 

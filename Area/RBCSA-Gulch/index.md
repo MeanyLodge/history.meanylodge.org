@@ -5,7 +5,7 @@ category: Place
 # RBCSA Gulch
 ### Location
 
-The steep gully in Section 34 between [Henrietta's Meadow](Henrietta's-Meadow) and [Walter's Woods](Walter's-Woods). <sup>[nw][]</sup>
+The steep gully in Section 34 between [Henrietta's Meadow](/Run/Henrietta's-Meadow) and [Walter's Woods](/Run/Walter's-Woods). <sup>[nw][]</sup>
 
 ### Origin
 

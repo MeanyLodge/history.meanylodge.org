@@ -5,7 +5,7 @@ category: Place
 # Couloir
 ### Location
 
-Shallow gulch running down center of [Railroad Meadows](Railroad-Meadows). <sup>[nw][]</sup>
+Shallow gulch running down center of [Railroad Meadows](/Run/Railroad-Meadows). <sup>[nw][]</sup>
 
 
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"

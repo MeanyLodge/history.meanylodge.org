@@ -7,11 +7,11 @@ categories:
 ---
 # Jack Hossack
 ### Roles
-- [Chair](Chair) 1936-1937
-- [Operator](Operator)
+- [Chair](/Person/Chair) 1936-1937
+- [Operator](/Person/Operator)
 
 ### Known For
-- Designed and built [Mach](Mach).<sup>[ma68][]</sup>
+- Designed and built [Mach](/Mach).<sup>[ma68][]</sup>
 
 ---
 ### History

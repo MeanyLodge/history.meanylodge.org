@@ -25,7 +25,7 @@ I came to Seattle in November, 1927...During these years members branched out fr
 
 #### 1978
 
-[Fred Ball](Fred-Ball), an energetic 81-year-old and the 1932 Hut Chairman, entertained the group by singing "Wild Bill Maxwell," a tale written by Art Winder in the 1930's about one of the best-loved and most colorful of Meany's early skiers.<sup>[ma78][]</sup>
+[Fred Ball](/Person/Fred-Ball), an energetic 81-year-old and the 1932 Hut Chairman, entertained the group by singing "Wild Bill Maxwell," a tale written by Art Winder in the 1930's about one of the best-loved and most colorful of Meany's early skiers.<sup>[ma78][]</sup>
 
 [ma56]: Mountaineer-Annual#1956
 [ma63]: Mountaineer-Annual#1963

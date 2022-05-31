@@ -1,9 +1,9 @@
 
-TO: [Matt Simerson](Matt-Simerson) and others
+TO: [Matt Simerson](/Person/Matt-Simerson) and others
 
-From: [Ray Nelson](Ray-Nelson)
+From: [Ray Nelson](/Person/Ray-Nelson)
 
-CC: [Chuck Welter](Chuck-Welter)
+CC: [Chuck Welter](/Person/Chuck-Welter)
 
 Subject: Electrical power system
 

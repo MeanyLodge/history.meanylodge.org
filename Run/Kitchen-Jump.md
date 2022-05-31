@@ -5,7 +5,7 @@ category: Place
 # Kitchen Jump
 ### Location
 
-A lump of earth below the [Elevator Shaft](Elevator-Shaft) at the lower end of [Kitchen Run](Kitchen-Run).
+A lump of earth below the [Elevator Shaft](/Run/Elevator-Shaft) at the lower end of [Kitchen Run](/Run/Kitchen-Run).
 
 ### Origin
 

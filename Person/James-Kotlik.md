@@ -16,3 +16,5 @@ categories:
 
 ### Known For
 - Getting dirty.
+- Chainsaw operator
+- Tomcat Mechanic

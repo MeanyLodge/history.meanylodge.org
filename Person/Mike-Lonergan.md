@@ -13,9 +13,9 @@ categories:
 - First year at Meany: 1960
 
 ### Roles
-- [Chair](Chair) 1992-1999
-- [Mechanic](Mechanic)
-- [Operator](Operator)
+- [Chair](/Person/Chair) 1992-1999
+- [Mechanic](/Person/Mechanic)
+- [Operator](/Person/Operator)
 
 ### Known For
 - Drafted layout of the Lodge

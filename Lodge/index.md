@@ -16,7 +16,7 @@ categories:
     * Drying Room
     * [Wood Room](Wood-Room)
     * [Tunnel](Tunnel)
-    * [Jim](Jim-Fahey)'s Closet Under the Stairs
+    * [Jim](/Person/Jim-Fahey)'s Closet Under the Stairs
     * [Ping Pong Room](Ping-Pong-Room)
     * [First Aid Room](First-Aid-Room)
 * First Floor

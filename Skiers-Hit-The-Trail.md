@@ -32,7 +32,7 @@ AND LAST December after snows had blocked off car and truck travel into Meany, t
 
 Now five times a weekend--three times on Saturday and twice on Sunday--the tractor makes its roundtrip, three miles in and three miles out between that lodge and the nearest highway approach along the Sunset Highway near Rustic Inn.
 
-EVERY SATURDAY morning a Seattle math teacher named [Tom Van DeVanter](Tom-Van-DeVanter) slips into the cockpit and turns tractor jockey.
+EVERY SATURDAY morning a Seattle math teacher named [Tom Van DeVanter](/Person/Tom-Van-DeVanter) slips into the cockpit and turns tractor jockey.
 
 Some travelers ride the tractor. More confident skiers string out at 10-foot intervals along two 130-foot ropes that trail behind.
 

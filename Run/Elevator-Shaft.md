@@ -5,7 +5,7 @@ category: Place
 # Elevator Shaft
 ### Location
 
-Steep short pitch just before the [Kitchen Jump](Kitchen-Jump).<sup>[nw][]</sup>
+Steep short pitch just before the [Kitchen Jump](/Run/Kitchen-Jump).<sup>[nw][]</sup>
 
 ### Origin
 

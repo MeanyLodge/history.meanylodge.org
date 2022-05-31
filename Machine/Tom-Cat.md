@@ -2,4 +2,4 @@
 title: Tom Cat
 category: Stub
 ---
-See [Tomcat](Tomcat)
+See [Tomcat](/Machine/Tomcat)

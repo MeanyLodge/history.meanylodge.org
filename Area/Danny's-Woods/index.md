@@ -5,7 +5,7 @@ category: Place
 # Danny's Woods
 ### Location
 
-Upper southeast corner of [Railroad Meadows](Railroad-Meadows)<sup>[nw][]</sup>
+Upper southeast corner of [Railroad Meadows](/Run/Railroad-Meadows)<sup>[nw][]</sup>
 
 ### Origin
 

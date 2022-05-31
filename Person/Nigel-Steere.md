@@ -14,7 +14,7 @@ categories:
 
 {% include roles.html %}
 ### Known For
-- Organizing the [Patrol Race](Patrol-Race)
+- Organizing the [Patrol Race](/Event/Patrol-Race)
 - Daredevil on ski or boards
 
 ### More Info

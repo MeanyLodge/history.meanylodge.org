@@ -88,7 +88,7 @@ The ride to Meany via the Northern Pacific passenger train cost $2 round trip. <
 The Sunset Highway wasn't regularly open during the winter so the Northern Pacific Railroad was the primary means of access.
 
 
-[hh]: Tomcat-Petition "Loss of NPRR Trains #5 & #6"
+[hh]: /Machine/Tomcat/Petition "Loss of NPRR Trains #5 & #6"
 [hw]: History-Walt "Meany History, by Walt Little"
 [ma60]: Mountaineer-Annual#1960
 [ma66]: Mountaineer-Annual#1966

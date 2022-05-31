@@ -10,16 +10,16 @@ categories:
 - First year at Meany: 1928
 
 ### Roles
-- [Chair](Chair) 1982-1985
+- [Chair](/Person/Chair) 1982-1985
 
 ### Known For
-- [Helser's Ess](Helser's-Ess)
+- [Helser's Ess](/Run/Helser's-Ess)
 
 ---
 ### History
 #### 1978
 
-One extra special Saturday night program was the dedication banquet for [Walter's Woods](Walter's-Woods) with Master of Ceremonies [Lee Helser](Lee-Helser) cleverly spicing the evening...<sup>[ma78][]</sup>
+One extra special Saturday night program was the dedication banquet for [Walter's Woods](/Run/Walter's-Woods) with Master of Ceremonies [Lee Helser](/Person/Lee-Helser) cleverly spicing the evening...<sup>[ma78][]</sup>
 
 #### 2003
 

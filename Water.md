@@ -82,7 +82,7 @@ Sank a new well, because the Kittitas County Health Department compelled us to. 
 
 #### 2020
 
-Cleaned the dam prefilter. [Michael Moreland](Michael-Moreland) and Lucas Simerson climbed into the reservoir with 5 gallon buckets and scooped out 10 gallons of sediment. A further flushing was made by opening the valve in Kirkland Park and stirring up the sediment while water was flowing through.
+Cleaned the dam prefilter. [Michael Moreland](/Person/Michael-Moreland) and Lucas Simerson climbed into the reservoir with 5 gallon buckets and scooped out 10 gallons of sediment. A further flushing was made by opening the valve in Kirkland Park and stirring up the sediment while water was flowing through.
 
 
 [hw]: History-Walt "Meany History, by Walt Little"

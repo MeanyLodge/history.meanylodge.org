@@ -37,7 +37,7 @@ p. 57
 
 With the coming of winter the lodge shrank into a roof sitting on the snow and gave the impression of a man who had pulled his hat down over his ears. The familiar inside of the lodge convinced me this was still Meany, and the warm cozy fire and friendly skiers transformed the hut into a comfortable island in the middle of the cold wilderness.
 
-There were still more experiences in store. One was meeting and getting to know Nashie whose superb cooking and personality provide a focal point about which Meany has revolved for many years. The other was skiing on the [Lane](Lane), that patch of hillside which justified the past months of effort. The variety of ski terrain available, both cross country and downhill, more than balanced the anticipation built up during those first work parties.
+There were still more experiences in store. One was meeting and getting to know Nashie whose superb cooking and personality provide a focal point about which Meany has revolved for many years. The other was skiing on the [Lane](/Run/Lane), that patch of hillside which justified the past months of effort. The variety of ski terrain available, both cross country and downhill, more than balanced the anticipation built up during those first work parties.
 
 By this time I had learned that Meany was companionship; it was felling trees, cutting wood, splicing rope, brushing the hill; it was repairing engines, building, painting, cleaning pots and pans; it was touring in powder snow to the lookout, practicing deep snow skiing, setting up a slalom on the lane; it was also dancing, games, parties, memorable conversations, and good food.
 

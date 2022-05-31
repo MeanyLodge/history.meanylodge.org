@@ -7,7 +7,7 @@ category: Place
 
 ### Location
 
-Halfway down [South Slobbovia](South-Slobbovia).
+Halfway down [South Slobbovia](/Run/South-Slobbovia).
 
 ### Origin
 

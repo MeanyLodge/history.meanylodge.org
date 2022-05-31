@@ -9,7 +9,7 @@ categories: Machine Groomer
 ### Names
 
 - Hippo
-- [Dave's](Dave-Claar) baby
+- [Dave's](/Person/Dave-Claar) baby
 - the groomer
 
 ### Origin

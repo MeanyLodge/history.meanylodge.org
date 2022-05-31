@@ -5,7 +5,7 @@ category: Place
 # Yellow Rock
 ### Location
 
-Semi-cliff in [Soffreenia Wood](Soffreenia-Wood).
+Semi-cliff in [Soffreenia Wood](/Run/Soffreenia-Wood).
 
 ### Origin
 

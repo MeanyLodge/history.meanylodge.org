@@ -5,7 +5,7 @@ category: Place
 # Tombstone Canyon
 ### Location
 
-Runs down the center of [Lower Slobbovia](Lower-Slobbovia)
+Runs down the center of [Lower Slobbovia](/Run/Lower-Slobbovia)
 
 ### Origin
 

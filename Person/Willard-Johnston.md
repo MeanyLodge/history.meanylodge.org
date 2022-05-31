@@ -13,6 +13,6 @@ categories:
 
 #### 1937
 
-A small water power lighting plant was developed by [Willard Johnston](Willard-Johnston) and [Jack Hossack](Jack-Hossack), Hut chairman. <sup>[ma37][]</sup>
+A small water power lighting plant was developed by [Willard Johnston](Willard-Johnston) and [Jack Hossack](/Person/Jack-Hossack), Hut chairman. <sup>[ma37][]</sup>
 
 [ma37]: Mountaineer-Annual#1937

@@ -6,10 +6,10 @@ category: Place
 
 ### Origin
 
-Named after [Phil Christy](Phil-Christy)
+Named after [Phil Christy](/Person/Phil-Christy)
 
 ### History
 
 #### 1986
 
-- [Nikki's Trail](Nikki's-Trail) and [Phil's Shortcut](Phil's-Shortcut) came into existence.
+- [Nikki's Trail](/Run/Nikki's-Trail) and [Phil's Shortcut](Phil's-Shortcut) came into existence.

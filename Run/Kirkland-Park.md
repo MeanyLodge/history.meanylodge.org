@@ -7,7 +7,7 @@ category: Place
 
 ### Location
 
-Large open area to the southeast (skier's right) of the [Lane](Lane), immediately below [Soffreenia Wood](Soffreenia-Wood).
+Large open area to the southeast (skier's right) of the [Lane](/Run/Lane), immediately below [Soffreenia Wood](/Run/Soffreenia-Wood).
 
 ### Origin
 

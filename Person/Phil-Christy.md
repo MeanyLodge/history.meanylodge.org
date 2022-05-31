@@ -12,14 +12,16 @@ categories:
 - First year at Meany: 1975
 
 ### Roles
-- [Chair](Chair) 1990-1999
-- [Committee](Committee)
-- [Cook](Cook)
+- [Chair](/Person/Chair) 1990-1999
+- [Committee](/Person/Committee)
+- [Cook](/Person/Cook)
 
 ### Known For
-- [Phil's Shortcut](Phil's-Shortcut)
-- Chainsaw driver
+- [Phil's Shortcut](/Phil's-Shortcut)
+- Chainsaw operator
 - Fire extinguisher maintainer
+- [Ox](/Machine/Ox) whisperer
+- Put the roof on the Telephone Cabin
 
 ---
 ### History

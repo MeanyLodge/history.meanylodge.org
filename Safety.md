@@ -5,7 +5,7 @@ title: Safety
 
 ### Fire Extinguishers
 
-compiled by [Michael Froebe](Michael-Froebe)
+compiled by [Michael Froebe](/Person/Michael-Froebe)
 
 #### Lodge (10)
 - (1) in pantry near kitchen door
@@ -30,4 +30,4 @@ Note: there was no real info I could gather on the fire suppression system over 
 ### History
 #### 2019
 
-Most of the fire extinguishers were replaced in 2019 at a cost of about $45 each (this was because for many years no hydrotesting was completed [needed about once every 10 years]). Since we are considered an industrial complex each extinguisher needs to be serviced each year. To be serviced the extinguishers need to be of high quality and not contain plastic parts. If desired, I can continue doing this as I have been for most of the last 30 years except when Ray Nelson was completing this. --[Phil Christy](Phil-Christy)
+Most of the fire extinguishers were replaced in 2019 at a cost of about $45 each (this was because for many years no hydrotesting was completed [needed about once every 10 years]). Since we are considered an industrial complex each extinguisher needs to be serviced each year. To be serviced the extinguishers need to be of high quality and not contain plastic parts. If desired, I can continue doing this as I have been for most of the last 30 years except when Ray Nelson was completing this. --[Phil Christy](/Person/Phil-Christy)

@@ -10,13 +10,13 @@ category: Place
 
 ### Location
 
-In [Stampede Creek](Stampede-Creek) just below [Harvey's Slot](Harvey's-Slot). <sup>[nw][]</sup>
+In [Stampede Creek](Stampede-Creek) just below [Harvey's Slot](/Run/Harvey's-Slot). <sup>[nw][]</sup>
 
 ### Origin
 
 There was a pool formed by an old RR dam built in 1886. The dam washed out in 1984 and Ferguson Pool is no more. It was named in honor of Stu Ferguson, who could not resist skiing down into it, thereafter making his way - roped up - all the way down.<sup>[nw][]</sup>
 
-Named to commemorate [Stu Ferguson](Stu-Ferguson) who fell into the pond while skiing (in the 1960s?)<sup>[n9][]</sup>
+Named to commemorate [Stu Ferguson](/Person/Stu-Ferguson) who fell into the pond while skiing (in the 1960s?)<sup>[n9][]</sup>
 
 
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"

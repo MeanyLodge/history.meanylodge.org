@@ -14,7 +14,7 @@ categories:
 Wife of Northern Pacific Railroad engineer Harry K. Iverson.
 
 ### Roles
-- [Cook](Cook) 1935-1965
+- [Cook](/Person/Cook) 1935-1965
 
 ---
 ### History
@@ -42,20 +42,20 @@ p. 57
 
 My Years at Meany
 
-by Mrs Harry K. (Nashie) Iverson
+by Mrs Harry K. (/Person/Annie-Iverson) Iverson
 
 I REMEMBER the first time I came to Meany - for the New Year's celebration of 1934-5. Never in all my life had I met such a queer lot of people was my first impression. Their garb surely set them apart as being out of the ordinary.
 It didn't take long to figure out that outdoor sports were not their only interest; they had an interest in everything! After my day's work, it was interesting for me to sit in the shadows and see the romantic intrigue among the bachelors and spinsters, for there was plenty of it. No one paid much attention to the fact that they were being spied upon. My favorite vantage point was sitting underneath the dripping socks that were hung over the old coal stove which in those days provided the only drying facilities.
 
 There was never a dull moment and times haven't changed a bit. Come 11 o'clock, games and merriment of the evening were over and time to bed down. In the women's dorm we were nightly entertained by Sally's ballet dance costumed in fancy scanties. After breakfast some of the hardier skiers packed a lunch and took off for Mount Baldi which was an all day trip. The party consisted of Norm Engle, Herman Wunderling and Paul and Gertrude Shorrock. The less eager played around [Hell's Half-acre](Hell's-Half-acre) climbing up under their own steam.
 
-On Washington's birthday, a three-day holiday, the hut was filled to capacity with 60 people. The rain came down in torrents keeping everyone inside, except a few who now and then would venture out for a breath of air and return soaking wet. Even so the roof billowed with hilarity, and chairman [Jack Hossack](Jack-Hossack) said: "Nashie, I bet you have never been housed with so many 'nuts' before!" He was right, but I will say this: they were and still are the greatest in the land.
+On Washington's birthday, a three-day holiday, the hut was filled to capacity with 60 people. The rain came down in torrents keeping everyone inside, except a few who now and then would venture out for a breath of air and return soaking wet. Even so the roof billowed with hilarity, and chairman [Jack Hossack](/Person/Jack-Hossack) said: "Nashie, I bet you have never been housed with so many 'nuts' before!" He was right, but I will say this: they were and still are the greatest in the land.
 
 In 1937 the Juniors began entering the club and life took on added color, which on occasion turned to a dull gray. The Seniors found the Juniors taking over the place. To many of them this meant doom, but surprisingly enough the Juniors became rapidly adjusted and did themselves proud by assuming the necessary responsibilities and adding new and novel entertainment.
 
 Within the next year growing pains overtook the lodge and it was decided to build an addition to the hut. All the skillful eager beavers gathered around and with much toil and perspiration the dream came into being. It came to me as a revelation what ability and cooperation could and did accomplish. Even the artistic touch appeared in Boyd Bucey's scallop trim over the windows.
 
-One of the recent outstanding events was the dedication of [Lower Slobbovia](Lower-Slobbovia) which was described by Ernie as a "masterpiece," Dick Merritt as "Mr. Fog Bound," Joan as a "Bird Watcher" and Roy Snider as "Custodian of All the Out-of-Doors." There were others too, such as [Art Nation](Art-Nation), "genius of music and dance," and [Walter Little](Walter-Little) with "work and wisdom and years of experience." I could go on and on but it all sums up to the fact that the Seniors helped the Juniors and vice versa-and all live at Meany in peace and harmony.
+One of the recent outstanding events was the dedication of [Lower Slobbovia](/Run/Lower-Slobbovia) which was described by Ernie as a "masterpiece," Dick Merritt as "Mr. Fog Bound," Joan as a "Bird Watcher" and Roy Snider as "Custodian of All the Out-of-Doors." There were others too, such as [Art Nation](/Person/Art-Nation), "genius of music and dance," and [Walter Little](/Person/Walter-Little) with "work and wisdom and years of experience." I could go on and on but it all sums up to the fact that the Seniors helped the Juniors and vice versa-and all live at Meany in peace and harmony.
 
 My greatest satisfaction has been to watch the growth of character that has come from this close association. It is not possible for one to weigh or measure the far-reaching influence that these relationships have on the people who meet here, but I feel sure that they carry with them a most pleasant and lasting memory.
 

@@ -3,4 +3,4 @@ title: Slobbovia
 category: Stub
 ---
 # Slobbovia
-See [Lower Slobbovia](Lower-Slobbovia)
+See [Lower Slobbovia](/Run/Lower-Slobbovia)

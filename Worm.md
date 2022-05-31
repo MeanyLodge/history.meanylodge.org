@@ -51,7 +51,7 @@ Electric motor + spare parts cost ~ $300. <sup>[hw][]</sup>
 
 #### 1969
 
-- [plans](/reference/1969-Worm.pdf) by [Mike Lonergan](Mike-Lonergan)
+- [plans](/reference/1969-Worm.pdf) by [Mike Lonergan](/Person/Mike-Lonergan)
 
 
 [dc87]: Dave-Claar#1987

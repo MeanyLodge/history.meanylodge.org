@@ -14,7 +14,7 @@ categories:
 ### History
 #### 2019
 
-Woodshed: replaced the roof. Replaced plywood decking with 2 layers of 3/4 plywood and covered with a fully adhered PVC membrane. Tearoff and framing team led by [Matt Simerson](Matt-Simerson) and membrane installation led by [Steve Bozorth](Steve-Bozorth).<sup>[wp19][]</sup>
+Woodshed: replaced the roof. Replaced plywood decking with 2 layers of 3/4 plywood and covered with a fully adhered PVC membrane. Tearoff and framing team led by [Matt Simerson](/Person/Matt-Simerson) and membrane installation led by [Steve Bozorth](/Person/Steve-Bozorth).<sup>[wp19][]</sup>
 
 #### 2003
 

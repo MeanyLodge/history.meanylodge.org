@@ -19,7 +19,7 @@ What a joy to see everyone!<sup>[75th][]</sup>
 
 #### 2020
 
-Used to use the [Junior Trail](Junior-Trail) regularly to get to the [Tow Hut](Tow-Hut). --[Patti Polinsky](Patti-Polinsky)
+Used to use the [Junior Trail](Junior-Trail) regularly to get to the [Tow Hut](Tow-Hut). --[Patti Polinsky](/Person/Patti-Polinsky)
 
 
 [75th]: Anniversary#75th

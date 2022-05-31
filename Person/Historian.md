@@ -6,12 +6,12 @@ category: List
 
 Custodians of Meany History
 
-* [Walter Little](Walter-Little) 1927-1989
-* [Idona Kellogg](Idona-Kellogg) 1975-2003+
-* [Dave Claar](Dave-Claar)
-* [Emilio Marasco](Emilio-Marasco)
-* [Matt Simerson](Matt-Simerson) 2020-
+* [Walter Little](/Person/Walter-Little) 1927-1989
+* [Idona Kellogg](/Person/Idona-Kellogg) 1975-2003+
+* [Dave Claar](/Person/Dave-Claar)
+* [Emilio Marasco](/Person/Emilio-Marasco)
+* [Matt Simerson](/Person/Matt-Simerson) 2020-
 
 ### See Also
 
-* [Sources](Sources)
+* [Sources](/Sources)

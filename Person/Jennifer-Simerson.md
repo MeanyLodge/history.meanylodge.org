@@ -16,8 +16,8 @@ categories:
 
 ### Known For
 - PSIA Level 3 Ski Instructor
-- Married to [Matt Simerson](Matt-Simerson)
-
+- Married to [Matt Simerson](/Person/Matt-Simerson)
+- Mother of Kayla & Lucas
 
 ---
 ### History

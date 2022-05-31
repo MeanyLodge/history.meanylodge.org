@@ -14,11 +14,11 @@ categories:
 - Ray Nelson
 
 ### Roles
-- [Chair](Chair) from 1966-1982 and 1987-1990
-- [Committee](Committee)
+- [Chair](/Person/Chair) from 1966-1982 and 1987-1990
+- [Committee](/Person/Committee)
 
 ### Known For
-- "Running the best work parties." - [Patti-Polinsky-Claar](Patti-Polinsky)
+- "Running the best work parties." - [Patti-Polinsky-Claar](/Person/Patti-Polinsky)
 - Electrician
 - Lineman
 - Power Management Director for Seattle City Light

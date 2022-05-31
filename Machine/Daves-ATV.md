@@ -19,7 +19,7 @@ category: Machine
 
 ### Description
 
-An ATV donated by [Dave Claar](Dave-Claar). Like Hippo, Dave pays for the maintenance.
+An ATV donated by [Dave Claar](/Person/Dave-Claar). Like Hippo, Dave pays for the maintenance.
 
 ---
 ### History
@@ -30,4 +30,4 @@ An ATV donated by [Dave Claar](Dave-Claar). Like Hippo, Dave pays for the mainte
 - Spark plug changed NGK CR7E.
 - Oil & Filter changed, with Honda HP4 synthetic blend, K&N KN138 filter.
 
-I did a brake job, new cables, oil change, and new trailer hitch on it this spring. Brakes shouldn't drag and squeak now when you drive it. --[Rick Ingham](Rick-Ingham)
+I did a brake job, new cables, oil change, and new trailer hitch on it this spring. Brakes shouldn't drag and squeak now when you drive it. --[Rick Ingham](/Person/Rick-Ingham)

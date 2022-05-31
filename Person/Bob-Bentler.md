@@ -31,16 +31,16 @@ Birth.
 
 #### 1961 or 1962
 
-First year at Meany. Introduced to Meany by [Norm Vigus](Norm-Vigus)' parents.
+First year at Meany. Introduced to Meany by [Norm Vigus](/Person/Norm-Vigus)' parents.
 
 
 #### 1978
 
-One extra special Saturday night program was the dedication banquet for "Walt's Woods" with Master of Ceremonies [Lee Helser](Lee-Helser) cleverly spicing the evening and a film on Walter shown by Bob Bentler. A huge cake shaped like a bald head contained a hidden cavity which was opened to reveal Walter's thoughts in the form of sayings on heart-shaped candies.<sup>[hr][]</sup>
+One extra special Saturday night program was the dedication banquet for "Walt's Woods" with Master of Ceremonies [Lee Helser](/Person/Lee-Helser) cleverly spicing the evening and a film on Walter shown by Bob Bentler. A huge cake shaped like a bald head contained a hidden cavity which was opened to reveal Walter's thoughts in the form of sayings on heart-shaped candies.<sup>[hr][]</sup>
 
 #### 1979
 
-Another notable weekend was the Leap Day Bonanza where Hildegarde Hamhocker of Tumbleweeds (played by [Bob Bentler](Bob-Bentler)) and Sadie Hawkins from Dogpatch (portrayed by [Norm Vigus](Norm-Vigus)) invaded to choose a mate from among the many Meany eligibles...Bob Bentler showed Super 8 movies of Walt and Norm to prove why they should be winners.<sup>[hr78][]</sup>
+Another notable weekend was the Leap Day Bonanza where Hildegarde Hamhocker of Tumbleweeds (played by [Bob Bentler](/Person/Bob-Bentler)) and Sadie Hawkins from Dogpatch (portrayed by [Norm Vigus](/Person/Norm-Vigus)) invaded to choose a mate from among the many Meany eligibles...Bob Bentler showed Super 8 movies of Walt and Norm to prove why they should be winners.<sup>[hr78][]</sup>
 <img src="/img/2021-Bob-Bentler-Dozer.jpeg" style="width: 60%;" align="right">
 
 #### 2020-11-20

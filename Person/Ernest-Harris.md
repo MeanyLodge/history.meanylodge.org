@@ -9,7 +9,7 @@ categories:
 - Ernest N. Harris
 
 ### Roles
-- [Chair](Chair) 1928
+- [Chair](/Person/Chair) 1928
 
 ---
 ### History

@@ -11,7 +11,7 @@ tags: Deceased
 - Death: during WWII<sup>[mw][]</sup>
 
 ### Known For
-- [Kirkland Park](Kirkland-Park)
+- [Kirkland Park](/Run/Kirkland-Park)
 
 ---
 ### History

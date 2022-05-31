@@ -22,7 +22,7 @@ categories:
 ### History
 #### 1979
 
-Other skit characters were the minister ([Dave Claar](Dave-Claar)) and the victim (Charlie Vail). [Walter Little](Walter-Little) walked away with the Bachelor of the Year Award with Norm Vigus as runner-up. [Bob Bentler](Bob-Bentler) showed Super 8 movies of Walt and Norm to prove why they should be the winners. <sup>[ma79][]</sup>
+Other skit characters were the minister ([Dave Claar](/Person/Dave-Claar)) and the victim (Charlie Vail). [Walter Little](/Person/Walter-Little) walked away with the Bachelor of the Year Award with Norm Vigus as runner-up. [Bob Bentler](/Person/Bob-Bentler) showed Super 8 movies of Walt and Norm to prove why they should be the winners. <sup>[ma79][]</sup>
 
 #### 1987
 
@@ -38,7 +38,7 @@ I signed on as an instructor in I think the late 90's.
 
 #### 2020
 
-One Sunday morning [Al](Al-Alleman) took me up to the Mt. Francis microwave towers and I skied down the clear cuts by myself coming out about 2 gullies beyond Walt's Woods. Don't know if I'd have the nerve to do that now but when you're young and invulnerable, early 40's or so. Also had memories of Al Alleman working the #2 rope at Stevens Pass in the mid/late 50's. --[Norm Vigus](Norm-Vigus)
+One Sunday morning [Al](/Person/Al-Alleman) took me up to the Mt. Francis microwave towers and I skied down the clear cuts by myself coming out about 2 gullies beyond Walt's Woods. Don't know if I'd have the nerve to do that now but when you're young and invulnerable, early 40's or so. Also had memories of Al Alleman working the #2 rope at Stevens Pass in the mid/late 50's. --[Norm Vigus](/Person/Norm-Vigus)
 
 [75th]: Anniversary#75th
 [hr]: History-Reports

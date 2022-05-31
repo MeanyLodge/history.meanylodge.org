@@ -12,7 +12,7 @@ An outhouse.
 Just south of the [Tow Hut](Tow-Hut), between [Mach](Mach) and [Turtle](Turtle).
 
 ### Purpose
-To save skiers and tow [operators](Operator) a trip back to the lodge.
+To save skiers and tow [operators](/Person/Operator) a trip back to the lodge.
 
 ### Events
 - Constructed: 1986 <sup>[hr][]</sup>

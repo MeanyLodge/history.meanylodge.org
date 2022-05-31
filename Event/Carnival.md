@@ -7,11 +7,11 @@ category: Event
 
 #### 1978
 
-A highlight of the ski season was the carnival weekend which featured many corny contests and crazy races, a clowns contest and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels and breadsticks. Many fancy relish trays with elaborate flowered vegetable "nibbles" and apple swans served from an outdoor snow table is an example of how embellished and painstaking the carnival events were. This fantastic weekend was masterminded by [Patti Polinsky](Patti-Polinsky). <sup>[hr][]</sup>
+A highlight of the ski season was the carnival weekend which featured many corny contests and crazy races, a clowns contest and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels and breadsticks. Many fancy relish trays with elaborate flowered vegetable "nibbles" and apple swans served from an outdoor snow table is an example of how embellished and painstaking the carnival events were. This fantastic weekend was masterminded by [Patti Polinsky](/Person/Patti-Polinsky). <sup>[hr][]</sup>
 
 #### 1979
 
-The annual Carnivale di Meany was again a superb event as master-minded by [Patti Polinsky](Patti-Polinsky). In addition to skiing events there were corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels and breadsticks. <sup>[hr][]</sup>
+The annual Carnivale di Meany was again a superb event as master-minded by [Patti Polinsky](/Person/Patti-Polinsky). In addition to skiing events there were corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels and breadsticks. <sup>[hr][]</sup>
 
 #### 1982
 

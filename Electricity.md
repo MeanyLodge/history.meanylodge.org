@@ -69,7 +69,7 @@ Added gasoline motor-generator set for electric lights. Added wiring for electri
 
 #### 1946
 
-By the time the first snowflake falls on the [Lane](Lane), Meany will boast a new light plant<sup>[ma46][]</sup>
+By the time the first snowflake falls on the [Lane](/Run/Lane), Meany will boast a new light plant<sup>[ma46][]</sup>
 
 #### 1960
 
@@ -94,7 +94,7 @@ This (the 1980 power outage) resulted in converting our electrical load to PSE i
 
 #### 1982
 
-Crews built a power line from Puget Sound Power line on [Lower Slobbovia](Lower-Slobbovia) to the lodge. This became necessary because last year a tree took out a power line and during the process of repair Burlington-Northern management discovered Meany Ski Hut was still getting power from the railroad. The power permit was cancelled but Burlington-Northern continued to supply power to the lodge during spring and summer of 1981 and until Meany could connect to Puget Sound Power. Thank you, Burlington-Northern! And thanks to [Carsten Lien](Carsten-Lien) for negotiating this arrangement. <sup>[ma82][]</sup>
+Crews built a power line from Puget Sound Power line on [Lower Slobbovia](/Run/Lower-Slobbovia) to the lodge. This became necessary because last year a tree took out a power line and during the process of repair Burlington-Northern management discovered Meany Ski Hut was still getting power from the railroad. The power permit was cancelled but Burlington-Northern continued to supply power to the lodge during spring and summer of 1981 and until Meany could connect to Puget Sound Power. Thank you, Burlington-Northern! And thanks to [Carsten Lien](/Person/Carsten-Lien) for negotiating this arrangement. <sup>[ma82][]</sup>
 
 #### 1985
 
@@ -153,4 +153,4 @@ A downed tree took out our power line between poles 1 and 2. See [Power Outage N
 [ma82]: Mountaineer-Annual#1982
 [rn15]: https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2015-Power-Line-Replacement.pdf
 [rn19]: Electrical-Power-System
-[tp]: Tomcat-Petition
+[tp]: /Machine/Tomcat/Petition

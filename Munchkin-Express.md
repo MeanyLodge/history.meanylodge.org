@@ -10,4 +10,4 @@ Starts outside the tunnel door and ends below the Tow Hut.
 
 ### Description
 
-Munchkin Express is a ride out to the ski hill. It is given to skiers shorter than [Patti Polinsky](Patti-Polinsky). It runs daily, about 15 minutes before ski lessons start. It is powered by a Meany [animal](Machines).
+Munchkin Express is a ride out to the ski hill. It is given to skiers shorter than [Patti Polinsky](/Person/Patti-Polinsky). It runs daily, about 15 minutes before ski lessons start. It is powered by a Meany [animal](Machines).

@@ -17,7 +17,7 @@ The Mountaineer 1930
 
 p. 56
 
-The next races were held at Martin on March 2, 1930, for the Slallom trophy, donated by [Robert Hayes](Robert-Hayes), and for the down hill trophy, the gift of [W. J. Maxwell](Bill-Maxwell). The purpose of the Slallom race is to develop proficiency in turns and the course was laid on the west slope of [Meany Hill](Meany-Hill). It was won by Wolf Bauer. Hans-Otto Giese was second, and Hans Grage third. The winner's time was one minute six and four fifths seconds. The weather conditions were not entirely satisfactory, due to a crusty surface.
+The next races were held at Martin on March 2, 1930, for the Slallom trophy, donated by [Robert Hayes](/Person/Robert-Hayes), and for the down hill trophy, the gift of [W. J. Maxwell](/Person/Bill-Maxwell). The purpose of the Slallom race is to develop proficiency in turns and the course was laid on the west slope of [Meany Hill](Meany-Hill). It was won by Wolf Bauer. Hans-Otto Giese was second, and Hans Grage third. The winner's time was one minute six and four fifths seconds. The weather conditions were not entirely satisfactory, due to a crusty surface.
 
 The purpose of the down hill race is to promote skill and speed in down hill running. It started in the timber of [Meany Hill](Meany-Hill) and finished just above the Hut. This was won by Hans Grage, Hans-Otto Giese placing second and Wolf Bauer third.
 
@@ -27,7 +27,7 @@ The men's race started from the top of [Meany Hill](Meany-Hill), crossing over t
 
 The Patrol race was held March 23, 1939, for a cup donated by A. W. Anderson and N. W. Grigg. The course was from the Lodge to Martin and followed the regular Forest Service trail to Olalee Meadows, Mirror Lake, Yakima Pass, Meadow Creek, Dandy Creek, Dandy Pass, finishing at Martin. For details regarding equipment, start, rules to be observed, etc., the reader is referred to the Mountaineer Annual of 1929, pages 46 and 47.
 
-The weather was very unfavorable on the day of the race, due to several days' fall of fresh snow, which made the going extremely heavy, despite the valiant efforts of the trail breaking crew. There were four patrols of three persons each entered as follows: (1) Hans-Otto Giese, Andrew W. Anderson and [Fred Ball](Fred-Ball); (2) Paul Shorrock, N. W. Grigg and [Robert Hayes](Robert-Hayes); (3) Allan Cox, George Tepley and Robert Sperlin; and (4) Ted Lewis, William A. Degenhardt and James C. Martin. The start was made from Snoqualmie Lodge at 8:17 a.m., March 23.
+The weather was very unfavorable on the day of the race, due to several days' fall of fresh snow, which made the going extremely heavy, despite the valiant efforts of the trail breaking crew. There were four patrols of three persons each entered as follows: (1) Hans-Otto Giese, Andrew W. Anderson and [Fred Ball](/Person/Fred-Ball); (2) Paul Shorrock, N. W. Grigg and [Robert Hayes](/Person/Robert-Hayes); (3) Allan Cox, George Tepley and Robert Sperlin; and (4) Ted Lewis, William A. Degenhardt and James C. Martin. The start was made from Snoqualmie Lodge at 8:17 a.m., March 23.
 
 The patrol consisting of Hans-Otto Giese, A. W. Anderson and Fred Ball won first place, finishing at 3:47:50 p.m., after covering the twenty
 

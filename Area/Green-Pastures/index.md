@@ -5,7 +5,7 @@ category: Place
 # Green Pastures
 ### Location
 
-Between [North Slobbovia](North-Slobbovia) and upper Tombstone. <sup>[nw][]</sup>
+Between [North Slobbovia](/Run/North-Slobbovia) and upper Tombstone. <sup>[nw][]</sup>
 
 ### Origin
 

@@ -11,7 +11,7 @@ On the wall in the lodge, next to the stairwell.
 
 ### Origin
 
-Created by [Doug Damm](Doug-Damm) in 1960.
+Created by [Doug Damm](/Person/Doug-Damm) in 1960.
 
 ### See Also
 

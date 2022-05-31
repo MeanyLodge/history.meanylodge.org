@@ -3,6 +3,9 @@ title: History
 category: Document
 ---
 # Meany Lodge History
+
+This is a chronological history compiled from [many sources](/Sources).
+
 ### 1884
 
 The charred and blackened snags left by the fire of 1884...<sup>[ma55][]</sup>
@@ -29,7 +32,7 @@ Mountaineer Skiers determined that another ski hut, additional to Snoqualmie Lod
 
 ### 1928
 
-[Ernest Harris](Ernest-Harris)'s committee selected the Martin site and Dr. [Edmond S. Meany](/Person/Edmond-S.-Meany) purchased it for $125 and donated it to the Mountaineers. In June 1928 plans for a 20x50 two-story frame building to accommodate 50 people were approved and $1,700 was appropriated for construction. <sup>[ma56][]</sup> Generous donations were made by the Everett and Tacoma branches. Lumber was purchased from the Cabin Creek Sawmill.<sup>[hw][]</sup> Materials were shipped by rail to Martin, unloaded by the enthusiastic volunteer workers and carried uphill 300 yards <sup>[ma78][]</sup> to the site by hand. Construction was started in September and dedicated on November 11.
+[Ernest Harris](/Person/Ernest-Harris)'s committee selected the Martin site and Dr. [Edmond S. Meany](/Person/Edmond-S.-Meany) purchased it for $125 and donated it to the Mountaineers. In June 1928 plans for a 20x50 two-story frame building to accommodate 50 people were approved and $1,700 was appropriated for construction. <sup>[ma56][]</sup> Generous donations were made by the Everett and Tacoma branches. Lumber was purchased from the Cabin Creek Sawmill.<sup>[hw][]</sup> Materials were shipped by rail to Martin, unloaded by the enthusiastic volunteer workers and carried uphill 300 yards <sup>[ma78][]</sup> to the site by hand. Construction was started in September and dedicated on November 11.
 
 <img src="/img/1928-Meany-Ski-Hut.png" style="width: 30%;" alt="Meany Lodge construction photo" align="right">
 
@@ -81,7 +84,11 @@ Digging out the lodge basement and installing a new septic system and drain fiel
 
 ### 2019
 
-A new well as part of the [Water](Water) system.
+A new well as part of the [Water](Water) system and a [pump house](/Building/Pump-House).
+
+### 2021
+
+The tunnel was rebuilt.
 
 
 [75th]: /Anniversary#75th

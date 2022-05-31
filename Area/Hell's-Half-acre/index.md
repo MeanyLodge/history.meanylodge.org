@@ -5,7 +5,7 @@ category: Place
 # Hell's Half-acre
 ### Location
 
-A patch of ground north of the [Lane](Lane) and south of [Cognito Wood](Cognito-Wood). <sup>[nw][]</sup>
+A patch of ground north of the [Lane](/Run/Lane) and south of [Cognito Wood](/Run/Cognito-Wood). <sup>[nw][]</sup>
 
 ### Origin
 
@@ -15,7 +15,7 @@ It was logged by NPRR in 1886 and in 1928 there was second growth brush and timb
 
 #### 1930
 
-This patch of ground is north of the [Lane](Lane) and south of [Cognito Wood](Cognito-Wood). It was logged by NPRR in 1886 and in 1928 there was second growth brush and timber on it. <sup>[nw][]</sup>
+This patch of ground is north of the [Lane](/Run/Lane) and south of [Cognito Wood](/Run/Cognito-Wood). It was logged by NPRR in 1886 and in 1928 there was second growth brush and timber on it. <sup>[nw][]</sup>
 
 In about 1930, Mountaineers cleared the brush and second growth to get some open skiing near the hut. The work was done in exceptionally hot weather, becoming known as "Hell's Half-acre." <sup>[hw][]</sup>
 

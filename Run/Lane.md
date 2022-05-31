@@ -63,7 +63,7 @@ Safety gate wiring improved. <sup>[hw][]</sup>
 
 #### 1962
 
-Lower [Lane](Lane) bulldozed to improve approach to [Mach](Mach) tow. <sup>[hw][]</sup>
+Lower [Lane](/Run/Lane) bulldozed to improve approach to [Mach](Mach) tow. <sup>[hw][]</sup>
 
 #### 1982
 

@@ -18,14 +18,14 @@ categories:
 {% include roles.html %}
 
 ### Known For
-- Son of [Peggy Grass](Peggy-Grass)
+- Son of [Peggy Grass](/Person/Peggy-Grass)
 
 ---
 ### History
 #### 1976
 
-- On Tuesday Tom & [Bob Grass](Bob-Grass) assembled [Tom Cat's] Engine<sup>[hr][]</sup>
+- On Tuesday Tom & [Bob Grass](/Person/Bob-Grass) assembled [Tom Cat's] Engine<sup>[hr][]</sup>
 
 
-[hr]: History-Idona "Meany History Reports, by Idona Kellogg"
+[hr]: /History/Idona "Meany History Reports, by Idona Kellogg"
 [rg]: # "Email from Robert Grass to Matt Simerson, 2020-05-15"

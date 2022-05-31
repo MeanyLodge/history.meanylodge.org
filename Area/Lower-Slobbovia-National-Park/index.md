@@ -7,11 +7,11 @@ category: Place
 
 ### Location
 
-The center of [Lower Slobbovia](Lower-Slobbovia).
+The center of [Lower Slobbovia](/Run/Lower-Slobbovia).
 
 ### Origin
 
-This was a small lone hemlock, branches on one side only, that lived for a while in the center of [Lower Slobbovia](Lower-Slobbovia). After Senator Phogbound - at a special hearing - had this declared a national park, it was cherished and guarded. Signs appeared;
+This was a small lone hemlock, branches on one side only, that lived for a while in the center of [Lower Slobbovia](/Run/Lower-Slobbovia). After Senator Phogbound - at a special hearing - had this declared a national park, it was cherished and guarded. Signs appeared;
 
 - "Keep Slobbovia Green - bring money."
 - "Keep off."

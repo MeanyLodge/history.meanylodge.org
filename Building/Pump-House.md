@@ -17,7 +17,7 @@ Part of the [Water](Water) system. It encloses the well head and reservoir acces
 
 ### More Info
 
-Designed and built in 2019, in Shoreline, by [Matt Simerson](Matt-Simerson). It was then disassembled, hauled to Meany by [Jim Fahey](Jim-Fahey) in a box truck and reassembled by a Meany work party.
+Designed and built in 2019, in Shoreline, by [Matt Simerson](/Person/Matt-Simerson). It was then disassembled, hauled to Meany by [Jim Fahey](/Person/Jim-Fahey) in a box truck and reassembled by a Meany work party.
 
 Cost: $1,689
 

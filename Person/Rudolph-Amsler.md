@@ -8,4 +8,4 @@ categories:
 
 {% include roles.html %}
 ### Known For
-- Author of [Ski Excursions From Meany Hut](Ski-Excursions-From-Meany-Hut)
+- Author of [Ski Excursions From Meany Hut](/Ski-Excursions-From-Meany-Hut)
