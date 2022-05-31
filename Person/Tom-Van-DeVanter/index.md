@@ -34,6 +34,6 @@ The Bombardier Snow Tractor used to haul everything three miles from I-90 to Mea
 
 Brought 1st [to Meany] by [Carsten Lien](/Person/Carsten-Lien) 1954. Drove sno cat Dec 1960 thru Spring 2001. \*Wanda Van DeVanter - Brought 1st [to Meany] by Tom in 1968. Been here since. <sup>[75th]</sup>
 
-[75th]: /Anniversary#75th
+[75th]: /Event/Anniversary#75th
 [hw]: /Names-Walt "Meany Names by Walter Little, 1984"
 [htt]: /Skiers-Hit-The-Trail

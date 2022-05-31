@@ -4,8 +4,8 @@ category: List
 ---
 # Events
 ### Seasonal
-- [Ski School](Ski-School)
-- [Munchkin Express](Munchkin-Express)
+- [Ski School](/Ski-School)
+- [Munchkin Express](/Munchkin-Express)
 
 ### Annual
 - [Carnival](/Event/Carnival)
@@ -14,7 +14,7 @@ category: List
     - ...
 - [MOFA](MOFA)
 - [Mushroom Weekend](/Event/Mushroom-Weekend)
-- [Work Parties](Work-Parties)
+- [Work Parties](/Work-Parties)
 
 ### Special Events
 - [Mountain Bike Workshops](Mountain-Bike-Workshops)

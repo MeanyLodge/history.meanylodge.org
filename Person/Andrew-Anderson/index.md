@@ -22,7 +22,7 @@ tags: founder
 - Attempted first ski ascent of Rainier in April 1927
 
 ### More Info
-- Author of [Skiing in Retrospect](Skiing-in-Retrospect)
+- Author of [Skiing in Retrospect](/Skiing-in-Retrospect)
 
 ### See Also
 ### History

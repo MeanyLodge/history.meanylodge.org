@@ -24,4 +24,4 @@ Year around use of Meany Lodge Sports Center by Mountaineers and their activitie
 
 In the future Meany hopes to continue to improve the lodge to fulfill the needs of the membership. The purchase and installation of a used chairlift would allow everyone access to the top of the hill in wintertime and could be used in summertime to take mountain bikers and sightseers up the hill for easy access to beautiful mountain countryside.<sup>[75th][]</sup>
 
-[75th]: /Anniversary#75th
+[75th]: /Event/Anniversary#75th

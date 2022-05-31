@@ -48,6 +48,6 @@ Furnace: Propane 125k BTU/hr
 Storage: (4) 100# tanks
 
 
-[75th]: /Anniversary#75th
+[75th]: /Event/Anniversary#75th
 [nw]: /Names-Walt "Meany Names by Walter Little, 1984"
 [wp93]: /Work-Parties#1993

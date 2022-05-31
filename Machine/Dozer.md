@@ -22,4 +22,4 @@ Under the [Dozer Tipi](/Building/Dozer-Tipi) in the [Industrial Park](Industrial
 The Bulldozer is owned by Meanyite [Bob Bentler](/Person/Bob-Bentler). This International Harvester TD6-61 (Diesel) was used to smooth out ski lesson terrain, prepare ground at Tombstone Canyon for laying culvert pipes and to grade roads.<sup>[75th][]</sup>
 
 
-[75th]: /Anniversary#75th
+[75th]: /Event/Anniversary#75th

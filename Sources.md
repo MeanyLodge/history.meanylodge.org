@@ -15,9 +15,9 @@ The research on this site has been gathered from personal knowledge, interviews,
 | 1932 | [Ski Excursions From Meany Hut][go] | [Rudolph Amsler](/Person/Rudolph-Amsler)
 | 1933 | [The Mountaineer Influence in Northwest Skiing][mis] | [Robert Hayes][rh]
 | 1936 | [Skiing In Retrospect][sir] | [Andrew Anderson](/Person/Andrew-Anderson)
-| 1960 | [Meany Map](Meany-Map) | [Doug Damm](D/Person/oug-Damm) |
+| 1960 | [Meany Map](Meany-Map) | [Doug Damm](/Person/Doug-Damm) |
 | 1960 | [Petition to Get Tomcat](/Machine/Tomcat/Petition) | [Harvey Mahalko](/Person/Harvey-Mahalko) |
-| 1961 | [Petition to Buy Tomcat](Tomcat-Buy) | [Walter Little][wl]
+| 1961 | [Petition to Buy Tomcat](/Machine/Tomcat/Buy) | [Walter Little][wl]
 | 197? | [Meany Flipboard](Flipboard) | [Idona Kellogg][ik] |
 | 1984 | [Chronological History of Meany Lodge](/History/Walt) | [Walter Little][wl]
 | 1978 | [Meany Names 1978](Names-Walt-1978) | [Walter Little][wl]
@@ -32,7 +32,7 @@ The research on this site has been gathered from personal knowledge, interviews,
 | 2020 | [Work Parties](Work-Parties) | [Matt Simerson](/Person/Matt-Simerson)
 
 
-[dev]:  /The-Development-of-Skiing-in-the-Mountaineers
+[dev]:  /History/The-Development-of-Skiing-in-the-Mountaineers
 [go]:   /Ski-Excursions-From-Meany-Hut
 [hut]:  /Skiing-and-the-Ski-Hut
 [life]: /Life-At-Meany-Ski-Hut

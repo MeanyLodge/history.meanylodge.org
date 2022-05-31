@@ -9,7 +9,7 @@ Buildings and Structures on the Meany Campus.
 - [Lodge](/Lodge)
     - [Generator Hut](Generator-Hut)
     - [Propane Hut](/Building/Propane-Hut)
-- [Industrial Park](Industrial-Park)
+- [Industrial Park](/Area/Industrial-Park)
     - [Zoo](/Building/Zoo)
     - [Cat House](/Building/Cat-House)
     - [Gas Hut](/Building/Gas-Hut)
@@ -27,4 +27,4 @@ Buildings and Structures on the Meany Campus.
     - [Martin Lookout](Martin-Lookout)
 
 
-###### [template](Building-Template)
+###### [template](/Building/Template)

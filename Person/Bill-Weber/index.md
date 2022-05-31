@@ -22,5 +22,5 @@ What a joy to see everyone!<sup>[75th][]</sup>
 Used to use the [Junior Trail](/Area/Junior-Trail) regularly to get to the [Tow Hut](/Building/Tow-Hut). --[Patti Polinsky](/Person/Patti-Polinsky)
 
 
-[75th]: /Anniversary#75th
-[hi]: History-Idona
+[75th]: /Event/Anniversary#75th
+[hi]: /History/Idona

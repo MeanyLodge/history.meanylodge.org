@@ -14,4 +14,4 @@ categories:
 
 **Dick & Joan Merritt** - Jr. Member-1944; Hut chairman 1954 & 1955.<sup>[75th][]</sup>
 
-[75th]: /Anniversary#75th
+[75th]: /Event/Anniversary#75th

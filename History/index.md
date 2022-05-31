@@ -12,19 +12,19 @@ The charred and blackened snags left by the fire of 1884...<sup>[ma55][]</sup>
 
 ### 1910s
 
-Meany's development is inter-woven with the growth of skiing in the northwest, beginning about 1915-16, the centers of activity being [Snoqualmie Lodge](/Snoqualmie-Lodge) and Paradise. Special outings at Stampede led by our early skiers over the pass to Martin where the favorable terrain and accessibility by train (no backpacking!) impressed them. These early explorers were enthused by the open areas around the present weather station, the power line hill, and the magnificent open timber of [Meany Hill](/Meany-Hill). <sup>[ma56][]</sup>
+Meany's development is inter-woven with the growth of skiing in the northwest, beginning about 1915-16, the centers of activity being [Snoqualmie Lodge](/Building/Snoqualmie-Lodge) and Paradise. Special outings at Stampede led by our early skiers over the pass to Martin where the favorable terrain and accessibility by train (no backpacking!) impressed them. These early explorers were enthused by the open areas around the present weather station, the power line hill, and the magnificent open timber of [Meany Hill](/Meany-Hill). <sup>[ma56][]</sup>
 
 First interest of the country around was due to the vast area of denuded hills on Meany Hill and around Stampede Pass. As the forest grew these sections became less usable. <sup>[ma56][]</sup>
 
 ### 1920s
 
-Mountaineers skied in the area, with excursions (Patrols) from [Snoqualmie Lodge](Snoqualmie-Lodge) and the Stampede Pass and Martin rail stations.
+Mountaineers skied in the area, with excursions (Patrols) from [Snoqualmie Lodge](/Building/Snoqualmie-Lodge) and the Stampede Pass and Martin rail stations.
 
 Skiers from [Cle Elum frequently visited Martin](https://www.historylink.org/File/10615).
 
 ### 1927
 
-During the winter of 1927, the Mountaineers lodge at Snoqualmie was [filled to over-flowing for the first time](The-Development-of-Skiing-in-the-Mountaineers), nearly every weekend. A committee led by [Ernest Harris](/Person/Ernest-Harris) began [planning for a another lodge][hut] to primarily serve the skiing community.
+During the winter of 1927, the Mountaineers lodge at Snoqualmie was [filled to over-flowing for the first time](/History/The-Development-of-Skiing-in-the-Mountaineers), nearly every weekend. A committee led by [Ernest Harris](/Person/Ernest-Harris) began [planning for a another lodge][hut] to primarily serve the skiing community.
 
 Following the winter of 1927-28 further explorations of the area led to a favorable decision.<sup>[ma56][]</sup>
 
@@ -84,16 +84,16 @@ Digging out the lodge basement and installing a new septic system and drain fiel
 
 ### 2019
 
-A new well as part of the [Water](Water) system and a [pump house](/Building/Pump-House).
+A new well as part of the [Water](/Water) system and a [pump house](/Building/Pump-House).
 
 ### 2021
 
 The tunnel was rebuilt.
 
 
-[75th]: /Anniversary#75th
-[hut]: /Skiing-and-the-Ski-Hut
-[hw]: /History-Walt "Meany History, by Walt Little"
+[75th]: /Event/Anniversary#75th
+[hut]:  /Skiing-and-the-Ski-Hut
+[hw]:   /History/Walt "Meany History, by Walt Little"
 [ma55]: /Mountaineer-Annual#1955
 [ma56]: /Mountaineer-Annual#1956
 [ma67]: /Mountaineer-Annual#1967

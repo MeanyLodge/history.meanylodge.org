@@ -21,5 +21,5 @@ Woodshed: replaced the roof. Replaced plywood decking with 2 layers of 3/4 plywo
 Sold on Meany. Evan would stay here every day, all winter. At 4 years old, Evan has yet to realize that Mom and Dad MUST work to come to Meany and pay for the house! Love being part of the Meany Team. Thanks! SEB<sup>[75th][]</sup>
 
 
-[75th]: /Anniversary#75th
+[75th]: /Event/Anniversary#75th
 [wp19]: /Work-Parties#2019

@@ -36,7 +36,7 @@ Other skit characters were the minister (Dave Claar) and the victim (Charlie Vai
 
 by Dave Claar, transcribed from handwritten note by [Matt Simerson](/Person/Matt-Simerson) in 2020.
 
-Revision of the worm tow to [Super Worm](Super-Worm) occurred in the summer of 1987. A new lower terminal was built approximately 50' further down the hill. Upper terminal remained in same location. Mechanical revisions were: speed increased to 800 feet per minute (9.1 MPH), upper terminal new rope track added, lower terminal completely new design. Many of parts for this tow donated by Crystal Mountain Inc. (Crystal's tows were originally modeled after the Meany [Mach](Mach) tow which was designed by [Walter Little](/Person/Walter-Little).
+Revision of the worm tow to [Super Worm](/Super-Worm) occurred in the summer of 1987. A new lower terminal was built approximately 50' further down the hill. Upper terminal remained in same location. Mechanical revisions were: speed increased to 800 feet per minute (9.1 MPH), upper terminal new rope track added, lower terminal completely new design. Many of parts for this tow donated by Crystal Mountain Inc. (Crystal's tows were originally modeled after the Meany [Mach](Mach) tow which was designed by [Walter Little](/Person/Walter-Little).
 
 Snail Tow: New tow build in summer of 1986-1987 located SE of [Mach](Mach) tow. The driving machinery, transferred in tact, originally operated the [Worm](Worm) tow. This area was built to provide a new, safe, beginner tow area. This tow also has been called "The Slug" to keep in tune with the ferocious animals of the Meany Woods.
 

@@ -26,7 +26,7 @@ Clearing and grading was done for the "Turtle" tow. A 45 ft base pole, a head po
 
 #### 1987
 
-Revision to [Super Worm](Super-Worm) occurred in the summer of 1987. <sup>[dc87][]</sup>
+Revision to [Super Worm](/Super-Worm) occurred in the summer of 1987. <sup>[dc87][]</sup>
 
 Built in summer of 1986-1987. The driving machinery, transferred intact, originally operated the Worm tow. This area was built to provide a new, safe, beginner tow area.
 

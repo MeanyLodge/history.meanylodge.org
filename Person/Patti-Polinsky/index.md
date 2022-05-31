@@ -78,7 +78,7 @@ We did not have railroad curve to go up and walk along the railroad tracks, we w
 Then I changed to having some help in teaching. I think Dave may have been my first helper, and Bill Nichols and Glen Polinsky (nephew).<sup>[v20][]</sup>
 
 
-[75th]: /Anniversary#75th
+[75th]: /Event/Anniversary#75th
 [ma77]: /Mountaineer-Annual#1977
 [ma78]: /Mountaineer-Annual#1978
 [ma78]: /Mountaineer-Annual#1978

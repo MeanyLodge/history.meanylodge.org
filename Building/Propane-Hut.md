@@ -32,4 +32,4 @@ Intially, to enclose a 500-gallon propane tank. Now it is storage.
 
 Rugulations changed again and propane tanks cannot be enclosed by any type of building.
 
-[75th]: /Anniversary#75th
+[75th]: /Event/Anniversary#75th

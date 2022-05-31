@@ -72,7 +72,7 @@ Engine: industrial version of the Ford Falcon engine, a 165 --[Phil Christy](/Pe
 Pack Rat was a 1967 Thiokol Spryte acquired in summer of 1977 at a GSA auction in Portland, OR. The original owner was Bonneville Power Admin. The fellows paid about $3000 at the auction and that included a trailer. Meany had no need for a trailer, so it was sold within a few days for $1500 or so. It had a blade and was powered by a 170 cubic inch 6 cylinder Ford gasoline industrial engine. It was acquired to groom the hill, so a roller was fabricated and it performed this duty for many years. The blade was too much for the machine, so the blade and hydraulic system were removed. The OC3 differential had an integral transmission that was terrible. So, the transmission was removed and a 4 speed syncromesh transmission was put on the back of the engine. The OC3 and axles were always a weak link. Thiokol only used the OC3 for a couple years and then changed to the OC12 which it used for many years. We were never able to do a retrofit. The tracks came with 1/4" bolts which were too weak. They were changed to 5/16" and finally to 3/8" which worked well. The track belting was replaced and the grousers lengthened. The differential and frame were tired with differential parts almost impossible to get by 2012, so the machine was sold to a farmer in eastern Oregon. [Paul Bergman](/Person/Paul-Bergman) was the primary caretaker of this machine for many years. --[Mike Lonergan](/Person/Mike-Lonergan)
 
 
-[75th]: /Anniversary#75th
+[75th]: /Event/Anniversary#75th
 [hr]: /History/Reports "Meany History Reports, by Idona Kellogg"
 [hw]: /History/Walt "Meany History, by Walt Little"
 [ma78]: /Mountaineer-Annual#1978

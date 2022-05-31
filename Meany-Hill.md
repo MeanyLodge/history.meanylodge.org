@@ -4,7 +4,7 @@ category: Place
 ---
 # Meany Hill
 <img src="/img/1950-Meany-Hill.jpeg" style="width: 40%;" alt="painting of Meany Hill" align="right">
-Meany Hill is the big hill located south of the lodge. To find it, walk outside the lodge and look uphill. To ski Meany Hill, head up the trail past the [Pump House](/Building/Pump-House) to the [Coatrack](/Area/Coatrack). From there you can ski downhill to the tows [Super Worm](Super-Worm), [Mach](Mach), and [Turtle](Turtle).
+Meany Hill is the big hill located south of the lodge. To find it, walk outside the lodge and look uphill. To ski Meany Hill, head up the trail past the [Pump House](/Building/Pump-House) to the [Coatrack](/Area/Coatrack). From there you can ski downhill to the tows [Super Worm](/Super-Worm), [Mach](Mach), and [Turtle](Turtle).
 
 ## Regions
 
@@ -35,7 +35,7 @@ Downhill (NE) from Green Pastures is [North Slobbovia](/Run/North-Slobbovia). Ab
 
 Traversing across Green Pastures past Tombstone Canyon and above [Bullmoose Ridge](/Area/Bullmoose-Ridge) leads to [South Slobbovia](/Run/South-Slobbovia). To the east of South lies [Phogbound Gulch](/Area/Phogbound-Gulch) and beyond that lies [Henrietta's Woods](/Run/Henrietta's-Woods). Even further east lies [RBCSA Gulch](/Area/RBCSA-Gulch) and beyond that is [Walter's Woods](/Run/Walter's-Woods).
 
-Skiers descending South are between [Druthers Gulch](/Area/Druthers-Gulch) (left) and [Phogbound Gulch](/Area/Phogbound-Gulch) (right). Near the top is [Big Tree](/Area/Big-Tree). You can't miss [Jacob's Ladder](/Area/Jacob's-Ladder)🗼 unless you're a good skier. Just below Jacob's Ladder is [Brockman's Knob](/Area/Brockman's-Knob) and the [9-G Pullout](/Area/9-G-Pullout). As you descend any sane route, watch for the bridge across [Tombstone Canyon](/Area/Tombstone-Canyon). It joins up with [Al's Fringe](/Run/Al's-Fringe) and returns to [Mach](/Run/Mach). Skiers win an award for missing the bridge: uphill travel practice.
+Skiers descending South are between [Druthers Gulch](/Area/Druthers-Gulch) (left) and [Phogbound Gulch](/Area/Phogbound-Gulch) (right). Near the top is [Big Tree](/Area/Big-Tree). You can't miss [Jacob's Ladder](/Area/Jacob's-Ladder)🗼 unless you're a good skier. Just below Jacob's Ladder is [Brockman's Knob](/Area/Brockman's-Knob) and the [9-G Pullout](/Area/9-G-Pullout). As you descend any sane route, watch for the bridge across [Tombstone Canyon](/Area/Tombstone-Canyon). It joins up with [Al's Fringe](/Run/Al's-Fringe) and returns to [Mach](/Mach). Skiers win an award for missing the bridge: uphill travel practice.
 
 ### See Also
 - [Meany Map](/Meany-Map)

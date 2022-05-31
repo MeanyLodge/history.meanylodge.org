@@ -41,4 +41,4 @@ It's a thing, Meany machines have animal names.
 * [Mighty Mouse](/Machine/Mighty-Mouse) (snowmobile)
 * [Mouse](/Machine/Mouse) (snowmobile)
 
-###### [template](Machine-Template)
+###### [template](/Machine/Template)

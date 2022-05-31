@@ -459,6 +459,8 @@
 /reference/2000-Lodge-Floor-plans.pdf filter=lfs diff=lfs merge=lfs -text
 /reference/2018-Drolet-Furnace.pdf filter=lfs diff=lfs merge=lfs -text
 /reference/2020-Kitchen-Floor-Plan.pdf filter=lfs diff=lfs merge=lfs -text
+/Energy/2021-12-08[[:space:]]Meany[[:space:]]Power[[:space:]]Line.pdf filter=lfs diff=lfs merge=lfs -text
+/Person/Chuck-Welter/2000.jpeg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -521,8 +523,6 @@
 /History/Walt.md filter=lfs diff=lfs merge=lfs -text
 /Machine/Tomcat/index.md filter=lfs diff=lfs merge=lfs -text
 /Building/Snoqualmie-Lodge.md filter=lfs diff=lfs merge=lfs -text
-/Energy/2021-12-08[[:space:]]Meany[[:space:]]Power[[:space:]]Line.pdf filter=lfs diff=lfs merge=lfs -text
-/Person/Chuck-Welter/2000.jpeg filter=lfs diff=lfs merge=lfs -text
 /Mach/2020-Mach-Base.jpeg filter=lfs diff=lfs merge=lfs -text
 /Mach/2020-Mach-Cert.jpeg filter=lfs diff=lfs merge=lfs -text
 /Mach/2020-Mach-Head.jpeg filter=lfs diff=lfs merge=lfs -text

@@ -37,4 +37,4 @@ This gasoline engine driven 5,000 watt generator is used for emergency power whe
 [hw]: /History/Walt "Meany History, by Walt Little"
 [ma78]: /Mountaineer-Annual#1978
 [ma82]: /Mountaineer-Annual#1982
-[75th]: /Anniversary#75th
+[75th]: /Event/Anniversary#75th

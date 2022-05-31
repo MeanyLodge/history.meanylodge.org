@@ -41,5 +41,5 @@ Because of new code restrictions against buried fuel tanks, dug up 2 buried 500 
 The diesel hut has a 1,000 gallon diesel fuel tank and the adjacent gasoline tank is 500 gallons. The diesel tank was measured in reference to the gasoline tank (same diameter, twice as long) and after a stroke of obvious, by inspecting the tank plate on the far end of the tank which clearly states, "1,000 gallons".
 
 [20]: #2020
-[75th]: /Anniversary#75th
+[75th]: /Event/Anniversary#75th
 [hw]: /History/Walt

@@ -93,6 +93,6 @@ Because he didn't want to win his own darn cup.<sup>[75th][]</sup>
 Slalom and downhill races for men began that same year, with trophies donated by [Bob Hayes](/Person/Robert-Hayes) and Bill Maxwell. Maxwell, with a nickname of "Wild Bill" earned in part by his skiing technique, competed in the first race for the trophy he sponsored-and came in dead last. <sup>[Life At Meany][life]</sup>
 
 
-[75th]: /Anniversary#75th
+[75th]: /Event/Anniversary#75th
 [life]: /Life-At-Meany-Ski-Hut
 [ma78]: /Mountaineer-Annual#1978

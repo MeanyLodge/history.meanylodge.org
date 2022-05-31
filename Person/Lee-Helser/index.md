@@ -26,5 +26,5 @@ One extra special Saturday night program was the dedication banquet for [Walter'
 Wow! 75 YEARS!! BBQ already smells great.<sup>[75th][]</sup>
 
 
-[75th]: /Anniversary#75th
+[75th]: /Event/Anniversary#75th
 [ma78]: /Mountaineer-Annual#1978
