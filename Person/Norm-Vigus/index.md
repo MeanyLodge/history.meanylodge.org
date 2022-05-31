@@ -6,6 +6,7 @@ categories:
     - Committee
     - Instructor
 ---
+<img src="norm-trench.png" style="width: 40%;" align="right">
 # Norm Vigus
 ### Events
 - First year at Meany: 1958

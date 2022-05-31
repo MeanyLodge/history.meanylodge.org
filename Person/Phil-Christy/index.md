@@ -7,6 +7,7 @@ categories:
     - Committee
     - Cook
 ---
+<img src="199N.png" style="width: 40%;" align="right">
 # Phil Christy
 ### Events
 - First year at Meany: 1975
@@ -21,7 +22,7 @@ categories:
 - Chainsaw operator
 - Fire extinguisher maintainer
 - [Ox](/Machine/Ox) whisperer
-- Put the roof on the Telephone Cabin
+- Roofer of the Telephone Cabin
 
 ---
 ### History

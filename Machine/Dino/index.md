@@ -5,7 +5,7 @@ categories: Machine Groomer
 ---
 # Dino
 A snow groomer.
-<img src="/img/2000_-Dino.jpeg" style="width: 40%;" align="right">
+<img src="2000.jpeg" style="width: 40%;" align="right">
 
 ### Purpose
 
@@ -28,6 +28,7 @@ To improve the quality of grooming.
 
 Acquired from the factory in Logan, Utah Christmas 1994. The machine was at several ski areas before we bought it.
 
+<img src="dino.png" style="width: 40%;" align="right">
 #### ????
 
 - The tracks were rebelted.
