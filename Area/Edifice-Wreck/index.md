@@ -38,7 +38,7 @@ Soon we cross the bridge, up the slope to a peculiar little structure below the 
 
 #### 1979
 
-Abandoned when it became possible to run [Tom Cat](/Machine/Tomcat) over the BNRR to the [Lodge](Lodge).
+Abandoned when it became possible to run [Tom Cat](/Machine/Tomcat) over the BNRR to the [Lodge](/Lodge).
 
 #### 2020
 

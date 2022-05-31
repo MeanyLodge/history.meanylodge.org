@@ -30,6 +30,12 @@ categories:
     * Third Peoples Dorm
     * Committee Dorm
 
+### Reference
+
+- [Floor Plan](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2000-Lodge-Floor-plans.pdf)
+- [Kitchen Floor Plan](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2020-Kitchen-Floor-Plan.pdf)
+- [Drolet Furnace Docs](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2018-Drolet-Furnace.pdf)
+
 ---
 ### History
 

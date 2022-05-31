@@ -6,7 +6,7 @@ categories: Building
 <img src="/img/2020-Generator-Hut.jpeg" style="width: 40%;" align="right">
 # Generator Hut
 ### Location
-Just west of the [Lodge](Lodge).
+Just west of the [Lodge](/Lodge).
 
 ### Purpose
 - House the backup generator.

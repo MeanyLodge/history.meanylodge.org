@@ -6,7 +6,7 @@ category: List
 
 Buildings and Structures on the Meany Campus.
 
-- [Lodge](Lodge)
+- [Lodge](/Lodge)
     - [Generator Hut](Generator-Hut)
     - [Propane Hut](/Building/Propane-Hut)
 - [Industrial Park](Industrial-Park)

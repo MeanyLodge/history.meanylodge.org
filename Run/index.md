@@ -34,3 +34,10 @@ See [Meany Hill](/Meany-Hill) for a geographically ordered tour of the ski runs 
 
 * [Al's Fringe](/Run/Al's-Fringe)
 * [Nikki's Trail](/Run/Nikki's-Trail)
+
+### Maps
+
+* [XC Trail Map](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/maps/2020-Meany-XC-Trail-Map.pdf)
+* [Meany to Snoqualmie](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/maps/1951-Meany-to-Snoqualmie-map.pdf)
+* [Stampede Pass Trails](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/maps/2021-Stampede-Pass-Trails.pdf)
+

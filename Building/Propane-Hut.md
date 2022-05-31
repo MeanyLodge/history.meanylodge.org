@@ -12,7 +12,7 @@ categories: Building
 - Walter's Spring Water Garden
 
 ### Location
-Just west of the [Lodge](Lodge)
+Just west of the [Lodge](/Lodge)
 
 ### Purpose
 Intially, to enclose a 500-gallon propane tank. Now it is storage.

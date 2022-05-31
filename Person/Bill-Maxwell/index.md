@@ -20,7 +20,7 @@ tags: founder
 - [Chair](/Person/Chair) 1928,1930,1934
 
 ### Known For
-- Organizing the building of the [Lodge](Lodge)
+- Organizing the building of the [Lodge](/Lodge)
 - Organizing the clearing of the [Lane](/Run/Lane)
 - Sponsored the trophy for the first [Patrol Race](/Event/Patrol-Race)
 - Crossing the finish line in last place for same.

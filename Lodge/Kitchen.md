@@ -6,6 +6,11 @@ categories: Place
 <img src="/img/2020-Kitchen.jpeg" align="right" style="width: 45%;">
 # Kitchen
 
+### Reference
+
+- [Floor Plan](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2020-Kitchen-Floor-Plan.pdf)
+- [Fridge Docs](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/1999-True-Fridge.pdf)
+
 ### History
 
 #### 1928
@@ -53,8 +58,8 @@ The fire suppression system is supposed to be service each year by a qualified t
 <sup>Benjamin Moreland, 2022-01-27 Email</sup>
 
 
-[ma56]: Mountaineer-Annual#1956
-[ma78]: Mountaineer-Annual#1978
-[hr]: History-Reports "Meany History Reports, by Idona Kellogg"
-[hw]: History-Walt "Meany History, by Walt Little"
-[gs]: Greg-Smith-Email-2021
+[ma56]: /Mountaineer-Annual#1956
+[ma78]: /Mountaineer-Annual#1978
+[hr]: /History/Reports "Meany History Reports, by Idona Kellogg"
+[hw]: /History/Walt "Meany History, by Walt Little"
+[gs]: /Greg-Smith-Email-2021
