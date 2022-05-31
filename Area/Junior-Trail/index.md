@@ -5,7 +5,7 @@ category: Place
 # Junior Trail
 <img src="/img/2020-Junior-Trail.jpeg" style="width: 40%;" alt="Junior Trail sign" align="right">
 
-The trail from the [Lodge](/Building/Lodge) to the [Tow Hut](/Building/Tow-Hut) without climbing.<sup>[n9][]</sup>
+The trail from the [Lodge](/Lodge) to the [Tow Hut](/Building/Tow-Hut) without climbing.<sup>[n9][]</sup>
 
 ### Location
 

@@ -5,7 +5,7 @@ category: Place
 # Psychopath
 ### Location
 
-Traverse trail from the outer limits of [Railroad Meadows](/Run/Railroad-Meadows) back to bottom of [Mach](Mach) Tow.
+Traverse trail from the outer limits of [Railroad Meadows](/Run/Railroad-Meadows) back to bottom of [Mach](/Mach) Tow.
 
 ### Origin
 

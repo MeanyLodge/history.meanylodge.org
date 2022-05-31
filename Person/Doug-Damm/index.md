@@ -16,7 +16,7 @@ categories:
 ### History
 #### 1960
 
-Authored the Meany Hut map on the wall in the lodge.<sup>[map][]</sup>
+Authored the [Meany Hut map](/Meany-Map) on the wall in the lodge.<sup>[map][]</sup>
 
 #### 1978
 

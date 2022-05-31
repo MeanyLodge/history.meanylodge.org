@@ -16,4 +16,4 @@ categories:
 - [Moose](/Machine/Moose) mechanic
 - [Tomcat](/Machine/Tomcat) Driver
 - bringing ATVs and dirt bikes to work parties
-- buyer of [Toad 2](Toad-2) and [Toad 3](Toad-3)
+- buyer of [Toad 2](/Machine/Toad-2) and [Toad 3](/Machine/Toad-3)

@@ -7,7 +7,7 @@ category: List
 Areas, Items, and Points of Interest, grouped by general locale, north to south.
 
 - [Lodge](/Lodge)
-    - [Industrial Park](/Industrial-Park)
+    - [Industrial Park](/Area/Industrial-Park)
 - [Meany Hill](/Meany-Hill)
     - [Railroad Meadows](/Run/Railroad-Meadows)
         - [Couloir](/Area/Couloir)
@@ -40,7 +40,7 @@ Areas, Items, and Points of Interest, grouped by general locale, north to south.
         - [North Slobbovia](/Run/North-Slobbovia)
             - [Iggle's Nest](/Area/Iggle's-Nest)
         - [South Slobbovia](/Run/South-Slobbovia)
-            - [Big Tree](/Big-Tree)
+            - [Big Tree](/Area/Big-Tree)
             - [Brockman's Knob](/Area/Brockman's-Knob)
             - [9 G Pullout](/Area/9-G-Pullout)
             - [Jacob's Ladder](/Area/Jacob's-Ladder)
@@ -50,7 +50,7 @@ Areas, Items, and Points of Interest, grouped by general locale, north to south.
         + [RBCSA Gulch](/Area/RBCSA-Gulch)
         + [Walter's Woods](/Run/Walter's-Woods)
 - [Ice Fall](/Area/Ice-Fall)
-- [Edifice Wreck](/Area/Edifice-Wreck)
+- [Edifice Wreck](/Building/Edifice-Wreck)
 - [Skier Pickup](/Area/Skier-Pickup)
 - [Weasel Creek](/Area/Weasel-Creek)
 - [Mosquito Creek](/Area/Mosquito-Creek)

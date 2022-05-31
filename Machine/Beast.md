@@ -14,7 +14,7 @@ categories: Machine, Tractor
 
 ### Description
 
-The old Fordsen tractor that first powered [Mach](Mach). In the summer the Beast would be released from his foundation to haul supplies. <sup>[nw][]</sup>
+The old Fordsen tractor that first powered [Mach](/Mach). In the summer the Beast would be released from his foundation to haul supplies. <sup>[nw][]</sup>
 
 ### Specifications
 - Model: 1925 Fordsen Tractor
@@ -66,7 +66,7 @@ My first introduction to Mountaineers, other than car companions, was upon joini
 
 #### 1984
 
-This was the old Fordsen tractor that powered the [Mach](Mach) Tow when first built in 1938. In the summer the Beast would be released from his foundation to haul supplies. Finally replaced by a Chevy engine, the Beast continued to haul supplies until one winter someone failed to drain the block which froze and burst, and the beast was pushed to an unceremonious burial in the old can dump. It was finally taken away by a junk dealer from Roslyn, who proposed to make a statue out of it. <sup>[nw][]</sup>
+This was the old Fordsen tractor that powered the [Mach](/Mach) Tow when first built in 1938. In the summer the Beast would be released from his foundation to haul supplies. Finally replaced by a Chevy engine, the Beast continued to haul supplies until one winter someone failed to drain the block which froze and burst, and the beast was pushed to an unceremonious burial in the old can dump. It was finally taken away by a junk dealer from Roslyn, who proposed to make a statue out of it. <sup>[nw][]</sup>
 
 
 [tp]: /Machine/Tomcat/Petition

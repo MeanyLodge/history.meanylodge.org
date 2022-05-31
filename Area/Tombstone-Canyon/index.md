@@ -12,7 +12,7 @@ Runs down the center of [Lower Slobbovia](/Run/Lower-Slobbovia)
 Named because many Slobbovians have dug their own graves in it. <sup>[nw][]</sup>
 
 ### See Also
-- [Tombstone Creek](Tombstone-Creek)
+- [Tombstone Creek](/Tombstone-Creek)
 
 ---
 ### History

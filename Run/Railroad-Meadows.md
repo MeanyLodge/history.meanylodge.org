@@ -5,7 +5,7 @@ category: Place
 # Railroad Meadows
 ### Location
 
-An area lying west of the headpole of [Mach](Mach), about 600' above the stampede tunnel.
+An area lying west of the headpole of [Mach](/Mach), about 600' above the stampede tunnel.
 
 ### History
 

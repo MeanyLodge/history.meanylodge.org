@@ -8,7 +8,7 @@ categories: RopeTow
 
 ### Location
 
-SE of [Mach](Mach).
+SE of [Mach](/Mach).
 
 ### Names
 
@@ -30,7 +30,7 @@ Revision to [Super Worm](/Super-Worm) occurred in the summer of 1987. <sup>[dc87
 
 Built in summer of 1986-1987. The driving machinery, transferred intact, originally operated the Worm tow. This area was built to provide a new, safe, beginner tow area.
 
-New rope tow made with parts donated by Crystal Mountain and salvaged from [Worm](Worm) Tow, Electric motor 7.5 HP, Vertical 30', length 190', speed: very slow. <sup>[hw][]</sup>
+New rope tow made with parts donated by Crystal Mountain and salvaged from [Worm](/Worm) Tow, Electric motor 7.5 HP, Vertical 30', length 190', speed: very slow. <sup>[hw][]</sup>
 
 For downhill skiers, a new Beginners Ski Area was developed with a grade of seven degrees or less (the Turtle tow) and long, safe runouts. The old Worm Tow was relocated to this area. <sup>[hr][]</sup>
 

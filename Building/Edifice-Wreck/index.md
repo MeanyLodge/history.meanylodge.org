@@ -30,7 +30,7 @@ Built in 1960 by some students who at the time were working their way through th
 
 #### 1961
 
-Construct [Edifus Wreck](Edifus-Wreck) below RR track to serve as gas station for snow tractor. <sup>[hw][]</sup>
+Construct [Edifus Wreck](/Building/Edifus-Wreck) below RR track to serve as gas station for snow tractor. <sup>[hw][]</sup>
 
 #### 1968
 

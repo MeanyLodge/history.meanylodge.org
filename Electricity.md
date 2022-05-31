@@ -32,7 +32,7 @@ categories: Energy
 
 - Panels
     - Tow Hut
-        - VFD (Mach)
+        - VFD (/Mach)
         - VFD (SuperWorm)
         - VFD (Turtle)
         - [ ] TODO: inventory
@@ -103,7 +103,7 @@ Rewire all basement electric circuits all of which were overloaded. Installed ne
 #### 1986
 
 - Add dead end hardware on trees supporting power line between lodge and tows <sup>[hw][]</sup>
-- Disconnects added at power pole at [Mach](Mach) tow
+- Disconnects added at power pole at [Mach](/Mach) tow
 - Power lines were revised to include dead end hardware at all trees. <sup>[hr][]</sup>
 
 
@@ -152,5 +152,5 @@ A downed tree took out our power line between poles 1 and 2. See [Power Outage N
 [ma78]: /Mountaineer-Annual#1978
 [ma82]: /Mountaineer-Annual#1982
 [rn15]: https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2015-Power-Line-Replacement.pdf
-[rn19]: /Electrical-Power-System
+[rn19]: /Person/Ray-Nelson/Electrical-Power-System
 [tp]: /Machine/Tomcat/Petition

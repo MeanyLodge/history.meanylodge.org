@@ -8,11 +8,11 @@ categories: Building
 
 ### Location
 
-In the [Industrial Park](Industrial-Park).
+In the [Industrial Park](/Area/Industrial-Park).
 
 ### Purpose
 
-The Zoo is the veterinary hospital for Meany [animals](Machines). In the Zoo, the [veterinarians](/Person/Mechanic) administer the TLC needed to keep them going. Since the Zoo is only big enough for one critter at a time, the [Machines](Machines) take turns breaking down. If you believe that one, we've got a Tom Cat differential we'd like to sell you.
+The Zoo is the veterinary hospital for Meany [animals](/Machine). In the Zoo, the [veterinarians](/Person/Mechanic) administer the TLC needed to keep them going. Since the Zoo is only big enough for one critter at a time, the [Machines](/Machine) take turns breaking down. If you believe that one, we've got a Tom Cat differential we'd like to sell you.
 
 ### Events
 - Construction: 1993
@@ -36,7 +36,7 @@ Now that I dig through old notes, I believe the floor has welded wire mesh--I ha
 
 #### 2003
 
-A traditional Meany custom is to endearlingly name our mobile machinery after an appropriate animal. The zoo houses some of our animals and any at one time or another when they need some tending to. The zoo can also be used for sheltered activities such as [MOFA](MOFA) and the [Mushroom society's](/Event/Mushroom-Weekend) weekend for display tables, etc.<sup>[75th][]</sup>
+A traditional Meany custom is to endearlingly name our mobile machinery after an appropriate animal. The zoo houses some of our animals and any at one time or another when they need some tending to. The zoo can also be used for sheltered activities such as [MOFA](/Event/MOFA) and the [Mushroom society's](/Event/Mushroom-Weekend) weekend for display tables, etc.<sup>[75th][]</sup>
 
 #### 2017
 

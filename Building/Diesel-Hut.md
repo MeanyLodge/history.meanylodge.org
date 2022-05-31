@@ -15,13 +15,13 @@ Behind the [Tow Hut](/Building/Tow-Hut).
 
 ### Purpose
 - Store diesel for Meany's diesel equipped machines. As of 2020, that list is [Hippo](/Machine/Hippo) and [Moose](/Machine/Moose).
-- Store gasoline for Meany's gasoline burning machines other than TomCat. TomCat fills up at [Gas Hut](/Building/Gas-Hut) nearer the lodge. Gasoline stored out here is vestigial from When [Mach](Mach) was a gas powered engine. Now that Mach is an electric motor, this tank is used for smaller machines like the wood splitter and snowmobiles.
+- Store gasoline for Meany's gasoline burning machines other than TomCat. TomCat fills up at [Gas Hut](/Building/Gas-Hut) nearer the lodge. Gasoline stored out here is vestigial from When [Mach](/Mach) was a gas powered engine. Now that Mach is an electric motor, this tank is used for smaller machines like the wood splitter and snowmobiles.
 - Store other machinery used on the campus, like the wood splitter.
 
 ### Specifications
-- Diesel tank: 1,000 gallons <sup>[20][20]</sup>
-- Gasoline tank: 500 gallons <sup>[20][20]</sup>
-- tank diameters: ~48" OD, 46" ID (measured with stick) <sup>[20][20]</sup>
+- Diesel tank: 1,000 gallons <sup>[20]</sup>
+- Gasoline tank: 500 gallons <sup>[20]</sup>
+- tank diameters: ~48" OD, 46" ID (measured with stick) <sup>[20]</sup>
 - tank Lengths: ~6' for 500 gallon, ~12' for 1,000 gallon
 
 ---

@@ -21,5 +21,5 @@ categories:
 "The ease with which the hut could be reached, its physical comforts and the fine runs almost at its front door attracted many to whom the rigors of the winter sports had formerly seemed too arduous," Robert Hayes noted in the 1929 annual.
 
 
-[dev]: The-Development-of-Skiing-in-the-Mountaineers
-[mis]: The-Mountaineer-Influence-in-Northwest-Skiing
+[dev]: /History/The-Development-of-Skiing-in-the-Mountaineers
+[mis]: /History/The-Mountaineer-Influence-in-Northwest-Skiing

@@ -12,7 +12,7 @@ category: List
 - [Competitions](Competitions)
     - [Patrol Race](/Event/Patrol-Race)
     - ...
-- [MOFA](MOFA)
+- [MOFA](/Event/MOFA)
 - [Mushroom Weekend](/Event/Mushroom-Weekend)
 - [Work Parties](/Work-Parties)
 

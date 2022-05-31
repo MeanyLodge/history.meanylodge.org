@@ -11,5 +11,5 @@ categories:
 
 {% include roles.html %}
 ### Known For
-- [Skiing and the Ski Hut](Skiing-and-the-Ski-Hut)
+- [Skiing and the Ski Hut](/Skiing-and-the-Ski-Hut)
 

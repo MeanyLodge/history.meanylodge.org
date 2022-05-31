@@ -9,7 +9,7 @@ categories: Machine
 - Dozer
 
 ### Location
-Under the [Dozer Tipi](/Building/Dozer-Tipi) in the [Industrial Park](Industrial-Park).
+Under the [Dozer Tipi](/Building/Dozer-Tipi) in the [Industrial Park](/Area/Industrial-Park).
 
 ### Purpose
 [Bob Bentler](/Person/Bob-Bentler)'s bulldozer.

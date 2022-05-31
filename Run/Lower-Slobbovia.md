@@ -54,7 +54,7 @@ Early in the '50s, the construction of a Bonneville Power Administration power l
 
 #### 1963
 
-Improved ski return trail from [Lower Slobbovia](/Run/Lower-Slobbovia) to [Mach](Mach).<sup>[hw][]</sup>
+Improved ski return trail from [Lower Slobbovia](/Run/Lower-Slobbovia) to [Mach](/Mach).<sup>[hw][]</sup>
 
 #### 1968
 

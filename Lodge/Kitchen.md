@@ -63,4 +63,4 @@ The fire suppression system is supposed to be service each year by a qualified t
 [ma78]: /Mountaineer-Annual#1978
 [hr]: /History/Reports "Meany History Reports, by Idona Kellogg"
 [hw]: /History/Walt "Meany History, by Walt Little"
-[gs]: /Greg-Smith-Email-2021
+[gs]: /Person/Greg-Smith/Email-2021

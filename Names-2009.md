@@ -8,11 +8,11 @@ From the file [names](http://www.meanylodge.org/archives/names.html) on the old 
 
 by Brian Thompson and Emilio Marasco
 
-## [Ferguson's Pond](Ferguson's-Pond)
+## [Ferguson's Pond](/Area/Ferguson-Pool)
 
 Named to commemorate Stu Ferguson who fell into the pond while skiing (in the 1960s?)
 
-## [Railroad Creek](Railroad-Creek)
+## [Railroad Creek](/Area/Railroad-Creek)
 
 An "official" name, presumably honoring the Northern Pacific's route through the Stampede Tunnel. Sometimes shown on maps as Tunnel Creek and on others as [Stampede Creek](/Area/Stampede-Creek).
 
@@ -120,11 +120,11 @@ here the guys hang out.
 
 Here the cats hang out.
 
-## [Mach](Mach) Tow
+## [Mach](/Mach) Tow
 
 If you had a rope tow that ran twice the speed of sound what would you call it?
 
-## [Worm](Worm) Tow
+## [Worm](/Worm) Tow
 
 The intermediate tow. It is faster than a slug but definitely not Mach speed. if worms don't have feet how can they have tows?
 
@@ -144,7 +144,7 @@ A landmark that once had branches.
 
 It might be yellow rock before you chuck yourself off it, but it will be brown rock afterwards.
 
-## [Third Peoples dorm](Third-Peoples-Dorm)
+## [Third Peoples dorm](/Lodge/Third-Peoples-Dorm)
 
 Couples, family sleeping area (top of the lodge)
 

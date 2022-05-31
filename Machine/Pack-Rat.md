@@ -10,7 +10,7 @@ A Thiokol snow tractor. It's the only known packrat that is equipped with a bull
 
 ### Purpose
 
-Snow packing on [Meany Hill](Meany-Hill). The blade was ultimately removed and it towed a roller to pack the snow.
+Snow packing on [Meany Hill](/Meany-Hill). The blade was ultimately removed and it towed a roller to pack the snow.
 
 ### Specifications
 <img src="/img/2020-Pack-Rat-Roller.jpeg" style="width: 40%;" align="right">

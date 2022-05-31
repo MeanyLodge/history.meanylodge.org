@@ -9,7 +9,7 @@ An outhouse.
 
 ### Location
 
-Just south of the [Tow Hut](/Building/Tow-Hut), between [Mach](Mach) and [Turtle](Turtle).
+Just south of the [Tow Hut](/Building/Tow-Hut), between [Mach](/Mach) and [Turtle](/Turtle).
 
 ### Purpose
 To save skiers and tow [operators](/Person/Operator) a trip back to the lodge.

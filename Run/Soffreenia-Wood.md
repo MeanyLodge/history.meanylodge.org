@@ -5,7 +5,7 @@ category: Place
 # Soffreenia Wood
 ### Location
 
-Patch of woods to southeast of [Mach](Mach) Tow. <sup>[nw][]</sup>
+Patch of woods to southeast of [Mach](/Mach) Tow. <sup>[nw][]</sup>
 
 ### Origin
 

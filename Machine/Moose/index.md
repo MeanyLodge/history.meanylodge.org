@@ -54,7 +54,7 @@ Dan Solemnson overhauled the hydraulics, rebuilt the deck and frame as well as m
 
 #### 2011
 
-Moose running the [Munchkin Express](Munchkin-Express).
+Moose running the [Munchkin Express](/Munchkin-Express).
 
 <img src="/img/2011-Moose.jpeg" style="width: 50%;" align="right">
 
@@ -64,7 +64,7 @@ Moose had a total electrical meltdown. Lost all power. --[Rick Ingham](/Person/R
 
 #### 2017
 
-[Rick Ingham](/Person/Rick-Ingham) & [Shawn Bertagnole](/Person/Shawn-Bertagnole) replaced the starter and discovered a set of bad circuit breakers that had to be replaced. Discovered all the wiring to lights had been removed. Removed and rewired most of the machine, installed a master battery switch. --[Rick Ingham](Rick-Ingham)
+[Rick Ingham](/Person/Rick-Ingham) & [Shawn Bertagnole](/Person/Shawn-Bertagnole) replaced the starter and discovered a set of bad circuit breakers that had to be replaced. Discovered all the wiring to lights had been removed. Removed and rewired most of the machine, installed a master battery switch. --[Rick Ingham](/Person/Rick-Ingham)
 
 - mounted an eBay acquired ($100) ether injector for starting
 

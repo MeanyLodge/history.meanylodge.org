@@ -13,8 +13,8 @@ categories:
 ### Known For
 - Long time partner and wife of [Bob Bentler](/Person/Bob-Bentler)
 - Author of [History-Idona](/History/Idona)
-- Author of the Meany photo [Flipboard](Flipboard)
-- Author of [Milestones from 75 years at Meany Lodge](Milestones-from-75-years-at-Meany-Lodge)
+- Author of the Meany photo [Flipboard](/Flipboard)
+- Author of [Milestones from 75 years at Meany Lodge](/History/Milestones-from-75-years-at-Meany-Lodge)
 
 ---
 ### History
@@ -26,4 +26,4 @@ A huge seven-part cake made by Idona Kellogg was brought in sections and assembl
 
 [75th]: /Event/Anniversary#75th
 [hr]: /History/Reports "Meany History Reports, by Idona Kellogg"
-[75m]: /Milestones-from-75-years-at-Meany-Lodge
+[75m]: /History/Milestones-from-75-years-at-Meany-Lodge

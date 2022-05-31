@@ -20,12 +20,12 @@ Revision to [Super Worm](/Super-Worm) occurred in the summer of 1987. A new lowe
 
 #### 1982
 
-Some of the poles for the [Mach](Mach) and [Worm](Worm) tows were replaced. <sup>[ma82][]</sup>
+Some of the poles for the [Mach](/Mach) and [Worm](/Worm) tows were replaced. <sup>[ma82][]</sup>
 
 
 #### 1980
 
-Replaced rope with old [Mach](Mach) rope. <sup>[hw][]</sup>
+Replaced rope with old [Mach](/Mach) rope. <sup>[hw][]</sup>
 
 
 #### 1975
@@ -44,7 +44,7 @@ Repowered with 7.5 HP electric motor and converter to enable 3 phase motor to ru
 
 #### 1973
 
-Completed construction of "worm tow" located parallel to [Mach](Mach) and rising about 160 vertical feet. Length 450'. It runs slower for beginners. <sup>[ma78][]</sup>
+Completed construction of "worm tow" located parallel to [Mach](/Mach) and rising about 160 vertical feet. Length 450'. It runs slower for beginners. <sup>[ma78][]</sup>
 
 Electric motor + spare parts cost ~ $300. <sup>[hw][]</sup>
 

@@ -22,7 +22,7 @@ Buildings and Structures on the Meany Campus.
     - [One Holer](One-Holer)
 - [Telephone Cabin](/Building/Telephone-Cabin)
 - Defunct:
-    - [Edifice Wreck](/Area/Edifice-Wreck)
+    - [Edifice Wreck](/Building/Edifice-Wreck)
     - [Snoqualmie Lodge](Snoqualmie-Lodge)
     - [Martin Lookout](Martin-Lookout)
 

@@ -76,7 +76,7 @@ It all started when the "Advanced Emissary of the New Year's Baby," Walter B. Li
 A group of 5 skiers, all of whom visited Meany regularly in the 1970s, including Dale Karr and "I'm the woman that broke one of Walt's ribs, and the reason he bought that bright yellow suit," visited and regaled us with anecdotes.
 
 
-[hw]: /History-Walt "Meany History, by Walt Little"
+[hw]: /History/Walt "Meany History, by Walt Little"
 [ma40]: /Mountaineer-Annual#1940
 [ma41]: /Mountaineer-Annual#1941
 [ma58]: /Mountaineer-Annual#1958

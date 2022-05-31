@@ -35,7 +35,7 @@ At first the lower lane was used as a practice slope, the remainder being only a
 
 #### 1938
 
-Constructed [Mach](Mach) Tow. The head pulley was mounted 70% uphill for a 280' vertical. <sup>[hw][]</sup>
+Constructed [Mach](/Mach) Tow. The head pulley was mounted 70% uphill for a 280' vertical. <sup>[hw][]</sup>
 
 #### 1940
 
@@ -63,7 +63,7 @@ Safety gate wiring improved. <sup>[hw][]</sup>
 
 #### 1962
 
-Lower [Lane](/Run/Lane) bulldozed to improve approach to [Mach](Mach) tow. <sup>[hw][]</sup>
+Lower [Lane](/Run/Lane) bulldozed to improve approach to [Mach](/Mach) tow. <sup>[hw][]</sup>
 
 #### 1982
 
