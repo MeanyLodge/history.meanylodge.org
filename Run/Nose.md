@@ -5,7 +5,7 @@ category: Place
 # Nose
 ### Upper Nose
 
-This is the section of the old [Downhill Trail](/Run/Downhill-Trail) which runs from the head pole to [Railroad Curve](Railroad-Curve). <sup>[nw][]</sup>
+This is the section of the old [Downhill Trail](/Run/Downhill-Trail) which runs from the head pole to [Railroad Curve](/Area/Railroad-Curve). <sup>[nw][]</sup>
 
 ### Septum
 

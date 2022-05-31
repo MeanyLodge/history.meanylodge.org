@@ -5,7 +5,7 @@ category: Place
 # Skier Pickup
 ### Location
 
-The low point on F.S. Road 420, where downhill skiers that depart Meany come to a sad stop. When leaving the lodge, it's just past [Stampede Creek](Stampede-Creek). <sup>[matt][]</sup>
+The low point on F.S. Road 420, where downhill skiers that depart Meany come to a sad stop. When leaving the lodge, it's just past [Stampede Creek](/Area/Stampede-Creek). <sup>[matt][]</sup>
 
 ### Origin
 

@@ -9,11 +9,11 @@ categories: Building
 - Hoe House (ask Amy, I dare you)
 
 ### Location
-South of the [Industrial Park](Industrial-Park).
+South of the [Industrial Park](/Area/Industrial-Park).
 
 ### Purpose
 
-Part of the [Water](Water) system. It encloses the well head and reservoir access. The hut make it dramatically easier to maintain the water system in the winter. It also protects it from the elements and rogue snow machines.
+Part of the [Water](/Water) system. It encloses the well head and reservoir access. The hut make it dramatically easier to maintain the water system in the winter. It also protects it from the elements and rogue snow machines.
 
 ### More Info
 
@@ -21,13 +21,13 @@ Designed and built in 2019, in Shoreline, by [Matt Simerson](/Person/Matt-Simers
 
 Cost: $1,689
 
-![Pump House covered in snow](img/2020-Pump-House.jpeg)
+![Pump House covered in snow](/img/2020-Pump-House.jpeg)
 
-![Meany Lodge Pump House](img/2019-Pump-House.jpeg)
+![Meany Lodge Pump House](/img/2019-Pump-House.jpeg)
 
-![Pump House Frame](img/2019-Pump-House-frame.jpeg)
+![Pump House Frame](/img/2019-Pump-House-frame.jpeg)
 
-![Pump House design](img/2019-Pump-House-design.png)
+![Pump House design](/img/2019-Pump-House-design.png)
 
 ### Roof Removal
 

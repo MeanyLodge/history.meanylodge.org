@@ -19,10 +19,10 @@ The research on this site has been gathered from personal knowledge, interviews,
 | 1960 | [Petition to Get Tomcat](/Machine/Tomcat/Petition) | [Harvey Mahalko](/Person/Harvey-Mahalko) |
 | 1961 | [Petition to Buy Tomcat](Tomcat-Buy) | [Walter Little][wl]
 | 197? | [Meany Flipboard](Flipboard) | [Idona Kellogg][ik] |
-| 1984 | [Chronological History of Meany Lodge](History-Walt) | [Walter Little][wl]
+| 1984 | [Chronological History of Meany Lodge](/History/Walt) | [Walter Little][wl]
 | 1978 | [Meany Names 1978](Names-Walt-1978) | [Walter Little][wl]
 | 1984 | [Meany Names 1984](Names-Walt) | [Walter Little][wl]
-| 1989 | [History Reports](History-Reports) | [Idona Kellogg][ik]
+| 1989 | [History Reports](/History/Reports) | [Idona Kellogg][ik]
 | 1998 | [Life At Meany Ski Hut][life] | [Jim Kjeldsen](/Person/Jim-Kjeldsen)
 | 2003 | [Meany 75th Anniversary](Anniversary#75th) | Various |
 | 2009 | [Meany Names 2009](Names-2009) | [Idona Kellogg][ik]

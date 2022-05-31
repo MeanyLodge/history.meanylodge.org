@@ -10,7 +10,7 @@ To build the lodge, club members became carpenters, masons, and pack-horses haul
 Before the first tow was built in 1938, even the strongest skiers could only
 manage three or four climbs and descents of Meany Hill on any one day. Many devoted their time to touring the surrounding country. Ski races at Meany were popular, with cross-country and slalom races for men and women and downhill races for men.
 
-Then there was the "[patrol race](Patrol-Race)." The race route led cross-country from Snoqualmie Lodge to Meany, a distance of over 22 miles. Teams were started about 10 minutes apart and the three men or women of each team were required to go over the finish line at Meany within one minute of each other. The trek took 5 to 6 hours.
+Then there was the "[patrol race](/Event/Patrol-Race)." The race route led cross-country from Snoqualmie Lodge to Meany, a distance of over 22 miles. Teams were started about 10 minutes apart and the three men or women of each team were required to go over the finish line at Meany within one minute of each other. The trek took 5 to 6 hours.
 
 In his article for the 1956 Mountaineer Annual, "The Story of Meany Ski Hut," Fred W. Ball wrote, "In 1931 two loggers from Easton contracted to fall the trees from the cornice down to the clearing for $100 and so the lane was created. Unfortunately the loggers were careless, or the trees perverse, for they fell in a jumble, requiring an outlay of another $100 the following summer to clean up the slash and reduce the fire hazard, which also improved the skiability."
 

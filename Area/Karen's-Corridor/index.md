@@ -10,7 +10,7 @@ category: Place
 
 ### Location
 
-Karen's Corner is straight down a steep pitch from [Railroad Curve](Railroad-Curve)<sup>[nw][]</sup>
+Karen's Corner is straight down a steep pitch from [Railroad Curve](/Area/Railroad-Curve)<sup>[nw][]</sup>
 
 ### Origin
 

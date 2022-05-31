@@ -10,7 +10,7 @@ Just west of the [Lodge](Lodge).
 
 ### Purpose
 - House the backup generator.
-- Housed propane cylinders prior to construction of the [Propane Hut](Propane-Hut)
+- Housed propane cylinders prior to construction of the [Propane Hut](/Building/Propane-Hut)
 
 ### Events
 - Construction: 1948

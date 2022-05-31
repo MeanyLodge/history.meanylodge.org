@@ -5,7 +5,7 @@ category: Place
 # Ice Fall
 ### Location
 
-Straight above [Edifice Wreck](Edifice-Wreck) is the bank that had to be climbed before crossing the railroad tracks.<sup>[n9][]</sup>
+Straight above [Edifice Wreck](/Area/Edifice-Wreck) is the bank that had to be climbed before crossing the railroad tracks.<sup>[n9][]</sup>
 
 ### Origin
 

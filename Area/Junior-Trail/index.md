@@ -9,7 +9,7 @@ The trail from the [Lodge](/Building/Lodge) to the [Tow Hut](/Building/Tow-Hut) 
 
 ### Location
 
-Above the low road (through the swamp) to Tow Hut and below the high road (past the [coat rack](Coatrack)).
+Above the low road (through the swamp) to Tow Hut and below the high road (past the [coat rack](/Area/Coatrack)).
 
 ### Origin
 

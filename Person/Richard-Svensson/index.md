@@ -10,7 +10,7 @@ categories:
 {% include roles.html %}
 ### Known For
 - Meany Musician
-- [Richard's Ravine](Richard's-Ravine)
+- [Richard's Ravine](/Area/Richard's-Ravine)
 
 ---
 ### History

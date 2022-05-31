@@ -14,7 +14,7 @@ categories:
 
 ### Events
 - First year instructing at Meany: 2012-2013
-- [Patrol Race](Patrol-Race) Contestant: 2020
+- [Patrol Race](/Event/Patrol-Race) Contestant: 2020
 
 #### Known For
 - Sharing his dark beers

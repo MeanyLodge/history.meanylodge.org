@@ -12,7 +12,7 @@ categories: Building Defunct
 
 ### Location
 
-Below the RR tracks, directly below the [Ice Fall](Ice-Fall), which is nearly straight down the embankment after departing Meany and crossing the tracks.
+Below the RR tracks, directly below the [Ice Fall](/Area/Ice-Fall), which is nearly straight down the embankment after departing Meany and crossing the tracks.
 
 ### Purpose
 

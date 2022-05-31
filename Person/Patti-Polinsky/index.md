@@ -24,9 +24,9 @@ categories:
 - Event Organizer
     - [Ski School](Ski-School)
     - Global Ventures
-    - [Mushroom Weekend](Mushroom-Weekend)
+    - [Mushroom Weekend](/Event/Mushroom-Weekend)
     - Ski clinics
-    - [Carnival](Carnival)
+    - [Carnival](/Event/Carnival)
 - [Mountaineers Super Volunteer](https://www.mountaineers.org/members/patti-polinsky)
 - Bunnies
 - wife of [Dave Claar](/Person/Dave-Claar) for 44 years
@@ -73,7 +73,7 @@ Later I started running one day weekend seminars. One weekend would be for inter
 
 To get [to Meany], I'd get dropped off by another instructor. I would walk in carrying my skis, my boots on my feet, my sleeping bag because we were never allowed to leave anything in the lodge over a weekend. So everything went in every weekend and it came back out, even if you were going to the lodge every single weekend.
 
-We did not have railroad curve to go up and walk along the railroad tracks, we went to [Rex Edifice](Edifice-Wreck) where the Tomcat was left and you had to climb up through the [Ice Fall](Ice-Fall) and across the railroad tracks and then up along the little valley, maybe there was a stream in there, up to the Lodge. You can kind of see where it was but most of the brush has covered it up now.
+We did not have railroad curve to go up and walk along the railroad tracks, we went to [Rex Edifice](/Area/Edifice-Wreck) where the Tomcat was left and you had to climb up through the [Ice Fall](/Area/Ice-Fall) and across the railroad tracks and then up along the little valley, maybe there was a stream in there, up to the Lodge. You can kind of see where it was but most of the brush has covered it up now.
 
 Then I changed to having some help in teaching. I think Dave may have been my first helper, and Bill Nichols and Glen Polinsky (nephew).<sup>[v20][]</sup>
 

@@ -6,7 +6,7 @@ category: List
 ### About Meany Lodge
 
 - [About](About) this site
-- [Events](Events)
+- [Events](/Event)
 - [History](History)
 - [Meany Hill](Meany-Hill)
 - [Ski School](Ski-School)
@@ -15,11 +15,11 @@ category: List
 
 ### Ski [Runs](Runs)
 
-### [Buildings](Buildings) / Structures
+### [Buildings](Building) / Structures
 
-### [Machines](Machines) / Animals
+### [Machines](Machine) / Animals
 
-### [Areas](Areas) / Items / Points of Interest
+### [Areas](Area) / Items / Points of Interest
 
 ### See Also
 

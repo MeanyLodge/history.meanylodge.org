@@ -26,7 +26,7 @@ The Zoo is the veterinary hospital for Meany [animals](Machines). In the Zoo, th
 
 #### 1984
 
-Bulldozed area behind the [Cat House](Cat-House) to make a larger industrial area, losing [Kitchen Jump](/Run/Kitchen-Jump) in the process. <sup>[nw][]</sup>
+Bulldozed area behind the [Cat House](/Building/Cat-House) to make a larger industrial area, losing [Kitchen Jump](/Run/Kitchen-Jump) in the process. <sup>[nw][]</sup>
 
 #### 1993
 
@@ -36,7 +36,7 @@ Now that I dig through old notes, I believe the floor has welded wire mesh--I ha
 
 #### 2003
 
-A traditional Meany custom is to endearlingly name our mobile machinery after an appropriate animal. The zoo houses some of our animals and any at one time or another when they need some tending to. The zoo can also be used for sheltered activities such as [MOFA](MOFA) and the [Mushroom society's](Mushroom-Weekend) weekend for display tables, etc.<sup>[75th][]</sup>
+A traditional Meany custom is to endearlingly name our mobile machinery after an appropriate animal. The zoo houses some of our animals and any at one time or another when they need some tending to. The zoo can also be used for sheltered activities such as [MOFA](MOFA) and the [Mushroom society's](/Event/Mushroom-Weekend) weekend for display tables, etc.<sup>[75th][]</sup>
 
 #### 2017
 

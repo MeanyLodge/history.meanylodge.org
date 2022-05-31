@@ -5,4 +5,4 @@ categories:
 ---
 # Karen Bergman
 ### Known For
-- [Karen's Corridor](Karen's-Corridor)
+- [Karen's Corridor](/Area/Karen's-Corridor)

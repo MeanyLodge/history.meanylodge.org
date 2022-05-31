@@ -12,7 +12,7 @@ In the [Industrial Park](Industrial-Park).
 
 ### Purpose
 
-A toolroom. Before the [Zoo](Zoo) existed, the first floor was a shop for repair and overhaul of [Tom Cat](/Machine/Tomcat) and other [snowcats](https://en.wikipedia.org/wiki/Snowcat), hence the name, Cat House.
+A toolroom. Before the [Zoo](/Building/Zoo) existed, the first floor was a shop for repair and overhaul of [Tom Cat](/Machine/Tomcat) and other [snowcats](https://en.wikipedia.org/wiki/Snowcat), hence the name, Cat House.
 
 ### Events
 - Ground cleared: 1976

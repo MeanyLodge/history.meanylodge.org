@@ -23,7 +23,7 @@ Meany is an all-volunteer lodge. Everything at Meany is the result of hundreds o
 
 Woodshed: replaced the roof. Replaced plywood decking with 2 layers of 3/4 plywood and covered with a fully adhered PVC membrane. Tearoff and framing team led by [Matt Simerson](/Person/Matt-Simerson) and membrane installation led by [Steve Bozorth](/Person/Steve-Bozorth).
 
-Water pipe run from the new well to the lodge and electrical power from the Zoo. Matt Simerson built a [Pump House](Pump-House) to cover the newly installed well.
+Water pipe run from the new well to the lodge and electrical power from the Zoo. Matt Simerson built a [Pump House](/Building/Pump-House) to cover the newly installed well.
 
 LEDs everywhere! [Michael Moreland](/Person/Michael-Moreland) led replacing all LED fixtures on the main floor. [Matt Simerson](/Person/Matt-Simerson) led rewiring every other 4' fixture (basement, Zoo, Cat House, Tow Hut) for use with single-ended LED bulbs (ballast free). Matt also replaced every other incandescent and fluorescent bulb with LEDs.
 

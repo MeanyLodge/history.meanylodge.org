@@ -7,4 +7,4 @@ categories: Place Room Bathroom
 # Ladies' Room
 ### Names
 - Ladies' Room
-- the Jane (not to be confused with [Jane](Jane))
+- the Jane (not to be confused with [Jane](/Building/Jane))

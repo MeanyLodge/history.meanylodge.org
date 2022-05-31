@@ -14,7 +14,7 @@ Named to commemorate Stu Ferguson who fell into the pond while skiing (in the 19
 
 ## [Railroad Creek](Railroad-Creek)
 
-An "official" name, presumably honoring the Northern Pacific's route through the Stampede Tunnel. Sometimes shown on maps as Tunnel Creek and on others as [Stampede Creek](Stampede-Creek).
+An "official" name, presumably honoring the Northern Pacific's route through the Stampede Tunnel. Sometimes shown on maps as Tunnel Creek and on others as [Stampede Creek](/Area/Stampede-Creek).
 
 ## [Psychopath](/Run/Psychopath)
 
@@ -24,11 +24,11 @@ A play on words referring both to the single-track width of the get-back and the
 
 Referring to a protuberance?
 
-## [Karen's Corridor](Karen's-Corridor)
+## [Karen's Corridor](/Area/Karen's-Corridor)
 
 The steepest place in the whole area. Karen Bergman didn't ski it much but went across below on psychopath and always seemed to get in trouble.
 
-## [Railroad Curve](Railroad-Curve)
+## [Railroad Curve](/Area/Railroad-Curve)
 
 Parallels the curve of the railroad track coming out of the tunnel below.
 
@@ -52,7 +52,7 @@ The main run down beside the tow (a classic example of Meany understatement.) Ve
 
 A play on words (so-free-in-the-woods).
 
-## [Iggle's Nest](Iggle's-Nest)
+## [Iggle's Nest](/Area/Iggle's-Nest)
 
 There was a creature in Al Capps L'il Abner cartoon strip that had one foot, a blue head and no body. It only grow in the country of Lower Slobbovia. The Lower Slobbovians were like Meany people - they wore ratty clothes and lived in snow holes. Ferguson used the Iggles Nest for a jump takeoff and got 40-50 ft of air.
 
@@ -60,19 +60,19 @@ There was a creature in Al Capps L'il Abner cartoon strip that had one foot, a b
 
 From Li'l Abner. Now usually just called "North"
 
-## [Ape Swing](Ape-Swing)
+## [Ape Swing](/Area/Ape-Swing)
 
 Above Kirkland Park there was a tree with a line hanging from it. People would ski down and swing on the rope to see how far out they could go.
 
 ## [Kirkland Park](/Run/Kirkland-Park)
 
-The area just above the [Tow Hut](Tow-Hut) (to the left of the tow looking uphill) that gets groomed. Named after [Bill Kirkland](/Person/Bill-Kirkland). He cleared the area of stumps with large quantities of explosive. He did not make it back from WW II.
+The area just above the [Tow Hut](/Building/Tow-Hut) (to the left of the tow looking uphill) that gets groomed. Named after [Bill Kirkland](/Person/Bill-Kirkland). He cleared the area of stumps with large quantities of explosive. He did not make it back from WW II.
 
 ## [Harvey's Slot](/Run/Harvey's-Slot)
 
 [Harvey Mahalko](Harvey-Mahalko) was a lodge [Chair](/Person/Chair). Harvey's Slot is part of railroad meadows. Harvey opened up a slot when he went crazy with a saw and cleared a run. That's why it is named after him.
 
-## [Jacob's Ladder](Jacob's-Ladder)
+## [Jacob's Ladder](/Area/Jacob's-Ladder)
 
 the power company wanted to cross the property and Meany agreed. Jacobs's ladder came from the Bible, if you go to the top you go to heaven real quick.
 
@@ -92,9 +92,9 @@ Named for Walt Little, organizer of the first Ski Mountaineering course for The 
 
 Al Allmen was active until the 1980s. Al's Fringe was the get-back from Walt's Woods and Henriettas'. Al wanted this to be a cross country trail. It used to have sheets of yellow metal so you knew were it was.
 
-## [Junior Trail](Junior-Trail)
+## [Junior Trail](/Area/Junior-Trail)
 
-From the Lodge to the [Tow Hut](Tow-Hut) without climbing, it was all cut by juniors.
+From the Lodge to the [Tow Hut](/Building/Tow-Hut) without climbing, it was all cut by juniors.
 
 ## [Kitchen Run](/Run/Kitchen-Run)
 
@@ -104,19 +104,19 @@ Originally it was called the down hill course but later renamed because it came 
 
 Meany woods was where the woods started at the top of a burn and races started there, went straight down, hit Lower Slobbovia and traversed over to railroad curve and then kitchen run.
 
-## [Bullmoose Ridge](Bullmoose-Ridge)
+## [Bullmoose Ridge](/Area/Bullmoose-Ridge)
 
 From Li'l Abner ('What's good for General Bullmoose is good for the USA'.)
 
-## [Telephone Cabin](Telephone-Cabin)
+## [Telephone Cabin](/Building/Telephone-Cabin)
 
 The lodging for the tenders of the first transcontinental telephone line.
 
-## [Cat House](Cat-House)
+## [Cat House](/Building/Cat-House)
 
 here the guys hang out.
 
-## The [Zoo](Zoo)
+## The [Zoo](/Building/Zoo)
 
 Here the cats hang out.
 
@@ -132,15 +132,15 @@ The intermediate tow. It is faster than a slug but definitely not Mach speed. if
 
 The baby tow - about the speed of a turtle and only a little longer than one. Use to be known as the Slug tow.
 
-## [Big Tree](Big-Tree)
+## [Big Tree](/Area/Big-Tree)
 
 At the top of South Slobbovia they left a tree. This is one of the few things at Meany with a logical name.
 
-## [Coatrack](Coatrack)
+## [Coatrack](/Area/Coatrack)
 
 A landmark that once had branches.
 
-## [Yellow Rock](Yellow-Rock)
+## [Yellow Rock](/Area/Yellow-Rock)
 
 It might be yellow rock before you chuck yourself off it, but it will be brown rock afterwards.
 
@@ -156,15 +156,15 @@ A vintage Thiokol Sprite used for hauling children and other baggage.
 
 A vintage snowmobile with a busted fairing used for late night trips to Trollhaugen.
 
-## [Tombstone Canyon](Tombstone-Canyon)
+## [Tombstone Canyon](/Area/Tombstone-Canyon)
 
 Named after Roger Colvi. He decided to go straight down but ran into sticky snow. His tips went in and he took a face plant and only his skis could be seen. He was digging his own grave, hence the name. His ski is still on the wall in the lodge.
 
-## [Phogbound Gulch](Phogbound-Gulch)
+## [Phogbound Gulch](/Area/Phogbound-Gulch)
 
 After the loggers were done they left one tree which was 20 ft tall and it had needles on only one side. The lodge chairman and others on the committee proposed declaring it the Lower Slobbovian National Park. Billing himself as Senator Jack S. Phogbound, the chairman held a mock hearing in the main Meany lodge on the matter. (The Phogbound character comes from L'il Abner. The hearing may have been held as a comment on the North Cascades debate.)
 
-## [Richard's Ravine](Richard's-Ravine)
+## [Richard's Ravine](/Area/Richard's-Ravine)
 
 Richard's is named after Richard Swenson who still is alive and plays  accordion at dances. His photo is on the wall at Meany in several locations.
 
@@ -180,7 +180,7 @@ A run from the railroad track down to the road.
 
 Named after [Lee Helser](/Person/Lee-Helser). At that time, the trip was made from the top of the [Lane](/Run/Lane) to the bottom through the woods with just the three turns and no checks or side slipping. Lee had a great deal of trouble making this with out landing on his Ass. However, Ass is not appropriate family language so it was shortened to S to reflect the twisted character of the run.
 
-## [Ice Fall](Ice-Fall)
+## [Ice Fall](/Area/Ice-Fall)
 
 The bank that had to be climbed down and back up when crossing the railroad tracks. After the trains ceased stopping at Martin in the 1960s, access to the Lodge was by snow cat. The cat stopped below the tracks and people hiked (with gear and food) the final half-mile to the Lodge. This trip required a tricky crossing of the plowed tracks with their high berms.
 

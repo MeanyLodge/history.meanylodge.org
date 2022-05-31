@@ -8,21 +8,21 @@ categories:
 ### Areas
 
 * Basement
-    * [Men's Room](Men's-Room)
-    * [Ladies' Room](Ladies'-Room)
-    * [Washroom](Washroom)
+    * [Men's Room](/Lodge/Men's-Room)
+    * [Ladies' Room](/Lodge/Ladies'-Room)
+    * [Washroom](/Lodge/Washroom)
     * Shower #1
     * [Shower #2](Shower-2)
     * Drying Room
-    * [Wood Room](Wood-Room)
-    * [Tunnel](Tunnel)
+    * [Wood Room](/Lodge/Wood-Room)
+    * [Tunnel](/Lodge/Tunnel)
     * [Jim](/Person/Jim-Fahey)'s Closet Under the Stairs
     * [Ping Pong Room](Ping-Pong-Room)
-    * [First Aid Room](First-Aid-Room)
+    * [First Aid Room](/Lodge/First-Aid-Room)
 * First Floor
-    * [Kitchen](Kitchen)
-    * [Dining Room](Dining-Room)
-    * [Commons](Commons)
+    * [Kitchen](/Lodge/Kitchen)
+    * [Dining Room](/Lodge/Dining-Room)
+    * [Commons](/Lodge/Commons)
 * Second Floor
     * Women's Dorm
     * Men's Dorm

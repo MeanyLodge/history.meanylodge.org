@@ -22,7 +22,7 @@ tags: founder
 ### Known For
 - Organizing the building of the [Lodge](Lodge)
 - Organizing the clearing of the [Lane](/Run/Lane)
-- Sponsored the trophy for the first [Patrol Race](Patrol-Race)
+- Sponsored the trophy for the first [Patrol Race](/Event/Patrol-Race)
 - Crossing the finish line in last place for same.
 
 #### "Wild Bill Maxwell" to the tune of "Casey Jones"

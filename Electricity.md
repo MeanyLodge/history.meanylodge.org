@@ -98,7 +98,7 @@ Crews built a power line from Puget Sound Power line on [Lower Slobbovia](/Run/L
 
 #### 1985
 
-Rewire all basement electric circuits all of which were overloaded. Installed new electric control panels and switches in pantry. Power supply to [Cat House](Cat-House) put underground. <sup>[hw][]</sup>
+Rewire all basement electric circuits all of which were overloaded. Installed new electric control panels and switches in pantry. Power supply to [Cat House](/Building/Cat-House) put underground. <sup>[hw][]</sup>
 
 #### 1986
 

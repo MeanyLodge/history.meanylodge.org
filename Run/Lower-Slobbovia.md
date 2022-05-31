@@ -22,15 +22,15 @@ Contains the following areas / runs:
 
 * [North Slobbovia](/Run/North-Slobbovia), aka "North"
 * [South Slobbovia](/Run/South-Slobbovia), aka "South"
-* [Green Pastures](Green-Pastures)
-* [Tombstone Canyon](Tombstone-Canyon)
-* [Bullmoose Ridge](Bullmoose-Ridge)
-* [Druthers Gulch](Druthers-Gulch)
-* [Phogbound Gulch](Phogbound-Gulch)
-* [Brockman's Knob](Brockman's-Knob)
-* [Jacob's Ladder](Jacob's-Ladder)
-* [9-G Pullout](9-G-Pullout)
-* Defunct: [Lower Slobbovia National Park](Lower-Slobbovia-National-Park)
+* [Green Pastures](/Area/Green-Pastures)
+* [Tombstone Canyon](/Area/Tombstone-Canyon)
+* [Bullmoose Ridge](/Area/Bullmoose-Ridge)
+* [Druthers Gulch](/Area/Druthers-Gulch)
+* [Phogbound Gulch](/Area/Phogbound-Gulch)
+* [Brockman's Knob](/Area/Brockman's-Knob)
+* [Jacob's Ladder](/Area/Jacob's-Ladder)
+* [9-G Pullout](/Area/9-G-Pullout)
+* Defunct: [Lower Slobbovia National Park](/Area/Lower-Slobbovia-National-Park)
 
 ### History
 
@@ -58,7 +58,7 @@ Improved ski return trail from [Lower Slobbovia](/Run/Lower-Slobbovia) to [Mach]
 
 #### 1968
 
-It's time for a run down [South Slobbovia](/Run/South-Slobbovia). From the top of the tow we traverse Green Pastures to [Tombstone Canyon](Tombstone-Canyon), cross to the Bullmoose Glacier where some take off for a run down [Bullmoose Ridge](Bullmoose-Ridge), but we "druther" cross [Druthers Gulch](Druthers-Gulch) and run Upper South Slobbovia. It's over the edge for a turn in the deep-sheltered powder of [Phogbound Gulch](Phogbound-Gulch), then back into S. Slobbovia for a fast run down the ridge to Brockman's Knob. A hard right turn around [Jacob's Ladder](Jacob's-Ladder) (power-line tower) brings us to wide open skiing over bumps and hollows. We finally cross the bridge over [Tombstone Canyon](Tombstone-Canyon) and head back through the woods to the tow.<sup>[ma68][]</sup>
+It's time for a run down [South Slobbovia](/Run/South-Slobbovia). From the top of the tow we traverse Green Pastures to [Tombstone Canyon](/Area/Tombstone-Canyon), cross to the Bullmoose Glacier where some take off for a run down [Bullmoose Ridge](/Area/Bullmoose-Ridge), but we "druther" cross [Druthers Gulch](/Area/Druthers-Gulch) and run Upper South Slobbovia. It's over the edge for a turn in the deep-sheltered powder of [Phogbound Gulch](/Area/Phogbound-Gulch), then back into S. Slobbovia for a fast run down the ridge to Brockman's Knob. A hard right turn around [Jacob's Ladder](/Area/Jacob's-Ladder) (power-line tower) brings us to wide open skiing over bumps and hollows. We finally cross the bridge over [Tombstone Canyon](/Area/Tombstone-Canyon) and head back through the woods to the tow.<sup>[ma68][]</sup>
 
 
 [hw]: History-Walt "Meany History, by Walt Little"

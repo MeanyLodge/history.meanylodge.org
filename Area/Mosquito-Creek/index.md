@@ -15,4 +15,4 @@ About 1/4 mile west of the point where the [Tom Cat](/Machine/Tomcat) road cross
 Location of frequent floodings.<sup>[nw][]</sup>
 
 
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

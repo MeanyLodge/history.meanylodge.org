@@ -28,7 +28,7 @@ The most isolated of the properties, Meany Lodge increased its service to The Mo
 
 Concentrated [MOFA](MOFA) (Mountaineer Oriented First Aid) courses were offered. Meany Lodge, located in the woods with steep slopes, marshlands, trees and brush, made planned practice accidents very real. The [MOFA](MOFA) Committee has continued to offer several courses a year at Meany.<sup>[75th][]</sup>
 
-[75th]: Anniversary#75th
-[hi]: History-Idona
-[ma83]: Mountaineer-Annual#1983-1990
-[ma91]: Mountaineer-Annual#1991
+[75th]: /Anniversary#75th
+[hi]:   /History/Idona
+[ma83]: /Mountaineer-Annual#1983-1990
+[ma91]: /Mountaineer-Annual#1991

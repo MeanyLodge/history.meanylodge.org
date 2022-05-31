@@ -3,6 +3,9 @@ title: Carnival
 category: Event
 ---
 # Carnival
+
+- [Info Page](https://www.mountaineers.org/locations-lodges/meany-lodge/event-details/carnivale-di-meany)
+
 ### History
 
 #### 1978
@@ -21,4 +24,4 @@ The Spring Carnival has an Austrian flavor as Patti Polinsky masterminded "zille
 
 During the spring Carnival, the Average Race was both new and unusual. Everyone went through the race course and got a time. the average was figured and the person closets to the average won the race. <sup>[hr][]</sup>
 
-[hr]: History-Reports
+[hr]: /History/Reports

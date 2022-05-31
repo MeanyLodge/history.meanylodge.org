@@ -9,11 +9,11 @@ Forest Service Road 54 - just east of the Yakima River bridge.
 
 ### History
 
-This is on F.S. Road 54 - just east of the Yakima River bridge. It was here on a horrible Sunday night in 1976 that a connecting rod burst through the side of the Tom Cat engine block. It was about 8 PM, raining, dark, sleep crust all over, crying kids, mad parents, the works. Believe it or not, a new engine was in [Tom Cat](/Machine/Tomcat) by Wednesday night, and the hut opened the next weekend as usual. <sup>[nw][]</sup>
+This is on F.S. Road 54 - just east of the Yakima River bridge. It was here on a horrible Sunday night in 1976 that a connecting rod burst through the side of the Tom Cat engine block. It was about 8 PM, raining, dark, sleet crust all over, crying kids, mad parents, the works. Believe it or not, a new engine was in [Tom Cat](/Machine/Tomcat) by Wednesday night, and the hut opened the next weekend as usual. <sup>[nw][]</sup>
 
-Jan 20 On Sunday evening outward trip at Yakima River bridge, broke con-rod in engine. Bad snow contributed. Broken con-rod breached pan dumping engine oil. By bandaging pan, tying rope to restrain flailing con-rod, using 5 cylinders and 16 quarts of oil, managed to run tractor out to overpass. In ensuing 3 days, volunteers assembled a replacement engine and installed in tractor - no loss of weekend time. <sup>[hw](History-Walt)</sup>
+Jan 20 On Sunday evening outward trip at Yakima River bridge, broke con-rod in engine. Bad snow contributed. Broken con-rod breached pan dumping engine oil. By bandaging pan, tying rope to restrain flailing con-rod, using 5 cylinders and 16 quarts of oil, managed to run tractor out to overpass. In ensuing 3 days, volunteers assembled a replacement engine and installed in tractor - no loss of weekend time. <sup>[hw](/History/Walt)</sup>
 
-#### Jan 20th-23rd 1976 <sup>[hi](History-Idona)</sup>
+#### Jan 20th-23rd 1976 <sup>[hi](/History/Idona)</sup>
 
 - [Tom Cat](/Machine/Tomcat) Engine failure
 - Sunday outbound trip
@@ -33,6 +33,6 @@ Jan 20 On Sunday evening outward trip at Yakima River bridge, broke con-rod in e
 - Tom-cat running by 10 pm
 
 
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
-[hw]: History-Walt "Meany History, by Walt Little"
-[hi]: History-Idona
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"
+[hw]: /History/Walt "Meany History, by Walt Little"
+[hi]: /History/Idona

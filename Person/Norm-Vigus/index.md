@@ -12,7 +12,7 @@ categories:
 
 {% include roles.html %}
 ### Known For
-- Helping forge [Junior Trail](Junior-Trail)
+- Helping forge [Junior Trail](/Area/Junior-Trail)
 - 1979 Bachelor of the Year Runner-up
 - Caring for the rope tow pulleys
 - Maker of finely carved bowls

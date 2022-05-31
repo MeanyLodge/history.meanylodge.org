@@ -10,7 +10,7 @@ category: Place
 
 ### Location
 
-In [Stampede Creek](Stampede-Creek) just below [Harvey's Slot](/Run/Harvey's-Slot). <sup>[nw][]</sup>
+In [Stampede Creek](/Area/Stampede-Creek) just below [Harvey's Slot](/Run/Harvey's-Slot). <sup>[nw][]</sup>
 
 ### Origin
 

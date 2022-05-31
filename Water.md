@@ -8,25 +8,27 @@ category: Document
 
 ## Dam Water
 
-The historic water source for the lodge. Still used for fire suppression system and flushing toilets.
+The historic water source for the lodge. Primarily used for fire suppression system and flushing toilets.
 
 The pipe line is about 1300 feet long. <sup>[rn][]</sup>
 
 ## Well
 
-Used for potable domestic water. The well head and storage tank manhole are located in the [Pump House](Pump-House)
+Used for potable domestic water. The well head and storage tank manhole are located in the [Pump House](/Building/Pump-House)
 
 
 # Reference
 
-- [Grundfos Pumps Instructions](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2020-grundfos-pump-instructions.pdf)
+- [Legal Claim](/Legal/Water)
+- [Grundfos Pumps Instructions](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/water/2020-grundfos-pump-instructions.pdf)
+- [Aqua UV 612 Sterilizers](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/water/2004-Aqua-UV-612.pdf)
 
 
 ### History
 
 #### 1928
 
-Established "continuous community domestic supply for a lodge" from [Tombstone Creek](Tombstone-Creek). Priority date: June 30, 1889.
+Established "continuous community domestic supply for a lodge" from [Tombstone Creek](/Tombstone-Creek). Priority date: June 30, 1889.
 
 Water piped in from nearby creek. <sup>[hw][]</sup>
 
@@ -78,7 +80,7 @@ Switched to propane water heaters located in the pantry.
 
 #### 2019
 
-Sank a new well, because the Kittitas County Health Department compelled us to. Dam water is still being used for flushing toilets and fire suppression system. Built the [Pump House](Pump-House) to enclose the well head.
+Sank a new well, because the Kittitas County Health Department compelled us to. Dam water is still being used for flushing toilets and fire suppression system. Built the [Pump House](/Building/Pump-House) to enclose the well head.
 
 #### 2020
 

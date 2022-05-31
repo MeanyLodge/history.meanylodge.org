@@ -30,7 +30,7 @@ Mike Lonergan ran Tows (Weber ill)
 
 #### 1993
 
-Led construction of the [Zoo](Zoo).
+Led construction of the [Zoo](/Building/Zoo).
 
 #### 2003
 

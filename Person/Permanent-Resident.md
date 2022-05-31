@@ -9,5 +9,5 @@ Meany holds a special place in the hearts of many. For a few, there's a special 
 * [Ray Hecox](/Person/Ray-Hecox), ashes scattered above kitchen run.
 * Peggy Lawton
 * Patti's Aunt and Uncle, near base of North at a mushroom patch
-* [Walter Little](/Person/Walter-Little) in cement stoop of [Propane Hut](Propane-Hut)
+* [Walter Little](/Person/Walter-Little) in cement stoop of [Propane Hut](/Building/Propane-Hut)
 * [Patti Polinsky](/Person/Patti-Polinsky), Turtle Tow

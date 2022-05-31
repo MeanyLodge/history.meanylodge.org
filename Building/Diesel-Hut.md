@@ -11,11 +11,11 @@ categories: Building
 * Fuel House
 
 ### Location
-Behind the [Tow Hut](Tow-Hut).
+Behind the [Tow Hut](/Building/Tow-Hut).
 
 ### Purpose
 - Store diesel for Meany's diesel equipped machines. As of 2020, that list is [Hippo](/Machine/Hippo) and [Moose](/Machine/Moose).
-- Store gasoline for Meany's gasoline burning machines other than TomCat. TomCat fills up at [Gas Hut](Gas-Hut) nearer the lodge. Gasoline stored out here is vestigial from When [Mach](Mach) was a gas powered engine. Now that Mach is an electric motor, this tank is used for smaller machines like the wood splitter and snowmobiles.
+- Store gasoline for Meany's gasoline burning machines other than TomCat. TomCat fills up at [Gas Hut](/Building/Gas-Hut) nearer the lodge. Gasoline stored out here is vestigial from When [Mach](Mach) was a gas powered engine. Now that Mach is an electric motor, this tank is used for smaller machines like the wood splitter and snowmobiles.
 - Store other machinery used on the campus, like the wood splitter.
 
 ### Specifications
@@ -29,7 +29,7 @@ Behind the [Tow Hut](Tow-Hut).
 
 #### 1989
 
-Because of new code restrictions against buried fuel tanks, dug up 2 buried 500 gallon gasoline tanks used by "Mach". Cleaned, painted and reinstalled near the [Tow Hut](Tow-Hut).<sup>[hw][]</sup>
+Because of new code restrictions against buried fuel tanks, dug up 2 buried 500 gallon gasoline tanks used by "Mach". Cleaned, painted and reinstalled near the [Tow Hut](/Building/Tow-Hut).<sup>[hw][]</sup>
 
 #### 2003
 

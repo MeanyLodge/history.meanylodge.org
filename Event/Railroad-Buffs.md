@@ -21,5 +21,5 @@ Carste was a club president and a supporter of Meany. He has passed on but his w
 
 The Northwest rail museum in North Bend are probably the folks that can make a centennial rail trip to Meany a possibility. I have talked to the president once several years ago. They have a Thomas the tank engine trip as well as a christmas trip to Leavenworth every year. --[Richard Botts](/Person/Richard-Botts)
 
-[hr]: History-Reports "Meany History Reports, by Idona Kellogg"
-[ma91]: Mountaineer-Annual#1991
+[hr]: /History/Reports "Meany History Reports, by Idona Kellogg"
+[ma91]: /Mountaineer-Annual#1991

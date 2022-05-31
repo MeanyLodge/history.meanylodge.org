@@ -6,4 +6,4 @@ category: Place
 Just to the south of [Henrietta's Meadow](/Run/Henrietta's-Meadow). <sup>[nw][]</sup>
 
 
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"

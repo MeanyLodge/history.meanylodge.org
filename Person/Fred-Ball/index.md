@@ -12,7 +12,7 @@ categories:
 {% include roles.html %}
 
 ### Known For
-- [Patrol Race](Patrol-Race) winner, 1930
+- [Patrol Race](/Event/Patrol-Race) winner, 1930
 - Author: [The Story of Meany Ski Hut][ma56]
 - Author: [Mountaineer Skiing][ma63]
 

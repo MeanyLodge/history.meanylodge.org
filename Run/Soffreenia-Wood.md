@@ -15,7 +15,7 @@ Meany web site: A play on words (so-free-in-the-woods). <sup>[n9][]</sup>
 
 ### More Info
 
-Home of [Yellow Rock](Yellow-Rock).
+Home of [Yellow Rock](/Area/Yellow-Rock).
 
 
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"

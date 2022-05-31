@@ -19,9 +19,9 @@ categories:
 ### Known For
 - Father of Kayla & Lucas, husband of [Jennifer](/Person/Jennifer-Simerson)
 - Half of the "Lewis & Clark" duo
-- Building the [Pump House](Pump-House)
-- Rebuilding the [Tunnel](Tunnel)
-- [Patrol Race](Patrol-Race) contestant, 2020, 2021, 2022
+- Building the [Pump House](/Building/Pump-House)
+- Rebuilding the [Tunnel](/Lodge/Tunnel)
+- [Patrol Race](/Event/Patrol-Race) contestant, 2020, 2021, 2022
 - Builder of the glove drying rack
 
 ---
@@ -35,7 +35,7 @@ categories:
 #### 2019
 
 - **Woodroom Roof**: Tearoff and framing team lead. <sup>[wp][]</sup>
-- [Pump House](Pump-House): built it to cover the newly installed well.
+- [Pump House](/Building/Pump-House): built it to cover the newly installed well.
 - **LED lights**: Led team that rewired every 4' fluorescent fixture (basement, Zoo, Cat House, Tow Hut). Replaced every other incandescent and fluorescent bulb with an LED.
 
 [wp]: Work-Parties#2019

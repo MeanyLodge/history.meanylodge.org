@@ -10,7 +10,7 @@ categories:
 
 {% include roles.html %}
 ### Known For
-- [Ferguson Pool](Ferguson-Pool)
+- [Ferguson Pool](/Area/Ferguson-Pool)
 
 ---
 ### History
