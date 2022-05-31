@@ -7,7 +7,7 @@ categories:
     - Instructor
     - Operator
 ---
-<!--<img src="/img/2022-Jennifer-Simerson.jpeg" align="right" style="width: 40%;" alt="photo of Jennifer">-->
+<img src="photo.jpeg" align="right" style="width: 40%;" alt="photo of Jennifer">
 # Jennifer Simerson
 ### Events
 - First year at Meany: 2009
