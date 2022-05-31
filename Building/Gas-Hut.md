@@ -10,7 +10,7 @@ categories: Building
 - Gas House
 
 ### Location
-In the [Industrial Park](Industrial-Park)
+In the [Industrial Park](/Area/Industrial-Park)
 
 ### Purpose
 Gasoline refueling station for all our animals except Dino.

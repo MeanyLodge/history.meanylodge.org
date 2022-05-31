@@ -66,7 +66,7 @@ Access to Meany is by automobile to highway highway overpass near Rustic Inn, ex
 
 #### 1960
 
-In April of 1960, NPRR discontinued trains #5 and #6 to Martin. <sup>[ma60][], [hh][]</sup> Meany leased a Bombardier snow tractor [Tomcat](/Machine/Tomcat),-to haul gear and tow skiers from I-90 to [Edifice Wreck](/Area/Edifice-Wreck). <sup>[hw][]</sup>
+In April of 1960, NPRR discontinued trains #5 and #6 to Martin. <sup>[ma60][], [hh][]</sup> Meany leased a Bombardier snow tractor [Tomcat](/Machine/Tomcat),-to haul gear and tow skiers from I-90 to [Edifice Wreck](/Building/Edifice-Wreck). <sup>[hw][]</sup>
 
 The Meany Committee was authorized to negotiate a lease for the use of a snow tractor during the 1960-61 ski season. <sup>[ma60][]</sup> After 31 years of access by train, Meany must now find another way. Will Meany Survive? <sup>[hh][]</sup> October: Rental agreement with Symington for use of Bombardier Sno Tractor to haul skiers from Snoqualmie Pass Highway across valley to Meany-3 miles. <sup>[ma78][]</sup>
 

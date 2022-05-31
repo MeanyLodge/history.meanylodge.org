@@ -66,7 +66,7 @@ A new septic tank and sewer system were installed.<sup>[ma67][]</sup>
 
 Leveled area to south of ski hut for a work and storage area. Covered the 48 year accumulation of cans and metal at east end of hut. Constructed holding bins in which to store cans and bottles until they can be hauled out in summer.<sup>[ma78][]</sup>
 
-- Grooming all around Lodge, particular the [Industrial Area](/Industrial-Park) <sup>[hw][]</sup>
+- Grooming all around Lodge, particular the [Industrial Area](/Area/Industrial-Park) <sup>[hw][]</sup>
 - Eliminate rubbish dump over bank at East end
 - Make holding bins for cans and glass at generator bldg.
 

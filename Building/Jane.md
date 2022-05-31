@@ -7,7 +7,7 @@ categories: Building Outhouse
 <img src="/img/2020-Jane.jpeg" style="width: 40%;" align="right">
 
 ### Location
-In the [Industrial Park](Industrial-Park).
+In the [Industrial Park](/Area/Industrial-Park).
 
 ### Purpose
 

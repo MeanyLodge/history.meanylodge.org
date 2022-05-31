@@ -10,7 +10,7 @@ categories: Building
 - Dozer Hut
 
 ### Location
-In the [Industrial Park](Industrial-Park).
+In the [Industrial Park](/Area/Industrial-Park).
 
 ### Purpose
 To shelter a bulldozer owned by [Bob Bentler](/Person/Bob-Bentler).

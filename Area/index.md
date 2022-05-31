@@ -25,7 +25,7 @@ Areas, Items, and Points of Interest, grouped by general locale, north to south.
         - [Cat Track](/Run/Cat-Track)
     - [Coatrack](/Area/Coatrack)
     - [Junior Trail](/Area/Junior-Trail)
-    - [Tow Hut](/Tow-Hut)
+    - [Tow Hut](/Building/Tow-Hut)
     - Tows: [Super Worm](/Super-Worm), [Mach](/Mach), [Turtle](/Turtle)
     - [Kirkland Park](/Run/Kirkland-Park)
         - [Ape Swing](/Area/Ape-Swing)

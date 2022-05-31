@@ -8,7 +8,7 @@ categories: Building
 
 ### Location
 
-In the [Industrial Park](Industrial-Park).
+In the [Industrial Park](/Area/Industrial-Park).
 
 ### Purpose
 
