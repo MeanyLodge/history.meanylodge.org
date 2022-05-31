@@ -16,7 +16,7 @@ Below the RR tracks, directly below the [Ice Fall](Ice-Fall), which is nearly st
 
 ### Purpose
 
-A small shack built below RR track to store gasoline for [Tomcat](Tomcat). <sup>[nw][]</sup>
+A small shack built below RR track to store gasoline for [Tomcat](/Machine/Tomcat). <sup>[nw][]</sup>
 
 ### Events
 - Constructed: 1960
@@ -38,7 +38,7 @@ Soon we cross the bridge, up the slope to a peculiar little structure below the 
 
 #### 1979
 
-Abandoned when it became possible to run [Tom Cat](Tomcat) over the BNRR to the [Lodge](Lodge).
+Abandoned when it became possible to run [Tom Cat](/Machine/Tomcat) over the BNRR to the [Lodge](Lodge).
 
 #### 2020
 

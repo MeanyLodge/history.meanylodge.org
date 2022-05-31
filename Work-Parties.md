@@ -27,9 +27,9 @@ Water pipe run from the new well to the lodge and electrical power from the Zoo.
 
 LEDs everywhere! [Michael Moreland](/Person/Michael-Moreland) led replacing all LED fixtures on the main floor. [Matt Simerson](/Person/Matt-Simerson) led rewiring every other 4' fixture (basement, Zoo, Cat House, Tow Hut) for use with single-ended LED bulbs (ballast free). Matt also replaced every other incandescent and fluorescent bulb with LEDs.
 
-[Hippo](Hippo): complete track replacement, led by [Dave Claar](/Person/Dave-Claar).
+[Hippo](/Machine/Hippo): complete track replacement, led by [Dave Claar](/Person/Dave-Claar).
 
-[Tom Cat](Tomcat): track replacement (new belts and bolts)
+[Tom Cat](/Machine/Tomcat): track replacement (new belts and bolts)
 
 ## 2018
 

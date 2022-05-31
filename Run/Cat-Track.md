@@ -11,7 +11,7 @@ category: Place
 
 ### Description
 
-A way bulldozed up through [Cognito Wood](/Run/Cognito-Wood) in 1978 to allow the [Pack Rat](Pack-Rat) to achieve greater elevation on the [Lane](/Run/Lane) - the more the machine packing, the less foot packing.<sup>[nw][], [n9][]</sup>
+A way bulldozed up through [Cognito Wood](/Run/Cognito-Wood) in 1978 to allow the [Pack Rat](/Machine/Pack-Rat) to achieve greater elevation on the [Lane](/Run/Lane) - the more the machine packing, the less foot packing.<sup>[nw][], [n9][]</sup>
 
 ### History
 

@@ -7,25 +7,25 @@ It's a thing, Meany machines have animal names.
 
 ### Snow Tractors
 
-* [Tom Cat](Tomcat)
-* [Hippo](Hippo)
-* [Moose](Moose)
+* [Tom Cat](/Machine/Tomcat)
+* [Hippo](/Machine/Hippo)
+* [Moose](/Machine/Moose)
 
 ### Snowmobiles
 
-* [Yeti](Yeti)
-* [Yurtle](Yurtle)
-* [Red Fox](Red-Fox)
-* [Red Rooster](Red-Rooster)
+* [Yeti](/Machine/Yeti)
+* [Yurtle](/Machine/Yurtle)
+* [Red Fox](/Machine/Red-Fox)
+* [Red Rooster](/Machine/Red-Rooster)
 
 ### Utility
 
-* [Ox](Ox)
-* [Beast](Beast)
-* [ATV](Daves-ATV)
-* [Wood Chipper](Wood-Chipper)
-* [Wood Splitter](Wood-Splitter)
-* [Chain Saws](ChainSaws)
+* [Ox](/Machine/Ox)
+* [Beast](/Machine/Beast)
+* [ATV](/Machine/Daves-ATV)
+* [Wood Chipper](/Machine/Wood-Chipper)
+* [Wood Splitter](/Machine/Wood-Splitter)
+* [Chain Saws](/Machine/ChainSaws)
 
 ### Wagons / Sleds
 
@@ -34,11 +34,11 @@ It's a thing, Meany machines have animal names.
 
 ### Defunct Machines
 
-* [Dozer](Dozer)
-* [Dino](Dino) (groomer)
-* [Pack Rat](Pack-Rat) (snow tractor)
-* [Yak](Yak)⚡️ (snowmobile)
-* [Mighty Mouse](Mighty-Mouse) (snowmobile)
-* [Mouse](Mouse) (snowmobile)
+* [Dozer](/Machine/Dozer)
+* [Dino](/Machine/Dino) (groomer)
+* [Pack Rat](/Machine/Pack-Rat) (snow tractor)
+* [Yak](/Machine/Yak)⚡️ (snowmobile)
+* [Mighty Mouse](/Machine/Mighty-Mouse) (snowmobile)
+* [Mouse](/Machine/Mouse) (snowmobile)
 
 ###### [template](Machine-Template)

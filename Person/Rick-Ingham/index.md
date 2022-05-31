@@ -13,7 +13,7 @@ categories:
 {% include roles.html %}
 ### Known For
 - voluminous puns and dad jokes
-- [Moose](Moose) mechanic
-- [Tomcat](Tomcat) Driver
+- [Moose](/Machine/Moose) mechanic
+- [Tomcat](/Machine/Tomcat) Driver
 - bringing ATVs and dirt bikes to work parties
 - buyer of [Toad 2](Toad-2) and [Toad 3](Toad-3)

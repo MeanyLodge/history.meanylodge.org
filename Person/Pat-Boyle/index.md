@@ -12,6 +12,6 @@ categories:
 # Pat Boyle
 {% include roles.html %}
 ### Known For
-- Owner of [Red Rooster](Red-Rooster)
+- Owner of [Red Rooster](/Machine/Red-Rooster)
 - Patrol Race sponsor
 - Long bike rides

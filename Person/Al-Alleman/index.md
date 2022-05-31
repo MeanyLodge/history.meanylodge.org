@@ -5,7 +5,7 @@ categories:
 ---
 # Al Alleman
 ### Known For
-- Owner of [Mouse](Mouse)
+- Owner of [Mouse](/Machine/Mouse)
 - [Al's Fringe](/Run/Al's-Fringe)
 - X-Country trail maintenance
 - Order of the Mole - Second Class

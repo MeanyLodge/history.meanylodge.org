@@ -3,15 +3,18 @@ title: Persons
 category: List
 ---
 
-<div style="width: 45%; float: right; text-align: left;">
-<h3>Persons</h3>
-<ul style="list-style: none;">
-  {% for doc in site.pages %}
+<div style="width: 60%; float: right; text-align: center;">
+  <h3>Persons</h3>
+  <div style="text-align: left; column-count: 2;">
+    <ul style="list-style: none;">
+  {% assign persons = site.pages | where: doc.category, "Person" | sort: "title" %}
+  {% for doc in persons %}
     {% if doc.category == "Person" %}
       <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
     {% endif %}
   {% endfor %}
-</ul>
+    </ul>
+  </div>
 </div>
 
 ### Lists / Roles

@@ -13,7 +13,7 @@ categories:
 
 {% include roles.html %}
 ### Known For
-- Driving and fixing [Tomcat](Tomcat)
+- Driving and fixing [Tomcat](/Machine/Tomcat)
 - Shop teacher at a high school
 
 ---

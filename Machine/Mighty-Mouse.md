@@ -5,7 +5,7 @@ categories: Machine Snowmobile
 ---
 # Mighty Mouse
 
-A snowmobile that replaced [Mouse](Mouse)
+A snowmobile that replaced [Mouse](/Machine/Mouse)
 
 ### Names
 - Mighty Mouse

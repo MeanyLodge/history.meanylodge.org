@@ -148,11 +148,11 @@ It might be yellow rock before you chuck yourself off it, but it will be brown r
 
 Couples, family sleeping area (top of the lodge)
 
-## [Pack-Rat](Pack-Rat)
+## [Pack-Rat](/Machine/Pack-Rat)
 
 A vintage Thiokol Sprite used for hauling children and other baggage.
 
-## The [Mouse](Mouse)
+## The [Mouse](/Machine/Mouse)
 
 A vintage snowmobile with a busted fairing used for late night trips to Trollhaugen.
 

@@ -21,7 +21,7 @@ A snowmobile owned by [Al Alleman](/Person/Al-Alleman) and used for errands, thr
 
 - purchased new by Al <sup>[ml][]</sup>
 - Donated to Nick for parts: after 2003
-- Replaced by [Mighty Mouse](Mighty-Mouse)
+- Replaced by [Mighty Mouse](/Machine/Mighty-Mouse)
 
 ---
 ### History

@@ -23,7 +23,7 @@ Greased all the accessible zerks on Hippo.
 
 #### 2019
 
-Helped put the new tracks on [Hippo](Hippo).
+Helped put the new tracks on [Hippo](/Machine/Hippo).
 
 #### 1973
 
