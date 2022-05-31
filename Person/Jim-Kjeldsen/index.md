@@ -8,4 +8,4 @@ categories:
 {% include roles.html %}
 
 ### Known For
-- Author of [Life At Meany Ski Hut](Life-At-Meany-Ski-Hut)
+- Author of [Life At Meany Ski Hut](/Life-At-Meany-Ski-Hut)

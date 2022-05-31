@@ -7,17 +7,18 @@ categories:
     - Instructor
     - Operator
 ---
-<img src="/img/2022-Jennifer-Simerson.jpeg" align="right" style="width: 40%;" alt="photo of Jennifer">
+<!--<img src="/img/2022-Jennifer-Simerson.jpeg" align="right" style="width: 40%;" alt="photo of Jennifer">-->
 # Jennifer Simerson
 ### Events
 - First year at Meany: 2009
+- Ski School leader: 2021
 
 {% include roles.html %}
 
 ### Known For
 - PSIA Level 3 Ski Instructor
-- Married to [Matt Simerson](/Person/Matt-Simerson)
 - Mother of Kayla & Lucas
+- Married to [Matt Simerson](/Person/Matt-Simerson)
 
 ---
 ### History

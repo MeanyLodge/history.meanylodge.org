@@ -9,7 +9,7 @@ South of the Nose in [Railroad Meadows](/Run/Railroad-Meadows), above [Ferguson 
 
 ### Origin
 
-[Harvey Mahalko](Harvey-Mahalko) opened up a slot when he went crazy with a saw and cleared a run.<sup>[nw][]</sup>
+[Harvey Mahalko](/Person/Harvey-Mahalko) opened up a slot when he went crazy with a saw and cleared a run.<sup>[nw][]</sup>
 
 
 [map]: /Meany-Map

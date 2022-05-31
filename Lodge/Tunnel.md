@@ -25,5 +25,5 @@ Significant repairs. Footings rebuilt to modern standards, wooden walls replaced
 Construct new structure on East end, combining fire escape, front entrance, basement entrance, and ski room. Replaces inadequate front porch. <sup>[hw][]</sup>
 
 
-[hw]: /History-Walt "Meany History, by Walt Little"
-[hi]: /History-Idona#1985 "Chronological History of Meany Lodge"
+[hw]: /History/Walt "Meany History, by Walt Little"
+[hi]: /History/Idona#1985 "Chronological History of Meany Lodge"

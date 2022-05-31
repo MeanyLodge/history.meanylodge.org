@@ -26,7 +26,7 @@ Since its establishment in 1928, a blissful crop of daft customs and gentle trad
 
 SO WHEN THE Northern Pacific Railway last year discontinued the schedule that has carried Mountaineers to their lodge near the eastern end of the Stampede Pass rail tunnel, nobody gave serious thought to abandoning Meany Lodge. Instead the Mountaineers invested almost $5,000 in a snow tractor.
 
-Under lodge chairman [Harvey Mahalko](Harvey-Mahalko), they worked out their system of towing skiers. They established radio communication between lodge and the tractor. They bought walkie-talkies to keep the towline in touch with the tractor operator.
+Under lodge chairman [Harvey Mahalko](/Person/Harvey-Mahalko), they worked out their system of towing skiers. They established radio communication between lodge and the tractor. They bought walkie-talkies to keep the towline in touch with the tractor operator.
 
 AND LAST December after snows had blocked off car and truck travel into Meany, the tractor service went into operation.
 

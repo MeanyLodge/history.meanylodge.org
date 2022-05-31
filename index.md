@@ -27,7 +27,7 @@ category: List
     - Official [Meany Lodge](https://www.mountaineers.org/locations-lodges/meany-lodge/).
     - Wikipedia [Meany Lodge](https://en.wikipedia.org/wiki/Meany_Lodge) article
     - [Committee wiki](https://github.com/MeanyLodge/Committee/wiki)
-- [Access](Access), [Energy](Energy), [Safety](Safety), [Water](Water)
+- [Access](Access), [Energy](Energy), [Legal](/Legal), [Safety](Safety), [Water](Water)
 - Research [Sources](Sources)
 - Wikipedia articles
     - [Martin, Washington](https://en.wikipedia.org/wiki/Martin,_Washington)

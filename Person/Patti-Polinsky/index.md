@@ -5,7 +5,7 @@ categories:
     - Active
     - Committee
     - Instructor
-    - Permanent Resident
+    - Permanent-Resident
 ---
 <img src="/img/2020-Patti-Polinsky.jpeg" alt="photo of Patti Polinsky" align="right" style="width: 40%">
 # Patti Polinsky
@@ -22,7 +22,7 @@ categories:
 ### Known For
 - PSIA-NW Level 3 Certified Instructor
 - Event Organizer
-    - [Ski School](Ski-School)
+    - [Ski School](/Ski-School)
     - Global Ventures
     - [Mushroom Weekend](/Event/Mushroom-Weekend)
     - Ski clinics
@@ -57,7 +57,7 @@ Record crowds were drawn to Meany Ski Hut this season by plentiful snow, fantast
 
 #### 2003
 
-[Innovative Programs are found at Meany Lodge](Innovative-Programs-are-found-at-Meany-Lodge)<sup>[75th][]</sup>
+[Innovative Programs are found at Meany Lodge](/Innovative-Programs-are-found-at-Meany-Lodge)<sup>[75th][]</sup>
 
 #### 2020
 
@@ -84,4 +84,4 @@ Then I changed to having some help in teaching. I think Dave may have been my fi
 [ma78]: /Mountaineer-Annual#1978
 [ma79]: /Mountaineer-Annual#1979
 [ma82]: /Mountaineer-Annual#1982
-[v20]: audio/Patti-Polinsky.m4a
+[v20]:  /audio/Patti-Polinsky.m4a

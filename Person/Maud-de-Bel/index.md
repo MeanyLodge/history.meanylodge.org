@@ -16,7 +16,7 @@ categories:
 - First year at Meany: 2017
 
 ### Known For
-- Ski [Instructor](Instructor)
+- Ski [Instructor](/Person/Instructor)
 - Patrol Racer, 2020
 - Mother of: Lars, Sam, and Anabel
 - Spouse of [Michael-Moreland](/Person/Michael-Moreland)

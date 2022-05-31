@@ -26,7 +26,7 @@ Other skit characters were the minister ([Dave Claar](/Person/Dave-Claar)) and t
 
 #### 1987
 
-Remote Meany Ski Hut boasts a bountiful winter 1987. With a very active PR Committee led by Norm Vigus.<sup>[hr][]</sup> The lodge attracted an average of 75 per weekend. [Ski School](Ski-School) lessons kept the lodge filled on the weekends with poor snow conditions.
+Remote Meany Ski Hut boasts a bountiful winter 1987. With a very active PR Committee led by Norm Vigus.<sup>[hr][]</sup> The lodge attracted an average of 75 per weekend. [Ski School](/Ski-School) lessons kept the lodge filled on the weekends with poor snow conditions.
 
 #### late 1990s
 
