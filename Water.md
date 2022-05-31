@@ -22,7 +22,7 @@ Used for potable domestic water. The well head and storage tank manhole are loca
 - [Legal Claim](/Legal/Water)
 - [Grundfos Pumps Instructions](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/water/2020-grundfos-pump-instructions.pdf)
 - [Aqua UV 612 Sterilizers](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/water/2004-Aqua-UV-612.pdf)
-
+- [Septic Tank](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2007-Septic-tank.pdf)
 
 ### History
 
@@ -71,8 +71,7 @@ Place two storage tanks near the dam and replace the existing iron pipe with 2" 
 
 #### ????
 
-Replace the pipe from Kirkland Park to the Lodge with 2" PVC with shut off valves near the
-connection point. <sup>[rn][]</sup>
+Replace the pipe from Kirkland Park to the Lodge with 2" PVC with shut off valves near the connection point. <sup>[rn][]</sup>
 
 #### ????
 
