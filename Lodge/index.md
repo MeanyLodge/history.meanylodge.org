@@ -27,7 +27,7 @@ categories:
     * Women's Dorm
     * Men's Dorm
 * Third Floor
-    * Third Peoples Dorm
+    * [Third Peoples Dorm](Third-Peoples-Dorm)
     * Committee Dorm
 
 ### Reference

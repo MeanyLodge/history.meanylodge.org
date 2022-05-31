@@ -25,10 +25,10 @@ category: List
 
 - Meany Lodge sites:
     - Official [Meany Lodge](https://www.mountaineers.org/locations-lodges/meany-lodge/).
-    - Wikipedia [Meany Lodge](https://en.wikipedia.org/wiki/Meany_Lodge) article
     - [Committee wiki](https://github.com/MeanyLodge/Committee/wiki)
 - [Access](Access), [Energy](Energy), [Legal](/Legal), [Safety](Safety), [Water](Water)
 - Research [Sources](Sources)
 - Wikipedia articles
+    - [Meany Lodge](https://en.wikipedia.org/wiki/Meany_Lodge)
     - [Martin, Washington](https://en.wikipedia.org/wiki/Martin,_Washington)
     - [Martin Ski Dome](https://en.wikipedia.org/wiki/Martin_Ski_Dome)
