@@ -6,58 +6,80 @@ categories: Energy
 <img src="/img/2021-Electric-Distribution.png" align="right">
 # Electricity
 
-### Distibution
+### Distibution (7,200V, 1Ø)
 
-- Medium Voltage (7,200V)
+- 2-gage AAAC (All Aluminum Alloy Conductor)
+- 2-gage Automatic Splices for repairs
+
 - Power Poles
-    - 1st (cutouts, 65T fuse on hot, 100T on neutral)
-    - 2nd
-    - 3rd ...
-- Power Line
-    - 2-gage AAAC (All Aluminum Alloy Conductor)
-    - 2-gage Automatic Splices for repairs
-- Fuses
-    - Pole 1
-        - 65T on hot
-        - 100T on neutral
-    - Pole ?, sectionalizer
-        - 25T on hot
-    - Each transformer: 15T
-- Transformers
-    - Tow Hut: 50 KVA
-    - Lodge: 50 KVA
-    - Zoo: 50 KVA
+    - 0: Puget Sound Energy, 
+        - meter: 
+    - 1: cutouts
+        - fuses: 65T fuse on hot, 100T on neutral
+        - distance to PSE pole: 17 paces
+    - 2:
+        - distance: 73 paces
+    - 3:
+        - distance: 43 paces
+    - 4:
+        - distance: 54 paces
+    - 5: Tow Hut
+        - distance: 75 paces
+        - transformer: 50 KVA
+    - 6:
+        - fuse: 25T on hot, sectionalizer
+        - distance: 70 paces
+    - 7: 
+        - distance: 68 paces
+    - 8: 
+        - distance: 25 paces
+    - 9: Zoo
+        - distance: 35 paces
+        - fuse: 15T
+        - transformer: 50 KVA
+    - 10: Lodge
+        - distance: 40 paces
+        - fuse: 15T
+        - transformer: 50 KVA
 
 ### Low Voltage (240V)
 
 - Panels
     - Tow Hut
-        - VFD (/Mach)
-        - VFD (SuperWorm)
-        - VFD (Turtle)
-        - [ ] TODO: inventory
+        - Main Panel: __A @ 240V AC
+        - Feeder: AWG __, __' in ___ conduit
+        - Grounding: 
+        - VFD [Mach](/Mach)
+        - VFD [SuperWorm](/SuperWorm)
+        - VFD [Turtle](/Turtle)
     - Zoo
-        - Main Panel - TODO: [Brand]
-        - Generator - TODO: brand, size
-        - Transfer Switch: TODO: brand, model, size
+        - Main Panel: __A @ 240V AC
+        - Feeder: AWG __, __' in ___ conduit
+        - Grounding: 
+        - Generator: Honda, 9kW, gasoline
+        - Transfer Switch: Connecticut Electric EmerGen Manual Transfer Switch, 10-????
     - Lodge
-        - Main Panel - TODO: [Brand]
-        - Fuse disconnect
-        - Transfer switches
+        - Disconnect switch: 200A
+        - Main Panel: 200A SquareD __
+        - Feeder: AWG __, __' in ___ conduit
+        - Grounding: 
+        - Transfer Switch: Connecticut Electric EmerGen Manual Transfer Switch, 10-????
+
 
 ### Reference
-- [Misc Docs](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2021-12-08-Power-Line.pdf)
+
 - [S&C Fuse Links](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2021-Fuse-Links.pdf)
+- [198X Electrical Permit](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/198X-Electrical-Permit.pdf)
+- [CE Emergen Transfer Switch manual](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/20XX-CE-Transfer-Switch-Manual.pdf)
 
 ### Significant Events
 
 - 2015, [replaced entire power line](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2015-Power-Line-Replacement.pdf)
 - 2013, added Mach 50HP motor
-- 2005, meter error
-- 1986, added dead end insulators to trees supporting power lines
+- 2005, [metering error](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2006-PSE-Meter-Error.pdf)
 - 1981, began feed from PSE in BPA RoW
-- 1963, power from BN railroad
-
+- 1963, power from NPRR railroad
+- 1939, gas generators
 
 ---
 
@@ -124,31 +146,34 @@ Add the 50 HP motor load to the system by replacing the gas motor in the Tow Hut
 
 #### 2015
 
-The old power poles were rotted off. L-boz Construction in Ellensburg replaced the entire power line from PSE to the lodge. $21,692. <sup>[rn19][], [rn15][] </sup>
+The old power poles were rotted off. L-boz Construction in Ellensburg replaced the entire power line from PSE to the lodge. $21,692. <sup>[rn19][], [rn15][] </sup> [Receipt](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2015-LBoz-Power-Line.pdf)
 
-Repair power line between poles 1-2. 3-men, 6 hr on snowmobiles. L-Boz
-construction: $2,083.41.
+Repair power line between poles 1-2. 3-men, 6 hr on snowmobiles. L-Boz construction: $2,083.41.
 
 
 #### 2016
 
-Power line repair by L-boz Construction on January 9th. Repair 1 span west of the Tow Hut for $1601.71.<sup>[rn19][]</sup>
+Power line repair by L-boz Construction on January 9th. Repair 1 span west of the Tow Hut for $1,601.71.<sup>[rn19][]</sup>. [Receipt](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2016-LBoz-Receipt.pdf)
 
 
 #### 2017
 
-Jack Sansaver of L-boz Construction in Ellensburg replaced a fuse on a transformer. "Looks like animal got into high side." $200. <sup>[rn19][]</sup>
+Jack Sansaver of L-boz Construction in Ellensburg replaced a fuse on a transformer. "Looks like animal got into high side." $200. <sup>[rn19][]</sup> [Receipt](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2017-Sansaver-Receipt.pdf).
 
 
 #### 2021
 
-A downed tree took out our power line between poles 1 and 2. See [Power Outage Nov 2021](https://github.com/MeanyLodge/Committee/issues/18)
+A downed tree took out our power line between poles 1 and 2. See [Power Outage Nov 2021](https://github.com/MeanyLodge/Committee/issues/18). Repaired by Meany.
 
+#### 2022
+
+In early 2022, a falling tree branch [damaged our line](https://github.com/MeanyLodge/Committee/issues/20). Repairs are planned for summer 2022.
 
 
 [hr]: /History/Reports "Meany History Reports, by Idona Kellogg"
 [hw]: /History/Walt "Meany History, by Walt Little"
 [ma46]: /Mountaineer-Annual#1946
+[ma63]: /Mountaineer-Annual#1963
 [ma78]: /Mountaineer-Annual#1978
 [ma82]: /Mountaineer-Annual#1982
 [rn15]: https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2015-Power-Line-Replacement.pdf

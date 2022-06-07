@@ -14,5 +14,8 @@ About 1/4 mile west of the point where the [Tom Cat](/Machine/Tomcat) road cross
 
 Location of frequent floodings.<sup>[nw][]</sup>
 
+As you travel up to Meany, after you turn off FR-54 onto FR-420, you round the first curve and rise up a
+small hill over a creek. That's Mosquito Creek.<sup>[ms][] 2022</sup>
 
 [nw]: /Names-Walt "Meany Names by Walter Little, 1984"
+[ms]: /Person/Matt-Simerson
