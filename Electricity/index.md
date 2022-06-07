@@ -5,18 +5,14 @@ categories: Energy
 ---
 <img src="/img/2021-Electric-Distribution.png" align="right">
 # Electricity
-
 ### Distibution (7,200V, 1Ø)
 
-- 2-gage AAAC (All Aluminum Alloy Conductor)
-- 2-gage Automatic Splices for repairs
-
 - Power Poles
-    - 0: Puget Sound Energy, 
+    - 0: Puget Sound Energy 
         - meter: 
     - 1: cutouts
         - fuses: 65T fuse on hot, 100T on neutral
-        - distance to PSE pole: 17 paces
+        - feeder: 17 paces of 2-gage AAAC (All Aluminum Alloy Conductor)
     - 2:
         - distance: 73 paces
     - 3:
@@ -68,6 +64,7 @@ categories: Energy
 
 ### Reference
 
+- use 2-gage Automatic Splices for repairs
 - [S&C Fuse Links](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2021-Fuse-Links.pdf)
 - [198X Electrical Permit](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/198X-Electrical-Permit.pdf)
 - [CE Emergen Transfer Switch manual](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/20XX-CE-Transfer-Switch-Manual.pdf)
