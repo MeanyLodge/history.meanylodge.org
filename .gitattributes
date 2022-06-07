@@ -484,6 +484,7 @@
 /reference/2016-LBoz-Receipt.pdf filter=lfs diff=lfs merge=lfs -text
 /reference/2017-Sansaver-Receipt.pdf filter=lfs diff=lfs merge=lfs -text
 /reference/20XX-CE-Transfer-Switch-Manual.pdf filter=lfs diff=lfs merge=lfs -text
+/reference/2022-Power-Proposal-575V.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -548,7 +549,6 @@
 /Building/Snoqualmie-Lodge.md filter=lfs diff=lfs merge=lfs -text
 /Mach/index.md filter=lfs diff=lfs merge=lfs -text
 /Building/Snoqualmie-Lodge/index.md filter=lfs diff=lfs merge=lfs -text
-/reference/2022-Power-Proposal-575V.jpg filter=lfs diff=lfs merge=lfs -text
 /Area/Lower-Slobbovia-National-Park/195_-LSNP.jpeg filter=lfs diff=lfs merge=lfs -text
 /Electricity/2021-Electric-Distribution.png filter=lfs diff=lfs merge=lfs -text
 /Lodge/2020-Lodge.jpeg filter=lfs diff=lfs merge=lfs -text
