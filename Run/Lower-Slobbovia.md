@@ -1,6 +1,7 @@
 ---
 title: Lower Slobbovia
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # Lower Slobbovia
 ### Names

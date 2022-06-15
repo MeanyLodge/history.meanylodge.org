@@ -3,6 +3,10 @@ title: Soffreenia Wood
 category: Place
 ---
 # Soffreenia Wood
+### Names
+- Soffrenia Wood
+- Soffrenia Woods
+
 ### Location
 
 Patch of woods to southeast of [Mach](/Mach) Tow. <sup>[nw][]</sup>

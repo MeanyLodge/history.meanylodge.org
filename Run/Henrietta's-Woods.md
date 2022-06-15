@@ -1,6 +1,7 @@
 ---
 title: Henrietta's Woods
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # Henrietta's Woods
 ### Location
@@ -19,11 +20,11 @@ Meany work parties ... started the enormous task of clearing [Walter's Woods](/R
 
 #### 2020
 
-The trees have all grown back, it has long since been Henrietta's Woods. --[Matt Simerson](/Person/Matt-Simerson)
-
+The trees have all grown back, it has long since been Henrietta's Woods.<sup>[ms][]</sup>
 
 
 [ma78]: /Mountaineer-Annual#1978
 [ma79]: /Mountaineer-Annual#1979
 [map]: /Meany-Map
 [nw]: /Names-Walt "Meany Names by Walter Little, 1984"
+[ms]: /Person/Matt-Simerson

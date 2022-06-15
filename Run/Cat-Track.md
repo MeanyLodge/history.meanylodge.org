@@ -1,6 +1,7 @@
 ---
 title: Cat Track
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # Cat Track
 ### Names

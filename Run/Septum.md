@@ -1,6 +1,6 @@
 ---
 title: Septum
-category: Stub
+category: Alias
 ---
 # Septum
 See [Nose](/Run/Nose).

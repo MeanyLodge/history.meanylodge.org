@@ -1,6 +1,7 @@
 ---
 title: Helser's Ess
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # Helser's Ess
 ### Location

@@ -1,7 +1,9 @@
 ---
 title: Propane Hut
 category: Building
-categories: Building
+categories:
+  - Building
+  - Storage
 ---
 # Propane Hut
 <img src="/img/2020-Propane-Hut.jpeg" alt="Meany Propane Hut" align="right" style="width: 50%;">
@@ -15,7 +17,7 @@ categories: Building
 Just west of the [Lodge](/Lodge)
 
 ### Purpose
-Intially, to enclose a 500-gallon propane tank. Now it is storage.
+Miscellaneous storage.
 
 ### Events
 - Constructed: 2001
@@ -30,6 +32,13 @@ Intially, to enclose a 500-gallon propane tank. Now it is storage.
 
 #### 2NNN
 
-Rugulations changed again and propane tanks cannot be enclosed by any type of building.
+Regulations changed again and propane tanks cannot be enclosed by any type of building.
+
+#### 2019
+
+During the winter, we store a couple of the Toads (ATV trailers) and whatever else
+we can fit. During the summer, it stores building materials, project parts,
+and miscellaneous.<sup>[ms][]</sup>
 
 [75th]: /Event/Anniversary#75th
+[ms]: /Person/Matt-Simerson

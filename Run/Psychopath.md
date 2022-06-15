@@ -1,6 +1,7 @@
 ---
 title: Psychopath
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # Psychopath
 ### Location

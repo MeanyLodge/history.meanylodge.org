@@ -1,6 +1,7 @@
 ---
 title: Harvey's Slot
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # Harvey's Slot
 ### Location

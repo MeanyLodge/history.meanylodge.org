@@ -42,9 +42,11 @@ Abandoned when it became possible to run [Tom Cat](/Machine/Tomcat) over the BNR
 
 #### 2020
 
-It's name fits now more than ever.
+It's name fits now more than ever. All that remains is a little pile of rotting
+boards and a few scraps of metal drums.<sup>[ms][]</sup>
 
 [hw]: /History/Walt "Meany History, by Walt Little"
 [nw]: /Names-Walt "Meany Names by Walter Little, 1984"
 [ma68]: /Mountaineer-Annual#1968
 [map]: /Meany-Map
+[ms]: /Person/Matt-Simerson

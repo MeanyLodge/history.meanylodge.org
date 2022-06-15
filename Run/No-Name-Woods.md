@@ -1,6 +1,6 @@
 ---
 title: No-Name Woods
-category: Stub
+category: Alias
 ---
 # No-Name Woods
 see [Walter's Woods](/Run/Walter's-Woods)

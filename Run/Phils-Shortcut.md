@@ -1,6 +1,7 @@
 ---
 title: Phil's Shortcut
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # Phil's Shortcut
 

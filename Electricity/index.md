@@ -1,9 +1,9 @@
 ---
 title: Electricity
 category: Document
-categories: Energy
+categories: [ Electricity, Energy, Utility ]
 ---
-<img src="/img/2021-Electric-Distribution.png" align="right">
+<img src="2021-Electric-Distribution.png" align="right">
 # Electricity
 ### Distibution (7,200V, 1Ø)
 

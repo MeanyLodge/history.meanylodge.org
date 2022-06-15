@@ -1,6 +1,7 @@
 ---
 title: Downhill Trail
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # Downhill Trail
 ### Location

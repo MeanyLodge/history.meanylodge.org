@@ -1,6 +1,7 @@
 ---
 title: Lane
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # Lane
 ### Location
@@ -17,7 +18,7 @@ Very early on the lane was thick with trees. A retired doctor hired loggers to c
 
 #### 1931
 
-A retired doctor donated funds to contract with two loggers from Easton to fall the trees from the cornice down to the clearing for $100 and so the lane was created. <sup>[ma56][]</sup> The trees were virgin lumber and the lane was much narrower, giving the appearance of a narrow lane through the woods. <sup>[mn][mn]</sup>
+A retired doctor donated funds to contract with two loggers from Easton to fall the trees from the cornice down to the clearing for $100 and so the lane was created. <sup>[ma56][]</sup> The trees were virgin lumber and the lane was much narrower, giving the appearance of a narrow lane through the woods. <sup>[nw][]</sup>
 
 The loggers left 3'-4' high stumps and downed trees all criss-crossed. <sup>[hw][]</sup>
 
@@ -75,11 +76,16 @@ December 31, 2013 was not a good snow day.
 
 <img src="/img/2013-Bare-Lane-at-New-Year.jpeg" alt="A sad non-snowy Lane on Dec 31, 2013">
 
+#### 2022
+
+Twenty twenty two brought the best snow year in recent memory. All of holiday week was in the teens with a range of 5-21°F. Day after day we received fresh dumps of delightful powdery snow, sometimes closing the pass, frequently knocking out our power. On January 3rd, WSDOT announced 236", the highest snowfall in 20 years. The unusual cold and heavy snowfall kept the snow clung to the trees, causing just shy of 60 to fall across the roads leading into Meany. Pass closures prevented many arrivals. A dozen days at Meany were running on generator power. April dropped another 10' of late-season snow, (totaling 444" for the year) resulting in the Lane being snow covered until the first week of June.<sup>[ms][]</sup>
+
 
 [hr]: /History/Reports "Meany History Reports, by Idona Kellogg"
 [hw]: /History/Walt "Meany History, by Walt Little"
 [ma35]: /Mountaineer-Annual#1935
 [ma40]: /Mountaineer-Annual#1940
 [ma56]: /Mountaineer-Annual#1956
+[ms]: /Person/Matt-Simerson
 [n9]: /Names-2009 "Meany Names, by Brian Thompson & Emilio Marasco"
 [nw]: /Names-Walt "Meany Names by Walter Little, 1984"

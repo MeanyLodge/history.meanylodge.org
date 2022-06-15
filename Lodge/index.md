@@ -1,9 +1,9 @@
 ---
 title: Lodge
 category: Building
-categories:
+categories: [ Building, Dormitory, Lodging, Utility ]
 ---
-<img src="/img/2020-Lodge.jpeg" style="width: 50%;" alt="Meany Lodge photo" align="right">
+<img src="2020-Lodge.jpeg" style="width: 50%;" alt="Meany Lodge photo" align="right">
 # Lodge
 ### Areas
 

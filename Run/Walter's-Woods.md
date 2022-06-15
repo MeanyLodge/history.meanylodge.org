@@ -1,6 +1,7 @@
 ---
 title: Walter's Woods
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # Walter's Woods
 ### Names

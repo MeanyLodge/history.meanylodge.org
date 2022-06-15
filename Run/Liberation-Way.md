@@ -1,6 +1,7 @@
 ---
 title: Liberation Way
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # Liberation Way
 
