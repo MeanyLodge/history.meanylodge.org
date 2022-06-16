@@ -490,6 +490,8 @@
 /Lodge/2020-Lodge.jpeg filter=lfs diff=lfs merge=lfs -text
 /Person/Bob-Grass/2022-Bob-Grass.jpeg filter=lfs diff=lfs merge=lfs -text
 /Run/Kirkland-Park/2020-Kirkland-Park.jpeg filter=lfs diff=lfs merge=lfs -text
+/Building/Diesel-Hut/2020-Diesel-Hut.jpeg filter=lfs diff=lfs merge=lfs -text
+/Building/Diesel-Hut/2020-Diesel-Tank.jpeg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -554,8 +556,6 @@
 /Building/Snoqualmie-Lodge.md filter=lfs diff=lfs merge=lfs -text
 /Mach/index.md filter=lfs diff=lfs merge=lfs -text
 /Building/Snoqualmie-Lodge/index.md filter=lfs diff=lfs merge=lfs -text
-/Building/Diesel-Hut/2020-Diesel-Hut.jpeg filter=lfs diff=lfs merge=lfs -text
-/Building/Diesel-Hut/2020-Diesel-Tank.jpeg filter=lfs diff=lfs merge=lfs -text
 /Machine/Dozer/200__Bob.jpeg filter=lfs diff=lfs merge=lfs -text
 /Machine/Dozer/2022_loaded.jpeg filter=lfs diff=lfs merge=lfs -text
 /Machine/Dozer/2022_loading.jpeg filter=lfs diff=lfs merge=lfs -text
