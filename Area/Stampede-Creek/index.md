@@ -25,7 +25,7 @@ It's all the same creek; The one coming down over the RR tunnel entrance in a sp
 
 #### 2022
 
-Our youth refer to the waterfall referenced agove as "Frog Falls."
+Our youth have named the waterfall referenced above "Phrog Phalls |frog falls|."<sup>[ks][]</sup>
 
 #### 1984
 
@@ -33,3 +33,4 @@ Meanyites often refer to it as "Railroad Creek." <sup>[nw][]</sup>
 
 [nw]: /Names-Walt "Meany Names by Walter Little, 1984"
 [n9]: /Names-2009 "Meany Names, by Brian Thompson & Emilio Marasco"
+[ks]: /Person/Kayla-Simerson

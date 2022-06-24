@@ -35,6 +35,7 @@ categories: [ Building, Dormitory, Lodging, Utility ]
 - [Floor Plan](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2000-Lodge-Floor-plans.pdf)
 - [Kitchen Floor Plan](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2020-Kitchen-Floor-Plan.pdf)
 - [Drolet Furnace Docs](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2018-Drolet-Furnace.pdf)
+- [Mattresses](https://github.com/MeanyLodge/Committee/wiki/Mattresses)
 
 ---
 ### History
@@ -121,6 +122,9 @@ The study area was moved from the end of the Third Person's Dorm to a small area
 
 Convert ex-shop space in basement to First Aid and drying room. <sup>[hw][]</sup>
 
+New mattresses were hauled in and mattress covers sewn. The study was paneled. Ray Nelson made two wooden couches and a bench for Meany's basement. The entire Meany basement was remodeled adding several new drying areas and a first aid facility.<sup>[ma82][]</sup>
+
+
 #### 1984
 
 - Woodshed added to North side of basement 8' X 24'.
@@ -167,4 +171,5 @@ Coated the steel lodge roof with silver paint.
 [ma67]: /Mountaineer-Annual#1967
 [ma78]: /Mountaineer-Annual#1978
 [ma80]: /Mountaineer-Annual#1980
+[ma82]: /Mountaineer-Annual#1982
 [ma91]: /Mountaineer-Annual#1991
