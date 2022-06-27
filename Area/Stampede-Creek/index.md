@@ -25,7 +25,7 @@ It's all the same creek; The one coming down over the RR tunnel entrance in a sp
 
 #### 2022
 
-Our youth have named the waterfall referenced above "Phrog Phalls |frog falls|."<sup>[ks][]</sup>
+Our youth have named the waterfall referenced above "Phrog Phalls \|frog falls\|." <sup>[ks][]</sup>
 
 #### 1984
 
