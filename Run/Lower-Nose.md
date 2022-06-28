@@ -1,6 +1,6 @@
 ---
 title: Lower Nose
-category: Stub
+category: Alias
 ---
 # Lower Nose
 See [Nose](/Run/Nose).

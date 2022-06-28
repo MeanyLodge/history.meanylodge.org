@@ -1,6 +1,7 @@
 ---
 title: Damnation
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # Damnation
 ### Location

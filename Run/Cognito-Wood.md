@@ -1,6 +1,7 @@
 ---
 title: Cognito Wood
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # Cognito Wood
 ### Location

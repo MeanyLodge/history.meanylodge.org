@@ -1,6 +1,6 @@
 ---
 title: Soffreenia Woods
-category: Stub
+category: Alias
 ---
 # Soffreenia Woods
 See [Soffreenia Wood](/Run/Soffreenia-Wood)

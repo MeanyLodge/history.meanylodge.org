@@ -1,10 +1,10 @@
 ---
 title: North Slobbovia
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # North Slobbovia
 ### Names
-
 - North Slobbovia
 - North
 

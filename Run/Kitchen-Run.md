@@ -1,6 +1,7 @@
 ---
 title: Kitchen Run
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # Kitchen Run
 

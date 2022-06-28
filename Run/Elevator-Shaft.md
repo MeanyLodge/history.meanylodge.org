@@ -1,6 +1,7 @@
 ---
 title: Elevator Shaft
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # Elevator Shaft
 ### Location

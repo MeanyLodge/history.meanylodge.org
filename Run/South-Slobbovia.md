@@ -1,7 +1,7 @@
 ---
 title: South Slobbovia
 category: Place
-categories: Place Ski-Run
+categories: [ Place, Ski-Run ]
 ---
 <img src="/img/2020-South-Slobbovia.jpeg" align="right" style="width: 50%;">
 # South Slobbovia

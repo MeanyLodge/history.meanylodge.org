@@ -1,6 +1,7 @@
 ---
 title: Al's Fringe
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # Al's Fringe
 

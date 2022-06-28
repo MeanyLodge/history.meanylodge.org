@@ -1,6 +1,7 @@
 ---
 title: Nikki's Trail
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # Nikki's Trail
 ### History

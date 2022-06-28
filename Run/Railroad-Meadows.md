@@ -1,6 +1,7 @@
 ---
 title: Railroad Meadows
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # Railroad Meadows
 ### Location

@@ -8,12 +8,13 @@ category: List
 - [About](About) this site
 - [Events](/Event)
 - [History](History)
+- [Lodge](/Lodge)
 - [Meany Hill](Meany-Hill)
 - [Ski School](Ski-School)
 
 ### [Tows](Tows)
 
-### Ski [Runs](Runs)
+### Ski [Runs](/Run)
 
 ### [Buildings](Building) / Structures
 

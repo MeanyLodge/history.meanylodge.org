@@ -1,6 +1,7 @@
 ---
 title: Lefty
 category: Place
+categories: [ Place, Ski-Run ]
 ---
 # Lefty
 ### Location

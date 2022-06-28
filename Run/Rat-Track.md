@@ -1,6 +1,6 @@
 ---
 title: Rat Track
-category: Stub
+category: Alias
 ---
 # Rat Track
 See [Cat Track](/Run/Cat-Track)
