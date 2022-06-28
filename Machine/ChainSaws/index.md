@@ -4,7 +4,7 @@ category: List
 ---
 # Chain Saws
 
-Back in the day, Meany lumberjacks used hand saws. Nowadays, we use chainsaws that are _usually_ older than our children.
+Back in the day, Meany lumberjacks used hand saws. Nowadays, we use chainsaws that are _usually_ older than our children. <sup>[ms][]</sup>
 
 
 ### The Little One
@@ -22,4 +22,7 @@ Back in the day, Meany lumberjacks used hand saws. Nowadays, we use chainsaws th
 - Model: Farm Boss
 - Bar Length: 20"
 - Spark Plug: 
-- Chain: 
+- Chain: 20" 3/8" (9.32mm) tooth, 0.50" (1.3mm) width, Stihl part # 3624 005 0072 (33RS3-72) <sup>[ri][]</sup>
+
+[ms]: /Person/Matt-Simerson
+[ri]: /Person/Rick-Ingham
