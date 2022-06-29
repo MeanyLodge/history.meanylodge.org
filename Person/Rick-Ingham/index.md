@@ -11,6 +11,7 @@ categories:
 # Rick Ingham
 
 {% include roles.html %}
+
 ### Known For
 - voluminous puns and dad jokes
 - [Moose](/Machine/Moose) mechanic

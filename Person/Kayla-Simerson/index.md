@@ -4,7 +4,7 @@ category: Person
 categories:
     - Active
 ---
-<!--img src="/Person/Kayla-Simerson/2022.jpeg" style="width: 40%;" align="right"-->
+<img src="/Person/Kayla-Simerson/2022-Kayla.jpeg" style="width: 40%;" align="right">
 # Kayla Simerson
 ### Names
 ### Events
