@@ -12,22 +12,17 @@ category: List
 - [Meany Hill](Meany-Hill)
 - [Ski School](Ski-School)
 
-### [Tows](Tows)
-
-### Ski [Runs](/Run)
-
-### [Buildings](Building) / Structures
-
-### [Machines](Machine) / Animals
-
-### [Areas](Area) / Items / Points of Interest
 
 ### See Also
 
 - Meany Lodge sites:
     - Official [Meany Lodge](https://www.mountaineers.org/locations-lodges/meany-lodge/).
     - [Committee wiki](https://github.com/MeanyLodge/Committee/wiki)
-- [Access](Access), [Energy](Energy), [Legal](/Legal), [Safety](Safety), [Water](Water)
+- [Access](Access)
+- [Energy](Energy)
+- [Legal](/Legal)
+- [Safety](Safety)
+- [Water](Water)
 - Research [Sources](Sources)
 - Wikipedia articles
     - [Meany Lodge](https://en.wikipedia.org/wiki/Meany_Lodge)
