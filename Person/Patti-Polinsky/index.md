@@ -84,4 +84,4 @@ Then I changed to having some help in teaching. I think Dave may have been my fi
 [ma78]: /Mountaineer-Annual#1978
 [ma79]: /Mountaineer-Annual#1979
 [ma82]: /Mountaineer-Annual#1982
-[v20]:  /audio/Patti-Polinsky.m4a
+[v20]:  https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/audio/Patti-Polinsky.m4a
