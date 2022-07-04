@@ -31,9 +31,9 @@ As a [Tom Cat](/Machine/Tomcat) backup.
 
 ### Manuals
 
-- [Bombardier Skidozer 302 Flyer][https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/mooose/Flyer.pdf]
-- [Operators Manual][https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/moose/Manual.pdf]
-- [Transmission Application Manual][https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/moose/Tranny.pdf]
+- [Bombardier Skidozer 302 Flyer][https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/mooose/Flyer.pdf]
+- [Operators Manual][https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/moose/Manual.pdf]
+- [Transmission Application Manual][https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/moose/Tranny.pdf]
 - The engine parts manual lives in the first floor doored cabinet in the cat house.
 
 ### Mechanics

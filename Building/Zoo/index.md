@@ -19,7 +19,7 @@ The Zoo is the veterinary hospital for Meany [animals](/Machine). In the Zoo, th
 
 ### See Also
 
-- Zoo [Building Plans](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/1993-Zoo-Plans.pdf)
+- Zoo [Building Plans](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/1993-Zoo-Plans.pdf)
 
 ---
 ### History
@@ -40,7 +40,7 @@ A traditional Meany custom is to endearlingly name our mobile machinery after an
 
 #### 2017
 
-Floor is cracking and heaving. See [report](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2017-Zoo-Floor.pdf)
+Floor is cracking and heaving. See [report](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/2017-Zoo-Floor.pdf)
 
 #### 2020
 

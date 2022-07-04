@@ -32,9 +32,9 @@ categories: [ Building, Dormitory, Lodging, Utility ]
 
 ### Reference
 
-- [Floor Plan](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2000-Lodge-Floor-plans.pdf)
-- [Kitchen Floor Plan](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2020-Kitchen-Floor-Plan.pdf)
-- [Drolet Furnace Docs](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2018-Drolet-Furnace.pdf)
+- [Floor Plan](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/2000-Lodge-Floor-plans.pdf)
+- [Kitchen Floor Plan](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/2020-Kitchen-Floor-Plan.pdf)
+- [Drolet Furnace Docs](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/2018-Drolet-Furnace.pdf)
 - [Mattresses](https://github.com/MeanyLodge/Committee/wiki/Mattresses)
 
 ---

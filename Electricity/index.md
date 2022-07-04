@@ -56,8 +56,8 @@ categories: [ Electricity, Energy, Utility ]
         - Transfer Switch: Connecticut Electric EmerGen Manual Transfer Switch, 10-????
     - Lodge
         - Disconnect switch: 200A
-        - Main Panel: 200A SquareD __
-        - Feeder: AWG __, __' in ___ conduit
+        - Main Panel: 200A SquareD \__
+        - Feeder: AWG \__, \__' in \__ conduit
         - Grounding: 
         - Transfer Switch: Connecticut Electric EmerGen Manual Transfer Switch, 10-????
 
@@ -65,15 +65,15 @@ categories: [ Electricity, Energy, Utility ]
 ### Reference
 
 - use 2-gage Automatic Splices for repairs
-- [S&C Fuse Links](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2021-Fuse-Links.pdf)
-- [198X Electrical Permit](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/198X-Electrical-Permit.pdf)
-- [CE Emergen Transfer Switch manual](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/20XX-CE-Transfer-Switch-Manual.pdf)
+- [S&C Fuse Links](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/2021-Fuse-Links.pdf)
+- [198X Electrical Permit](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/198X-Electrical-Permit.pdf)
+- [CE Emergen Transfer Switch manual](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/20XX-CE-Transfer-Switch-Manual.pdf)
 
 ### Significant Events
 
-- 2015, [replaced entire power line](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2015-Power-Line-Replacement.pdf)
+- 2015, [replaced entire power line](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/2015-Power-Line-Replacement.pdf)
 - 2013, added Mach 50HP motor
-- 2005, [metering error](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2006-PSE-Meter-Error.pdf)
+- 2005, [metering error](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/2006-PSE-Meter-Error.pdf)
 - 1981, began feed from PSE in BPA RoW
 - 1963, power from NPRR railroad
 - 1939, gas generators
@@ -143,19 +143,19 @@ Add the 50 HP motor load to the system by replacing the gas motor in the Tow Hut
 
 #### 2015
 
-The old power poles were rotted off. L-boz Construction in Ellensburg replaced the entire power line from PSE to the lodge. $21,692. <sup>[rn19][], [rn15][] </sup> [Receipt](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2015-LBoz-Power-Line.pdf)
+The old power poles were rotted off. L-boz Construction in Ellensburg replaced the entire power line from PSE to the lodge. $21,692. <sup>[rn19][], [rn15][] </sup> [Receipt](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/2015-LBoz-Power-Line.pdf)
 
 Repair power line between poles 1-2. 3-men, 6 hr on snowmobiles. L-Boz construction: $2,083.41.
 
 
 #### 2016
 
-Power line repair by L-boz Construction on January 9th. Repair 1 span west of the Tow Hut for $1,601.71.<sup>[rn19][]</sup>. [Receipt](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2016-LBoz-Receipt.pdf)
+Power line repair by L-boz Construction on January 9th. Repair 1 span west of the Tow Hut for $1,601.71.<sup>[rn19][]</sup>. [Receipt](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/2016-LBoz-Receipt.pdf)
 
 
 #### 2017
 
-Jack Sansaver of L-boz Construction in Ellensburg replaced a fuse on a transformer. "Looks like animal got into high side." $200. <sup>[rn19][]</sup> [Receipt](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2017-Sansaver-Receipt.pdf).
+Jack Sansaver of L-boz Construction in Ellensburg replaced a fuse on a transformer. "Looks like animal got into high side." $200. <sup>[rn19][]</sup> [Receipt](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/2017-Sansaver-Receipt.pdf).
 
 
 #### 2021
@@ -173,6 +173,6 @@ In early 2022, a falling tree branch [damaged our line](https://github.com/Meany
 [ma63]: /Mountaineer-Annual#1963
 [ma78]: /Mountaineer-Annual#1978
 [ma82]: /Mountaineer-Annual#1982
-[rn15]: https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2015-Power-Line-Replacement.pdf
+[rn15]: https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/2015-Power-Line-Replacement.pdf
 [rn19]: /Person/Ray-Nelson/Electrical-Power-System
 [tp]: /Machine/Tomcat/Petition

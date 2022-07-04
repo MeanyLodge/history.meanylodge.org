@@ -20,9 +20,9 @@ Used for potable domestic water. The well head and storage tank manhole are loca
 # Reference
 
 - [Legal Claim](/Legal/Water)
-- [Grundfos Pumps Instructions](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/water/2020-grundfos-pump-instructions.pdf)
-- [Aqua UV 612 Sterilizers](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/water/2004-Aqua-UV-612.pdf)
-- [Septic Tank](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2007-Septic-tank.pdf)
+- [Grundfos Pumps Instructions](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/water/2020-grundfos-pump-instructions.pdf)
+- [Aqua UV 612 Sterilizers](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/water/2004-Aqua-UV-612.pdf)
+- [Septic Tank](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/2007-Septic-tank.pdf)
 
 ### History
 

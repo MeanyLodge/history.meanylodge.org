@@ -51,7 +51,7 @@ Electric motor + spare parts cost ~ $300. <sup>[hw][]</sup>
 
 #### 1969
 
-- [plans](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/1969-Worm.pdf) by [Mike Lonergan](/Person/Mike-Lonergan)
+- [plans](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/1969-Worm.pdf) by [Mike Lonergan](/Person/Mike-Lonergan)
 
 
 [dc87]: /Person/Dave-Claar#1987

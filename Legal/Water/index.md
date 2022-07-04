@@ -3,7 +3,7 @@ title: Tombstone Creek Water Supply
 ---
 # Tombstone Creek Water Supply
 
-[PDF Scan](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/water/1990-Tombstone.pdf) of certificate, and [PDF Scan of Referee](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/water/1990-Meany-Water-Rights.pdf)
+[PDF Scan](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/water/1990-Tombstone.pdf) of certificate, and [PDF Scan of Referee](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/water/1990-Meany-Water-Rights.pdf)
 
 | --------------- | ---------- |
 | COURT CLAIM NO. | 01714 |

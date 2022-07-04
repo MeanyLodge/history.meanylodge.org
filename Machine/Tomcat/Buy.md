@@ -89,4 +89,4 @@ Harvey Mahalko, Chairman (Composed and compiled by Walt Little)
 - [Art Nation](/Person/Art-Nation)
 - Jessie Hamlin
 
-[Original document](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/1961%20Tomcat%20Buy.pdf)
+[Original document](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/1961%20Tomcat%20Buy.pdf)

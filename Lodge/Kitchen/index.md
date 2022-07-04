@@ -8,8 +8,8 @@ categories: Place
 
 ### Reference
 
-- [Floor Plan](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2020-Kitchen-Floor-Plan.pdf)
-- [Fridge Docs](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/1999-True-Fridge.pdf)
+- [Floor Plan](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/2020-Kitchen-Floor-Plan.pdf)
+- [Fridge Docs](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/1999-True-Fridge.pdf)
 
 
 ### History

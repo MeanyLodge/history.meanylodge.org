@@ -3,7 +3,7 @@ title: BPA Right of Way
 ---
 # BPA Right of Way
 
-[PDF Scan](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2000-06-22-BPA-Road.pdf) of original, and [PDF Scan of Legal response](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2000-BPA-RoW-reply.pdf).
+[PDF Scan](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/2000-06-22-BPA-Road.pdf) of original, and [PDF Scan of Legal response](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/2000-BPA-RoW-reply.pdf).
 
 Department of Energy
 Bonneville Power Administration

@@ -32,9 +32,9 @@ Snow plow and groomer. Used for grooming Forest Road 420, the skier side of F.R.
 
 - 1-775-857-5030 Tech Support
 - [Aux Hydraulics Control Panel](PB160D-Aux-Panel.jpg)
-- [Control Valve Schematic](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/hippo/PB160D-Control-Valve.pdf)
-- [Hydraulics Schematic](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/hippo/PB160D-Hydraulic-Schematics.pdf)
-- [Repair / Parts Manual](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/hippo/PB-160-D-(DE,EN).pdf)
+- [Control Valve Schematic](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/hippo/PB160D-Control-Valve.pdf)
+- [Hydraulics Schematic](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/hippo/PB160D-Hydraulic-Schematics.pdf)
+- [Repair / Parts Manual](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/hippo/PB-160-D-(DE,EN).pdf)
 
 ### See Also
 
