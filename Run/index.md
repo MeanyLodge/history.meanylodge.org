@@ -37,7 +37,7 @@ See [Meany Hill](/Meany-Hill) for a geographically ordered tour of the ski runs 
 
 ### Maps
 
-* [XC Trail Map](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/maps/2020-Meany-XC-Trail-Map.pdf)
-* [Meany to Snoqualmie](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/maps/1951-Meany-to-Snoqualmie-map.pdf)
-* [Stampede Pass Trails](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/maps/2021-Stampede-Pass-Trails.pdf)
+* [XC Trail Map](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/maps/2020-Meany-XC-Trail-Map.pdf)
+* [Meany to Snoqualmie](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/maps/1951-Meany-to-Snoqualmie-map.pdf)
+* [Stampede Pass Trails](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/maps/2021-Stampede-Pass-Trails.pdf)
 
