@@ -25,6 +25,7 @@ categories:
 - Roofer of the Telephone Cabin
 - Mower of the Meany "lawn"
 - Forest Service background
+- Runs the recycling center in Tonasket, WA
 
 
 ---
