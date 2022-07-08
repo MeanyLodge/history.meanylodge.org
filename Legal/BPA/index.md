@@ -24,4 +24,10 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 BPA constructed transmission line, 287 KV. <sup>[hw][]</sup>
 
 
+#### 1955
+
+The water supply dam which BPA built to replace the original dam was defective. Meany troops built new dam for which BPA paid. <sup>[ma78][], [hw][]</sup>
+
+
 [hw]: /History/Walt "Meany History, by Walt Little"
+[ma78]: /Mountaineer-Annual#1978
