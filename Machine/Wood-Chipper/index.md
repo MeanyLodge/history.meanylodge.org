@@ -8,8 +8,10 @@ category: Machine
 
 
 ### Specifications
-- Model:
-- Engine:
+- Model: 
+- Serial: 
+- Engine: 
+- Belts: 
 
 
 ## History
@@ -31,4 +33,15 @@ You should also get new bolts and nuts and use the new bolts and nuts each time 
 I have several blades and save the dull ones up until I get several dull ones they take them in.
 
 Hope this helps.
-Ray
+[Ray](/Person/Ray-Nelson)
+
+### 2022
+
+The chipper was jammed up and left that way at the first work party. Another crew of young and green chipper operators came along and tried to fire it up. A serious smoking of the belts soon followed. [Rick Ingham](/Person/Rick-Ingham) is sourcing replacement belts. <sup>[ms][]</sup>
+
+I believe I bought the belts on the chipper at NAPA.  I went to the dealer and he sent me to NAPA since the belts from NAPA were cheaper and of the same quality. <sup>[pc][]</sup>
+
+
+[ms]: /Person/Matt-Simerson
+[pc]: /Person/Phil-Christy
+

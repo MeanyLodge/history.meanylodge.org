@@ -23,6 +23,9 @@ categories:
 - Fire extinguisher maintainer
 - [Ox](/Machine/Ox) whisperer
 - Roofer of the Telephone Cabin
+- Mower of the Meany "lawn"
+- Forest Service background
+
 
 ---
 ### History
