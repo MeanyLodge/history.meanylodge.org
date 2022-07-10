@@ -23,6 +23,11 @@ One of the recent outstanding events was the dedication of [Lower Slobbovia](/Ru
 
 Many others contributed to the program. Art Nation fiddled as dancers spun out the nine-pin reel. Steve Stout sang "In the Mountains," a song he'd just written. The "Impoverished Players" portrayed by three skits 1) the Erection of Meany Hut, 2) Life at the present day Hut, and 3) Meany of the year 2023, with skiers arriving by airbus and being served by a robot. <sup>[ma78][]</sup>
 
+#### 197?
+
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/197n-Art-Nation.jpeg" style="width: 40%">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/197n-Head-Pole.jpeg" style="width: 40%">
+
 #### 1979
 
 Special thanks go to musicians Richard Swensson, [Art Nation](/Person/Art-Nation), Lyle Schaefer, Frank Gilbert, Jim Noyes, Roy Wagner, Olemara Peters, and the Speldosan Group. Also the Mountaineer Players presented three delightful performances: The Story Theatre, Who Murdered Who, and a musical review, F.M. at P.M. Thanks also to Jack Reid and Michael Clarke who did great jobs with their slide shows of recent trips. <sup>[ma79][]</sup>

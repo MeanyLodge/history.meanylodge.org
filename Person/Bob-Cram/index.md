@@ -27,6 +27,10 @@ MEANY SKI HUT, Nashie's 20th Anniversary, by Bob Cram
 
 It goes without saying that the past season at Meany was another outstanding year of sliding. No person has ever been heard to dispute... <sup>[ma55][]</sup>
 
+#### 197?
+
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/197n-Bob-Crambone.jpeg" style="width: 60%">
+
 #### 1978
 
 BPA constructed a 287 KV power line over portion of Meany property to south of rope tow; the cleared area made excellent skiing and added much variety. It was christened "Lower Slobbovia" by [Cram](/Person/Bob-Cram) and Little, because it resembled the mythical country in Al Capp's cartoon Li'l Abner.<sup>[ma78][], [hw][]</sup>

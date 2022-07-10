@@ -70,6 +70,10 @@ Being among the less talented, I was sent up on the roof to help with shingling,
 
 Extended basement by digging under original portion of building. Constructed 10' x 10' drying room. <sup>[hw][], [ma44][]</sup>
 
+#### 1949
+
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/1949-Lodge-Vamisch.jpeg" style="width: 50%">
+
 #### 1950
 
 Reshingled the roof.<sup>[ma50][]</sup>
@@ -81,6 +85,8 @@ the building of the fire wall and doors in the stairway; and that other fire pre
 #### 1956
 
 Deepest snow year at 15' on the level.
+
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/1956-Snow-Year.jpeg" style="width: 60%">
 
 #### 1966
 
@@ -113,6 +119,10 @@ new sink, cold water only in basement. <sup>[hw][]</sup>
 #### 1975
 
 New sinks and water in dorms, new sink and counter in dish washer. <sup>[hw][]</sup>
+
+#### 1977
+
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/1977-Lodge-Bergman.jpeg" style="width: 60%">
 
 #### 1980
 

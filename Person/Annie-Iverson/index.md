@@ -61,9 +61,9 @@ My greatest satisfaction has been to watch the growth of character that has come
 
 #### 1998
 
-Also achieving legendary status at Meany was Nashie Iverson, wife of a Northern Pacific Railroad engineer. In the early years, it was difficult to find a cook for the weekend outings, but in 1935 the hut committee prevailed upon Nashie to take the job.<sup>[life][]</sup>
+Also achieving legendary status at Meany was Nashie Iverson, wife of a Northern Pacific Railroad engineer. In the early years, it was difficult to find a cook for the weekend outings, but in 1935 the hut committee prevailed upon Nashie to take the job. <sup>[life][]</sup>
 
-<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/19nn-Nashie-b-day.jpeg" style="width: 40%;" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/19nn-Nashie-b-day.jpeg" style="width: 60%;">
 
 [life]: /Life-At-Meany-Ski-Hut
 [ma56]: /Mountaineer-Annual#1956

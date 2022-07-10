@@ -45,6 +45,10 @@ tags: Deceased
 
 ---
 ### History
+#### 1943
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/1943-Little-Ostrath.jpeg" style="width: 60%">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/1943-Meany-Hill.jpeg" style="width: 60%">
+
 #### 1956
 
 <img src="1956-Walter-Little.jpeg" alt="Walter Little Memorial Tow" style="width: 40%;">
@@ -55,7 +59,7 @@ The relocated tow at Meany provided better access to lanes and eliminated the ne
 
 #### 1975
 
-<img src="1975-Walt-Little.jpg" style="width: 50%;">
+<img src="1975-Walt-Little.jpeg" style="width: 50%;">
 
 #### 1978
 

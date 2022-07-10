@@ -8,6 +8,10 @@ category: Event
 
 ### History
 
+#### ????
+
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/197n-Tube-Hockey.jpeg" style="width: 60%">
+
 #### 1978
 
 A highlight of the ski season was the carnival weekend which featured many corny contests and crazy races, a clowns contest and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels and breadsticks. Many fancy relish trays with elaborate flowered vegetable "nibbles" and apple swans served from an outdoor snow table is an example of how embellished and painstaking the carnival events were. This fantastic weekend was masterminded by [Patti Polinsky](/Person/Patti-Polinsky). <sup>[hr][]</sup>

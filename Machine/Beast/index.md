@@ -56,9 +56,15 @@ With the faithful aid of the "Beast" (our beloved Fordson Tractor), which draws 
 
 A special award of merit has been awarded to the tractor which had been retired years ago to be a tow motor and is now a tractor again, running on some mysterious, magical ingredient, and nursed tenderly by Norm Welch to perform prodigious feats of strength for its advanced age. <sup>[ma52][]</sup>
 
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/195n-The-Old-Beast.jpeg" style="width: 60%">
+
 #### 1953
 
 My first introduction to Mountaineers, other than car companions, was upon joining six weary and drenched fellows standing around a Smithsonian model Fordson tractor which they claimed would run, but looked to me as though it should have been melted up some time before I was born. Every automotive theory I had ever heard was being advanced as to why it wouldn't start...After an hour or so our work was interrupted by a loud noise which sounded like something between a steam locomotive and a drag saw charging through the brush. To my utter amazement, the tractor appeared carrying out its much needed task. <sup>[ma53][]</sup>
+
+#### 1957
+
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/1957-Beast-Death.jpeg" style="width: 60%">
 
 #### 1958
 

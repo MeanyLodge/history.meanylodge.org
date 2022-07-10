@@ -21,7 +21,6 @@ It's a thing, Meany machines have animal names.
 ### Utility
 
 * [Ox](/Machine/Ox)
-* [Beast](/Machine/Beast)
 * [ATV](/Machine/Daves-ATV)
 * [Wood Chipper](/Machine/Wood-Chipper)
 * [Wood Splitter](/Machine/Wood-Splitter)
@@ -34,6 +33,7 @@ It's a thing, Meany machines have animal names.
 
 ### Defunct Machines
 
+* [Beast](/Machine/Beast)
 * [Dozer](/Machine/Dozer)
 * [Dino](/Machine/Dino) (groomer)
 * [Pack Rat](/Machine/Pack-Rat) (snow tractor)
