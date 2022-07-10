@@ -6,7 +6,7 @@ categories:
     - Driver
     - Mechanic
 ---
-<img src="/img/196n-Tom-Van-DeVanter.jpeg" align="right" style="width: 45%;">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/196n-Tom-Van-DeVanter.jpeg" align="right" style="width: 45%;">
 # Tom Van DeVanter
 ### Events
 - First year at Meany: 1954

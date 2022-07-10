@@ -6,7 +6,7 @@ categories:
   - Storage
 ---
 # Propane Hut
-<img src="/img/2020-Propane-Hut.jpeg" alt="Meany Propane Hut" align="right" style="width: 50%;">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Propane-Hut.jpeg" alt="Meany Propane Hut" align="right" style="width: 50%;">
 
 ### Names
 - Propane Hut

@@ -3,7 +3,7 @@ title: South Slobbovia
 category: Place
 categories: [ Place, Ski-Run ]
 ---
-<img src="/img/2020-South-Slobbovia.jpeg" align="right" style="width: 50%;">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-South-Slobbovia.jpeg" align="right" style="width: 50%;">
 # South Slobbovia
 On the south side of [Lower Slobbovia](/Run/Lower-Slobbovia). Directions in Slobbovia are the same as directions in the USA. <sup>[nw][]</sup>
 

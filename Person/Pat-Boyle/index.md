@@ -8,7 +8,7 @@ categories:
     - Mechanic
     - Operator
 ---
-<img src="/img/2014-Pat-Boyle.jpeg" alt="photo of Pat Boyle" align="right" style="width: 40%">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2014-Pat-Boyle.jpeg" alt="photo of Pat Boyle" align="right" style="width: 40%">
 # Pat Boyle
 {% include roles.html %}
 ### Known For

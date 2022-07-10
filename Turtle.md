@@ -4,7 +4,7 @@ category: RopeTow
 categories: RopeTow
 ---
 # Turtle
-<img src="/img/2020-Turtle.jpeg" style="width: 60%;" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Turtle.jpeg" style="width: 60%;" align="right">
 
 ### Location
 
@@ -40,7 +40,7 @@ Meany Ski Lodge continues to operate their downhill rope tows, and in fact, has 
 
 #### 2020
 
-<img src="/img/2020-Turtle-Cert.jpeg" style="width: 50%;">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Turtle-Cert.jpeg" style="width: 50%;">
 
 
 [dc87]: /Person/Dave-Claar#1987

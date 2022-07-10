@@ -10,7 +10,7 @@ category: Document
 
 See: [Instructor](/Person/Instructor)
 
-<img src="/img/1929-Ski-on-the-level.png" align="right" style="width: 40%;">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/1929-Ski-on-the-level.png" align="right" style="width: 40%;">
 
 ### See Also
 

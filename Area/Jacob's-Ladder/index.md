@@ -3,7 +3,7 @@ title: Jacob's Ladder
 category: Place
 ---
 # Jacob's Ladder
-<img src="/img/2020-Jacob's-Ladder.jpeg" style="width: 40%;" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Jacob's-Ladder.jpeg" style="width: 40%;" align="right">
 
 ### Location
 

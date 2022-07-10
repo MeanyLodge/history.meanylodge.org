@@ -3,7 +3,7 @@ title: Runs
 category: List
 ---
 # Ski Runs
-<img src="/img/2020-Meany-Map.jpeg" align="right" style="width: 40%;">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Meany-Map.jpeg" align="right" style="width: 40%;">
 
 See [Meany Hill](/Meany-Hill) for a geographically ordered tour of the ski runs and areas on Meany Hill.
 

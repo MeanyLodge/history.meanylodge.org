@@ -7,7 +7,7 @@ categories:
     - Driver
     - Mechanic
 ---
-<img src="/img/2020-Dave-Maltz.jpeg" align="right" style="width: 40%;" alt="photo of Dave Maltz">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Dave-Maltz.jpeg" align="right" style="width: 40%;" alt="photo of Dave Maltz">
 # Rick Ingham
 
 {% include roles.html %}

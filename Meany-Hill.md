@@ -3,7 +3,7 @@ title: Meany Hill
 category: Place
 ---
 # Meany Hill
-<img src="/img/1950-Meany-Hill.jpeg" style="width: 40%;" alt="painting of Meany Hill" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/1950-Meany-Hill.jpeg" style="width: 40%;" alt="painting of Meany Hill" align="right">
 Meany Hill is the big hill located south of the lodge. To find it, walk outside the lodge and look uphill. To ski Meany Hill, head up the trail past the [Pump House](/Building/Pump-House) to the [Coatrack](/Area/Coatrack). From there you can ski downhill to the tows [Super Worm](/Super-Worm), [Mach](/Mach), and [Turtle](/Turtle).
 
 ## Regions
@@ -27,7 +27,7 @@ All routes north or west from [Top Hut](/Building/Top-Hut) end at [Psychopath](/
 From anywhere on the [Lane](/Run/Lane), the trees on skier's right are [Soffreenia Wood](/Run/Soffreenia-Wood). Notable attractions within Soffreenia are [Yellow Rock](/Area/Yellow-Rock) and the [Ape Swing](/Area/Ape-Swing). At the bottom edge of the wood lies [Kirkland Park](/Run/Kirkland-Park).
 
 ### The Southern Front
-<img src="/img/2020-to-Slobbovia.jpeg" align="right" style="width: 30%;">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-to-Slobbovia.jpeg" align="right" style="width: 30%;">
 
 From [Top Hut](/Building/Top-Hut), head south. A two-track leads gently uphill. After a short section the two-track turns steeply up to the right and is covered with herringbones, unless you're lucky enough to get first tracks. Another ski trail peels off on the left. Either leads you to [Green Pastures](/Area/Green-Pastures), the grassy area atop [Lower Slobbovia](/Run/Lower-Slobbovia).
 

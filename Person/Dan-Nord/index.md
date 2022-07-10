@@ -8,7 +8,7 @@ categories:
     - Instructor
     - Operator
 ---
-<img src="/img/2020-Dan-Nord.jpeg" style="width: 50%;" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Dan-Nord.jpeg" style="width: 50%;" align="right">
 # Dan Nord
 {% include roles.html %}
 

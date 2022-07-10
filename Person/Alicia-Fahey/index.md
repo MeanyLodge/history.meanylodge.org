@@ -8,6 +8,6 @@ categories:
     - Operator
 ---
 
-<!-- <img src="/img/2020-Alicia-Fahey.jpeg" alt="photo of Alicia Fahey" align="right" style="width: 40%"> -->
+<!-- <img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Alicia-Fahey.jpeg" alt="photo of Alicia Fahey" align="right" style="width: 40%"> -->
 # Alicia Fahey
 {% include roles.html %}

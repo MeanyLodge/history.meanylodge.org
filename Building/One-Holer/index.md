@@ -4,7 +4,7 @@ category: Building
 categories: Building Outhouse
 ---
 # One Holer
-<img src="/img/2020-One-Holer.jpeg" style="width: 50%;" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-One-Holer.jpeg" style="width: 50%;" align="right">
 An outhouse.
 
 ### Location

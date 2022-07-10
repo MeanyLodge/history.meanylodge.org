@@ -5,7 +5,7 @@ category: Document
 # Skiing and the Ski Hut
 by Mrs. Stuart P. Walsh
 
-<img src="/img/1928-Meany-Ski-Hut.png" style="width: 40%;" alt="MEANY SKI HUT NEARS COMPLETION - PHOTO by C. A. Hultin" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/1928-Meany-Ski-Hut.png" style="width: 40%;" alt="MEANY SKI HUT NEARS COMPLETION - PHOTO by C. A. Hultin" align="right">
 
 _[The Mountaineer Annual 1928](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1928)_
 

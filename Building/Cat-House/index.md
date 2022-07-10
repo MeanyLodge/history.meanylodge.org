@@ -4,7 +4,7 @@ category: Building
 categories: Building
 ---
 # Cat House
-<img src="/img/2020-Cat-House.jpeg" style="width: 40%;" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Cat-House.jpeg" style="width: 40%;" align="right">
 
 ### Location
 

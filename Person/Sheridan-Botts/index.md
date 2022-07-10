@@ -6,7 +6,7 @@ categories:
     - Committee
     - Operator
 ---
-<!--img src="/img/2020-Sheridan-Botts.jpeg" style="width: 40%" align="right"-->
+<!--img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Sheridan-Botts.jpeg" style="width: 40%" align="right"-->
 # Sheridan Botts
 
 {% include roles.html %}

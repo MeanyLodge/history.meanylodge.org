@@ -10,7 +10,7 @@ categories: Machine, Tractor
 - the tractor
 - The Old Beast
 
-<img src="/img/19nn-Beast.jpeg" style="width: 40%;" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/19nn-Beast.jpeg" style="width: 40%;" align="right">
 
 ### Description
 

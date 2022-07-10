@@ -6,7 +6,7 @@ categories:
     - Committee
     - Mechanic
 ---
-<img src="/img/2020-James-Kotlick.jpeg" style="width: 45%;" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-James-Kotlick.jpeg" style="width: 45%;" align="right">
 # James Kotlik
 
 ### Events

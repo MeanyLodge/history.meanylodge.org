@@ -3,7 +3,7 @@ title: Dozer
 category: Machine
 categories: Machine
 ---
-<img src="/img/2020-Dozer-Tipi.jpeg" style="width: 40%;" alt="Bulldozer Tipi" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Dozer-Tipi.jpeg" style="width: 40%;" alt="Bulldozer Tipi" align="right">
 # Dozer
 ### Names
 - Dozer

@@ -8,7 +8,7 @@ categories:
     - Instructor
     - Operator
 ---
-<img src="/img/2020-Maud-de-Bel.jpeg" alt="photo of Maud de Bel" align="right" style="width: 40%">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Maud-de-Bel.jpeg" alt="photo of Maud de Bel" align="right" style="width: 40%">
 # Maud de Bel
 {% include roles.html %}
 

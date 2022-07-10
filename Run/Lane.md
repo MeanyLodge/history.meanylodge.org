@@ -56,7 +56,7 @@ Began program to remove all logs from "Lane" and sawed stumps down flush with gr
 
 #### 1949
 
-<img src="/img/1949-Meany-Hill.png" alt="The Lane in 1949">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/1949-Meany-Hill.png" alt="The Lane in 1949">
 
 #### 1957
 
@@ -74,7 +74,7 @@ During work party season, Meany women took charge of the "Ox" and the two hill "
 
 December 31, 2013 was not a good snow day.
 
-<img src="/img/2013-Bare-Lane-at-New-Year.jpeg" alt="A sad non-snowy Lane on Dec 31, 2013">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2013-Bare-Lane-at-New-Year.jpeg" alt="A sad non-snowy Lane on Dec 31, 2013">
 
 #### 2022
 

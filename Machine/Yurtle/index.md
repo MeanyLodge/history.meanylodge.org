@@ -9,7 +9,7 @@ categories: Machine Snowmobile
 A Ski-Doo Skandic snowmobile
 
 # Red Fox
-<img src="/img/2020-Yurtle.jpeg" alt="photo of snowmobile" style="width: 50%;" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Yurtle.jpeg" alt="photo of snowmobile" style="width: 50%;" align="right">
 
 ### Specifications
 - Desc: 2019 Ski-Doo Skandic WT 900 ACE

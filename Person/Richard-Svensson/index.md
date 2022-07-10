@@ -3,7 +3,7 @@ title: Richard Svensson
 category: Person
 categories:
 ---
-<!--img src="/img/19YY-Richard-Svensson.jpeg" style="width: 40%;" align="right"-->
+<!--img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/19YY-Richard-Svensson.jpeg" style="width: 40%;" align="right"-->
 # Richard Svensson
 ### Names
 

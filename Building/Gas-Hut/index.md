@@ -3,7 +3,7 @@ title: Gas Hut
 category: Building
 categories: Building
 ---
-<img src="/img/2020-Gas-Hut.jpeg" align="right" style="width: 40%;">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Gas-Hut.jpeg" align="right" style="width: 40%;">
 # Gas Hut
 ### Names
 - Gas Hut

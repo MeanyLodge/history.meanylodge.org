@@ -3,7 +3,7 @@ title: Industrial Park
 category: Place
 ---
 # Industrial Park
-<a href="/img/2020-Industrial-Park.jpeg"><img src="/img/2020-Industrial-Park.jpeg" style="width: 50%;" alt="Meany Lodge photo" align="right"></a>
+<a href="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Industrial-Park.jpeg"><img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Industrial-Park.jpeg" style="width: 50%;" alt="Meany Lodge photo" align="right"></a>
 
 Home of the following [Buildings](/Building):
 - [Cat House](/Building/Cat-House)

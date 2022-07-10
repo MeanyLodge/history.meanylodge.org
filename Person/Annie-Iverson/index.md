@@ -4,7 +4,7 @@ category: Person
 categories:
     - Cook
 ---
-<img src="/img/1955-Nashie.png" style="width: 40%;" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/1955-Nashie.png" style="width: 40%;" align="right">
 # Annie Iverson
 ### Names
 - Nashie
@@ -34,7 +34,7 @@ She's going to be around for awhile, we're sure because we're really planning a 
 
 #### 1956
 
-<img src="/img/1954-Nashie.png" style="width: 40%;" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/1954-Nashie.png" style="width: 40%;" align="right">
 
 Perhaps symbolic of Meany is Annie Iverson, "Nashie" to most of us, who has been cooking and dispensing philosophical advice for over 25 years (see story on page 57).<sup>[ma56][]</sup>
 
@@ -63,7 +63,7 @@ My greatest satisfaction has been to watch the growth of character that has come
 
 Also achieving legendary status at Meany was Nashie Iverson, wife of a Northern Pacific Railroad engineer. In the early years, it was difficult to find a cook for the weekend outings, but in 1935 the hut committee prevailed upon Nashie to take the job.<sup>[life][]</sup>
 
-<img src="/img/19nn-Nashie-b-day.jpeg" style="width: 40%;" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/19nn-Nashie-b-day.jpeg" style="width: 40%;" align="right">
 
 [life]: /Life-At-Meany-Ski-Hut
 [ma56]: /Mountaineer-Annual#1956

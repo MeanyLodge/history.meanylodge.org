@@ -2,7 +2,7 @@
 title: Work Parties
 category: Event
 ---
-<img src="/img/1948-Meany-Work-Party.png" alt="sketch of meanyites working" style="width: 40%;" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/1948-Meany-Work-Party.png" alt="sketch of meanyites working" style="width: 40%;" align="right">
 # Work Parties
 
 Meany is an all-volunteer lodge. Everything at Meany is the result of hundreds of thousands of hours donated by hundreds of individuals. This page gets periodically refreshed from the [committee wiki](https://github.com/MeanyLodge/Committee/wiki), where more current information is maintained.
@@ -19,7 +19,7 @@ Meany is an all-volunteer lodge. Everything at Meany is the result of hundreds o
 
 
 ## 2019
-<img src="/img/2019-Woodshed-Roof.jpeg" style="width: 40%;" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2019-Woodshed-Roof.jpeg" style="width: 40%;" align="right">
 
 Woodshed: replaced the roof. Replaced plywood decking with 2 layers of 3/4 plywood and covered with a fully adhered PVC membrane. Tearoff and framing team led by [Matt Simerson](/Person/Matt-Simerson) and membrane installation led by [Steve Bozorth](/Person/Steve-Bozorth).
 

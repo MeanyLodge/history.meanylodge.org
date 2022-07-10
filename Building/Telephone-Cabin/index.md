@@ -4,7 +4,7 @@ category: Building
 categories: Building
 ---
 # Telephone Cabin
-<img src="/img/2020-Telephone-Cabin.jpeg" style="width: 50%;" alt="Meany Lodge photo" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Telephone-Cabin.jpeg" style="width: 50%;" alt="Meany Lodge photo" align="right">
 
 ### Names
 - Telephone Cabin

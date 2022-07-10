@@ -4,7 +4,7 @@ category: Machine
 categories: Machine Snowmobile
 ---
 # Red Fox
-<img src="/img/2020-RedFox-Skandic.jpg" alt="photo of red fox snowmobile" style="width: 50%;" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-RedFox-Skandic.jpg" alt="photo of red fox snowmobile" style="width: 50%;" align="right">
 
 ### Specifications
 - Model: 2020 Ski-Doo Expedition SWT 900

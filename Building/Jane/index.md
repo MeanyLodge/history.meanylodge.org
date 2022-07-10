@@ -4,7 +4,7 @@ category: Building
 categories: Building Outhouse
 ---
 # Jane
-<img src="/img/2020-Jane.jpeg" style="width: 40%;" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Jane.jpeg" style="width: 40%;" align="right">
 
 ### Location
 In the [Industrial Park](/Area/Industrial-Park).

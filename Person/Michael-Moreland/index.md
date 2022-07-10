@@ -6,7 +6,7 @@ categories:
     - Committee
     - Driver
 ---
-<img src="/img/2020-Michael-Moreland.jpeg" alt="photo of Michael Moreland" align="right" style="width: 40%">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Michael-Moreland.jpeg" alt="photo of Michael Moreland" align="right" style="width: 40%">
 # Michael Moreland
 ### Names
 - Michael Moreland

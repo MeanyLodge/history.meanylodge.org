@@ -5,7 +5,7 @@ categories:
     - Chair
 tags: founder
 ---
-<!--img src="/img/20YY-Dick-Feringer.jpeg" style="width: 40%;" align="right"-->
+<!--img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/20YY-Dick-Feringer.jpeg" style="width: 40%;" align="right"-->
 # Dick Feringer
 ### Events
 - First year at Meany: 1928

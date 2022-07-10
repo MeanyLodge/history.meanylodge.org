@@ -3,7 +3,7 @@ title: Top Hut
 category: Building
 categories: Hut
 ---
-<img src="/img/2020-Top-Hut.jpeg" style="width: 40%;" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Top-Hut.jpeg" style="width: 40%;" align="right">
 # Top Hut
 ### Names
 - Top Hut

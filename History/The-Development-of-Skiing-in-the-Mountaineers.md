@@ -24,7 +24,7 @@ Both the expert and the novice will find runs to suit their taste in the vicinit
 
 p. 35
 
-<img src="/img/1929-Ski-on-the-level.png" style="width: 40%" alt="PHOTO - SLIDING ON THE LEVEL" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/1929-Ski-on-the-level.png" style="width: 40%" alt="PHOTO - SLIDING ON THE LEVEL" align="right">
 
 ficiency in the gentle art, an ascent of Silver Peak on skis is a trip of never-failing interest; the fine views of the whole lodge country on a clear winter's day, the intricate and devious route to be selected for one's line of ascent, and then the climax, the descent. One's feet have become shod with wings, wings which struggle to snatch their wearer from the gleaming white slopes that are flashing by. The steep slopes, the sudden rises and depressions, the twisting, bewildering runs through the timber, call for all the skill and technique acquired in the many hours spent on the practice slope. An occasional fall merely adds zest to the runner's delight. To one who has enjoyed such a day the fascination of the sport becomes thrice apparent. Forgotten are all his early struggles with the refractory sticks, the spills with their strains and bruises, the wild threshing in many a snowbank, the times when half the drift slipped down his neck. Today, in his flying course down the mountainside, stemming, swinging, checking, leaning into the winter wind as he takes this run straight, swerving now to the left, then to the right in well controlled turns to avoid obstacles half concealed by the snow, there is added to the skier's pleasure that keenest delight of all-the thrill of mastery, the satisfaction of achievement.
 

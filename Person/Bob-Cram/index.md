@@ -3,7 +3,7 @@ title: Bob Cram
 category: Person
 categories:
 ---
-<img src="/img/1950-Meany-Hill.jpeg" style="width: 60%;" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/1950-Meany-Hill.jpeg" style="width: 60%;" align="right">
 # Bob Cram
 ### Events
 - First year at Meany: 19YY
