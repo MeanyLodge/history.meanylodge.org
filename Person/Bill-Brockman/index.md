@@ -5,7 +5,7 @@ categories:
     - Chair
 tags: Deceased
 ---
-<img src="1953-Bill-Brockman.png" style="width: 40%" align="right">
+<img src="1953-Bill-Brockman.jpg" style="width: 40%" align="right">
 # Bill Brockman
 ### Names
 - Bill Brockman
@@ -31,9 +31,18 @@ tags: Deceased
 
 ---
 ### History
+#### 1950
+<img src="1950-Bill-Brockman.jpg" style="width: 60%">
+
+
 #### 1952
 
 Bill Brockman, assisted by [Dick Feringer](/Person/Dick-Feringer), has taken over the chairmanship for the coming season, and if the work parties are any criteria, it should be an enthusiastic one. With the combination of ideal weather and large groups of eager workers each weekend, a surprising amount has been accomplished.
+
+#### 1953
+
+<img src="1953-Hut-Chair.jpg" style="width: 60%">
+
 
 #### 1978
 

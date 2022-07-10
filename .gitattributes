@@ -532,6 +532,12 @@
 /reference/tomcat/Manual.pdf filter=lfs diff=lfs merge=lfs -text
 /reference/tomcat/1961-Buy.pdf filter=lfs diff=lfs merge=lfs -text
 /Person/Kayla-Simerson/2022-Kayla.jpeg filter=lfs diff=lfs merge=lfs -text
+/Person/Bill-Brockman/1950-Bill-Brockman.jpg filter=lfs diff=lfs merge=lfs -text
+/Person/Bill-Brockman/1953-Bill-Brockman.jpg filter=lfs diff=lfs merge=lfs -text
+/Person/Bill-Brockman/1953-Hut-Chair.jpg filter=lfs diff=lfs merge=lfs -text
+/Person/Walter-Little/1975-Walt-Little.jpeg filter=lfs diff=lfs merge=lfs -text
+/Person/Walter-Little/Walter-Little.jpg filter=lfs diff=lfs merge=lfs -text
+/Person/Walter-Little/walt-brushing.jpeg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -598,12 +604,6 @@
 /Building/Snoqualmie-Lodge/index.md filter=lfs diff=lfs merge=lfs -text
 /img/HorseMountainLogo.jpg filter=lfs diff=lfs merge=lfs -text
 /img/1894-edmond-a1.jpg filter=lfs diff=lfs merge=lfs -text
-/Person/Bill-Brockman/1950-Bill-Brockman.jpg filter=lfs diff=lfs merge=lfs -text
-/Person/Bill-Brockman/1953-Bill-Brockman.jpg filter=lfs diff=lfs merge=lfs -text
-/Person/Bill-Brockman/1953-Hut-Chair.jpg filter=lfs diff=lfs merge=lfs -text
-/Person/Walter-Little/1975-Walt-Little.jpeg filter=lfs diff=lfs merge=lfs -text
-/Person/Walter-Little/Walter-Little.jpg filter=lfs diff=lfs merge=lfs -text
-/Person/Walter-Little/walt-brushing.jpeg filter=lfs diff=lfs merge=lfs -text
 /History/Meany-Celebrates-50-years.md filter=lfs diff=lfs merge=lfs -text
 /History/The-Mountaineer.md filter=lfs diff=lfs merge=lfs -text
 /Person/Edmond-Meany/1920s-Edmond_S_Meany.jpg filter=lfs diff=lfs merge=lfs -text

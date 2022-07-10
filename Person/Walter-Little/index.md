@@ -7,7 +7,7 @@ categories:
     - Permanent-Resident
 tags: Deceased
 ---
-<img src="walter-little.png" style="width: 30%;" align="right">
+<img src="Walter-Little.jpg" style="width: 30%;" align="right">
 # Walter Little
 ### Names
 - Walt Little
@@ -55,7 +55,7 @@ The relocated tow at Meany provided better access to lanes and eliminated the ne
 
 #### 1975
 
-<img src="1975-Walt-Little.png" style="width: 50%;">
+<img src="1975-Walt-Little.jpg" style="width: 50%;">
 
 #### 1978
 
@@ -63,7 +63,7 @@ The relocated tow at Meany provided better access to lanes and eliminated the ne
 
 One extra special Saturday night program was the dedication banquet for [Walter's Woods](/Run/Walter's-Woods) with Master of Ceremonies [Lee Helser](/Person/Lee-Helser) cleverly spicing the evening and a film on Walter shown by [Bob Bentler](/Person/Bob-Bentler). A huge cake shaped like a bald head contained a hidden cavity which was opened to reveal Walter's thoughts in the form of sayings on heart-shaped candies. <sup>[ma78][] p.173</sup>
 
-<img src="walt-brushing.png" style="width: 30%;" align="right">
+<img src="walt-brushing.jpeg" style="width: 30%;" align="right">
 #### 1979
 
 Other skit characters were the minister ([Dave Claar](/Person/Dave-Claar)) and the victim (Charlie Vail). Walter Little walked away with the Bachelor of the Year Award with [Norm Vigus](/Person/Norm-Vigus) as runner-up. Bob Bentler showed Super 8 movies of Walt and Norm to prove why they should be the winners. <sup>[ma79][]</sup>
