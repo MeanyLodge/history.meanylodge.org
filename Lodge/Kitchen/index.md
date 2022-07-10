@@ -10,6 +10,7 @@ categories: Place
 
 - [Floor Plan](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/2020-Kitchen-Floor-Plan.pdf)
 - [Fridge Docs](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/1999-True-Fridge.pdf)
+- [Coffeemaker Manual](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/1996-BUNN-VP(R-S).pdf)
 
 
 ### History

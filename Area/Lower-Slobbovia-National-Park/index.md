@@ -3,7 +3,7 @@ title: Lower Slobbovia National Park
 category: Place
 ---
 # Lower Slobbovia National Park
-<img src="195_-LSNP.jpeg" style="width: 40%;" align="right">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/195n-Lower-Slobbovia.jpeg" style="width: 40%;" align="right">
 
 ### Location
 

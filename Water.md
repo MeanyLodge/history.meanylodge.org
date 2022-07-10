@@ -69,9 +69,13 @@ Revise kitchen, revise plumbing, moved hot water tanks to under counter. <sup>[h
 
 Place two storage tanks near the dam and replace the existing iron pipe with 2" PVC from the dam to approximately midway between North and Kirkland Park. <sup>[rn][]</sup>
 
-#### ????
+#### 2007
 
 Replace the pipe from Kirkland Park to the Lodge with 2" PVC with shut off valves near the connection point. <sup>[rn][]</sup>
+
+<img src="https://github.com/MeanyLodge/meanylodge.github.com/blob/assets/img/2007-dam-water-pipe-1.jpg" style="width: 45%;"><br>
+<img src="https://github.com/MeanyLodge/meanylodge.github.com/blob/assets/img/2007-dam-water-pipe-2.jpg" style="width: 45%;"><br>
+<img src="https://github.com/MeanyLodge/meanylodge.github.com/blob/assets/img/2007-dam-water-pipe-3.jpg" style="width: 45%;"><br>
 
 #### ????
 
