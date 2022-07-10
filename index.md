@@ -20,6 +20,7 @@ category: List
     - [Committee wiki](https://github.com/MeanyLodge/Committee/wiki)
 - [Access](Access)
 - [Energy](Energy)
+- [Fraternity](/Fraternity)
 - [Legal](/Legal)
 - [Safety](Safety)
 - [Water](Water)
