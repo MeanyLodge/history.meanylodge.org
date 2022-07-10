@@ -12,6 +12,7 @@ category: Machine
 - Serial: 
 - Engine: 
 - Belts: 
+- Spark Plug: NGK BPR4ES
 
 
 ## History

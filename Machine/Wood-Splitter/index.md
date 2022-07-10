@@ -12,6 +12,7 @@ category: Machine
 - Model: 
 - Serial: 270014
 - Engine: Predator 212 cc
+- Spark Plug: NGK BPR6ES
 
 
 ### History

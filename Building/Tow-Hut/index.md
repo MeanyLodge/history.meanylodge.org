@@ -29,6 +29,10 @@ At the base of [Meany Hill](/Meany-Hill), SE of the [Lodge](/Lodge).
 
 Tow Hut was made of logs cut from trees from widening the [Lane](/Run/Lane).
 
+Fred Gibbons, Cal Jones, Jack Hossack, and Harry Cameron were the committee
+who constructed the lift. Walt Little was the engineer in charge of the
+building of the cabin for the machinery. <sup>[ds][]</sup>
+
 #### 1956
 
 New Tow hut moved north about 250', and about 20' lower. Frame construction; basement floor, main floor and attic
@@ -57,7 +61,9 @@ revise interior
 **Tow Hut:** Houses the driving machinery for Meany's "Mach Tow." Build in 1938.<sup>[75th][]</sup>
 - Added high voltage line equipment storage annex to West side of tow hut
 
+
 [75th]: /Event/Anniversary#75th
+[ds]: /Person/Dawn-Steere
 [hw]: /History-Walt "Meany History, by Walt Little"
 [ma75]: /Mountaineer-Annual#1975
 [Ox]: /Machine/Ox
