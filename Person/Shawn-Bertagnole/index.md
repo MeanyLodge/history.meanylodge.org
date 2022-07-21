@@ -7,7 +7,7 @@ categories:
     - Driver
     - Mechanic
 ---
-<!-- <img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-Shawn-Bertagnole.jpeg" style="width: 45%;" align="right"> -->
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2022-Shawn-Bertagnole.jpeg" style="width: 45%;" align="right">
 # Shawn Bertagnole
 {% include roles.html %}
 ### Known For
