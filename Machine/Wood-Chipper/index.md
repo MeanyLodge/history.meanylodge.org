@@ -8,11 +8,13 @@ category: Machine
 
 
 ### Specifications
-- Model: 
-- Serial: 
-- Engine: 
+- Make: Done Right Chipper
+- Model: TLC19-CHP
+- Serial: 07657TL
+- Engine: Kawasaki FH601D
 - Belts: 
 - Spark Plug: NGK BPR4ES
+- Vendor: Country Home Products,  Vergennes, VA, 05491
 
 
 ## History
