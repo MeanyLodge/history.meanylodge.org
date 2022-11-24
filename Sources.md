@@ -21,6 +21,7 @@ The research on this site has been gathered from personal knowledge, interviews,
 | 197? | [Meany Flipboard](Flipboard) | [Idona Kellogg][ik] |
 | 1984 | [Chronological History of Meany Lodge](/History/Walt) | [Walter Little][wl]
 | 1978 | [Meany Names 1978](Names-Walt-1978) | [Walter Little][wl]
+| 1979 | [Meany Celebrates Fifty Years](/History/Meany-Celebrates-50-years) | [Idona Kellogg][ik]
 | 1984 | [Meany Names 1984](Names-Walt) | [Walter Little][wl]
 | 1989 | [History Reports](/History/Reports) | [Idona Kellogg][ik]
 | 1998 | [Life At Meany Ski Hut][life] | [Jim Kjeldsen](/Person/Jim-Kjeldsen)
