@@ -20,7 +20,7 @@ The research on this site has been gathered from personal knowledge, interviews,
 | 1960 | [Petition to Get Tomcat](/Machine/Tomcat/Petition) | [Harvey Mahalko](/Person/Harvey-Mahalko) |
 | 1961 | [Petition to Buy Tomcat](/Machine/Tomcat/Buy) | [Walter Little][wl]
 | 197? | [Meany Flipboard](Flipboard) | [Idona Kellogg][ik] |
-| 1978 | [Skiers Haven for 50 years](/History/Skiers-Haven-for-50-years) |  | [Idona Kellogg][ik] |
+| 1978 | [Skiers Haven for 50 years](/History/Skiers-Haven-for-50-years) | [Idona Kellogg][ik] |
 | 1984 | [Chronological History of Meany Lodge](/History/Walt) | [Walter Little][wl]
 | 1978 | [Meany Names 1978](Names-Walt-1978) | [Walter Little][wl]
 | 1979 | [Meany Celebrates Fifty Years](/History/Meany-Celebrates-50-years) | [Idona Kellogg][ik]

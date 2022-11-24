@@ -1,5 +1,5 @@
-The Story of Meany Ski Hut
-by [Fred W. Ball](/Person/Fred-Ball)
+The Story of Meany Ski Hut by [Fred W. Ball](/Person/Fred-Ball)
+Mountaineers Annual, [1956](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1956)<br>
 
 Probably few of the skiers who use Meany Hut today are aware that the 60-acre site was a gift from our revered president, Dr. Edmond S. Meany. This was in 1928-long before the advent of many of its present devotees.
 
