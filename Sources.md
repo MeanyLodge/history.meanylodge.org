@@ -15,10 +15,12 @@ The research on this site has been gathered from personal knowledge, interviews,
 | 1932 | [Ski Excursions From Meany Hut][go] | [Rudolph Amsler](/Person/Rudolph-Amsler)
 | 1933 | [The Mountaineer Influence in Northwest Skiing][mis] | [Robert Hayes][rh]
 | 1936 | [Skiing In Retrospect][sir] | [Andrew Anderson](/Person/Andrew-Anderson)
+| 1956 | [The Story of Meany Ski Hut](/History/Story-of-Meany) | [Fred Ball](/Person/Fred-Ball)
 | 1960 | [Meany Map](Meany-Map) | [Doug Damm](/Person/Doug-Damm) |
 | 1960 | [Petition to Get Tomcat](/Machine/Tomcat/Petition) | [Harvey Mahalko](/Person/Harvey-Mahalko) |
 | 1961 | [Petition to Buy Tomcat](/Machine/Tomcat/Buy) | [Walter Little][wl]
 | 197? | [Meany Flipboard](Flipboard) | [Idona Kellogg][ik] |
+| 1978 | [Skiers Haven for 50 years](/History/Skiers-Haven-for-50-years) |  | [Idona Kellogg][ik] |
 | 1984 | [Chronological History of Meany Lodge](/History/Walt) | [Walter Little][wl]
 | 1978 | [Meany Names 1978](Names-Walt-1978) | [Walter Little][wl]
 | 1979 | [Meany Celebrates Fifty Years](/History/Meany-Celebrates-50-years) | [Idona Kellogg][ik]
