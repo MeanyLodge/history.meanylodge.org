@@ -4,7 +4,7 @@ category: Machine
 categories: Machine Groomer
 ---
 # Dino
-A snow groomer.
+A snow groomer with blade and tiller.
 <img src="2000.jpeg" style="width: 40%;" align="right">
 
 ### Purpose

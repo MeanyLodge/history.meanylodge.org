@@ -4,7 +4,7 @@ category: Person
 categories:
     - Chair
 ---
-# Fred Ball
+# Fred W Ball
 ### Events
 - Birth: 1897
 - Meany Since: 1929
@@ -15,6 +15,7 @@ categories:
 - [Patrol Race](/Event/Patrol-Race) winner, 1930
 - Author: [The Story of Meany Ski Hut][ma56]
 - Author: [Mountaineer Skiing][ma63]
+- Author: [Meany Remembrances](/History/The-Mountaineer#March-1979)
 
 ---
 ### History
