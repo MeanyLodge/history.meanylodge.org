@@ -11,7 +11,6 @@ tags: Deceased
 # Walter Little
 ### Names
 - Walt Little
-- Walter B. Little
 - Walter Burges Little
 
 ### Events
@@ -22,6 +21,7 @@ tags: Deceased
 {% include roles.html %}
 
 ### Known For
+- Veteran of the [10th Mountain Division](https://en.wikipedia.org/wiki/10th_Mountain_Division)
 - Designed [Mach](/Mach).
 - Planned the Steven's Pass lodge
 - Helped design tows and lifts at Crystal & Whistler.
@@ -37,10 +37,12 @@ tags: Deceased
     - 1984 [Meany Names](/Names-Walt)
     - 1984 [Chronological History of Meany Lodge][hw]
 - [Walter's Little Spring](/Building/Propane-Hut)
+- member of the Ancient Skiers
 - [Permanent Resident](/Person/Permanent-Resident)
 - Member of the Mountaineers Birth Control Society, ("bigger! bigger! make those ski jumps bigger!")
 
 ### See Also
+- [Linda Bresee article](/Person/Linda-Bresee#Walter)
 - Obituaries: [Alpenglow](http://www.alpenglow.org/ski-history/notes/orig/little-walt-obit.txt), [PHRF Obit](https://phrf-nw.org/founders/), [Dave Claar](Obit-Claar)
 
 ---
