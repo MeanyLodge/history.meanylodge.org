@@ -5,6 +5,7 @@ categories:
     - Active
     - Committee
     - Driver
+    - Fossil
     - Instructor
     - Operator
 ---

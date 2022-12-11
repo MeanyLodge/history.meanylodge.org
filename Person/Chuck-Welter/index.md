@@ -5,6 +5,7 @@ categories:
     - Active
     - Chair
     - Committee
+    - Fossil
     - Mechanic
     - Operator
 ---
