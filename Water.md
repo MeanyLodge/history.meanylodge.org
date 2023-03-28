@@ -89,6 +89,25 @@ Sank a new well, because the Kittitas County Health Department compelled us to. 
 
 Cleaned the dam prefilter. [Michael Moreland](/Person/Michael-Moreland) and Lucas Simerson climbed into the reservoir with 5 gallon buckets and scooped out 10 gallons of sediment. A further flushing was made by opening the valve in Kirkland Park and stirring up the sediment while water was flowing through.
 
+#### 2023
+
+The [WA Dept. Of Health](https://doh.wa.gov/) has upgraded us from a Group B to a [Group A TNC](https://doh.wa.gov/community-and-environment/drinking-water/water-system-assistance/tnc-water-systems) water facility. In practical terms, the significant changes are:
+
+    from reporting to our local AHJ (Kittitas County)
+    to reporting directly to the WA DOH.
+
+    from: testing nitrates every 3 years
+    to: testing annually
+
+    from: testing coliform in Jan & March
+    to: testing in Jan, Feb, Mar, Jun, Jul, Aug, Oct, Dec
+
+We must collect water samples and deliver them directly to a testing lab.
+
+The state publishes a [complete list of all the testing labs](https://apps.ecology.wa.gov/laboratorysearch/SearchLabName.aspx) in the state. One of them is the [Seattle-King Co Dept of Public Health Lab](https://apps.ecology.wa.gov/laboratorysearch/SearchLabName.aspx?CompanyID=503) which accepts commercial / public samples in the basement of Harborview hospital. They can do our coliform testing for $25.
+
+For Nitrate testing in Seattle, there a couple options including [Fremont Analytical](https://www.fremontanalytical.com/).
+
 
 [hw]: /History/Walt "Meany History, by Walt Little"
 [ma78]: /Mountaineer-Annual#1978
