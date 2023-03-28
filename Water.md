@@ -4,18 +4,21 @@ category: Document
 ---
 # Water
 
-# Two Systems
+## Two Systems
 
-## Dam Water
+### Dam Water
 
 The historic water source for the lodge. Primarily used for fire suppression system and flushing toilets.
 
 The pipe line is about 1300 feet long. <sup>[rn][]</sup>
 
-## Well
+---
+
+### Well
 
 Used for potable domestic water. The well head and storage tank manhole are located in the [Pump House](/Building/Pump-House)
 
+---
 
 # Reference
 
@@ -93,8 +96,8 @@ Cleaned the dam prefilter. [Michael Moreland](/Person/Michael-Moreland) and Luca
 
 The [WA Dept. Of Health](https://doh.wa.gov/) has upgraded us from a Group B to a [Group A TNC](https://doh.wa.gov/community-and-environment/drinking-water/water-system-assistance/tnc-water-systems) water facility. In practical terms, the significant changes are:
 
-    from reporting to our local AHJ (Kittitas County)
-    to reporting directly to the WA DOH.
+    from: reporting to our local AHJ (Kittitas County)
+    to: reporting directly to the WA DOH.
 
     from: testing nitrates every 3 years
     to: testing annually
@@ -102,7 +105,9 @@ The [WA Dept. Of Health](https://doh.wa.gov/) has upgraded us from a Group B to 
     from: testing coliform in Jan & March
     to: testing in Jan, Feb, Mar, Jun, Jul, Aug, Oct, Dec
 
-We must collect water samples and deliver them directly to a testing lab.
+Meany Lodge must collect water samples and deliver them directly to a testing lab. Meany's
+WFI System Id is
+[AE187H](https://fortress.wa.gov/doh/eh/portal/odw/si/SingleSystemViews/GenInfoSingleSys.aspx?OrgNum=AE187H&xid=110022&OrgName=Meany+Lodge). It can also be found on the [Water System Search](https://fortress.wa.gov/doh/eh/portal/odw/si/FindWaterSystem.aspx) page using our <i>Owner Name</i> of `Meany Lodge`.
 
 The state publishes a [complete list of all the testing labs](https://apps.ecology.wa.gov/laboratorysearch/SearchLabName.aspx) in the state. One of them is the [Seattle-King Co Dept of Public Health Lab](https://apps.ecology.wa.gov/laboratorysearch/SearchLabName.aspx?CompanyID=503) which accepts commercial / public samples in the basement of Harborview hospital. They can do our coliform testing for $25.
 
