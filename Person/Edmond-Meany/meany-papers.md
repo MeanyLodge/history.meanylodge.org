@@ -1,10 +1,10 @@
-# Edmond S. Meany
+# Edmond Stephen Meany
 
 <sub>UW maintained biography, retrieved from [archive.org](https://web.archive.org/web/20060715214938/http://www.washington.edu/research/showcase/1894a.html).</sub>
 
 The name is familiar to many residents of the Puget Sound region: the Meany Tower Hotel in the University district of Seattle; Meany Hall for the Performing Arts on the UW campus; Mount Meany in the Olympic Mountains; and Meany Crest on Mount Rainier.
 
-[Photo of Edmond S. Meany](https://github.com/MeanyLodge/meanylodge.github.com/raw/assets/img/1894-edmond-a1.jpg)
+<img src="https://github.com/MeanyLodge/meanylodge.github.com/raw/assets/img/1894-edmond-a1.jpg" style="width: 30%" align="right">
 Edmond S. Meany. Photo courtesy of the Special Collections Division, UW Libraries
 
 While these landmarks may be familiar, details of the life and career of the UW alumnus and professor after whom they were named may have faded from popular memory.
