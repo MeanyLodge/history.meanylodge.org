@@ -1,1 +1,1 @@
-The site is [published here](https://history.meanylodge.org/).
+The site is published at [history.meanylodge.org](https://history.meanylodge.org/).
