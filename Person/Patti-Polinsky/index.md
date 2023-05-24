@@ -2,7 +2,6 @@
 title: Patti Polinsky
 category: Person
 categories:
-    - Active
     - Committee
     - Instructor
     - Permanent-Resident
@@ -29,6 +28,7 @@ categories:
     - [Carnival](/Event/Carnival)
 - [Mountaineers Super Volunteer](https://www.mountaineers.org/members/patti-polinsky)
 - Bunnies
+- Research Scientist @ UW
 - wife of [Dave Claar](/Person/Dave-Claar) for 44 years
 
 ---

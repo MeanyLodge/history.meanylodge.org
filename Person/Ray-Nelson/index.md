@@ -22,6 +22,7 @@ categories:
 - Electrician
 - Lineman
 - Power Management Director for Seattle City Light
+- Treasurer of Mountaineers, 2 terms.
 
 ---
 ### History

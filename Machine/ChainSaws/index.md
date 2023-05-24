@@ -35,7 +35,7 @@ Back in the day, Meany lumberjacks used hand saws. Nowadays, we use chainsaws th
 
 - Make: Stihl
 - Model: Farm Boss
-- Year: pre-1972 (guess, b/c no chain break)
+- Year: pre-1972 (guess, b/c no chain brake)
 - Bar Length: 20"
 - Spark Plug: 
 - Chain: 20" 3/8" (9.32mm) tooth, 0.50" (1.3mm) width, Stihl part # 3624 005 0072 (33RS3-72) <sup>[ri][]</sup>
