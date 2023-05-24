@@ -542,6 +542,9 @@
 /Person/Edmond-Meany/Edmond-Portrait.jpeg filter=lfs diff=lfs merge=lfs -text
 /Person/Edmond-Meany/Edmond-Portrait.pdf filter=lfs diff=lfs merge=lfs -text
 /Person/Linda-Bresee/index.md filter=lfs diff=lfs merge=lfs -text
+/Energy/2012-Power-Line-Replacement.doc filter=lfs diff=lfs merge=lfs -text
+/Lodge/Kitchen/2011-11-Kitchen-Range-Hood-1.jpg filter=lfs diff=lfs merge=lfs -text
+/Lodge/Kitchen/2011-11-Kitchen-Range-Hood-2.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian-yore.md filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/5142689fc2630.image.jpg filter=lfs diff=lfs merge=lfs -text
 /sources/olympian/514268ac0389f.image.jpg filter=lfs diff=lfs merge=lfs -text
@@ -613,6 +616,3 @@
 /Person/Edmond-Meany/1920s-Edmond_S_Meany.jpg filter=lfs diff=lfs merge=lfs -text
 /Person/Edmond-Meany/Word-Portrait.md filter=lfs diff=lfs merge=lfs -text
 /Person/Edmond-Meany/index.md filter=lfs diff=lfs merge=lfs -text
-/Energy/2012-Power-Line-Replacement.doc filter=lfs diff=lfs merge=lfs -text
-/Lodge/Kitchen/2011-11-Kitchen-Range-Hood-1.jpg filter=lfs diff=lfs merge=lfs -text
-/Lodge/Kitchen/2011-11-Kitchen-Range-Hood-2.jpg filter=lfs diff=lfs merge=lfs -text
