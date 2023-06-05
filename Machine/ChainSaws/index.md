@@ -4,13 +4,20 @@ category: List
 ---
 # Chain Saws
 
-Back in the day, Meany lumberjacks used hand saws. Nowadays, we use chainsaws that are _usually_ older than our children. <sup>[ms][]</sup>
+Back in the day, Meany lumberjacks used hand saws. Nowadays, we use chainsaws. <sup>[ms][]</sup>
 
-### The Desired One
+### The Desired Big One
+
+- Make: Stihl MS 400 C-M ($1,100) or Echo CS 620 PW  ($610)
+- Bar length: 24"
+
+
+### The Newest One
 
 - Make: Stihl
-- Model: MS 362 R C-M  or MS 261
-- Bar length: 25"
+- Model: MS 261
+- Year: 2023
+- Bar length: 20"
 
 
 ### The New One
@@ -31,7 +38,7 @@ Back in the day, Meany lumberjacks used hand saws. Nowadays, we use chainsaws th
 - Chain: 16", 4.0mm - 5/32" tooth (and file size), part # 3610 005 0055
 
 
-### The Big One
+### Ye Old Farm Boss
 
 - Make: Stihl
 - Model: Farm Boss
