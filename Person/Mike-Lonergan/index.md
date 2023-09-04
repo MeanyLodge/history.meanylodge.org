@@ -50,5 +50,9 @@ Harvey Malako set the record for 56,000' of vertical skied in one day. He would 
 
 In the '90's we had a girl, Cindy Torzinski (Geologist), who helped splice the rope one yarn at a time. It took about 12 hours but that splice wasn't touched again until the rope was replaced. Cindy was riding the Mach tow on skinny skis to get into the backcountry. She went up to Muir on them one year and skied down to Paradise where she was noticed and offered a job as a ski instructor.
 
+#### 2023
+
+That differential housing (Mach) has two fill plugs.  One above and one below the center line.  The axle can be inverted in the original military application.  The correct oil level is to the top fill plug so the oil gets out and lubricates the wheel bearings.  Last time I changed the oil is 15+ years ago and I used Amsoil 75W-90 marine gear lube.  I have no idea how much the system takes.  If the oil gets low, the wheel bearings and seals will fail.  I guarantee they are no longer available as I had trouble finding a set for repairs back in the 1960's.  
+
 
 [75th]: /Event/Anniversary#75th
