@@ -167,6 +167,7 @@ A downed tree took out our power line between poles 1 and 2. See [Power Outage N
 In early 2022, a falling tree branch [damaged our line](https://github.com/MeanyLodge/Committee/issues/20). Repairs are planned for summer 2022.
 
 
+
 [hr]: /History/Reports "Meany History Reports, by Idona Kellogg"
 [hw]: /History/Walt "Meany History, by Walt Little"
 [ma46]: /Mountaineer-Annual#1946
