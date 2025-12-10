@@ -1,0 +1,190 @@
+BODY{
+ background-color: <BGCOLOR>;
+ font-family: arial,sans-serif;
+ font-size: 14px;
+}
+table {
+  /* make <td> sizes relative to body size! */
+  font-size: 1em;
+}
+FONT.te{
+
+ color: <LINKCOLOR2>;
+ font-weight: bold;
+ text-decoration: none;}
+
+FONT.desc{
+color: <DESCCOLOR>;
+text-decoration: none;
+}
+
+FONT.dirdesc{
+color: <DESCCOLOR>;
+text-decoration: none;
+}
+
+A:link.me{
+ color: <LINKCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+A:visited.me{
+ color: <LINKCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+A:hover.me{
+ color: <LINKCOLOR>;
+ font-weight: bold;
+ text-decoration: underline;}
+A:active.me{
+ color: <LINKCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+
+A:link.me3{
+ color: <DESCCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+A:visited.me3{
+ color: <DESCCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+A:hover.me3{
+ color: <DESCCOLOR>;
+ font-weight: bold;
+ text-decoration: underline;}
+A:active.me3{
+ color: <DESCCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+
+A:link.me4{
+ color: <DESCCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+A:visited.me4{
+ color: <DESCCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+A:hover.me4{
+ color: <DESCCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+A:active.me4{
+ color: <DESCCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+
+A:link.me2{
+ color: <LINKCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+A:visited.me2{
+ color: <LINKCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+A:hover.me2{
+ color: <LINKCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+A:active.me2{
+ color: <LINKCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+
+A:link.logo{
+ font-size: 58;
+ color: <LOGOCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+A:visited.logo{
+ font-size: 58;
+ color: <LOGOCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+A:hover.logo{
+ font-size: 58;
+ color: <LOGOCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+A:active.logo{
+ font-size: 58;
+ color: <LOGOCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+TD{
+color: <LINKCOLOR>;
+}
+TD.boxhead {
+color: <LINKCOLOR>;
+background-color: <BGCOLOR3>;
+}
+TD.boxbody {
+color: <LINKCOLOR2>;
+background-color: <BGCOLOR2>;
+}
+FONT.photodesc {
+color: <PHOTODESC>;
+}
+TD.thmb {
+background-color: <BGCOLOR>;
+}
+TD.photo {
+background-color: <BORDERCOLOR>;
+}
+TD.txt {
+color: <LINKCOLOR>;
+}
+TD.logo {
+font-size: 72px;
+color: <LOGOCOLOR>;
+background-color: <BGCOLOR>;
+}
+IMG.thmb {
+border-color: <BORDERCOLOR>;
+border-style: solid;
+border-width: <BORDERWIDTH>;
+
+}
+IMG.movie {
+border-color: <BORDERCOLOR>;
+border-style: solid;
+border-width: <BORDERWIDTH>;
+}
+
+TABLE.F {
+	border-style: solid;
+	border-color: <BGCOLOR3>;
+	background-color: <BGCOLOR>;
+}
+TD.F {
+	color: <LINKCOLOR>;
+	font-weight: bold;
+	font-size: 0.8em;
+}
+TD.N {
+	color: <LINKCOLOR>;
+	font-weight: normal;
+	font-size: 0.8em;
+}
+TR.H {
+	background-color: <BGCOLOR3>;
+	color: <LINKCOLOR>;
+	font-weight: bold;
+	font-size: 0.8em;
+}
+A:link.mex{
+ color: <LINKCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+A:visited.mex{
+ color: <LINKCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}
+A:hover.mex{
+ color: <LINKCOLOR>;
+ font-weight: bold;
+ text-decoration: underline;}
+A:active.mex{
+ color: <LINKCOLOR>;
+ font-weight: bold;
+ text-decoration: none;}

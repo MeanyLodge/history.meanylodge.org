@@ -1,0 +1,44 @@
+The format of a flat file WebCal database entry is:
+
+<index>|||<subindex>|||<modified>|||<user>|||<date>|||<start time>|||<end time>|||<entry>|||<link>|||<reminder>|||notes
+
+As you can see, 3 pipe symbols are the delimiter for each field.  
+Here's a description of each fields:
+
+<index>: just an integer, start at 1 and count up.
+
+<subindex>: an extra index value for keeping track of single items that span
+multiple days.
+
+<modified>: whether an item was modified since last PDA synch (for use with
+palm pilot synch routines).
+
+<user>: username of person who added item (0 for open cals)
+
+<date>: Can be in either simple YYYYMMDD format - 4 digit year, 2 digit
+month, 2 digit day OR it can be a regular expression to match the current
+date in the format of "Year,Month,Day,Day_of_Week".    Some examples are
+due here:
+
+19990524 - Only May 5, 19999
+1999,.*,01,.* - The first day of every month in 1999
+.*,12,25,.* - Christmas, every year
+1999,12,.*,Mon - Every monday in the month of December for 1999
+.*,.*,0[1-7],Fri - The first friday of every month, for every year
+
+So that should give an idea as to how recurring events are generated.
+You'll have to know a little about Perl regular expressions to understand
+it though.
+
+<start time>: 4 digit military time, from 0000 to 2359.
+
+<end time>: 4 digit military time, from 0000 to 2359.
+
+<entry>: The item you give.
+
+<link>: a "0" for no link, the URL if the item is to be a hyperlink.
+
+<reminder>: 0 for no reminder, or an integer which is the number of seconds
+prior to an event to issue the reminder.
+
+<notes>: 0 for no notes, otherwise the notes given by the user.

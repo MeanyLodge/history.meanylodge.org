@@ -1,0 +1,192 @@
+# charset
+
+$CHARSET="ISO-8859-2";
+
+# days and months
+
+$SUNDAY="nedjelja";
+$MONDAY="ponedjeljak";
+$TUESDAY="utorak";
+$WEDNESDAY="srijeda";
+$THURSDAY="èetvrtak";
+$FRIDAY="petak";
+$SATURDAY="subota";
+$LANG_DOW{'Sun'}=$SUNDAY;
+$LANG_DOW{'Mon'}=$MONDAY;
+$LANG_DOW{'Tue'}=$TUESDAY;
+$LANG_DOW{'Wed'}=$WEDNESDAY;
+$LANG_DOW{'Thu'}=$THURSDAY;
+$LANG_DOW{'Fri'}=$FRIDAY;
+$LANG_DOW{'Sat'}=$SATURDAY;
+$LANG_NDOW{'1st'}="prvi";
+$LANG_NDOW{'2nd'}="drugi";
+$LANG_NDOW{'3rd'}="treæi";
+$LANG_NDOW{'4th'}="èetvrti";
+$LANG_NDOW{'last'}="zadnji";
+$JANUARY="Sijeèanj";
+$FEBRUARY="Veljaèa";
+$MARCH="O¾ujak";
+$APRIL="Travanj";
+$MAY="Svibanj";
+$JUNE="Lipanj";
+$JULY="Srpanj";
+$AUGUST="Kolovoz";
+$SEPTEMBER="Rujan";
+$OCTOBER="Listopad";
+$NOVEMBER="Studeni";
+$DECEMBER="Prosinac";
+
+# Strings
+
+$STRING1="Javni kalendar za ovaj mjesec";
+$STRING2="Stvori novi kalendar";
+$STRING3="Otiði na javni kalendar";
+$STRING4="Go!";
+$STRING5="Otiði na privatni kalendar";
+$STRING7="Naziv kalendara";
+$STRING8="Privatan kalendar - mogu ga èitati i pisati samo odreðeni korisnici";
+$STRING9="Javni kalendar - svi ga mogu èitati, a pisati samo odreðeni korisnici";
+$STRING10="Unesite lozinku za pristup kalendaru";
+$STRING11="Korisnièko ime";
+$STRING12="Lozinka";
+$STRING13="Lozinka ponovo";
+$STRING14="Nemojte brisati ovu datoteku. WebCal je koristi.";
+$STRING15="Novi kalendar je stvoren. Mo¾ete ga koristiti njegovim odabirom na";
+$STRING15a="glavnoj stranici WebCal-a";
+$STRING16="unesi";
+$STRING17="odustani";
+$STRING18="Odaberite jedan";
+$STRING19="vi¹e komada ??";
+$STRING20="Otiði na poèetnu stranicu WebCal-a";
+$STRING21="Pregled jednog dana";
+$STRING22="Bilje¹ke za";
+$STRING23="Obraðujem";
+$STRING24="Promjeni bilje¹ku u kalendaru";
+$STRING25="Stara bilje¹ka";
+$STRING26="Nova bilje¹ka";
+$STRING27="Stari hiperlink za ovu bilje¹ku";
+$STRING28="Novi hiperlink za ovu bilje¹ku";
+$STRING29="Bilje¹ka se odnosi na vi¹e dana.\\Njezino mjenjanje æe projmeniti sve bilje¹ke.\\nNastaviti sa mijenjanjem?";
+$STRING30="Bilje¹ka se odnosi na vi¹e dana.\\Njezino brisanje æe pobrisati sve bilje¹ke.\\nNastaviti sa brisanjem?";
+$STRING31="promjena";
+$STRING32="brisanje";
+$STRING33="Nema bilje¹ki za ovaj dan";
+$STRING34="Dodati bilje¹ku u kalendar za";
+$STRING35="oznaèite vi¹e kuæica ako je potrebno";
+$STRING36="samo danas";
+$STRING37="danas i sutra";
+$STRING38="slijedeæih dana";
+$STRING39="";
+$STRING39a="u mjesecu";
+$STRING40="svaki";
+$STRING40a="ovog mjeseca";
+$STRING41="svaki mjesec ove godine";
+$STRING42="svake godine";
+$STRING43="neka ova bilje¹ka bude hiperlink na";
+$STRING44="unesi bilje¹ku";
+$STRING45="Povratak na";
+$STRING46="za";
+$STRING47="Povratak na poèetnu stranicu WebCal-a";
+$STRING48="vrijeme:";
+$STRING49="neodreðeno";
+$STRING50="Staro vrijeme";
+$STRING51="Novo vrijeme";
+$STRING52="godi¹nji<br>pregled";
+$STRING53="mjeseèni<br>pregled";
+$STRING54="tjedni<br>pregled";
+$STRING55="dnevni<br>pregled";
+$STRING57="bilje¹ka";
+$STRING58="Tjedni pregled -";
+$STRING59="Posjetite WebCal-ovu stranicu";
+$STRING60="Prijava kao administrator";
+$STRING61="Odjava kao administrator";
+$STRING62="Unesite korisnike, odvojene zarezima, kojima ¾elite dopustiti pristup ovom kalendaru. Upotrijebite * za dozvolu svima. Ovo polje se upotrebljava samo kod privatnih kalendara.";
+$STRING63="Gdje se nalaze ikone. Putanja je relativna u odnosu na \"$HT_HOME\". Sve slike, ikone i pozadine se moraju nalaziti tamo.";
+$STRING64="Jezik.";
+$STRING65="Dan sa kojim poèinje tjedan.";
+$STRING66="Sat za poèetak bilje¹ki kod pregleda po danu.";
+$STRING67="Sat za kraj bilje¹ki kod pregleda po danu.";
+$STRING68="12 ili 24-tvero satni oblik vremena.";
+$STRING69="Prikazivati sate za bilje¹ke u mjeseènom pregledu.";
+$STRING70="Prikazivati sate za prazne bilje¹ke u dnevnom pregledu.";
+$STRING71="Da li prikazivati slike umjesto teksta za linkove.";
+$STRING72="Pozadinska boja za sve dokumete. Upotrijebite 0 za sliku.";
+$STRING73="Pozadinska slika za sve dokumete. Upotrebljava se samo ako je pozadniska boja 0. Ovo mo¾e biti datoteka u direktoriju sa ikonama ili URL do neke slike.";
+$STRING74="Boja za sve linkove.";
+$STRING75="Boja za tekst.";
+$STRING76="Boja za teksta za dane vikenda.";
+$STRING77="Boja za teksta za dane u tjednu.";
+$STRING78="Boja za polje koje oznaèava trenutni dan u mjesecu i tjednu. Odaberite 0 za iskljuèivanje.";
+$STRING79="Boja za polje koje oznaèava trenutni mjesec u godi¹njem pregledu. Odaberite 0 za iskljuèivanje.";
+$STRING80="Boja za polja koja nisu dani u mjeseènom pregledu. Odaberite 0 za iskljuèivanje.";
+$STRING81="Slika na vrhu stranica sa pregledima. Odaberite 0 za iskljuèivanje. Ovo mo¾e biti datoteka u direktoriju sa ikonama ili URL do neke slike.";
+$STRING82="Slika koja se koristi na dnu poèetne stranice. Odaberite 0 za iskljuèivanje. Ovo mo¾e biti datoteka u direktoriju sa ikonama ili URL do neke slike.";
+$STRING83="Koliko bilje¹ki pokazati za svaki dan u mjeseènom pregledu. Ovo utjeèe na velièinu polja za dane kod mjeseènog pregleda.";
+$STRING84="Najveæi broj znakova za bilje¹ke unutar polja za dane kod mjeseènog pregleda.";
+$STRING85="Administratorske moguænosti";
+$STRING86="Za kori¹tenje ovih moguænosti morate biti prijavljeni kao administrator";
+$STRING87="Postavke za";
+$STRING88="Odaberite ovdje za promjenu lozinke";
+$STRING89="Ukljuèiti ili iskljuèiti neki od slijedeæih kalendara. Mo¾ete odabrati vi¹e kalendara istovremeno.";
+$STRING90="Kalendari nisu na raspolaganju.";
+$STRING91="Spremi promjene";
+$STRING92="Sada ste prijavljeni kao administrator";
+$STRING93="Sa administratorskim pravima mo¾ete:";
+$STRING94="Mijenjati administratorsku lozniku";
+$STRING95="Dodavati ili bristati korisnike ili kalendare";
+$STRING96="Dodavati, mijenjati ili brisati bilje¹ke u svim kalendarima";
+$STRING97="Mijenjati postavke za sve kalendare";
+$STRING98="Vi¹e niste prijavljeni kao administrator";
+$STRING99="Promjena administratorke lozinke";
+$STRING100="Dodavanje korisnika";
+$STRING101="Brisanje korisnika";
+$STRING102="Brisanje kalendara";
+$STRING103="Promjena lozinke za korisnika";
+$STRING104="Nova loznika za";
+$STRING105="Nova loznika ponovo za";
+$STRING106="Dodati korisnika u popis korisnika";
+$STRING107="Korisnik je dodan.";
+$STRING108="Obrisati korisnika iz popisa korisnika";
+$STRING109="Korisnik je obrisan.";
+$STRING110="Kalendar je obrisan.";
+$STRING111="Odlazak na administratorske moguænosti";
+$STRING112="postavke";
+
+
+#Error Strings
+
+$ERROR_STRING1="ne mogu otvoriti";
+$ERROR_STRING2="opcija nije podr¾ana";
+$ERROR_STRING3="Kalendar sa nazivom";
+$ERROR_STRING3a="veæ postoji. Odaberite back u va¹em browseru i upi¹ite novo ime.";
+$ERROR_STRING4="Ime kalendara mo¾e sadr¾avati samo slova, brojke i razmake. Odaberite back u va¹em browseru i ispravite ime.";
+$ERROR_STRING5="ne mogu kreirati direktorij";
+$ERROR_STRING6="Lozinka je neispravna. Odaberite back u va¹em browseru i upi¹ite lozinku ponovo.";
+$ERROR_STRING7="Korisnik sa takvim imenom veæ postoji ili ime sadr¾i znakove koji nisu alfanumerièki. Odaberite back u va¹em browseru i upi¹ite novo ime.";
+$ERROR_STRING8="Neispravan tip kalendara";
+$ERROR_STRING9="Pokaci o korisnicima veæ postoje, nemo¾ete ih mijenjati na ovaj naèin!";
+$ERROR_STRING10="ne mogu otvoriti";
+$ERROR_STRING11="ne mogu koriptirati";
+$ERROR_STRING12="Gre¹ka kod zakljuèavanja";
+$ERROR_STRING13="Gre¹ka kod otkljuèavanja";
+$ERROR_STRING14="pogre¹an oblik datuma!";
+$ERROR_STRING15="Ne mogu uèitati";
+$ERROR_STRING16="Ne mogu uèitati zajednièke potprograme";
+$ERROR_STRING17="Ne bi ste trebali pristupati javnom kalendaru preko ove skripte";
+$ERROR_STRING19="opcija nije podr¾ana";
+$ERROR_STRING20="funkcija nije podr¾ana";
+$ERROR_STRING21="ne mogu odrediti tip kalendara";
+$ERROR_STRING22="Znak '|' nije odzvoljen u ovom polju. Odaberite back u va¹em browseru i ispravite polje.";
+$ERROR_STRING23="pogre¹an broj u polju za broj slijedeæih dana";
+$ERROR_STRING24="neispravna vrijednost za ndow";
+$ERROR_STRING25="localtime funkcija je vratila nepodr¾an oblik vremena u";
+$ERROR_STRING26="Ne bi ste trebali pristupati privatnom kalendaru preko ove skripte";
+$ERROR_STRING27="Operacija nije podr¾ana:";
+$ERROR_STRING28="Gre¹ka";
+
+
+#
+# Leave this 1 here to ensure this file gets included properly in the require
+#
+1;
+

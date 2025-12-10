@@ -1,0 +1,748 @@
+
+DESCRIPTION: day repeat for 4 days
+------------
+key: archived  val: 
+key: begin
+  0: 0
+  1: 0
+  2: 9
+  3: 3
+  4: 1
+  5: 100
+  6: 4
+  7: 33
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 
+key: end
+  0: 0
+  1: 0
+  2: 10
+  3: 3
+  4: 1
+  5: 100
+  6: 4
+  7: 33
+  8: 0
+key: event  val: 0
+key: id  val: 3817475
+key: index  val: 0
+key: modified  val: 1
+key: repeat
+  end
+    0: 0
+    1: 0
+    2: 0
+    3: 7
+    4: 1
+    5: 100
+    6: 1
+    7: 37
+    8: 0
+  frequency: 1
+  type: Daily
+  weekstart: 0
+key: secret  val: 
+
+
+DESCRIPTION: neverending day repeat
+------------
+key: archived  val: 
+key: begin
+  0: 0
+  1: 0
+  2: 11
+  3: 3
+  4: 1
+  5: 100
+  6: 4
+  7: 33
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 
+key: end
+  0: 0
+  1: 0
+  2: 12
+  3: 3
+  4: 1
+  5: 100
+  6: 4
+  7: 33
+  8: 0
+key: event  val: 0
+key: id  val: 3817476
+key: index  val: 1
+key: modified  val: 1
+key: repeat
+  frequency: 1
+  type: Daily
+  weekstart: 0
+key: secret  val: 
+
+
+DESCRIPTION: repeat every 3rd day
+------------
+key: archived  val: 
+key: begin
+  0: 0
+  1: 0
+  2: 14
+  3: 3
+  4: 1
+  5: 100
+  6: 4
+  7: 33
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 
+key: end
+  0: 0
+  1: 0
+  2: 15
+  3: 3
+  4: 1
+  5: 100
+  6: 4
+  7: 33
+  8: 0
+key: event  val: 0
+key: id  val: 3817477
+key: index  val: 2
+key: modified  val: 1
+key: repeat
+  frequency: 3
+  type: Daily
+  weekstart: 0
+key: secret  val: 
+
+
+DESCRIPTION: month repeat for 1 year by date
+------------
+key: archived  val: 
+key: begin
+  0: 0
+  1: 0
+  2: 9
+  3: 31
+  4: 0
+  5: 100
+  6: 1
+  7: 30
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 
+key: end
+  0: 0
+  1: 0
+  2: 10
+  3: 31
+  4: 0
+  5: 100
+  6: 1
+  7: 30
+  8: 0
+key: event  val: 0
+key: id  val: 3817478
+key: index  val: 3
+key: modified  val: 1
+key: repeat
+  end
+    0: 0
+    1: 0
+    2: 0
+    3: 31
+    4: 0
+    5: 101
+    6: 3
+    7: 30
+    8: 0
+  frequency: 1
+  type: MonthlyByDate
+  weekstart: 0
+key: secret  val: 
+
+
+DESCRIPTION: month repeat by dow
+------------
+key: archived  val: 
+key: begin
+  0: 0
+  1: 0
+  2: 11
+  3: 3
+  4: 0
+  5: 100
+  6: 1
+  7: 2
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 
+key: end
+  0: 0
+  1: 0
+  2: 12
+  3: 3
+  4: 0
+  5: 100
+  6: 1
+  7: 2
+  8: 0
+key: event  val: 0
+key: id  val: 3817479
+key: index  val: 4
+key: modified  val: 1
+key: repeat
+  day: 1
+  frequency: 1
+  type: MonthlyByDay
+  weekstart: 0
+key: secret  val: 
+
+
+DESCRIPTION: monthly repeat every 2nd monht
+------------
+key: archived  val: 
+key: begin
+  0: 0
+  1: 0
+  2: 14
+  3: 3
+  4: 0
+  5: 100
+  6: 1
+  7: 2
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 
+key: end
+  0: 0
+  1: 0
+  2: 15
+  3: 3
+  4: 0
+  5: 100
+  6: 1
+  7: 2
+  8: 0
+key: event  val: 0
+key: id  val: 3817480
+key: index  val: 5
+key: modified  val: 1
+key: repeat
+  day: 1
+  frequency: 2
+  type: MonthlyByDay
+  weekstart: 0
+key: secret  val: 
+
+
+DESCRIPTION: week repeat
+------------
+key: archived  val: 
+key: begin
+  0: 0
+  1: 0
+  2: 10
+  3: 2
+  4: 0
+  5: 100
+  6: 0
+  7: 1
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 
+key: end
+  0: 0
+  1: 0
+  2: 11
+  3: 2
+  4: 0
+  5: 100
+  6: 0
+  7: 1
+  8: 0
+key: event  val: 0
+key: id  val: 3817481
+key: index  val: 6
+key: modified  val: 1
+key: repeat
+  days
+    0: 1
+    1: 0
+    2: 0
+    3: 0
+    4: 0
+    5: 0
+    6: 0
+  frequency: 1
+  type: Weekly
+  weekstart: 0
+key: secret  val: 
+
+
+DESCRIPTION: week repeat every other dow
+------------
+key: archived  val: 
+key: begin
+  0: 0
+  1: 0
+  2: 14
+  3: 2
+  4: 0
+  5: 100
+  6: 0
+  7: 1
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 
+key: end
+  0: 0
+  1: 0
+  2: 15
+  3: 2
+  4: 0
+  5: 100
+  6: 0
+  7: 1
+  8: 0
+key: event  val: 0
+key: id  val: 3817482
+key: index  val: 7
+key: modified  val: 1
+key: repeat
+  days
+    0: 1
+    1: 0
+    2: 0
+    3: 0
+    4: 0
+    5: 0
+    6: 0
+  frequency: 2
+  type: Weekly
+  weekstart: 0
+key: secret  val: 
+
+
+DESCRIPTION: year repeat
+------------
+key: archived  val: 
+key: begin
+  0: 0
+  1: 0
+  2: 11
+  3: 8
+  4: 0
+  5: 100
+  6: 6
+  7: 7
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 
+key: end
+  0: 0
+  1: 0
+  2: 12
+  3: 8
+  4: 0
+  5: 100
+  6: 6
+  7: 7
+  8: 0
+key: event  val: 0
+key: id  val: 3817483
+key: index  val: 8
+key: modified  val: 1
+key: repeat
+  frequency: 1
+  type: Yearly
+  weekstart: 0
+key: secret  val: 
+
+
+DESCRIPTION: year repeat for 2 years
+------------
+key: archived  val: 
+key: begin
+  0: 0
+  1: 0
+  2: 14
+  3: 8
+  4: 0
+  5: 100
+  6: 6
+  7: 7
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 
+key: end
+  0: 0
+  1: 0
+  2: 15
+  3: 8
+  4: 0
+  5: 100
+  6: 6
+  7: 7
+  8: 0
+key: event  val: 0
+key: id  val: 3817484
+key: index  val: 9
+key: modified  val: 1
+key: repeat
+  end
+    0: 0
+    1: 0
+    2: 0
+    3: 8
+    4: 0
+    5: 102
+    6: 2
+    7: 7
+    8: 0
+  frequency: 1
+  type: Yearly
+  weekstart: 0
+key: secret  val: 
+
+
+DESCRIPTION: item with note
+------------
+key: archived  val: 
+key: begin
+  0: 0
+  1: 0
+  2: 10
+  3: 6
+  4: 0
+  5: 100
+  6: 4
+  7: 5
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 
+key: end
+  0: 0
+  1: 0
+  2: 11
+  3: 6
+  4: 0
+  5: 100
+  6: 4
+  7: 5
+  8: 0
+key: event  val: 0
+key: id  val: 3817492
+key: index  val: 10
+key: modified  val: 1
+key: note  val: this is a note 
+key: secret  val: 
+
+
+DESCRIPTION: alarm item 5 min
+------------
+key: alarm
+  advance: 5
+  units: minutes
+key: archived  val: 
+key: begin
+  0: 0
+  1: 0
+  2: 12
+  3: 7
+  4: 0
+  5: 100
+  6: 5
+  7: 6
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 
+key: end
+  0: 0
+  1: 0
+  2: 13
+  3: 7
+  4: 0
+  5: 100
+  6: 5
+  7: 6
+  8: 0
+key: event  val: 0
+key: id  val: 3817485
+key: index  val: 11
+key: modified  val: 1
+key: secret  val: 
+
+
+DESCRIPTION: alarm item 1 hour
+------------
+key: alarm
+  advance: 1
+  units: hours
+key: archived  val: 
+key: begin
+  0: 0
+  1: 0
+  2: 14
+  3: 7
+  4: 0
+  5: 100
+  6: 5
+  7: 6
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 
+key: end
+  0: 0
+  1: 0
+  2: 15
+  3: 7
+  4: 0
+  5: 100
+  6: 5
+  7: 6
+  8: 0
+key: event  val: 0
+key: id  val: 3817486
+key: index  val: 12
+key: modified  val: 1
+key: secret  val: 
+
+
+DESCRIPTION: alram item 10 days
+------------
+key: alarm
+  advance: 10
+  units: days
+key: archived  val: 
+key: begin
+  0: 0
+  1: 0
+  2: 16
+  3: 7
+  4: 0
+  5: 100
+  6: 5
+  7: 6
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 
+key: end
+  0: 0
+  1: 0
+  2: 17
+  3: 7
+  4: 0
+  5: 100
+  6: 5
+  7: 6
+  8: 0
+key: event  val: 0
+key: id  val: 3817487
+key: index  val: 13
+key: modified  val: 1
+key: secret  val: 
+
+
+DESCRIPTION: private item
+------------
+key: archived  val: 
+key: begin
+  0: 0
+  1: 0
+  2: 18
+  3: 7
+  4: 0
+  5: 100
+  6: 5
+  7: 6
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 
+key: end
+  0: 0
+  1: 0
+  2: 19
+  3: 7
+  4: 0
+  5: 100
+  6: 5
+  7: 6
+  8: 0
+key: event  val: 0
+key: id  val: 3817488
+key: index  val: 14
+key: modified  val: 1
+key: secret  val: 1
+
+
+DESCRIPTION: simple item 
+------------
+key: archived  val: 
+key: begin
+  0: 0
+  1: 0
+  2: 0
+  3: 2
+  4: 1
+  5: 100
+  6: 3
+  7: 32
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 
+key: event  val: 1
+key: id  val: 3817473
+key: index  val: 15
+key: modified  val: 1
+key: secret  val: 
+
+
+DESCRIPTION: simple timed item
+------------
+key: archived  val: 
+key: begin
+  0: 0
+  1: 5
+  2: 11
+  3: 2
+  4: 1
+  5: 100
+  6: 3
+  7: 32
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 
+key: end
+  0: 0
+  1: 35
+  2: 14
+  3: 2
+  4: 1
+  5: 100
+  6: 3
+  7: 32
+  8: 0
+key: event  val: 0
+key: id  val: 3817474
+key: index  val: 16
+key: modified  val: 1
+key: secret  val: 
+
+
+DESCRIPTION: simple timed item
+------------
+key: archived  val: 
+key: begin
+  0: 0
+  1: 5
+  2: 11
+  3: 2
+  4: 1
+  5: 100
+  6: 3
+  7: 32
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 1
+key: end
+  0: 0
+  1: 35
+  2: 14
+  3: 2
+  4: 1
+  5: 100
+  6: 3
+  7: 32
+  8: 0
+key: event  val: 0
+key: id  val: 3817489
+key: index  val: 17
+key: modified  val: 1
+key: secret  val: 
+
+
+DESCRIPTION: simple timed item
+------------
+key: archived  val: 
+key: begin
+  0: 0
+  1: 5
+  2: 11
+  3: 2
+  4: 1
+  5: 100
+  6: 3
+  7: 32
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 1
+key: end
+  0: 0
+  1: 35
+  2: 14
+  3: 2
+  4: 1
+  5: 100
+  6: 3
+  7: 32
+  8: 0
+key: event  val: 0
+key: id  val: 3817490
+key: index  val: 18
+key: modified  val: 1
+key: secret  val: 
+
+
+DESCRIPTION: deleted item archived
+------------
+key: archived  val: 1
+key: begin
+  0: 0
+  1: 0
+  2: 14
+  3: 6
+  4: 0
+  5: 100
+  6: 4
+  7: 5
+  8: 0
+key: busy  val: 
+key: category  val: 0
+key: deleted  val: 
+key: end
+  0: 0
+  1: 0
+  2: 15
+  3: 6
+  4: 0
+  5: 100
+  6: 4
+  7: 5
+  8: 0
+key: event  val: 0
+key: id  val: 3817491
+key: index  val: 19
+key: modified  val: 1
+key: secret  val: 
+

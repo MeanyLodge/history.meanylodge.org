@@ -1,0 +1,209 @@
+# charset
+
+$CHARSET="ISO-8859-2";
+
+
+# days and months
+
+$SUNDAY="Diumenge";
+$MONDAY="Dilluns";
+$TUESDAY="Dimarts";
+$WEDNESDAY="Dimecres";
+$THURSDAY="Dijous";
+$FRIDAY="Divendres";
+$SATURDAY="Dissabte";
+$LANG_DOW{'Sun'}=$SUNDAY;
+$LANG_DOW{'Mon'}=$MONDAY;
+$LANG_DOW{'Tue'}=$TUESDAY;
+$LANG_DOW{'Wed'}=$WEDNESDAY;
+$LANG_DOW{'Thu'}=$THURSDAY;
+$LANG_DOW{'Fri'}=$FRIDAY;
+$LANG_DOW{'Sat'}=$SATURDAY;
+$LANG_NDOW{'1st'}="1er";
+$LANG_NDOW{'2nd'}="2on";
+$LANG_NDOW{'3rd'}="3er";
+$LANG_NDOW{'4th'}="4art";
+$LANG_NDOW{'last'}="darrer";
+$JANUARY="Gener";
+$FEBRUARY="Febrer";
+$MARCH="Mar&ccedil;";
+$APRIL="Abril";
+$MAY="Maig";
+$JUNE="Juny";
+$JULY="Juliol";
+$AUGUST="Agost";
+$SEPTEMBER="Setembre";
+$OCTOBER="Octubre";
+$NOVEMBER="Novembre";
+$DECEMBER="Desembre";
+
+# strings
+
+$STRING1="Veure el calendari p&uacute;blic d'aquest mes"; 
+$STRING2="Crear un nou calendari";
+$STRING3="Anar al calendari p&uacute;blic";
+$STRING4="Endavant!";
+$STRING5="Anar a un calendari privat";
+$STRING7="Nom del Calendari";
+$STRING8="Calendari Privat - lectura i escriptura nom&eacute; pels usuaris que s'especifiquin";
+$STRING9="Calendari P&uacute;blic - visible per tothom i entrada d'anotacions restringida a les persones autoritzades";
+$STRING10="Entra la contrasenya del calendari";
+$STRING11="Nom de l'usuari";
+$STRING12="Contrasenya";
+$STRING13="Torna a entrar la contrasenya";
+$STRING14="No borris aquest arxiu. L'utilitza webcal";
+$STRING15="El calendari ha sigut creat.  Ara pots accedir-hi seleccionant-lo des del menú";
+$STRING15a="P&agrave;gina inicial de WebCal";
+$STRING16="Confirmar";
+$STRING17="Cancel.lar";
+$STRING18="Seleccionar-ne un";
+$STRING19="m&eacute;s &iacute;tems";
+$STRING20="Anar a la p&agrave;gina inicial de Web Calendar";
+$STRING21="Visualitzador diari WebCal";
+$STRING22="Anotacions pel";
+$STRING23="processant dades";
+$STRING24="Canviar anotaci&oacute;";
+$STRING25="Anotaci&oacute; anterior";
+$STRING26="La nova anotaci&oacute;";
+$STRING27="Anterior enlla&ccedil; d'aquesta anotaci&oacute;";
+$STRING28="Nou  enlla&ccedil; d'aquesta anotaci&oacute;";
+$STRING29="Aquesta anotaci&oacute; ha estat afegida en m&eacute;s dies.\\nSi edites aquesta anotaci&oacute tamb&eacute; la
+canviar&agrave;s en tots els altres dies.\\nVols continuar editant-la?";
+$STRING30="Aquesta anotaci&oacute; ha estat afegida en m&eacute;s dies.\\nSi borres aquesta anotaci&oacute; tamb&eacute; la
+borrar&agrave;s per tots els altres dies.\\nVols continuar borrant-la?";
+$STRING31="Editar";
+$STRING32="Borrar";
+$STRING34="Afegir anotaci&oacute; pel";
+$STRING33="No hi ha cap anotaci&oacute; per aquest dia";
+$STRING35="marcar m&uacute;ltiples opcions si cal";
+$STRING36="Nom&eacute;s per avui";
+$STRING37="Avui i els seg&uuml;ents";
+$STRING38="dies consecutius";
+$STRING39="El";
+$STRING39a="del mes";
+$STRING40="Cada";       
+$STRING40a="d'aquest mes";
+$STRING41="Cada mes d'aquest any";
+$STRING42="Cada any";
+$STRING43="Fer un enlla&ccedil; d'aquesta anotaci&oacute; amb";
+$STRING44="Entrar l'anotaci&oacute;";
+$STRING45="Tornar a";
+$STRING46="de ";
+$STRING47="Anar a la p&agrave;gina inicial de WebCal";
+$STRING48="Hora";
+$STRING49="Cap";
+$STRING50="Horari antic";
+$STRING51="Horari nou";
+$STRING52="veure<br>any";
+$STRING53="veure<br>mes";
+$STRING54="veure<br>setmana";
+$STRING55="veure<br>dia";
+$STRING57="Anotaci&oacute;";
+$STRING58="Setmana de";
+$STRING59="Visita la p&agrave;gina de WebCal";
+$STRING60="Login al compte admin";
+$STRING61="Logout del compte admin";
+$STRING62="Entrar una llista, separada per espais, dels usuaris que vulguis autoritzar a veure les anotacions d'aquest calendari. Fes
+servir un * per autoritzar tothom a veure aquest calendari. Aquesta opci&oacute; nom&eacute;s es fa servir per calendaris privats.";
+$STRING63="Directori on hi ha gravades les icones. Relatiu al directori:\"$HT_HOME\". Totes les imatges, icones i fons han de ser en
+aquest directori.";
+$STRING64="Idioma.";
+$STRING65="Dia d'inici de la setmana.";
+$STRING66="Hora d'inici del dia, en format HH:MM.";
+$STRING67="Darrera hora del dia, en format HH:MM.";
+$STRING68="Format de l'hora de 12 o de 24 hores.";
+$STRING69="Vols que es vegin les hores de les anotacions en els mesos?.";
+$STRING70="Vols que es vegin les hores, si no hi ha anotacions, en els dies?.";
+$STRING71="Vols fer servir botons en comptes de text per seleccionar les diferents visualitzacions (any, mes, setmana, dia)?. No
+disponible en tots els idiomes.";
+$STRING72="Color de fons per tots els document. Posa-hi 0 per fer servir una imatge.";
+$STRING73="Imatge de fons per tots els documents. Nom&eacute;s si has posat 0 al color de fons. Cal que la imatge estigui gravada
+en el mateix directori que les les altres icones o especificar la URL de qualsevol imatge.";
+$STRING74="El color dels enlla&ccedil;os.";
+$STRING75="El color del text de les anotacions.";
+$STRING76="El color del text pels noms dels dies de cap de setmana.";
+$STRING77="El color del text pels noms dels dies laborables de la setmana.";
+$STRING78="El color de la casella del dia actual en un mes o setmana. Posa-hi 0 si no vols que es destaqui el dia actual.";
+$STRING79="El color del mes actual en un any. Posa-hi 0 si no vols que es destaqui.";
+$STRING80="El color de les caselles en els mesos que no siguin cap dia v&agrave;lid. Posa-hi 0 si no vols que es destaquin.";
+$STRING81="Imatge que es veur&agrave; a dalt de totes les p&agrave;gines (vistes anuals, mensuals, setmanals i di&agrave;ries.
+Cal que la imatge estigui en el mateix directori que les altres icones o especificar la URL de qualevol altra imatge. Posa-hi 0 si no vols
+que es vegi cap imatge..";
+$STRING82="Imatge que es veur&agrave; a baix de totes les p&agrave;gines (vistes anuals, mensuals, setmanals i di&agrave;ries.
+Cal que la imatge estigui en el mateix directori que les altres icones o especificar la URL de qualevol altra imatge. Posa-hi 0 si no vols
+que es vegi cap imatge.";
+$STRING83="Nombre d'anotacions visibles per cada dia en la
+visualitzaci&oacute; d'un mes. Ves en compte, ja que afecta al tamany dels
+recuadres dels dies en la visualitzaci&oacute; d'un mes.";
+$STRING84="Nombre de car&agrave;cters m&agrave;xim en les caselles
+dels dies d'un mes. Si les anotacions tenen m&eacute;s
+car&agrave;cters quedaran retallades."; 
+$STRING85="Funcions d'administraci&oacute;";
+$STRING86="Has d'entar com a usuari admin per accedir a aquesta funci&oacute;";
+$STRING87="Prefer&egrave;ncies per";
+$STRING88="Prem aqu&iacute; per canviar la teva contrasenya";
+$STRING89="Si vols, pots triar altres calendaris als que et vulguis subscriure. Es poden seleccionar diferents calendaris alhora.";
+$STRING90="No hi ha calendaris disponibles.";
+$STRING91="Processar els canvis";
+$STRING92="Has entrat com a usuari admin";
+$STRING93="Com a usuari admin tens privilegis per:";
+$STRING94="Canviar la contrasenya de l'administrador (usuari admin)";
+$STRING95="Afegir/Eliminar usuaris o calendaris";
+$STRING96="Afegir/Editar/Borrar qualsevol calendari";
+$STRING97="Editar les prefer&egrave;ncies de qualsevol calendari";
+$STRING98="T'has desconnectat com a usuari admin";
+$STRING99="Canviar la contrasenya d'administraci&oacute;";
+$STRING100="Afegir un usuari";
+$STRING101="Eliminar un  usuari";
+$STRING102="Eliminar un calendari";
+$STRING103="Canviar la contrasenya d'un usuari";
+$STRING104="Nova contrasenya per";
+$STRING105="Una altra vegada la nova contrasenya per";
+$STRING106="Afegir un usuari a la base de dades";
+$STRING107="Usuari afegit.";
+$STRING108="Eliminar un usuari de la base de dades";
+$STRING109="L'usuari ha estat eliminat.";
+$STRING110="Calendari eliminat";
+$STRING111="Anar a la p&agrave;gina de funcions d'administraci&oacute;";
+$STRING112="prefer&egrave;ncies";
+
+
+# Error Strings
+
+$ERROR_STRING1="no es pot obrir";
+$ERROR_STRING2="opci&oacute; no suportada";
+$ERROR_STRING3="El calendari seleccionat";
+$ERROR_STRING3a="ja existeix. Torna enrera amb el bot&oacute; del navegador i tria un altre nom pel calendari";
+$ERROR_STRING4="El nom del calendari nom&eacute;s pot tenir car&agrave;cters alfa-num&egrave;rics i espais. Torna enrera amb
+el bot&oacute; del navegador i tria un altre nom pel calendari";
+$ERROR_STRING5="no es put crear el directori";
+$ERROR_STRING6="La contrasenya que has entrat no &eacute;s correcta. Torna enrera amb el bot&oacute; del navegador i escriu la
+contrasenya correctar";
+$ERROR_STRING7="El nom d'usuari ja existeix o t&eacute; car&agrave;cters no v&agrave;lids. Torna enrera amb el bot&oacute; del
+navegador i torna a entrar el teu nom";
+$ERROR_STRING8="Calendari inv&agrave;lid";
+$ERROR_STRING9="Ja hi ha un arxiu d'usuari per a aquest calendari, no pots canviar-lo amb aquesta opci&oacute;";
+$ERROR_STRING10="no es pot obrir"; 
+$ERROR_STRING11="no es pot codificar"; 
+$ERROR_STRING12="Error tancant";
+$ERROR_STRING13="Error obrint";
+$ERROR_STRING14="Format de data incorrecte!";
+$ERROR_STRING15="No es pot carregar";
+$ERROR_STRING16="No es poden carregar subrutines compartides";
+$ERROR_STRING17="No has d'intentar accedir al calendari p&uacute;blic amb aquest proc&eacute;s";
+$ERROR_STRING19="opci&oacute; no suportada";
+$ERROR_STRING20="funci&oacute; no suportada";
+$ERROR_STRING21="no es pot determinar el tipus de calendari";
+$ERROR_STRING22="El car&agrave;cter '|' no est&aacute; perm&egrave;s en aquest camp. Torna enrera amb el bot&oacute; del
+navegador i torna a intentar-ho.";
+$ERROR_STRING23="error en el nombre de dies";
+$ERROR_STRING24="valor inv&agrave;lid de ndow";
+$ERROR_STRING25="Format de data inv&agrave;lid retornat per localtime en";
+$ERROR_STRING26="No has d'intentar accedir a un calendari privat amb aquest proc&eacute;s";
+$ERROR_STRING27="Operaci&oacute; no suportada:";
+$ERROR_STRING28="Error";
+
+#
+# Leave this 1 here to ensure this file gets included properly in the require
+#
+1;

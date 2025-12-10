@@ -1,0 +1,517 @@
+BODY {
+	background-image: url(./banner/blue_paper.gif);
+	FONT-WEIGHT: normal;
+        MARGIN: 1em 1em 1em 52px; 
+        COLOR: #000000; 
+        FONT-STYLE: normal; 
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+        TEXT-ALIGN: left;
+}
+
+.border {
+    width: 800px;
+    height: 800px;
+    padding: 10px;
+    border: 5px solid black;
+}
+
+
+#leftCol_main {
+	width: 180px;
+	float: left;
+	text-align: left;
+}
+
+
+#leftCol {
+	width: 200px;
+	float: left;
+	text-align: left;
+}
+
+.news {
+	background-color:  #BCED91;
+	color: #FCE796;
+	height: auto;
+	padding: 2px;
+	font-size: 12px;
+	border: 1px #ffffff dashed;
+}
+.news h3 {
+	color: white;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.news a:hover {
+	color: #00000000000;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 15px;
+}
+
+.news a:visited {
+	COLOR: #b8005c; 
+}
+
+
+#header {
+	background-image: url(./banner/banner.jpg);
+	background-repeat: no-repeat;
+	height: 160px;
+        width: 900px;
+}
+#header h1 {
+	margin: 0;
+}
+
+#container {
+	background-image: url(./images/blue_paper.gif);
+	width: 900px;
+	height: auto;
+	text-align: left
+	margin: auto;
+}
+
+#menu {
+	background-repeat: no-repeat;
+	background-position: top left;
+	margin-top: 0;
+	margin-bottom: 3px;
+	font-size: 12px;
+	font-weight: bolder;	
+	text-align: left;
+	text-indent: 0;
+	margin-left: 0px;
+	width: 180px;
+}
+
+#menu  a:hover {
+	color: Red;
+	text-decoration: none;
+}
+
+
+P {
+	FONT-WEIGHT: normal; 
+        FONT-SIZE: 100%; 
+        COLOR: #000000; 
+        FONT-STYLE: normal; 
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+        TEXT-ALIGN: left;
+        FONT-VARIANT: normal;
+ 
+}
+
+
+a:link {
+	COLOR: #009933;
+        TEXT-DECORATION: none;
+}
+
+a:hover {
+	color: red;
+	font-family: Arial, "Times New Roman", Times, serif;
+	font-size: 15px;
+}
+
+a:visited {
+	COLOR: #663399; 
+        TEXT-DECORATION: none;
+}
+H1 {
+	FONT-WEIGHT: bold;
+        FONT-SIZE: 180%;
+        COLOR: #009933;
+        FONT-STYLE: italic; 
+        FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif;
+        TEXT-ALIGN: left;
+}
+H2 {
+	FONT-WEIGHT: bold;
+        FONT-SIZE: 150%;
+        COLOR: #009933; 
+        FONT-STYLE: normal;
+        FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif; TEXT-ALIGN: left; 
+        margin-bottom: 0em;
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%; 
+        COLOR: #009933; 
+        FONT-STYLE: normal; 
+        TEXT-ALIGN: left;
+        margin-bottom: 0em;
+}
+H4 {
+	FONT-WEIGHT: bold; 
+        FONT-SIZE: 110%; 
+        COLOR: #009933; 
+        FONT-STYLE: italic; 
+        TEXT-ALIGN: left; margin-bottom: -.5em;
+}
+H5 {
+	FONT-WEIGHT: bold; 
+        FONT-SIZE: 100%; COLOR: #009933; 
+        FONT-STYLE: normal; 
+        TEXT-ALIGN: left;
+        margin-bottom: 0em;
+}
+H6 {
+	FONT-WEIGHT: bold; 
+        FONT-SIZE: 0.9em; 
+        COLOR: #009933; 
+        FONT-STYLE: italic; 
+        TEXT-ALIGN: left; 
+        margin: 1em 0em 0em 0em;
+}
+LI {
+	FONT-WEIGHT: normal; 
+        FONT-SIZE: 100%; 
+        COLOR: #000000; 
+        TEXT-INDENT: 0pt; 
+        FONT-STYLE: normal; 
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+        TEXT-ALIGN: left; 
+        FONT-VARIANT: normal;
+}
+BLOCKQUOTE {
+	FONT-WEIGHT: normal; 
+        FONT-SIZE: 100%; 
+        COLOR: #000000; 
+        FONT-STYLE: italic; 
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+        TEXT-ALIGN: left; 
+        FONT-VARIANT: normal;
+}
+PRE {
+	FONT-WEIGHT: normal;
+        FONT-SIZE: 100%; COLOR: #000000; 
+        FONT-STYLE: normal;
+        FONT-FAMILY: monospace; 
+        WHITE-SPACE: pre;
+        TEXT-ALIGN: left;
+}
+OL {
+	LIST-STYLE: decimal none outside;
+}
+UL {
+	LIST-STYLE: disc none outside;
+}
+UL UL {
+	LIST-STYLE: circle none outside; 
+        MARGIN-TOP: 0.5em; 
+        MARGIN-BOTTOM: 0.5em;
+}
+UL UL UL {
+	LIST-STYLE: square none outside;
+        MARGIN-TOP: 0.5em;
+        MARGIN-BOTTOM: 0.5em;
+}
+TT {
+	FONT-SIZE: 100%; 
+        FONT-STYLE: normal; 
+        FONT-FAMILY: monospaced;
+}
+TD {
+	FONT-WEIGHT: normal; 
+        FONT-SIZE: 100%; 
+        COLOR: #000000; 
+        TEXT-INDENT: 0pt; 
+        FONT-STYLE: normal; 
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+        TEXT-ALIGN: left;
+}
+TD P {
+	FONT-WEIGHT: normal; 
+        FONT-SIZE: 100%; 
+        COLOR: #000000; 
+        FONT-STYLE: normal; 
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: left; 
+        FONT-VARIANT: normal;
+}
+TD H1 {
+	FONT-WEIGHT: bold; 
+        FONT-SIZE: 180%; COLOR: #0033ff; 
+        FONT-STYLE: italic; 
+        FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif; 
+        TEXT-ALIGN: left;
+}
+TD H2 {
+	FONT-WEIGHT: bold; 
+        FONT-SIZE: 120%; 
+        COLOR: #0033ff; 
+        FONT-STYLE: normal; 
+        FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif; 
+        TEXT-ALIGN: left;
+}
+TD H3 {
+	FONT-WEIGHT: bold; 
+        FONT-SIZE: 100%; 
+        COLOR: #0033ff; 
+        FONT-STYLE: normal; 
+        TEXT-ALIGN: left;
+}
+TD H4 {
+	FONT-SIZE: 40%; 
+        COLOR: #0033ff; 
+        FONT-STYLE: italic; 
+        TEXT-ALIGN: left; 
+        bottom-margin: 0em;
+}
+TD H5 {
+	FONT-WEIGHT: bold; 
+        FONT-SIZE: 80%; 
+        COLOR: #0033ff; 
+        FONT-STYLE: normal; 
+        TEXT-ALIGN: left; 
+}
+TD H6 {
+	FONT-SIZE: 80%; 
+        COLOR: #0033ff; 
+        FONT-STYLE: italic; 
+        TEXT-ALIGN: left;
+}
+TD LI {
+	FONT-WEIGHT: normal; 
+        FONT-SIZE: 100%; 
+        COLOR: #000000; 
+        TEXT-INDENT: 0pt; 
+        FONT-STYLE: normal; 
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+        TEXT-ALIGN: left; 
+        FONT-VARIANT: normal;
+}
+TD BLOCKQUOTE {
+	FONT-WEIGHT: normal; 
+        FONT-SIZE: 100%; 
+        COLOR: #000000; 
+        FONT-STYLE: italic; 
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+        TEXT-ALIGN: left;
+        FONT-VARIANT: normal;
+}
+TD PRE {
+	FONT-WEIGHT: normal; 
+        FONT-SIZE: 100%; 
+        COLOR: #000000; 
+        FONT-STYLE: normal; 
+        FONT-FAMILY: monospace; 
+        WHITE-SPACE: pre; 
+        TEXT-ALIGN: left;
+}
+TD OL {
+	LIST-STYLE: decimal none outside;
+}
+TD UL {
+	LIST-STYLE: disc none outside;
+}
+TD UL UL {
+	LIST-STYLE: circle none outside; 
+        MARGIN-TOP: 0.5em; 
+        MARGIN-BOTTOM: 0.5em;
+}
+TD UL UL UL {
+	LIST-STYLE: square none outside; 
+        MARGIN-TOP: 0.5em; 
+        MARGIN-BOTTOM: 0.5em;
+}
+TD TT {
+	FONT-WEIGHT: normal; 
+        FONT-SIZE: 100%; 
+        COLOR: #000000; 
+        FONT-STYLE: normal; 
+        FONT-FAMILY: monospaced; 
+        TEXT-ALIGN: left;
+}
+TH P {
+	FONT-WEIGHT: normal; 
+        FONT-SIZE: 100%; 
+        COLOR: #000000; 
+        FONT-STYLE: normal; 
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+        TEXT-ALIGN: left; 
+        FONT-VARIANT: normal;
+}
+FORM P {
+	FONT-WEIGHT: normal; 
+        FONT-SIZE: 100%; 
+        COLOR: #000000; 
+        FONT-STYLE: normal; 
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+        TEXT-ALIGN: left; FONT-VARIANT: normal;
+}
+TD FORM P {
+	FONT-WEIGHT: normal; 
+        FONT-SIZE: 100%; 
+        COLOR: #000000; 
+        FONT-STYLE: normal; 
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+        TEXT-ALIGN: left; 
+        FONT-VARIANT: normal;
+}
+
+.td-right { text-align: right; }
+
+.td-left { text-align: left; }
+
+.td-center { text-align: center; }
+
+.td-top { vertical-align: top; }
+
+.td-middle { vertical-align: middle; }
+
+.td-bottom { vertical-align: bottom; }
+
+.center-align { text-align: center; }
+
+.center-div { margin-left: auto; margin-right: auto; }
+
+.right-div { margin-left: auto; margin-right: 0; }
+
+.left-div { margin-left: 0; margin-right: auto; }
+
+#search {
+	width: 260px;
+	height: 25px;
+	float: left;
+	margin-top: 10px;
+}
+
+#links {
+    position:relative;
+    top: 40px;
+    left: -260px;
+}
+
+#center_text {
+	width: 100%;
+	text-align: center;
+}
+
+#footer {
+	width: 100%;
+	color: black;
+	text-align: center;
+	font-size: 10px;
+}
+#footer hr {
+	clear: both;
+}
+#footer a {
+	color: #725700;
+	text-decoration: none;
+}
+#footer a:hover {
+	color: #FCE796;
+	text-decoration: none;
+}
+.breadcrumbs {
+	MARGIN-TOP: 8px; 
+        FONT-WEIGHT: normal; 
+        FONT-SIZE: 80%; 
+        COLOR: #000000; 
+        LINE-HEIGHT: normal; 
+        FONT-STYLE: normal; 
+        TEXT-ALIGN: left; 
+        FONT-VARIANT: normal;
+}
+
+div.Nav {
+	float:right;
+        margin-left:1em; 
+        width:200px; 
+        background-color:#FFFFFF; 
+        padding:0em 1em 1em 1em; 
+        margin:0em 0em 0em 1em; 
+        BORDER-TOP: 3px;
+}
+
+TABLE.grid {
+	BORDER-RIGHT: 0px; 
+        PADDING-RIGHT: 0px; 
+        BORDER-TOP: 0px; 
+        MARGIN-TOP: 0px; 
+        PADDING-LEFT: 0px; 
+        MARGIN-BOTTOM: 0px; 
+        PADDING-BOTTOM: 0px; 
+        BORDER-LEFT: 0px; 
+        PADDING-TOP: 0px; 
+        BORDER-BOTTOM: 0px; 
+        cell-spacing: 0;
+}
+
+.magnify a:hover .preview
+{
+	background: #BCED91;
+	border-color: #725700;
+	border-style: solid;
+	border-width: 1px;
+	color: inherit;
+	display: inline;
+	float: left;
+	margin: 3px;
+	padding: 5px;
+	position: relative;
+}
+
+.magnify img
+{
+	background: blue;
+	border-color: #725700;
+	border-style: solid;
+	border-width: 1px;
+	color: inherit;
+	padding: 2px;
+	vertical-align: top;
+	width: 108px;
+	height: 80px;
+}
+
+.magnify li
+{
+	background: #BCED91;
+	border-color: #725700;
+	border-style: solid;
+	border-width: 1px;
+	color: inherit;
+	display: inline;
+	float: left;
+	margin: 3px;
+	padding: 5px;
+	position: relative;
+}
+
+#content {
+	margin-left: 200px;
+	background-image: url(./images/blue_paper.gif);
+        color: black;
+	background-position: top right;
+	background-repeat: no-repeat;
+	font-size: small;
+}
+
+#content_full {
+	background-image: url(./images/blue_paper.gif);
+        color: black;
+	background-position: top right;
+	background-repeat: no-repeat;
+	font-size: small;
+}
+
+#content .block {
+	background-image: url(./images/blue_paper.gif);
+        color: black;
+	display:block; 
+	padding:10px; 
+	width:650px; 
+	text-align:justify; 
+	float:left; 
+}
+
+
+#content h3 {
+	color: black;
+	margin-top: 0;
+}
+.dottedline {
+    border-bottom: 1px dotted Black;
+}

@@ -1,0 +1,10 @@
+# Example of the admin.conf file you should place in the /var/webcal directory to
+# use webcal when you don't have the ability to alter the webserver to provide 
+# htacces authentication
+$ALLOW_PRIVATE_CAL = "0";
+$ALLOW_CHANGE_PREFS = "1";
+$ALLOW_PUBLIC_CAL = "0";
+$ALLOW_CREATE_CALS = "1";
+$DEFAULT_LANG = "english";
+$ALLOW_OPEN_CAL = "1";
+1;

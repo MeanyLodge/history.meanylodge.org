@@ -1,0 +1,21 @@
+
+CREATE SEQUENCE xindex CACHE 10;
+CREATE TABLE items (
+   cal_name      TEXT NOT NULL,
+   xindex        INT8 PRIMARY KEY DEFAULT NEXTVAL('xindex'),
+   item_index    INT8,
+   subindex      INT8,
+   modified      INT2,
+   cal_user      TEXT,
+   idate         TEXT,
+   shour         VARCHAR(4),
+   ehour         VARCHAR(4),
+   string        TEXT,
+   link          TEXT,
+   rsec          INT8,
+   notes         TEXT );
+CREATE INDEX cal_idx ON ITEMS ( cal_name );
+CREATE INDEX idate_idx ON ITEMS ( idate );
+CREATE USER nobody;
+GRANT ALL ON items TO nobody;
+GRANT ALL ON xindex TO nobody;

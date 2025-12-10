@@ -1,0 +1,136 @@
+# charset
+
+$CHARSET="ISO-8859-1";
+
+# days and months
+
+$SUNDAY="S&oslash;ndag";
+$MONDAY="Mandag";
+$TUESDAY="Tirsdag";
+$WEDNESDAY="Onsdag";
+$THURSDAY="Torsdag";
+$FRIDAY="Fredag";
+$SATURDAY="L&oslash;rdag";
+$LANG_DOW{'Sun'}=$SUNDAY;
+$LANG_DOW{'Mon'}=$MONDAY;
+$LANG_DOW{'Tue'}=$TUESDAY;
+$LANG_DOW{'Wed'}=$WEDNESDAY;
+$LANG_DOW{'Thu'}=$THURSDAY;
+$LANG_DOW{'Fri'}=$FRIDAY;
+$LANG_DOW{'Sat'}=$SATURDAY;
+$LANG_NDOW{'1st'}="f&oslash;rste";
+$LANG_NDOW{'2nd'}="anden";
+$LANG_NDOW{'3rd'}="tredje";
+$LANG_NDOW{'4th'}="fjerde";
+$LANG_NDOW{'last'}="sidste";
+$JANUARY="Januar";
+$FEBRUARY="Februar";
+$MARCH="Marts";
+$APRIL="April";
+$MAY="Maj";
+$JUNE="Juni";
+$JULY="Juli";
+$AUGUST="August";
+$SEPTEMBER="September";
+$OCTOBER="Oktober";
+$NOVEMBER="November";
+$DECEMBER="December";
+
+# Strings
+
+$STRING1="Se denne m&aring;neds f&aelig;lleskalender";
+$STRING2="Opret en ny kalender";
+$STRING3="G&aring; til f&aelig;lleskalender";
+$STRING4="K&oslash;r!";
+$STRING5="G&aring; til privat kalender";
+$STRING7="Kalendernavn";
+$STRING8="Privat kalender - kun de brugere du angiver kan l&aelig;se ogskrive";
+$STRING9="F&aelig;lleskalender - alle kan l&aelig;se, kun de brugere du angiver kan skrive";
+$STRING10="Indtast kodeordet for kalenderen";
+$STRING11="Brugernavn";
+$STRING12="Kodeord";
+$STRING13="Kodeord igen";
+$STRING14="Du m&aring; ikke fjerne denne fil. Den bruges af webcal";
+$STRING15="Din nye kalender er oprettet. Du kan bruge den ved at v&aelig;lgemenuen ved";
+$STRING15a="webcal's startside";
+$STRING16="afsend";
+$STRING17="annuller";
+$STRING18="V&aelig;lg en";
+$STRING19="flere punkter";
+$STRING20="G&aring; til Webkalenderens startside";
+$STRING21="WebCal Dagoversigt";
+$STRING22="Kalenderpunkter for";
+$STRING23="Arbejder";
+$STRING24="Ret Kalenderpunkt";
+$STRING25="Gl. punkt";
+$STRING26="Nyt punkt";
+$STRING27="Gl. link for dette punkt";
+$STRING28="Nyt link for dette punkt";
+$STRING29="Dette punkt blev tilføjet til flere datoer.\\nDet vil&aelig;ndre alle datoerne hvis du retter det.\\nForts&aelig;t med at rette?";
+$STRING30="Dette punkt blev tilføjet til flere datoer.\\nDet vil&aelig;ndre alle datoerne hvis du sletter det.\\nForts&aelig;t med at rette?";
+$STRING31="Rediger";
+$STRING32="Slet";
+$STRING33="Ingen punkter tilf&oslash; til denne dag";
+$STRING34="Tilf&oslash;j kalenderpunkt for";
+$STRING35="kontroller flere bokse om n&oslash;dvendigt";
+$STRING36="Kun i dag";
+$STRING37="Tilføj dette punkt i dag og de n&aelig;ste";
+$STRING38="fortl&oslash;bende dage";
+$STRING39="Den";
+$STRING39a="i m&aring;neden";
+$STRING40="Hver";
+$STRING40a="denne m&aring;ned";
+$STRING41="Alle m&aring;neder i &aring;r";
+$STRING42="Hvert &aring;r";
+$STRING43="Lav dette punkt til et link til";
+$STRING44="send punkt";
+$STRING45="Tilbage til";
+$STRING46="for";
+$STRING47="Tilbage til WebCal's startside";
+$STRING48="Time:";
+$STRING49="ingen";
+$STRING50="Gammel time";
+$STRING51="Ny time";
+$STRING52="&Aring;rs<br>oversigt";
+$STRING53="M&aringneds<br>oversigt";
+$STRING54="Uges<br>oversigt";
+$STRING55="Dags<br>oversigt";
+$STRING57="punkter";
+$STRING58="uge de";
+$STRING59="Visit om WebCal Homepage";
+
+#Error Strings
+
+$ERROR_STRING1="kunne ikke &aring;bne";
+$ERROR_STRING2="mulighed ikke underst&oslash;ttet";
+$ERROR_STRING3="En kalender med navnet";
+$ERROR_STRING3a="findes allerede. Brug din browser's tilbage-knap ogv&aelig;lg et nyt navn til din kalender";
+$ERROR_STRING4="Din kalender kan kun indholde alfanumeriske tegn ogmellemrum. Brug din browser's tilbage-knap og v&aelig;lg et nyt navntil din kalender";
+$ERROR_STRING5="kunne ikke oprette katalog";
+$ERROR_STRING6="De indtastede kodeord passede ikke. Brug din browser'stilbage-knap og pr&oslash;v igen";
+$ERROR_STRING7="Dette brugernavn findes allerede eller indeholder andetend 
+alfanumeriske tegn. Brug din browser's  tilbage-knap og pr&oslash;v etandet brugernavn";
+$ERROR_STRING8="Ulovlig kalendertype";
+$ERROR_STRING9="Denne kalenders brugerfil findes allerede; du kan ikke rette den p&aring; denne m&aring;de";
+$ERROR_STRING10="kunne ikke &aring;bne";
+$ERROR_STRING11="kunne ikke kryptere";
+$ERROR_STRING12="Fejl ved l&aring;sning";
+$ERROR_STRING13="Fejl ved afl&aring;sning";
+$ERROR_STRING14="d&aring;rlingt datoformat!";
+$ERROR_STRING15="Kunne ikke indl&aelig;se";
+$ERROR_STRING16="Kunne ikke indl&aelig;se delte subrutiner";
+$ERROR_STRING17="Du burde ikke fors&oslash;ge at f&aring; til enf&aelig;lleskalendermed dette script";
+$ERROR_STRING19="mulighed ikke underst&oslash;ttet";
+$ERROR_STRING20="funktion ikke underst&oslash;ttet";
+$ERROR_STRING21="kunne ikke bestemme kalendertypen";
+$ERROR_STRING22="Tegnet '|' er ikke tilladt i dette felt. Brug din browser's tilbage-knap og pr&oslash;v igen";
+$ERROR_STRING23="ulovligt tal i feltet fortl&oslash;bende dage";
+$ERROR_STRING24="ulovlig værdi for ndow";
+$ERROR_STRING25="Ulovligt datoformat returneret af localtime i";
+$ERROR_STRING26="Du burde ikke fors&oslash;ge at f&aring; til en privat skalendermed dette script";
+
+#
+# Leave this 1 here to ensure this file gets included properly in the require
+#
+1;
+

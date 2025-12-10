@@ -1,0 +1,136 @@
+# charset
+
+$CHARSET="ISO-8859-1";
+
+# days and months
+
+$SUNDAY="星期日";
+$MONDAY="星期一";
+$TUESDAY="星期二";
+$WEDNESDAY="星期三";
+$THURSDAY="星期四";
+$FRIDAY="星期五";
+$SATURDAY="星期六";
+$LANG_DOW{'Sun'}=$SUNDAY;
+$LANG_DOW{'Mon'}=$MONDAY;
+$LANG_DOW{'Tue'}=$TUESDAY;
+$LANG_DOW{'Wed'}=$WEDNESDAY;
+$LANG_DOW{'Thu'}=$THURSDAY;
+$LANG_DOW{'Fri'}=$FRIDAY;
+$LANG_DOW{'Sat'}=$SATURDAY;
+$LANG_NDOW{'1st'}="第一個";
+$LANG_NDOW{'2nd'}="第二個";
+$LANG_NDOW{'3rd'}="第三個";
+$LANG_NDOW{'4th'}="第四個";
+$LANG_NDOW{'last'}="最後一個";
+$JANUARY="1月";
+$FEBRUARY="2月";
+$MARCH="3月";
+$APRIL="4月";
+$MAY="5月";
+$JUNE="6月";
+$JULY="7月";
+$AUGUST="8月";
+$SEPTEMBER="9月";
+$OCTOBER="10月";
+$NOVEMBER="11月";
+$DECEMBER="12月";
+
+# Strings
+
+$STRING1="瀏覽本月 guest 行事曆";
+$STRING2="建立新的行事曆";
+$STRING3="進入公用行事曆";
+$STRING4="Go!";
+$STRING5="進入個人行事曆";
+$STRING7="行事曆名稱";
+$STRING8="個人行事曆 - 只有特定的使用者可以讀/寫";
+$STRING9="公用行事曆 - 大家都可以讀, 但只有特定的使用者可以寫";
+$STRING10="輸入行事曆的密碼";
+$STRING11="使用者名稱";
+$STRING12="密碼";
+$STRING13="密碼確認";
+$STRING14="這是 webcal 內部檔案, 請勿刪除";
+$STRING15="您的行事曆建立完成, 以後可以從 WebCal啟始畫面 直接選取";
+$STRING15a="WebCal 啟始畫面";
+$STRING16="送出";
+$STRING17="取消";
+$STRING18="選擇一個";
+$STRING19="更多的項目...";
+$STRING20="回到 WebCal 主畫面";
+#$STRING21="WebCal 每日行事曆";
+$STRING22="行事曆內容";
+$STRING23="處理中...";
+$STRING24="變更行事曆項目內容";
+$STRING25="舊內容";
+$STRING26="新內容";
+$STRING27="項目舊連結";
+$STRING28="項目新連結";
+$STRING29="這個項目已經被放到多份的行程中.\\n如果修改會更動所有相關行程.\\n繼續修改?";
+$STRING30="這個項目已經被放到多份的行程中..\\n如果刪除會全部刪掉.\\n進行刪除?";
+$STRING31="修改";
+$STRING32="刪除";
+$STRING33="今天沒有安排事項";
+$STRING34="加入新的事項";
+$STRING35="必要的話檢查多個 box";
+$STRING36="今天";
+$STRING37="今天和之後連續";
+$STRING38="天";
+#$STRING39="The";
+$STRING39="";
+$STRING39a="(本月份)";
+$STRING40="每個";
+$STRING40a="(本月份)";
+$STRING41="今年每月份";
+$STRING42="每年";
+$STRING43="將這個事項連結到以下網址";
+$STRING44="送出內容";
+$STRING45="回到";
+$STRING46="for";
+$STRING47="回 WebCal 啟始畫面";
+$STRING48="時間 ";
+$STRING49="None";
+$STRING50="舊時間";
+$STRING51="新時間";
+$STRING52="年行事曆";
+$STRING53="月行事曆";
+$STRING54="週行事曆";
+$STRING55="日行事曆";
+$STRING57="項目";
+$STRING58="週曆  ";
+$STRING59="參觀 WebCal 的網頁";
+
+#Error Strings
+
+$ERROR_STRING1="無法開啟";
+$ERROR_STRING2="選項不被支援";
+$ERROR_STRING3="行事曆";
+$ERROR_STRING3a="原本已經存在. 請按瀏攬器的[Back]鍵回前一畫面, 重新為行事曆選個名字";
+$ERROR_STRING4="行事曆名字只能含有字母及空白. 請按瀏攬器的[Back]鍵回前一畫面, 重新為行事曆選個名字";
+$ERROR_STRING5="無法建立目錄";
+$ERROR_STRING6="您兩次輸入的密碼不一致. 請按瀏攬器的[Back]鍵回前一畫面, 再試一次";
+$ERROR_STRING7="這個使用者名稱已經存在或是含有非字母字元. 請按瀏攬器的[Back]鍵回前一畫面, 重新選一個名字";
+$ERROR_STRING8="不合法的行事曆種類";
+$ERROR_STRING9="這個行事曆的使用者檔案已經存在, 您不能用這個方式改變它";
+$ERROR_STRING10="無法開啟"; 
+$ERROR_STRING11="無法加密"; 
+$ERROR_STRING12="檔案鎖定錯誤";
+$ERROR_STRING13="檔案解鎖錯誤";
+$ERROR_STRING14="日期格式錯誤!";
+$ERROR_STRING15="無法載入";
+$ERROR_STRING16="無法載入功用副程式模組";
+$ERROR_STRING17="您不應該透過這個 script 去存取公用行事曆";
+$ERROR_STRING19="選項不被支援";
+$ERROR_STRING20="功能不被支援";
+$ERROR_STRING21="無法決定行事曆的種類";
+$ERROR_STRING22="這個欄位不允許輸入'|' 字元, 請按瀏攬器的[Back]鍵回前一畫面, 重新輸入一次";
+$ERROR_STRING23="代表天數欄位的數值發生錯誤";
+$ERROR_STRING24="ndow 的值不合法";
+$ERROR_STRING25="localtime 傳回不合法的日期格式, 在";
+$ERROR_STRING26="您不應該透過這個 script 去存取個人行事曆";
+
+#
+# Leave this 1 here to ensure this file gets included properly in the require
+#
+1;
+

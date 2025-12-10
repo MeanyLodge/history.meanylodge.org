@@ -1,0 +1,17 @@
+CREATE DATABASE DB_NAME;
+USE DB_NAME;
+CREATE TABLE DB_TABLE ( 
+    cal_name   BLOB NOT NULL,
+    xindex     INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    item_index INT UNSIGNED,
+    subindex   SMALLINT,
+    modified   TINYINT,
+    user       TINYBLOB,
+    idate      TINYBLOB,
+    shour      VARCHAR(4),
+    ehour      VARCHAR(4),
+    string     BLOB,
+    link       BLOB,
+    rsec       INT UNSIGNED,
+    notes      BLOB );
+GRANT ALL PRIVILEGES ON DB_TABLE.* TO DB_USER@localhost IDENTIFIED BY 'DB_PASS';

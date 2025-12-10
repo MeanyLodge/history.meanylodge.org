@@ -1,0 +1,84 @@
+1. Why don't my passwords work? 
+
+Answer: Please check very closely that you have your httpd.conf (older Apache
+        installation use access.conf) file for Apache (or similar for a 
+        different webserver) configured as instructed in the README.  Make 
+        sure to use the right directory for your situation, and be sure to 
+        restart httpd.  After checking your Apache configuration, if passwords
+        do not work, please check your Apache configuratin again!  A lot of 
+        people have had password problems at first, but every one has turned
+        out to be an error in configuration on their webserver!  
+
+2. Why doesn't my admin (or other user) password work?
+
+Answer: Can you log in as other users?  For example, create a private calendar
+        with a username and password.  Access that private calendar, and add 
+        an event.  You should be prompted for a username/password when accessing
+        the calendar, if the username/password you supply works, then passwords
+        in general are working.  If not, passwords are not working, you have a
+        configuration error in your webserver config files.  So if it is just the
+        admin password that is giving you problems, then odds are you are 
+        entering an incorrect password for the admin username, or else the admin
+        entry in the .htpasswd file is not present.  Either way, you can use the
+        apache utility called "htpasswd" to add an updated username/password 
+        entry for the admin account.  Do a "man htpasswd" at the unix prompt to
+        figure out how to use the htpasswd utitlity.  The .htpasswd file that 
+        WebCal uses is stored in the database directory, usually /var/webcal.
+
+3. How do I access the admin functions?
+
+Answer: You must log in as user "admin".  The initial password for user "admin"
+        is "admin".  When logged in as admin, you can access any calendar with 
+        write permission, so it is a good idea to log out when you are done 
+        doing admin related tasks.  To logout, hit the logout link, and enter 
+        a username and password of "nobody".
+
+4. How do I access the "US Holiday" calendar?
+
+Answer: The "US Holiday" calendar shipped with webcal has a number of common
+        holidays in it.  The initial username/password for it is
+        usholiday/usholiday.
+
+5. Is it possible to merge two calendar databases together into one?
+ 
+Answer: Use the db_merge.pl script provided in the webcal tar file.
+
+6. How can I easily get to the current year/month/week/day?
+
+Answer: The links to the different views are somewhat intelligent.  This is 
+        best illustrated by an example.
+
+        1. Going from any month view to current week: One click on the month
+           view link brings you to the 1st week in that month.  Once you are in
+           the week view, another click on the week view link brings you to the
+           current week.
+
+        Basically, you are never more than two clicks away from the current
+        year/month/week/day.  The first click brings you into the view, and
+        anytime you click on a link to a view you are already in, it brings you
+        to the current date for that view.
+
+7. Why can't I edit/delete items in calendars that I have subscribed to?
+
+Answer: Any calendars you subscribe to are read only while in your calendar.  
+        To edit them, you must log in as the user specified for that calendar,
+        or be logged in as the admin user.  Future releases may include 
+        the ability to write to subscribed to calendars based on rights given.
+
+8. Why must I reload the pages to see my changes when using MSIE?
+
+Answer: MSIE caches cgi output.  The solution:
+
+        In MSIE, select:
+            (View/Internet Options/Settings/Every Visit To The Page)
+        In MSIE 5 select:
+            (Tools/Internet Options/General/Settings/Every Visit To The page)
+        
+        This will cause IE to check for updated versions of the pages upon 
+        every visit, instead of just caching the CGI output.
+
+9. How can I import my old flat file database into my new mysql webcal database?
+
+Answer: Use the rdb2mysql.pl script found in the util directory of the distrubution
+        tarball.
+
